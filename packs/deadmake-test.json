@@ -1,0 +1,8 @@
+{
+    "displayName": "Deadmake",
+    "description": "Deadmake's test development pack",
+    "inheritsFrom": ["norisk-prod"],
+    "mods": [],
+    "isExperimental": true,
+    "autoUpdate": true
+  }
