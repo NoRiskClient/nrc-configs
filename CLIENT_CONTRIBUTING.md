@@ -118,5 +118,4 @@ NoRisk uses semantic versioning with branch info:
 
 ## Questions?
 
-- Discord: [NoRisk Discord](https://discord.gg/norisk)
-- Issues: [nrc-configs Issues](https://github.com/NoRiskClient/nrc-configs/issues)
+- Discord: [NoRisk Discord](https://discord.norisk.gg)
