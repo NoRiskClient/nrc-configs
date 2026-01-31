@@ -1,6 +1,8 @@
 {
   "staff": [
     { "username": "NoRiskk", "role": "admin" },
-    { "username": "jakubxyz", "role": "developer" }
+    { "username": "jakubxyz", "role": "developer" },
+    { "username": "S42yt", "role": "developer" },
+    { "username": "einfachYannik", "role": "developer" }
   ]
 }
