@@ -1347,7 +1347,7 @@
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "1.0.156-dev-mojang-mappings+fabric.1.21.11",
+            "identifier": "1.0.159-bughunter+fabric.1.21.11",
             "filename": null,
             "source": null
           }
