@@ -1156,14 +1156,9 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "0.12.25+1.21.11",
+                        "identifier": "0.13.0+1.21.11",
                         "filename": null,
-                        "source": {
-                            "type": "maven",
-                            "repositoryRef": "noriskproduction",
-                            "groupId": "io.wispforest",
-                            "artifactId": "owo-lib"
-                        }
+                        "source": null
                     }
                 }
             }
