@@ -1156,14 +1156,9 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "0.12.25+1.21.11",
+                        "identifier": "0.13.0+1.21.11",
                         "filename": null,
-                        "source": {
-                            "type": "maven",
-                            "repositoryRef": "noriskproduction",
-                            "groupId": "io.wispforest",
-                            "artifactId": "owo-lib"
-                        }
+                        "source": null
                     }
                 }
             }
@@ -1366,56 +1361,56 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21",
+                        "identifier": "1.0.41-bughunter+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21.1",
+                        "identifier": "1.0.41-bughunter+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21.4",
+                        "identifier": "1.0.41-bughunter+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21.5",
+                        "identifier": "1.0.41-bughunter+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21.7",
+                        "identifier": "1.0.41-bughunter+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21.8",
+                        "identifier": "1.0.41-bughunter+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21.10",
+                        "identifier": "1.0.41-bughunter+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21.11",
+                        "identifier": "1.0.41-bughunter+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -1434,56 +1429,56 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21",
+                        "identifier": "1.0.196-bughunter+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21.1",
+                        "identifier": "1.0.196-bughunter+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21.4",
+                        "identifier": "1.0.196-bughunter+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21.5",
+                        "identifier": "1.0.196-bughunter+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21.7",
+                        "identifier": "1.0.196-bughunter+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21.8",
+                        "identifier": "1.0.196-bughunter+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21.10",
+                        "identifier": "1.0.196-bughunter+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21.11",
+                        "identifier": "1.0.196-bughunter+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -1499,59 +1494,59 @@
                 "groupId": "gg.norisk",
                 "artifactId": "nrc-client"
             },
-            "compatibility": {
+             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.2.1-feat-particle+fabric.1.21",
+                        "identifier": "26.2.1-verity-trash+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.2.1-feat-particle+fabric.1.21.1",
+                        "identifier": "26.2.1-verity-trash+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.2.1-feat-particle+fabric.1.21.4",
+                        "identifier": "26.2.1-verity-trash+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.2.1-feat-particle+fabric.1.21.5",
+                        "identifier": "26.2.1-verity-trash+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.2.1-feat-particle+fabric.1.21.7",
+                        "identifier": "26.2.1-verity-trash+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.1-feat-particle+fabric.1.21.8",
+                        "identifier": "26.2.1-verity-trash+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.1-feat-particle+fabric.1.21.10",
+                        "identifier": "26.2.1-verity-trash+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.1-feat-particle+fabric.1.21.11",
+                        "identifier": "26.2.1-verity-trash+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -1570,56 +1565,56 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21",
+                        "identifier": "26.1.4-bughunter+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21.1",
+                        "identifier": "26.1.4-bughunter+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21.4",
+                        "identifier": "26.1.4-bughunter+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21.5",
+                        "identifier": "26.1.4-bughunter+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21.7",
+                        "identifier": "26.1.4-bughunter+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21.8",
+                        "identifier": "26.1.4-bughunter+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21.10",
+                        "identifier": "26.1.4-bughunter+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21.11",
+                        "identifier": "26.1.4-bughunter+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -1638,56 +1633,56 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21",
+                        "identifier": "1.0.40-bughunter+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21.1",
+                        "identifier": "1.0.40-bughunter+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21.4",
+                        "identifier": "1.0.40-bughunter+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21.5",
+                        "identifier": "1.0.40-bughunter+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21.7",
+                        "identifier": "1.0.40-bughunter+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21.8",
+                        "identifier": "1.0.40-bughunter+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21.10",
+                        "identifier": "1.0.40-bughunter+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21.11",
+                        "identifier": "1.0.40-bughunter+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -1706,56 +1701,56 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21",
+                        "identifier": "1.0.33-bughunter+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21.1",
+                        "identifier": "1.0.33-bughunter+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21.4",
+                        "identifier": "1.0.33-bughunter+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21.5",
+                        "identifier": "1.0.33-bughunter+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21.7",
+                        "identifier": "1.0.33-bughunter+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21.8",
+                        "identifier": "1.0.33-bughunter+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21.10",
+                        "identifier": "1.0.33-bughunter+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21.11",
+                        "identifier": "1.0.33-bughunter+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -1774,56 +1769,56 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21",
+                        "identifier": "1.0.15-bughunter+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21.1",
+                        "identifier": "1.0.15-bughunter+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21.4",
+                        "identifier": "1.0.15-bughunter+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21.5",
+                        "identifier": "1.0.15-bughunter+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21.7",
+                        "identifier": "1.0.15-bughunter+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21.8",
+                        "identifier": "1.0.15-bughunter+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21.10",
+                        "identifier": "1.0.15-bughunter+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21.11",
+                        "identifier": "1.0.15-bughunter+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -1842,56 +1837,56 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21",
+                        "identifier": "1.0.70-bughunter+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21.1",
+                        "identifier": "1.0.70-bughunter+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21.4",
+                        "identifier": "1.0.70-bughunter+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21.5",
+                        "identifier": "1.0.70-bughunter+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21.7",
+                        "identifier": "1.0.70-bughunter+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21.8",
+                        "identifier": "1.0.70-bughunter+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21.10",
+                        "identifier": "1.0.70-bughunter+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21.11",
+                        "identifier": "1.0.70-bughunter+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -2445,7 +2440,7 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "ZtvlEp9r",
+                        "identifier": "JEGOjMYn",
                         "filename": null,
                         "source": null
                     }
@@ -2473,7 +2468,7 @@
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "Wp1DM0P6",
+                        "identifier": "aO27FRMJ",
                         "filename": null,
                         "source": null
                     }
