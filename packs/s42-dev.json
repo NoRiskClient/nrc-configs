@@ -2328,73 +2328,73 @@
                 }
             }
         },
-        {
-            "id": "spotify-overlay",
-            "displayName": "Spotify Overlay",
-            "source": {
-                "type": "modrinth",
-                "projectId": "iRsArBuW",
-                "projectSlug": "spotify-overlay"
-            },
-            "compatibility": {
-                "1.21": {
-                    "fabric": {
-                        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.0.6-SNAPSHOT",
-                        "filename": null,
-                        "source": null
-                    }
-                },
-                "1.21.1": {
-                    "fabric": {
-                        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.0.6-SNAPSHOT",
-                        "filename": null,
-                        "source": null
-                    }
-                },
-                "1.21.4": {
-                    "fabric": {
-                        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.0.6-SNAPSHOT",
-                        "filename": null,
-                        "source": null
-                    }
-                },
-                "1.21.5": {
-                    "fabric": {
-                        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.0.6-SNAPSHOT",
-                        "filename": null,
-                        "source": null
-                    }
-                },
-                "1.21.7": {
-                    "fabric": {
-                        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.0.6-SNAPSHOT",
-                        "filename": null,
-                        "source": null
-                    }
-                },
-                "1.21.8": {
-                    "fabric": {
-                        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.0.6-SNAPSHOT",
-                        "filename": null,
-                        "source": null
-                    }
-                },
-                "1.21.10": {
-                    "fabric": {
-                        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.0.6-SNAPSHOT",
-                        "filename": null,
-                        "source": null
-                    }
-                },
-                "1.21.11": {
-                    "fabric": {
-                        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.0.6-SNAPSHOT",
-                        "filename": null,
-                        "source": null
-                    }
-                }
-            }
-        },
+{
+  "id": "spotify-overlay",
+  "displayName": "Spotify Overlay",
+  "source": {
+    "type": "modrinth",
+    "projectId": "iRsArBuW",
+    "projectSlug": "spotify-overlay"
+  },
+  "compatibility": {
+    "1.21": {
+      "fabric": {
+        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.21",
+        "filename": null,
+        "source": null
+      }
+    },
+    "1.21.1": {
+      "fabric": {
+        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.21.1",
+        "filename": null,
+        "source": null
+      }
+    },
+    "1.21.4": {
+      "fabric": {
+        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.21.4",
+        "filename": null,
+        "source": null
+      }
+    },
+    "1.21.5": {
+      "fabric": {
+        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.21.5",
+        "filename": null,
+        "source": null
+      }
+    },
+    "1.21.7": {
+      "fabric": {
+        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.21.7",
+        "filename": null,
+        "source": null
+      }
+    },
+    "1.21.8": {
+      "fabric": {
+        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.21.8",
+        "filename": null,
+        "source": null
+      }
+    },
+    "1.21.10": {
+      "fabric": {
+        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.21.10",
+        "filename": null,
+        "source": null
+      }
+    },
+    "1.21.11": {
+      "fabric": {
+        "identifier": "spotify_overlay-1.0.6-SNAPSHOT+fabric.1.21.11",
+        "filename": null,
+        "source": null
+      }
+    }
+  }
+},
         {
             "id": "tiers",
             "displayName": "tiers",
