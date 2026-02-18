@@ -2334,12 +2334,12 @@
             "source": {
                 "type": "modrinth",
                 "projectId": "iRsArBuW",
-                "projectSlug": "spotify_overlay"
+                "projectSlug": "spotify-overlay"
             },
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "1.0.6-SNAPSHOT",
+                        "identifier": "hjSgKtnL",
                         "filename": null,
                         "source": null
                     }
