@@ -2329,6 +2329,73 @@
             }
         },
         {
+            "id": "spotify-overlay",
+            "displayName": "Spotify Overlay",
+            "source": {
+                "type": "modrinth",
+                "projectId": "iRsArBuW",
+                "projectSlug": "spotify_overlay"
+            },
+            "compatibility": {
+                "1.21": {
+                    "fabric": {
+                        "identifier": "1.0.6-SNAPSHOT",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "2k7TSYEf",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "edp2fpd0",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "rvbzrKhD",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.7": {
+                    "fabric": {
+                        "identifier": "LVwH2i3f",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "Os4rpps5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "EbO8ujGX",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "ImVsXaU4",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
             "id": "tiers",
             "displayName": "tiers",
             "source": {
