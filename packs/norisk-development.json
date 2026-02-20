@@ -1532,7 +1532,7 @@
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.5.8-development+fabric.1.21.8",
+                        "identifier": "26.1.13-development+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
