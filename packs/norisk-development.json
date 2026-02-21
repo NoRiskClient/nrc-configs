@@ -1539,14 +1539,14 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.1.16-development+fabric.1.21.10",
+                        "identifier": "26.1.17-development+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.16-development+fabric.1.21.11",
+                        "identifier": "26.1.17-development+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
