@@ -636,6 +636,270 @@
                     }
                 }
             }
+        },
+        {
+            "id": "sodium",
+            "displayName": "Sodium",
+            "source": {
+                "type": "modrinth",
+                "projectId": "AANobbMI",
+                "projectSlug": "sodium"
+            },
+            "compatibility": {
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "mc1.16.5-0.2.0",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "mc1.18.2-0.4.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "mc1.19.2-0.4.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "mc1.19.4-0.4.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "mc1.20.1-0.5.13-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "mc1.21.1-0.6.13-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "mc1.21.4-0.6.13-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "mc1.21.5-0.6.13-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "mc1.21.8-0.7.3-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "mc1.21.10-0.7.3-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "mc1.21.11-0.8.6-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
+            "id": "fabric-language-kotlin",
+            "displayName": "Fabric Language Kotlin",
+            "source": {
+                "type": "modrinth",
+                "projectId": "Ha28R6CL",
+                "projectSlug": "fabric-language-kotlin"
+            },
+            "compatibility": {
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "1.13.9+kotlin.2.3.10",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
+            "id": "fabric-api",
+            "displayName": "Fabric API",
+            "source": {
+                "type": "modrinth",
+                "projectId": "P7dR8mSH",
+                "projectSlug": "fabric-api"
+            },
+            "compatibility": {
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "0.42.0+1.16",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "0.77.0+1.18.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "0.77.0+1.19.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "0.87.2+1.19.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "0.92.7+1.20.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "0.116.9+1.21.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "0.119.4+1.21.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "0.128.2+1.21.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "0.136.1+1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "0.138.4+1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "0.141.3+1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
         }
     ]
 }
