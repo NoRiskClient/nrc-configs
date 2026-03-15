@@ -1068,6 +1068,182 @@
                     }
                 }
             }
+        },
+        {
+            "id": "ferrite-core",
+            "displayName": "FerriteCore",
+            "source": {
+                "type": "modrinth",
+                "projectId": "uXXizFIs",
+                "projectSlug": "ferrite-core"
+            },
+            "compatibility": {
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "3UkWIj4a",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "776Z5oW9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "kwjHqfz7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "RbR7EG8T",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "unerR5MN",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "sOzRw3CG",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "7KqeXPRS",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "LdlksamY",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "LdlksamY",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "bPLllEgi",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "Ii0gP3D8",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
+            "id": "lithium",
+            "displayName": "Lithium",
+            "source": {
+                "type": "modrinth",
+                "projectId": "gvQqBUqZ",
+                "projectSlug": "lithium"
+            },
+            "compatibility": {
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "rvsW1zhb",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "ALnv7Npy",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "m6sVgAi6",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "14hWYkog",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "iEcXOkz4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "XQJtuOTA",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "u8pHPXJl",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "xcELvp6R",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "qxIL7Kb8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "NsswKiwi",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "Ow7wA0kG",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
         }
     ],
     "assets": [
