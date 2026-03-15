@@ -900,6 +900,87 @@
                     }
                 }
             }
+        },
+        {
+            "id": "immediatelyfast",
+            "displayName": "ImmediatelyFast",
+            "source": {
+                "type": "modrinth",
+                "projectId": "5ZwdcRci",
+                "projectSlug": "immediatelyfast"
+            },
+            "compatibility": {
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "1.1.12+1.18.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "1.4.0+1.19.2-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "1.2.11+1.19.4-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "1.5.4+1.20.4-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "1.6.10+1.21.1-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "1.8.6+1.21.4-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "1.9.7+1.21.5-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "1.12.5+1.21.8-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "1.13.5+1.21.10-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "1.14.2+1.21.11-fabric",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
         }
     ]
 }
