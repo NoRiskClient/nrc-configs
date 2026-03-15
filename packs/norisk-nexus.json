@@ -968,7 +968,10 @@
             }
         }
     ],
-    "assets": [],
+    "assets": [
+        "norisk-prod",
+        "norisk-dev"
+    ],
     "isExperimental": false,
     "autoUpdate": true,
     "loaderPolicy": {
