@@ -1244,6 +1244,24 @@
                     }
                 }
             }
+        },
+        {
+            "id": "unimixins",
+            "displayName": "UniMixins",
+            "source": {
+                "type": "modrinth",
+                "projectId": "ghjoiQAl",
+                "projectSlug": "unimixins"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "QVfak9aE",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
         }
     ],
     "assets": [
