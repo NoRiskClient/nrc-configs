@@ -23,7 +23,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.1.174-nexus+forge.1.8.9",
+                        "identifier": "26.1.178-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -211,7 +211,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.1.225-nexus+forge.1.8.9",
+                        "identifier": "26.1.232-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -399,7 +399,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.1.210-nexus+forge.1.8.9",
+                        "identifier": "26.1.217-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -587,7 +587,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.1.73-nexus+forge.1.8.9",
+                        "identifier": "26.1.77-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -775,7 +775,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.1.51-nexus+forge.1.8.9",
+                        "identifier": "26.1.55-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -963,7 +963,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.1.220-nexus+forge.1.8.9",
+                        "identifier": "26.1.222-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
