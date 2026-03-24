@@ -175,7 +175,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.176-nexus+fabric.1.21.11",
+                        "identifier": "26.1.178-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -363,7 +363,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.230-nexus+fabric.1.21.11",
+                        "identifier": "26.1.233-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -551,7 +551,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.215-nexus+fabric.1.21.11",
+                        "identifier": "26.1.217-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -739,7 +739,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.75-nexus+fabric.1.21.11",
+                        "identifier": "26.1.77-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -927,7 +927,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.53-nexus+fabric.1.21.11",
+                        "identifier": "26.1.55-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1115,7 +1115,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.220-nexus+fabric.1.21.11",
+                        "identifier": "26.1.222-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
