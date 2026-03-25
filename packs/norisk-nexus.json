@@ -1920,7 +1920,7 @@
     "loaderPolicy": {
         "default": {
             "fabric": {
-                "version": "0.18.3",
+                "version": "0.18.5",
                 "min": null,
                 "strategy": null
             }
