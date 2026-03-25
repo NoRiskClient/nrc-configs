@@ -1909,6 +1909,29 @@
                     }
                 }
             }
+        },
+        {
+            "id": "optifine",
+            "displayName": "optifine",
+            "source": {
+                "type": "url"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "https://cdn.norisk.gg/misc/mods/OptiFine_1.7.10_HD_U_E7.jar",
+                        "filename": "OptiFine_1.7.10_HD_U_E7.jar",
+                        "source": null
+                    }
+                },
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "https://cdn.norisk.gg/misc/mods/OptiFine_1.8.9_HD_U_M5.jar",
+                        "filename": "OptiFine_1.8.9_HD_U_M5.jar",
+                        "source": null
+                    }
+                }
+            }
         }
     ],
     "assets": [
