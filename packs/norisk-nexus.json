@@ -195,6 +195,16 @@
                         "identifier": "26.1.185-nexus+fabric.26.1",
                         "filename": null,
                         "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.185-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.185-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
                     }
                 }
             }
@@ -388,6 +398,16 @@
                 "26.1": {
                     "fabric": {
                         "identifier": "26.1.241-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.241-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.241-nexus+forge.26.1",
                         "filename": null,
                         "source": null
                     }
@@ -585,6 +605,16 @@
                         "identifier": "26.1.227-nexus+fabric.26.1",
                         "filename": null,
                         "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.227-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.227-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
                     }
                 }
             }
@@ -778,6 +808,16 @@
                 "26.1": {
                     "fabric": {
                         "identifier": "26.1.82-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.82-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.82-nexus+forge.26.1",
                         "filename": null,
                         "source": null
                     }
@@ -975,6 +1015,16 @@
                         "identifier": "26.1.60-nexus+fabric.26.1",
                         "filename": null,
                         "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.60-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.60-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
                     }
                 }
             }
@@ -1168,6 +1218,16 @@
                 "26.1": {
                     "fabric": {
                         "identifier": "26.1.228-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.228-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.228-nexus+forge.26.1",
                         "filename": null,
                         "source": null
                     }
