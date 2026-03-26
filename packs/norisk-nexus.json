@@ -1425,6 +1425,89 @@
             }
         },
         {
+            "id": "kotlin-for-forge",
+            "displayName": "Kotlin for Forge",
+            "source": {
+                "type": "modrinth",
+                "projectId": "ordsPcFz",
+                "projectSlug": "kotlin-for-forge"
+            },
+            "compatibility": {
+                "1.21.1": {
+                    "neoforge": {
+                        "identifier": "NrSebcsG",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "NrSebcsG",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "neoforge": {
+                        "identifier": "NrSebcsG",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "NrSebcsG",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "neoforge": {
+                        "identifier": "NrSebcsG",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "NrSebcsG",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "neoforge": {
+                        "identifier": "pp2cY80Q",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "pp2cY80Q",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "neoforge": {
+                        "identifier": "K2lpyV17",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "KNsvqa2M",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "neoforge": {
+                        "identifier": "K2lpyV17",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "KNsvqa2M",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
             "id": "fabric-api",
             "displayName": "Fabric API",
             "source": {
