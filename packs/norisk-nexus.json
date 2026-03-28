@@ -221,14 +221,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.1.293-nexus+forge.1.7.10",
+                        "identifier": "26.1.294-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.1.293-nexus+forge.1.8.9",
+                        "identifier": "26.1.294-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -380,7 +380,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.293-nexus+fabric.1.21.11",
+                        "identifier": "26.1.294-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -426,14 +426,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.1.252-nexus+forge.1.7.10",
+                        "identifier": "26.1.253-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.1.252-nexus+forge.1.8.9",
+                        "identifier": "26.1.253-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -585,7 +585,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.252-nexus+fabric.1.21.11",
+                        "identifier": "26.1.253-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
