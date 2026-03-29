@@ -16,14 +16,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.1.231-nexus+forge.1.7.10",
+                        "identifier": "26.1.233-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.1.231-nexus+forge.1.8.9",
+                        "identifier": "26.1.233-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -175,7 +175,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.231-nexus+fabric.1.21.11",
+                        "identifier": "26.1.233-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -221,14 +221,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.1.301-nexus+forge.1.7.10",
+                        "identifier": "26.1.302-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.1.301-nexus+forge.1.8.9",
+                        "identifier": "26.1.302-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -380,7 +380,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.301-nexus+fabric.1.21.11",
+                        "identifier": "26.1.302-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
