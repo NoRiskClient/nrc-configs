@@ -2110,6 +2110,25 @@
                     }
                 }
             }
+        },
+        {
+            "id": "nrcvoicechat",
+            "displayName": "nrcvoicechat",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrcvoicechat"
+            },
+            "compatibility": {
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "26.2.1-beta+fabric.1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
         }
     ],
     "assets": [
