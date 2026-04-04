@@ -2123,7 +2123,7 @@
             "compatibility": {
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.1-beta+fabric.1.21.11",
+                        "identifier": "26.2.2-beta+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
