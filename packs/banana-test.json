@@ -1502,42 +1502,42 @@
       "compatibility": {
         "1.21": {
           "fabric": {
-            "identifier": "1.0.158+fabric.1.21",
+            "identifier": "1.0.158-hotfix+fabric.1.21.jar",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "1.0.158-hotfix+fabric.1.21.10.jar",
+            "identifier": "1.0.158-hotfix+fabric.1.21.1.jar",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "1.0.158-hotfix+fabric.1.21.10.jar",
+            "identifier": "1.0.158-hotfix+fabric.1.21.4.jar",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "1.0.158-hotfix+fabric.1.21.10.jar",
+            "identifier": "1.0.158-hotfix+fabric.1.21.5.jar",
             "filename": null,
             "source": null
           }
         },
         "1.21.7": {
           "fabric": {
-            "identifier": "1.0.158+fabric.1.21.7",
+            "identifier": "1.0.158-hotfix+fabric.1.21.7.jar",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "1.0.158+fabric.1.21.8",
+            "identifier": "11.0.158-hotfix+fabric.1.21.8.jar",
             "filename": null,
             "source": null
           }
