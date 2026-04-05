@@ -1544,7 +1544,7 @@
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.158+fabric.1.21.10",
+            "identifier": "1.0.158-hotfix+fabric.1.21.10.jar",
             "filename": null,
             "source": null
           }
