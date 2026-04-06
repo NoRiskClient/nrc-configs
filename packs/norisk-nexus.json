@@ -141,7 +141,7 @@
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.8",
+                        "identifier": "26.2.36-nexus+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
@@ -158,7 +158,7 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.10",
+                        "identifier": "26.2.36-nexus+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
@@ -346,7 +346,7 @@
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.8",
+                        "identifier": "26.2.30-nexus+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
@@ -363,7 +363,7 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.10",
+                        "identifier": "26.2.30-nexus+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
@@ -551,7 +551,7 @@
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.8",
+                        "identifier": "26.2.32-nexus+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
@@ -568,7 +568,7 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.10",
+                        "identifier": "26.2.32-nexus+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
@@ -756,7 +756,7 @@
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.8",
+                        "identifier": "26.2.24-nexus+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
@@ -773,7 +773,7 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.10",
+                        "identifier": "26.2.24-nexus+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
@@ -961,7 +961,7 @@
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.8",
+                        "identifier": "26.2.19-nexus+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
@@ -978,7 +978,7 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.10",
+                        "identifier": "26.2.19-nexus+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
@@ -1166,7 +1166,7 @@
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.8",
+                        "identifier": "26.2.40-nexus+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
@@ -1183,7 +1183,7 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.0-nexus+fabric.1.21.10",
+                        "identifier": "26.2.40-nexus+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
