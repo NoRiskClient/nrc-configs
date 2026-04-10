@@ -2123,14 +2123,14 @@
             "compatibility": {
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.11-beta+fabric.1.21.10",
+                        "identifier": "26.2.12-beta+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.11-beta+fabric.1.21.11",
+                        "identifier": "26.2.12-beta+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
