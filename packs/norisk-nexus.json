@@ -2121,6 +2121,13 @@
                 "artifactId": "nrcvoicechat"
             },
             "compatibility": {
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "26.2.7-beta+fabric.1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
                 "1.21.11": {
                     "fabric": {
                         "identifier": "26.2.7-beta+fabric.1.21.11",
