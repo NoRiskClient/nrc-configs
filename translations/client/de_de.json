@@ -635,6 +635,7 @@
   "nrc.icon.toast.error": "Fehler beim Aktualisieren",
   "nrc.itemhighlighter.label.all_items": "Alle Items",
   "nrc.itemmodel.label.advanced": "Erweitert",
+  "nrc.itemmodel.reset.tooltip": "%s zurücksetzen",
   "nrc.clock.label.invalid_format": "Ungültiges Format",
   "nrc.particle.button.all_on": "Alle an",
   "nrc.particle.button.all_off": "Alle aus",

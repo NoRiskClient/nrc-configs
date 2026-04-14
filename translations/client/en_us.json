@@ -635,6 +635,7 @@
   "nrc.icon.toast.error": "Error updating icon",
   "nrc.itemhighlighter.label.all_items": "All Items",
   "nrc.itemmodel.label.advanced": "Advanced",
+  "nrc.itemmodel.reset.tooltip": "Reset %s",
   "nrc.clock.label.invalid_format": "Invalid Format",
   "nrc.particle.button.all_on": "All On",
   "nrc.particle.button.all_off": "All Off",
