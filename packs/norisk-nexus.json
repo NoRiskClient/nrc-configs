@@ -2231,6 +2231,181 @@
                     }
                 }
             }
+        },
+        {
+            "id": "3dskinlayers",
+            "displayName": "3D Skin Layers",
+            "source": {
+                "type": "modrinth",
+                "projectId": "zV5r3pPn",
+                "projectSlug": "3dskinlayers"
+            },
+            "compatibility": {
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "ki0fDpDd",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "8I3s7vjK",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "LJEZfE3e",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "tygVzY9j",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "NGQkqrJT",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "r81Z876i",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "vQ4DDeUO",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "e01TJzQD",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "YRwWgm01",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "V0AEyC8i",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "egmtcJdf",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "U0nPT3LQ",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "iZDnRxN8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "lWa5oHuK",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "a4UNNzsi",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "Vex6z6sV",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "fS2Npqrb",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "jt9MQsNZ",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "FVSFKRL6",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "r54tPxKy",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "HiK4aCzy",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "ujtDwvV8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "ElNNxgxg",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "epUMFHmN",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "2xvJ692E",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "d8KGxZKi",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "ntxaPFv3",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "zBVYZ7CM",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
         }
     ],
     "assets": [
