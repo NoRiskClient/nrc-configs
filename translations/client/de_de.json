@@ -1084,5 +1084,6 @@
   "nrc.ui.modules.description.tPS": "Zeige die Server-Ticks pro Sekunde im HUD an.",
   "nrc.ui.modules.description.timeChanger": "Ändert die client-seitige Tageszeit.",
   "nrc.ui.modules.description.toggleSprint": "Schalte Sprint per Tastendruck um, statt die Taste zu halten.",
-  "nrc.ui.modules.description.weatherChanger": "Ändert das client-seitige Wetter."
+  "nrc.ui.modules.description.weatherChanger": "Ändert das client-seitige Wetter.",
+  "nrc.command.profile.not_found": "Kein Spieler mit dem Namen '%s' gefunden."
 }

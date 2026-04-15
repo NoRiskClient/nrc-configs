@@ -1084,5 +1084,6 @@
   "nrc.ui.modules.description.tPS": "Show the server's ticks per second on the HUD.",
   "nrc.ui.modules.description.timeChanger": "Change the displayed client-side time of day.",
   "nrc.ui.modules.description.toggleSprint": "Toggle sprinting with a single key press instead of holding.",
-  "nrc.ui.modules.description.weatherChanger": "Change the displayed client-side weather."
+  "nrc.ui.modules.description.weatherChanger": "Change the displayed client-side weather.",
+  "nrc.command.profile.not_found": "No player found with name '%s'."
 }
