@@ -2708,6 +2708,156 @@
                     }
                 }
             }
+        },
+        {
+            "id": "appleskin",
+            "displayName": "AppleSkin",
+            "source": {
+                "type": "modrinth",
+                "projectId": "EsAfCjCV",
+                "projectSlug": "appleskin"
+            },
+            "compatibility": {
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "8N1HVFeQ",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "633NTwhH",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "3wbLqeIN",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "1ZaL0ACn",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "tpQpTIMn",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "aIpOZwoo",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "LAwakjdi",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "N5XeV21r",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "XdXDExVF",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "b5ZiCjAr",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "kztxpjAA",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "cHQjeYVS",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "x1HG4UDz",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "VfjnbBAT",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "P8sTsYtJ",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "8sbiz1lS",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "zu0t9UzU",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "pvcLnrm0",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "MH9ov9DW",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "pvcLnrm0",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "MH9ov9DW",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "HwaLJe3v",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "i8MiVItH",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
         }
     ],
     "assets": [
