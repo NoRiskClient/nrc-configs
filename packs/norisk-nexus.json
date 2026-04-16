@@ -206,6 +206,40 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.154-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.185-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.185-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.154-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.185-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.185-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -396,6 +430,40 @@
                     }
                 },
                 "26.1": {
+                    "fabric": {
+                        "identifier": "26.2.109-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.241-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.241-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.109-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.241-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.241-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
                     "fabric": {
                         "identifier": "26.2.109-nexus+fabric.26.1",
                         "filename": null,
@@ -616,6 +684,40 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.114-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.227-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.227-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.114-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.227-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.227-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -806,6 +908,40 @@
                     }
                 },
                 "26.1": {
+                    "fabric": {
+                        "identifier": "26.2.84-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.82-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.82-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.84-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.82-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.82-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
                     "fabric": {
                         "identifier": "26.2.84-nexus+fabric.26.1",
                         "filename": null,
@@ -1026,6 +1162,40 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.79-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.60-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.60-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.79-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.60-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.60-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -1231,6 +1401,40 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.151-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.228-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.228-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.151-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.228-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.228-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -1326,6 +1530,20 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "uGvVQBnw",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "uGvVQBnw",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -1416,6 +1634,20 @@
                     }
                 },
                 "26.1": {
+                    "fabric": {
+                        "identifier": "ViT4gucI",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "ViT4gucI",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
                     "fabric": {
                         "identifier": "ViT4gucI",
                         "filename": null,
@@ -1594,6 +1826,20 @@
                     }
                 },
                 "26.1": {
+                    "fabric": {
+                        "identifier": "fm7UYECV",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "fm7UYECV",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
                     "fabric": {
                         "identifier": "fm7UYECV",
                         "filename": null,
@@ -1877,6 +2123,20 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "d5ddUdiB",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "d5ddUdiB",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -1967,6 +2227,20 @@
                     }
                 },
                 "26.1": {
+                    "fabric": {
+                        "identifier": "W0ZXKJy9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "W0ZXKJy9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
                     "fabric": {
                         "identifier": "W0ZXKJy9",
                         "filename": null,
@@ -2198,6 +2472,40 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "EuaIzAYI",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "laCwldU6",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "E7sN3upy",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "EuaIzAYI",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "laCwldU6",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "E7sN3upy",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -2314,6 +2622,20 @@
                     }
                 },
                 "26.1": {
+                    "fabric": {
+                        "identifier": "jvjwXH6l",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "jvjwXH6l",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
                     "fabric": {
                         "identifier": "jvjwXH6l",
                         "filename": null,
@@ -2501,6 +2823,20 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "8kxiY3G1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "8kxiY3G1",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -2616,6 +2952,30 @@
                     }
                 },
                 "26.1": {
+                    "fabric": {
+                        "identifier": "ZkGgdpPY",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "5mdIRt7O",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "ZkGgdpPY",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "5mdIRt7O",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
                     "fabric": {
                         "identifier": "ZkGgdpPY",
                         "filename": null,
@@ -2796,6 +3156,20 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "K4cdp1K2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "K4cdp1K2",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -2946,6 +3320,30 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "HwaLJe3v",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "i8MiVItH",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "HwaLJe3v",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "i8MiVItH",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -3008,6 +3406,20 @@
                     }
                 },
                 "26.1": {
+                    "fabric": {
+                        "identifier": "t5IVuMnP",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "t5IVuMnP",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
                     "fabric": {
                         "identifier": "t5IVuMnP",
                         "filename": null,
