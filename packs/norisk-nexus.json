@@ -2413,6 +2413,131 @@
                     }
                 }
             }
+        },
+        {
+            "id": "shulkerboxtooltip",
+            "displayName": "Shulker Box Tooltip",
+            "source": {
+                "type": "modrinth",
+                "projectId": "2M01OLQq",
+                "projectSlug": "shulkerboxtooltip"
+            },
+            "compatibility": {
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "NSrItCES",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "3dlXcI0n",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "IuqNIoAi",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "zZfEoJB1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "5h6o8uKT",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "eGROc5cK",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "mMHUyoWs",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "EOgqvBin",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "1Q4lYVH6",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "XWxojbLp",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "GQMQcl7s",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "J8L51LrZ",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "Tu7L0xsA",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "J1PRL9YF",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "zWxLWTbU",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "rZovgkWT",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "yFmVkjkC",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "GfweYsB6",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "ZkGgdpPY",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "5mdIRt7O",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
         }
     ],
     "assets": [
