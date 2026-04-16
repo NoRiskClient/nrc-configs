@@ -2030,6 +2030,11 @@
                         "identifier": "fLJFtApx",
                         "filename": null,
                         "source": null
+                    },
+                    "forge": {
+                        "identifier": "OjrY36ca",
+                        "filename": null,
+                        "source": null
                     }
                 },
                 "1.18.2": {
@@ -2037,11 +2042,21 @@
                         "identifier": "dsfwPzzw",
                         "filename": null,
                         "source": null
+                    },
+                    "forge": {
+                        "identifier": "P39SUHsg",
+                        "filename": null,
+                        "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
                         "identifier": "8UF66wDs",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "Fm3cX0F9",
                         "filename": null,
                         "source": null
                     }
@@ -2058,11 +2073,26 @@
                         "identifier": "6Sovh5Kl",
                         "filename": null,
                         "source": null
+                    },
+                    "forge": {
+                        "identifier": "3vK57tXe",
+                        "filename": null,
+                        "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
                         "identifier": "Flz6iR75",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "rbDhEHQT",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "rGX4hrtP",
                         "filename": null,
                         "source": null
                     }
@@ -2072,11 +2102,31 @@
                         "identifier": "btEaH9kR",
                         "filename": null,
                         "source": null
+                    },
+                    "forge": {
+                        "identifier": "H833P93S",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "RAr6T3FM",
+                        "filename": null,
+                        "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
                         "identifier": "tHiaTbgM",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "c2pr4kFl",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "87MK1lQb",
                         "filename": null,
                         "source": null
                     }
@@ -2086,11 +2136,31 @@
                         "identifier": "j1PMVU2U",
                         "filename": null,
                         "source": null
+                    },
+                    "forge": {
+                        "identifier": "JakR8nnJ",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "WXuoJJ9J",
+                        "filename": null,
+                        "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
                         "identifier": "BfWx5pyS",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "pyWNRe8S",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "qtn5zsUZ",
                         "filename": null,
                         "source": null
                     }
@@ -2100,11 +2170,31 @@
                         "identifier": "TE9flmQz",
                         "filename": null,
                         "source": null
+                    },
+                    "forge": {
+                        "identifier": "ptHoHey2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "FZlXRfl7",
+                        "filename": null,
+                        "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
                         "identifier": "EuaIzAYI",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "laCwldU6",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "E7sN3upy",
                         "filename": null,
                         "source": null
                     }
