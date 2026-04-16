@@ -2538,6 +2538,176 @@
                     }
                 }
             }
+        },
+        {
+            "id": "waveycapes",
+            "displayName": "WaveyCapes",
+            "source": {
+                "type": "modrinth",
+                "projectId": "kYuIpRLv",
+                "projectSlug": "wavey-capes"
+            },
+            "compatibility": {
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "jvaGau1Z",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "dHzMeLL6",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "VWbixAai",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "Y8EJ8KbP",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "4BjohH69",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "H57nyfXA",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "OzQo4VDs",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "aoyyskwv",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "mCQ4kOlm",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "XX9BrlJW",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "9iowzrcA",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "uuX7ce0R",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "EcKyPvJR",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "5ph4dYAq",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "vjiRyyU7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "pF7bXBvC",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "EtAwk7tz",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "AiKpCoAk",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "TJiebQCb",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "5n1WqGqt",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "C8nMaFFH",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "XbBsWRV9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "nSfJXW5u",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "U1F8UD8y",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "lGSZdVwH",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "aurAWvjX",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "K4cdp1K2",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
         }
     ],
     "assets": [
