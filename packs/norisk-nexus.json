@@ -2858,6 +2858,73 @@
                     }
                 }
             }
+        },
+        {
+            "id": "tiers",
+            "displayName": "Tiers",
+            "source": {
+                "type": "modrinth",
+                "projectId": "bubOj4AD",
+                "projectSlug": "tiers"
+            },
+            "compatibility": {
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "i2cxQrM2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "G2bu4yDI",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "BPKOYV6i",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "G18A8owg",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "pb6kdUxp",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "5elbC8xT",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "BtqlQP7B",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "t5IVuMnP",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
         }
     ],
     "assets": [
