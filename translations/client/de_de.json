@@ -673,6 +673,7 @@
   "nrc.clock.label.invalid_format": "Ungültiges Format",
   "nrc.particle.button.all_on": "Alle an",
   "nrc.particle.button.all_off": "Alle aus",
+  "nrc.particle.value.spawnOnHit": "Bei Hit spawnen",
   "nrc.moderation.report.title": "Spieler melden",
   "nrc.moderation.report.select_category": "Kategorie wählen:",
   "nrc.moderation.report.title_with_reason": "Meldung: %s",

@@ -673,6 +673,7 @@
   "nrc.clock.label.invalid_format": "Invalid Format",
   "nrc.particle.button.all_on": "All On",
   "nrc.particle.button.all_off": "All Off",
+  "nrc.particle.value.spawnOnHit": "Spawn On Hit",
   "nrc.moderation.report.title": "Report Player",
   "nrc.moderation.report.select_category": "Select category:",
   "nrc.moderation.report.title_with_reason": "Report: %s",
