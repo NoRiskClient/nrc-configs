@@ -877,7 +877,7 @@
   "nrc.ui.modules.value.disableOverlays": "Disattiva Overlay",
   "nrc.ui.modules.value.blurSize": "Dimensione Sfocatura",
   "nrc.ui.modules.value.blurQuality": "Qualità Sfocatura",
-  "nrc.ui.label.could_be_bannable_on_servers": "\"nrc.ui.label.could_be_bannable_on_servers\"",
+  "nrc.ui.label.could_be_bannable_on_servers": "Questo modulo potrebbe essere bannabile su alcuni server — usalo a tuo rischio",
   "nrc.ui.modules.value.inventoryScale": "Scala Inventario",
   "nrc.ui.modules.immersiveEmotes": "Emote Immersive",
   "nrc.ui.modules.value.enableEmoteSounds": "Suoni Emote",

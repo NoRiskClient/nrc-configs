@@ -877,7 +877,7 @@
   "nrc.ui.modules.value.disableOverlays": "Отключить Наложения",
   "nrc.ui.modules.value.blurSize": "Размер Размытия",
   "nrc.ui.modules.value.blurQuality": "Качество Размытия",
-  "nrc.ui.label.could_be_bannable_on_servers": "\"nrc.ui.label.could_be_bannable_on_servers\"",
+  "nrc.ui.label.could_be_bannable_on_servers": "Этот модуль может привести к бану на некоторых серверах — используйте на свой страх и риск",
   "nrc.ui.modules.value.inventoryScale": "Масштаб Инвентаря",
   "nrc.ui.modules.immersiveEmotes": "Иммерсивные Эмоции",
   "nrc.ui.modules.value.enableEmoteSounds": "Звуки Эмоций",

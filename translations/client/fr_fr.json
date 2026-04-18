@@ -877,7 +877,7 @@
   "nrc.ui.modules.value.disableOverlays": "Désactiver les Surcouches",
   "nrc.ui.modules.value.blurSize": "Taille du Flou",
   "nrc.ui.modules.value.blurQuality": "Qualité du Flou",
-  "nrc.ui.label.could_be_bannable_on_servers": "\"nrc.ui.label.could_be_bannable_on_servers\"",
+  "nrc.ui.label.could_be_bannable_on_servers": "Ce module peut être interdit sur certains serveurs — à utiliser à vos propres risques",
   "nrc.ui.modules.value.inventoryScale": "Échelle de l'Inventaire",
   "nrc.ui.modules.immersiveEmotes": "Emotes Immersifs",
   "nrc.ui.modules.value.enableEmoteSounds": "Sons d'Emote",

@@ -877,7 +877,7 @@
   "nrc.ui.modules.value.disableOverlays": "ओवरले अक्षम करें",
   "nrc.ui.modules.value.blurSize": "धुंधलापन आकार",
   "nrc.ui.modules.value.blurQuality": "धुंधलापन गुणवत्ता",
-  "nrc.ui.label.could_be_bannable_on_servers": "\"nrc.ui.label.could_be_bannable_on_servers\"",
+  "nrc.ui.label.could_be_bannable_on_servers": "यह मॉड्यूल कुछ सर्वरों पर बैन योग्य हो सकता है — अपने जोखिम पर उपयोग करें",
   "nrc.ui.modules.value.inventoryScale": "इन्वेंटरी स्केल",
   "nrc.ui.modules.immersiveEmotes": "इमर्सिव Emotes",
   "nrc.ui.modules.value.enableEmoteSounds": "Emote ध्वनियाँ",

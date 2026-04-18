@@ -877,7 +877,7 @@
   "nrc.ui.modules.value.disableOverlays": "Kaplamaları Kapat",
   "nrc.ui.modules.value.blurSize": "Bulanıklık Boyutu",
   "nrc.ui.modules.value.blurQuality": "Bulanıklık Kalitesi",
-  "nrc.ui.label.could_be_bannable_on_servers": "\"nrc.ui.label.could_be_bannable_on_servers\"",
+  "nrc.ui.label.could_be_bannable_on_servers": "Bu modül bazı sunucularda yasaklanabilir — kendi sorumluluğunuzda kullanın",
   "nrc.ui.modules.value.inventoryScale": "Envanter Ölçeği",
   "nrc.ui.modules.immersiveEmotes": "Sürükleyici Emoteler",
   "nrc.ui.modules.value.enableEmoteSounds": "Emote Sesleri",

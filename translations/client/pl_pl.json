@@ -877,7 +877,7 @@
   "nrc.ui.modules.value.disableOverlays": "Wyłącz Nakładki",
   "nrc.ui.modules.value.blurSize": "Rozmiar Rozmycia",
   "nrc.ui.modules.value.blurQuality": "Jakość Rozmycia",
-  "nrc.ui.label.could_be_bannable_on_servers": "\"nrc.ui.label.could_be_bannable_on_servers\"",
+  "nrc.ui.label.could_be_bannable_on_servers": "Ten moduł może być banowalny na niektórych serwerach — używasz na własne ryzyko",
   "nrc.ui.modules.value.inventoryScale": "Skala Ekwipunku",
   "nrc.ui.modules.immersiveEmotes": "Immersywne Emote",
   "nrc.ui.modules.value.enableEmoteSounds": "Dźwięki Emote",

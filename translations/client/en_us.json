@@ -884,7 +884,7 @@
   "nrc.ui.modules.value.disableOverlays": "Disable Overlays",
   "nrc.ui.modules.value.blurSize": "Blur Size",
   "nrc.ui.modules.value.blurQuality": "Blur Quality",
-  "nrc.ui.label.could_be_bannable_on_servers": "\"nrc.ui.label.could_be_bannable_on_servers\"",
+  "nrc.ui.label.could_be_bannable_on_servers": "This module may be bannable on some servers — use at your own risk",
   "nrc.ui.modules.value.inventoryScale": "Inventory Scale",
   "nrc.ui.modules.immersiveEmotes": "Immersive Emotes",
   "nrc.ui.modules.value.enableEmoteSounds": "Emote Sounds",
