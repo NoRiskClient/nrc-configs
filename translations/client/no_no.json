@@ -1,5 +1,7 @@
 {
     "nrc.ui.modules.value.scale": "Skala: %s",
+    "nrc.ui.modules.value.nightMode": "Nattmodus",
+    "nrc.ui.modules.value.moduleViewMode": "Modulvisning",
     "nrc.ui.modules.value.background": "Bakgrunn",
     "nrc.ui.modules.value.multiColor": "Flerfarget",
     "nrc.ui.modules.value.padding": "Avstand: %s",
@@ -262,5 +264,16 @@
     "mcreal.upload.label.title": "Tittel",
     "mcreal.upload.label.server_ip": "Server-IP",
     "mcreal.upload.label.friends_only": "Bare venner",
-    "mcreal.upload.label.upload": "Last opp"
+    "mcreal.upload.label.upload": "Last opp",
+    "nrc.ui.shop.filter.all": "Alle",
+    "nrc.ui.shop.filter.affordable": "Rimelige",
+    "nrc.ui.shop.filter.new": "Nye",
+    "nrc.ui.shop.filter.owned": "Eide",
+    "nrc.cosmetics.ui.gift.enter_username": "Skriv inn mottakerens brukernavn",
+    "nrc.ui.modules.description.spotifyoverlay": "Vis Spotify-sporet som spilles av akkurat nå i HUD-en",
+    "nrc.ui.modules.description.glint_colorizer": "Tilpass fargen på fortryllingsglansen på gjenstander",
+    "nrc.ui.modules.description.hitcolor": "Farg enheter med en egendefinert farge når de tar skade",
+    "nrc.ui.modules.description.noadvancement": "Skjul popup-vinduet som vises når du oppnår en fremgang",
+    "nrc.ui.modules.description.nohurtcam": "Deaktiver skjermens vipping og risting når du tar skade",
+    "nrc.ui.modules.description.resourcepack_organizer": "Organiser ressurspakker i mapper for enklere håndtering"
 }
