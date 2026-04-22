@@ -600,6 +600,7 @@
   "nrc.ui.modules.value.showInPercentage": "Показать в процентах",
   "nrc.ui.modules.value.showDamageColor": "Использовать цвет урона",
   "nrc.ui.modules.description.item_highlighter": "Выделяет указанные предметы для быстрого поиска в инвентаре.",
+  "nrc.ui.modules.description.shiny_pots": "Добавляет эффект чар на зелья в инвентаре и хотбаре. Работает через Item Highlighter.",
   "nrc.ui.modules.value.allItems": "Все предметы",
   "nrc.ui.modules.value.iconOnLeftSide": "Показать иконку слева",
   "nrc.ui.modules.description.icon": "Настрой иконки, отображаемые в игре.",

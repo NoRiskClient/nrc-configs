@@ -612,6 +612,7 @@
   "nrc.ui.modules.value.showInPercentage": "Anzeigen in Prozent",
   "nrc.ui.modules.value.showDamageColor": "Schadens Farbe nutzen",
   "nrc.ui.modules.description.item_highlighter": "Ausgewählte Items hervorheben um sie schneller in deinem Inventar zu finden.",
+  "nrc.ui.modules.description.shiny_pots": "Fügt Tränken in deinem Inventar und der Hotbar einen Verzauberungseffekt hinzu. Basiert auf dem Item Highlighter.",
   "nrc.ui.modules.value.allItems": "Alle Items",
   "nrc.ui.modules.value.iconOnLeftSide": "Symbol auf der linken Seite anzeigen",
   "nrc.ui.modules.description.icon": "Passe die Ingame angezeigten Symbole an.",

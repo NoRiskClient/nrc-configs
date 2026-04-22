@@ -600,6 +600,7 @@
   "nrc.ui.modules.value.showInPercentage": "Pokaż w procentach",
   "nrc.ui.modules.value.showDamageColor": "Użyj koloru obrażeń",
   "nrc.ui.modules.description.item_highlighter": "Podświetla wymienione przedmioty, aby szybko je znaleźć w ekwipunku.",
+  "nrc.ui.modules.description.shiny_pots": "Dodaje efekt zaklęcia do mikstur w ekwipunku i pasku szybkiego dostępu. Oparte na Item Highlighter.",
   "nrc.ui.modules.value.allItems": "Wszystkie przedmioty",
   "nrc.ui.modules.value.iconOnLeftSide": "Pokaż ikonę po lewej",
   "nrc.ui.modules.description.icon": "Dostosuj ikony wyświetlane w grze.",

@@ -600,6 +600,7 @@
   "nrc.ui.modules.value.showInPercentage": "Mostrar em percentagem",
   "nrc.ui.modules.value.showDamageColor": "Usar cor de dano",
   "nrc.ui.modules.description.item_highlighter": "Destaca itens listados para os encontrar rapidamente no inventário.",
+  "nrc.ui.modules.description.shiny_pots": "Adiciona um brilho encantado às poções no teu inventário e hotbar. Baseado no Item Highlighter.",
   "nrc.ui.modules.value.allItems": "Todos os itens",
   "nrc.ui.modules.value.iconOnLeftSide": "Mostrar ícone à esquerda",
   "nrc.ui.modules.description.icon": "Personaliza os ícones exibidos no jogo.",

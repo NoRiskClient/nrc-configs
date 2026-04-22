@@ -600,6 +600,7 @@
   "nrc.ui.modules.value.showInPercentage": "प्रतिशत में दिखाएं",
   "nrc.ui.modules.value.showDamageColor": "क्षति रंग का उपयोग करें",
   "nrc.ui.modules.description.item_highlighter": "इन्वेंटरी में जल्दी खोजने के लिए सूचीबद्ध वस्तुओं को हाइलाइट करें।",
+  "nrc.ui.modules.description.shiny_pots": "आपके इन्वेंटरी और हॉटबार में पोशन्स पर एनचांट ग्लिंट जोड़ता है। Item Highlighter पर आधारित।",
   "nrc.ui.modules.value.allItems": "सभी वस्तुएं",
   "nrc.ui.modules.value.iconOnLeftSide": "आइकन को बायीं ओर दिखाएं",
   "nrc.ui.modules.description.icon": "इन-गेम प्रदर्शित आइकन को अनुकूलित करें।",

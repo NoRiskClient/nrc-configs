@@ -612,6 +612,7 @@
   "nrc.ui.modules.value.showInPercentage": "Show in percentage",
   "nrc.ui.modules.value.showDamageColor": "Use damage color",
   "nrc.ui.modules.description.item_highlighter": "Highlight listed items to quickly find them in your inventory.",
+  "nrc.ui.modules.description.shiny_pots": "Adds an enchantment glint to potions in your inventory and hotbar. Powered by Item Highlighter.",
   "nrc.ui.modules.value.allItems": "All items",
   "nrc.ui.modules.value.iconOnLeftSide": "Show icon on left side",
   "nrc.ui.modules.description.icon": "Customize the icons displayed in-game.",

@@ -600,6 +600,7 @@
   "nrc.ui.modules.value.showInPercentage": "Yüzde olarak göster",
   "nrc.ui.modules.value.showDamageColor": "Hasar rengini kullan",
   "nrc.ui.modules.description.item_highlighter": "Envanterinde hızlıca bulmak için listelenmiş eşyaları vurgular.",
+  "nrc.ui.modules.description.shiny_pots": "Envanterindeki ve hotbar'ındaki iksirlere büyü parıltısı ekler. Item Highlighter ile çalışır.",
   "nrc.ui.modules.value.allItems": "Tüm eşyalar",
   "nrc.ui.modules.value.iconOnLeftSide": "İkonu solda göster",
   "nrc.ui.modules.description.icon": "Oyun içinde gösterilen ikonları özelleştir.",
