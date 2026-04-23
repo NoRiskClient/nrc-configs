@@ -180,7 +180,7 @@
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.64-nexus+neoforge.1.21.11",
+                        "identifier": "26.2.336-nexus+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -453,7 +453,7 @@
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.0-nexus+neoforge.1.21.11",
+                        "identifier": "26.2.269-nexus+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -562,14 +562,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.297-nexus+forge.1.7.10",
+                        "identifier": "26.2.298-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.297-nexus+forge.1.8.9",
+                        "identifier": "26.2.298-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -704,7 +704,7 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.297-nexus+fabric.1.21.10",
+                        "identifier": "26.2.298-nexus+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
@@ -721,12 +721,12 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.297-nexus+fabric.1.21.11",
+                        "identifier": "26.2.298-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.0-nexus+neoforge.1.21.11",
+                        "identifier": "26.2.298-nexus+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -738,12 +738,12 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.2.297-nexus+fabric.26.1",
+                        "identifier": "26.2.298-nexus+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.297-nexus+neoforge.26.1",
+                        "identifier": "26.2.298-nexus+neoforge.26.1",
                         "filename": null,
                         "source": null
                     },
@@ -755,7 +755,7 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.2.297-nexus+fabric.26.1.1",
+                        "identifier": "26.2.298-nexus+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
@@ -772,7 +772,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.2.297-nexus+fabric.26.1.2",
+                        "identifier": "26.2.298-nexus+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
@@ -806,7 +806,7 @@
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.2.297-nexus+fabric.1.21.9",
+                        "identifier": "26.2.298-nexus+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
@@ -999,7 +999,7 @@
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.0-nexus+neoforge.1.21.11",
+                        "identifier": "26.2.222-nexus+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1272,7 +1272,7 @@
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.0-nexus+neoforge.1.21.11",
+                        "identifier": "26.2.204-nexus+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1578,7 +1578,7 @@
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.0-nexus+neoforge.1.21.11",
+                        "identifier": "26.2.299-nexus+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
