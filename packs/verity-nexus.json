@@ -1,6 +1,6 @@
 {
-    "displayName": "NoRisk Nexus",
-    "description": "Nexus branch testing pack with latest nexus module builds",
+    "displayName": "Verity Nexus",
+    "description": "Verity Nexus branch testing pack with latest nexus module builds",
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [
