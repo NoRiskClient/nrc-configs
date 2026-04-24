@@ -275,5 +275,18 @@
     "nrc.ui.modules.description.hitcolor": "Farg enheter med en egendefinert farge når de tar skade",
     "nrc.ui.modules.description.noadvancement": "Skjul popup-vinduet som vises når du oppnår en fremgang",
     "nrc.ui.modules.description.nohurtcam": "Deaktiver skjermens vipping og risting når du tar skade",
-    "nrc.ui.modules.description.resourcepack_organizer": "Organiser ressurspakker i mapper for enklere håndtering"
+    "nrc.ui.modules.description.resourcepack_organizer": "Organiser ressurspakker i mapper for enklere håndtering",
+    "nrc.ui.modules.description.mousetracker": "Input-overlay HUD som visualiserer rå musebevegelse",
+    "nrc.ui.modules.mousetracker.toast.title": "MouseTracker",
+    "nrc.ui.modules.mousetracker.toast.warning": "Kan redusere FPS",
+    "nrc.ui.modules.value.mousetracker": "MouseTracker",
+    "nrc.ui.modules.value.shape": "Form",
+    "nrc.ui.modules.value.dotSize": "Punktstørrelse",
+    "nrc.ui.modules.value.showCrosshair": "Vis senter-kors",
+    "nrc.ui.modules.value.showTrail": "Vis spor",
+    "nrc.ui.modules.value.cpsGap": "CPS-boksmellomrom",
+    "nrc.ui.modules.value.sensitivity": "Følsomhet",
+    "nrc.ui.modules.value.smoothing": "Dempningshastighet (% / s)",
+    "nrc.ui.modules.value.trailLength": "Sporlengde",
+    "nrc.ui.modules.value.updateIntervalMs": "Oppdateringsintervall (ms)"
 }
