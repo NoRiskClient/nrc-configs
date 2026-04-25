@@ -23,7 +23,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.147-verity+forge.1.8.9",
+                        "identifier": "26.2.324-verity+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -175,7 +175,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.147-verity+fabric.1.21.11",
+                        "identifier": "26.2.324-verity+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
