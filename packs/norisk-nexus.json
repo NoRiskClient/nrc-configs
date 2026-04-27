@@ -1217,7 +1217,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.2.230-nexus+fabric.1.21.1",
+                        "identifier": "26.2.231-nexus+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
@@ -1268,7 +1268,7 @@
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.230-nexus+fabric.1.21.8",
+                        "identifier": "26.2.231-nexus+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
@@ -1537,7 +1537,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.2.323-nexus+fabric.1.21.1",
+                        "identifier": "26.2.324-nexus+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
@@ -1588,7 +1588,7 @@
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.323-nexus+fabric.1.21.8",
+                        "identifier": "26.2.324-nexus+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
@@ -1690,7 +1690,7 @@
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.2.323-nexus+fabric.1.21",
+                        "identifier": "26.2.324-nexus+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
