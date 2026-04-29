@@ -513,7 +513,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.2.328-nexus+fabric.26.1.2",
+                        "identifier": "26.2.332-nexus+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
@@ -530,7 +530,7 @@
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.2.329-nexus+fabric.1.21",
+                        "identifier": "26.2.332-nexus+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
@@ -547,7 +547,7 @@
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.2.329-nexus+fabric.1.21.9",
+                        "identifier": "26.2.332-nexus+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
