@@ -16,14 +16,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.423-nexus+forge.1.7.10",
+                        "identifier": "26.2.425-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.423-nexus+forge.1.8.9",
+                        "identifier": "26.2.425-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -182,7 +182,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.423-nexus+fabric.1.21.11",
+                        "identifier": "26.2.425-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -296,14 +296,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.347-nexus+forge.1.7.10",
+                        "identifier": "26.2.354-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.347-nexus+forge.1.8.9",
+                        "identifier": "26.2.354-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -462,7 +462,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.347-nexus+fabric.1.21.11",
+                        "identifier": "26.2.354-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -576,14 +576,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.373-nexus+forge.1.7.10",
+                        "identifier": "26.2.379-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.373-nexus+forge.1.8.9",
+                        "identifier": "26.2.379-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -742,7 +742,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.373-nexus+fabric.1.21.11",
+                        "identifier": "26.2.379-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -856,14 +856,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.281-nexus+forge.1.7.10",
+                        "identifier": "26.2.283-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.281-nexus+forge.1.8.9",
+                        "identifier": "26.2.283-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1022,7 +1022,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.281-nexus+fabric.1.21.11",
+                        "identifier": "26.2.283-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
