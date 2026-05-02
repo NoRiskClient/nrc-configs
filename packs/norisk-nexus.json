@@ -16,14 +16,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.416-nexus+forge.1.7.10",
+                        "identifier": "26.2.419-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.416-nexus+forge.1.8.9",
+                        "identifier": "26.2.419-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -296,14 +296,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.341-nexus+forge.1.7.10",
+                        "identifier": "26.2.344-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.341-nexus+forge.1.8.9",
+                        "identifier": "26.2.344-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -462,7 +462,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.341-nexus+fabric.1.21.11",
+                        "identifier": "26.2.344-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -576,14 +576,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.367-nexus+forge.1.7.10",
+                        "identifier": "26.2.370-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.367-nexus+forge.1.8.9",
+                        "identifier": "26.2.370-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -742,7 +742,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.367-nexus+fabric.1.21.11",
+                        "identifier": "26.2.370-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -856,14 +856,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.276-nexus+forge.1.7.10",
+                        "identifier": "26.2.279-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.276-nexus+forge.1.8.9",
+                        "identifier": "26.2.279-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1022,7 +1022,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.276-nexus+fabric.1.21.11",
+                        "identifier": "26.2.279-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1136,14 +1136,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.259-nexus+forge.1.7.10",
+                        "identifier": "26.2.262-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.259-nexus+forge.1.8.9",
+                        "identifier": "26.2.262-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1302,7 +1302,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.259-nexus+fabric.1.21.11",
+                        "identifier": "26.2.262-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1456,14 +1456,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.367-nexus+forge.1.7.10",
+                        "identifier": "26.2.370-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.367-nexus+forge.1.8.9",
+                        "identifier": "26.2.370-nexus+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1622,7 +1622,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.367-nexus+fabric.1.21.11",
+                        "identifier": "26.2.370-nexus+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
