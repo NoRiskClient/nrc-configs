@@ -291,6 +291,8 @@
   "nrc.ui.modules.serverLocked.description": "%s is disabled on %s",
   "nrc.ui.modules.missingMod.title": "Missing Mod",
   "nrc.ui.modules.missingMod.description": "%s requires %s to be installed",
+  "nrc.ui.modules.conflict.title": "Module Conflict",
+  "nrc.ui.modules.conflict.description": "%s is auto-disabled because %s is installed",
   "nrc.ui.modules.value.apiKey": "API Key",
   "nrc.ui.modules.value.transparentPlayers": "Transparent Players",
   "nrc.ui.modules.value.flyBoost": "Fly Boost %s",

@@ -291,6 +291,8 @@
   "nrc.ui.modules.serverLocked.description": "%s ist auf %s deaktiviert",
   "nrc.ui.modules.missingMod.title": "Fehlende Mod",
   "nrc.ui.modules.missingMod.description": "%s benötigt %s",
+  "nrc.ui.modules.conflict.title": "Modul-Konflikt",
+  "nrc.ui.modules.conflict.description": "%s ist deaktiviert, weil %s installiert ist",
   "nrc.ui.modules.value.apiKey": "API-Schlüssel",
   "nrc.ui.modules.value.transparentPlayers": "Transparente Spieler",
   "nrc.ui.modules.value.flyBoost": "Flug-Boost %s",
