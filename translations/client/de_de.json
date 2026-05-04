@@ -626,6 +626,7 @@
   "nrc.ui.modules.value.alwaysPreview": "Immer anzeigen",
   "nrc.ui.modules.value.previewKey": "Vorschau Taste",
   "nrc.ui.modules.value.usePingColor": "Ping Farbe benutzen",
+  "nrc.ui.modules.value.showHud": "HUD anzeigen",
   "nrc.ui.modules.value.renderPingInTab": "In Tab anzeigen",
   "nrc.ui.modules.value.pingNameTagPosition": "Position im Nametag",
   "nrc.ui.modules.description.item_counter": "Zeigt die Anzahl an ausgewählten Items in deinem Inventar. Nützlich um Pfeile, Totems oder anderes anzuzeigen. ",

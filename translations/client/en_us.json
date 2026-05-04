@@ -626,6 +626,7 @@
   "nrc.ui.modules.value.alwaysPreview": "Always preview",
   "nrc.ui.modules.value.previewKey": "Preview key",
   "nrc.ui.modules.value.usePingColor": "Use ping color",
+  "nrc.ui.modules.value.showHud": "Show HUD",
   "nrc.ui.modules.value.renderPingInTab": "Show in tab",
   "nrc.ui.modules.value.pingNameTagPosition": "Position in nametag",
   "nrc.ui.modules.description.item_counter": "Count the amount of listed items in your inventory. Useful for counting arrows, soups or other.",
