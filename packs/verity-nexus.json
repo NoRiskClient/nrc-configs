@@ -562,7 +562,7 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.453-nexus+forge.1.7.10",
+                        "identifier": "26.2.454-nexus+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
