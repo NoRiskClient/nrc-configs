@@ -2289,6 +2289,42 @@
                         "source": null
                     }
                 },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "lRuSLf0Y",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "KibcXkbk",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "lRuSLf0Y",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "KibcXkbk",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "lRuSLf0Y",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "KibcXkbk",
+                        "filename": null,
+                        "source": null
+                    }
+                },
                 "1.21": {
                     "fabric": {
                         "identifier": "yHztKxR5",
@@ -2413,6 +2449,27 @@
                     },
                     "neoforge": {
                         "identifier": "vOXBj8Y3",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "NaRJu6ah",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "NaRJu6ah",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "NaRJu6ah",
                         "filename": null,
                         "source": null
                     }
