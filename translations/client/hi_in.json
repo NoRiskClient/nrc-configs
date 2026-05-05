@@ -173,6 +173,7 @@
   "nrc.cosmetics.skin.toast.change_failed": "स्किन बदलने में विफल",
   "nrc.cosmetics.skin.toast.activate_failed": "स्किन सक्रिय करने में विफल",
   "nrc.cosmetics.outfit.toast.created": "आउटफ़िट बनाया गया",
+  "nrc.cosmetics.outfit.dialog.delete_title": "आउटफ़िट हटाएं",
   "nrc.plus.goodies.claim_all": "सभी का दावा करें",
   "nrc.ui.button.okay": "ठीक है",
   "nrc.ui.dialog.info_title": "जानकारी",

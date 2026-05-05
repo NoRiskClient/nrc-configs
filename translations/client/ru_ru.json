@@ -173,6 +173,7 @@
   "nrc.cosmetics.skin.toast.change_failed": "Не удалось изменить скин",
   "nrc.cosmetics.skin.toast.activate_failed": "Не удалось активировать скин",
   "nrc.cosmetics.outfit.toast.created": "Образ Создан",
+  "nrc.cosmetics.outfit.dialog.delete_title": "Удалить Образ",
   "nrc.plus.goodies.claim_all": "ЗАБРАТЬ ВСЁ",
   "nrc.ui.button.okay": "Окей",
   "nrc.ui.dialog.info_title": "Инфо",

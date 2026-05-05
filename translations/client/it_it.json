@@ -173,6 +173,7 @@
   "nrc.cosmetics.skin.toast.change_failed": "Cambio skin fallito",
   "nrc.cosmetics.skin.toast.activate_failed": "Attivazione skin fallita",
   "nrc.cosmetics.outfit.toast.created": "Outfit Creato",
+  "nrc.cosmetics.outfit.dialog.delete_title": "Elimina Outfit",
   "nrc.plus.goodies.claim_all": "RICHIEDI TUTTO",
   "nrc.ui.button.okay": "Ok",
   "nrc.ui.dialog.info_title": "Info",

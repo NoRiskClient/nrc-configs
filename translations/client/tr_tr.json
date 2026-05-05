@@ -173,6 +173,7 @@
   "nrc.cosmetics.skin.toast.change_failed": "Kaplama değiştirilemedi",
   "nrc.cosmetics.skin.toast.activate_failed": "Kaplama etkinleştirilemedi",
   "nrc.cosmetics.outfit.toast.created": "Kıyafet Oluşturuldu",
+  "nrc.cosmetics.outfit.dialog.delete_title": "Kıyafeti Sil",
   "nrc.plus.goodies.claim_all": "HEPSİNİ AL",
   "nrc.ui.button.okay": "Tamam",
   "nrc.ui.dialog.info_title": "Bilgi",
