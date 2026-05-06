@@ -2289,6 +2289,42 @@
                         "source": null
                     }
                 },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "lRuSLf0Y",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "KibcXkbk",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "lRuSLf0Y",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "KibcXkbk",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "lRuSLf0Y",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "KibcXkbk",
+                        "filename": null,
+                        "source": null
+                    }
+                },
                 "1.21": {
                     "fabric": {
                         "identifier": "yHztKxR5",
@@ -2413,6 +2449,27 @@
                     },
                     "neoforge": {
                         "identifier": "vOXBj8Y3",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "NaRJu6ah",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "NaRJu6ah",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "NaRJu6ah",
                         "filename": null,
                         "source": null
                     }
@@ -3942,12 +3999,12 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "pvcLnrm0",
+                        "identifier": "8sbiz1lS",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "MH9ov9DW",
+                        "identifier": "z4BoJd9I",
                         "filename": null,
                         "source": null
                     }
@@ -4126,7 +4183,7 @@
         "norisk-prod"
     ],
     "isExperimental": false,
-    "autoUpdate": true,
+    "autoUpdate": false,
     "loaderPolicy": {
         "default": {
             "fabric": {
