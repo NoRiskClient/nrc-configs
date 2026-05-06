@@ -23,7 +23,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.420-musa+forge.1.8.9",
+                        "identifier": "26.2.422-musa+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -182,7 +182,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.420-musa+fabric.1.21.11",
+                        "identifier": "26.2.422-musa+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -303,7 +303,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.343-musa+forge.1.8.9",
+                        "identifier": "26.2.346-musa+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -462,7 +462,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.343-musa+fabric.1.21.11",
+                        "identifier": "26.2.346-musa+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -583,7 +583,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.370-musa+forge.1.8.9",
+                        "identifier": "26.2.372-musa+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -742,7 +742,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.370-musa+fabric.1.21.11",
+                        "identifier": "26.2.372-musa+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1463,7 +1463,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.371-musa+forge.1.8.9",
+                        "identifier": "26.2.372-musa+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1622,7 +1622,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.371-musa+fabric.1.21.11",
+                        "identifier": "26.2.372-musa+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
