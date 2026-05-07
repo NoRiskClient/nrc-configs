@@ -1154,5 +1154,8 @@
   "nrc.ui.modules.cosmetics.customTexture.kind.player": "Player",
   "nrc.ui.modules.cosmetics.customTexture.kind.url": "URL",
   "nrc.ui.modules.cosmetics.customTexture.kind.file": "File",
-  "nrc.ui.modules.cosmetics.customTexture.placeholder": "—"
+  "nrc.ui.modules.cosmetics.customTexture.placeholder": "—",
+  "nrc.ui.modules.value.dropStack": "Drop Stack",
+  "nrc.ui.modules.value.dropKey": "Drop Key",
+  "nrc.ui.modules.description.dropStack": "Drops the entire selected hotbar stack with one keypress (same as vanilla Ctrl+Q)."
 }

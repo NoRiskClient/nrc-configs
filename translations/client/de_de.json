@@ -1154,5 +1154,8 @@
   "nrc.ui.modules.cosmetics.customTexture.kind.player": "Spieler",
   "nrc.ui.modules.cosmetics.customTexture.kind.url": "URL",
   "nrc.ui.modules.cosmetics.customTexture.kind.file": "Datei",
-  "nrc.ui.modules.cosmetics.customTexture.placeholder": "—"
+  "nrc.ui.modules.cosmetics.customTexture.placeholder": "—",
+  "nrc.ui.modules.value.dropStack": "Drop Stack",
+  "nrc.ui.modules.value.dropKey": "Drop-Taste",
+  "nrc.ui.modules.description.dropStack": "Wirft den gesamten ausgewählten Hotbar-Stack mit einem Tastendruck ab (wie Vanilla Strg+Q)."
 }
