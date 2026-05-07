@@ -901,6 +901,8 @@
   "nrc.cosmetics.shop.error.invalid_price": "Ungültiger Preis!",
   "nrc.cosmetics.shop.error.already_owned": "Du besitzt diesen Gegenstand bereits.",
   "nrc.cosmetics.shop.error.variant_parent_not_found": "Cosmetic-Variante nicht gefunden!",
+  "nrc.cosmetics.shop.toast.title": "Shop",
+  "nrc.cosmetics.shop.toast.variant_unlocked": "Variante freigeschaltet!",
   "nrc.cosmetics.cape_update.positive": "Cape wurde erfolgreich aktualisiert",
   "nrc.ui.label.no_emotes": "Du besitzt keine Emotes.",
   "nrc.ui.minigames.spectate": "Zuschauen",
