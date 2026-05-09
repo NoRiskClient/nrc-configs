@@ -1126,5 +1126,7 @@
   "nrc.profiles.import.success": "%s moduli importati",
   "nrc.profiles.import.failed": "Importazione fallita",
   "nrc.profiles.import.unknownFormat": "Formato file non riconosciuto",
-  "nrc.profiles.import.back": "Indietro"
+  "nrc.profiles.import.back": "Indietro",
+  "nrc.profiles.import.badlion.title": "Badlion Client",
+  "nrc.profiles.import.badlion.description": "Importa posizioni HUD, moduli e scorciatoie da un profilo Badlion"
 }

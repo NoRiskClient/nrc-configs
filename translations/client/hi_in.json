@@ -1126,5 +1126,7 @@
   "nrc.profiles.import.success": "%s मॉड्यूल आयात किए गए",
   "nrc.profiles.import.failed": "आयात विफल",
   "nrc.profiles.import.unknownFormat": "फ़ाइल प्रारूप पहचाना नहीं गया",
-  "nrc.profiles.import.back": "वापस"
+  "nrc.profiles.import.back": "वापस",
+  "nrc.profiles.import.badlion.title": "Badlion Client",
+  "nrc.profiles.import.badlion.description": "Badlion प्रोफ़ाइल से HUD स्थान, मॉड्यूल और कीबाइंड आयात करें"
 }

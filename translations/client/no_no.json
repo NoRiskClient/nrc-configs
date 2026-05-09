@@ -282,5 +282,7 @@
   "nrc.profiles.import.success": "%s moduler importert",
   "nrc.profiles.import.failed": "Importering mislyktes",
   "nrc.profiles.import.unknownFormat": "Filformat ikke gjenkjent",
-  "nrc.profiles.import.back": "Tilbake"
+  "nrc.profiles.import.back": "Tilbake",
+  "nrc.profiles.import.badlion.title": "Badlion Client",
+  "nrc.profiles.import.badlion.description": "Importer HUD-posisjoner, moduler og tastebindinger fra en Badlion-profil"
 }

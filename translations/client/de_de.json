@@ -159,8 +159,8 @@
   "nrc.cosmetics.ui.exclusive": "EXKLUSIV",
   "nrc.cosmetics.ui.new": "NEU",
   "nrc.cosmetics.ui.shop": "SHOP",
-  "nrc.cosmetics.ui.equip": "ANLEGEN",
-  "nrc.cosmetics.ui.unequip": "ABLEGEN",
+  "nrc.cosmetics.ui.equip": "Anlegen",
+  "nrc.cosmetics.ui.unequip": "Ablegen",
   "nrc.cosmetics.ui.animation_preview_title": "Animations-Vorschau",
   "nrc.cosmetics.ui.unowned_close_confirm": "Du hast Kosmetika angelegt, die du nicht besitzt. Trotzdem schließen?",
   "nrc.cosmetics.skin.dialog.activate_title": "Skin aktivieren",
@@ -485,8 +485,6 @@
   "nrc.voicechat.unmute.successful": "Das Entstummen war erfolgreich",
   "nrc.voicechat.mute.error": "Ein Fehler ist beim Stummschalten aufgetreten. Bitte versuche es erneut",
   "greev.eu.title": "GreevMc Deutsch",
-  "nrc.cosmetics.ui.equip": "Anlegen",
-  "nrc.cosmetics.ui.unequip": "Ablegen",
   "nrc.cosmetics.ui.tooltip.support-a-creator-info": "Du kannst nur alle zwei Wochen einen neuen Creator-Code auswählen. Sobald du einen ausgewählt hast, musst du ihn zwei Wochen lang behalten!",
   "nrc.ui.modules.chat.add_filter": "Filter hinzufügen",
   "nrc.ui.modules.value.chatFilters": "Chat Filter",
@@ -1171,5 +1169,7 @@
   "nrc.profiles.import.success": "%s Module importiert",
   "nrc.profiles.import.failed": "Import fehlgeschlagen",
   "nrc.profiles.import.unknownFormat": "Dateiformat nicht erkannt",
-  "nrc.profiles.import.back": "Zurück"
+  "nrc.profiles.import.back": "Zurück",
+  "nrc.profiles.import.badlion.title": "Badlion Client",
+  "nrc.profiles.import.badlion.description": "HUD-Positionen, Module und Keybinds aus einem Badlion-Profil übernehmen"
 }
