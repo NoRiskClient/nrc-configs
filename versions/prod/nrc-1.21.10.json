@@ -1,0 +1,42 @@
+{
+  "id": "597c7705-9ec9-4fbc-831f-ff3fa74efb0b",
+  "name": "NRC 1.21.10",
+  "path": "noriskclient/new",
+  "game_version": "1.21.10",
+  "loader": "fabric",
+  "loader_version": "0.16.14",
+  "created": "2025-10-22T06:51:17.741Z",
+  "last_played": null,
+  "settings": {
+    "java_path": null,
+    "use_custom_java_path": false,
+    "memory": {
+      "min": 1024,
+      "max": 3584
+    },
+    "resolution": null,
+    "fullscreen": false,
+    "extra_game_args": [],
+    "custom_jvm_args": null
+  },
+  "state": "not_installed",
+  "mods": [],
+  "selected_norisk_pack_id": "norisk-prod",
+  "disabled_norisk_mods_detailed": [],
+  "source_standard_profile_id": null,
+  "group": "NORISK CLIENT",
+  "is_standard_version": true,
+  "description": "NoRisk Client 1.21.10",
+  "banner": {
+    "source": {
+      "type": "url",
+      "url": "https://cdn.norisk.gg/misc/nrc_icon_white_256x256.png"
+    }
+  },
+  "background": null,
+  "norisk_information": {
+    "keep_local_assets": false,
+    "is_experimental": false,
+    "copy_initial_mc_data": true
+  }
+}

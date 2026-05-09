@@ -1,0 +1,37 @@
+{
+  "id": "4150bd9a-2682-4173-9da9-3b4768c44067",
+  "name": "Hide And Seek",
+  "path": "noriskclient/hideandseek",
+  "game_version": "1.21.8",
+  "loader": "fabric",
+  "loader_version": "0.17.2",
+  "created": "1970-01-01T00:00:00Z",
+  "last_played": null,
+  "settings": {
+    "java_path": null,
+    "use_custom_java_path": false,
+    "memory": {
+      "min": 1024,
+      "max": 3048
+    },
+    "resolution": null,
+    "fullscreen": false,
+    "extra_game_args": [],
+    "custom_jvm_args": null
+  },
+  "state": "not_installed",
+  "mods": [],
+  "selected_norisk_pack_id": "hide-and-seek",
+  "disabled_norisk_mods_detailed": [],
+  "source_standard_profile_id": null,
+  "group": "SERVER",
+  "is_standard_version": true,
+  "description": "Hide And Seek",
+  "banner": null,
+  "background": null,
+  "norisk_information": {
+    "keep_local_assets": false,
+    "is_experimental": false,
+    "copy_initial_mc_data": false
+  }
+}

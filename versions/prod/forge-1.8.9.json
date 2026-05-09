@@ -1,0 +1,42 @@
+{
+  "id": "98e6a5c0-cb6b-4f30-8e4d-5b7f8f6a3e2b",
+  "name": "Forge 1.8.9",
+  "path": "noriskclient/legacy",
+  "game_version": "1.8.9",
+  "loader": "forge",
+  "loader_version": "11.15.1.2318",
+  "created": "1970-01-01T00:00:00Z",
+  "last_played": null,
+  "settings": {
+    "java_path": null,
+    "use_custom_java_path": false,
+    "memory": {
+      "min": 1024,
+      "max": 3584
+    },
+    "resolution": null,
+    "fullscreen": false,
+    "extra_game_args": [],
+    "custom_jvm_args": null
+  },
+  "state": "not_installed",
+  "mods": [],
+  "selected_norisk_pack_id": "norisk-prod",
+  "disabled_norisk_mods_detailed": [],
+  "source_standard_profile_id": null,
+  "group": "NORISK CLIENT",
+  "is_standard_version": true,
+  "description": "Standard Forge profile for Minecraft 1.8.9.",
+  "banner": {
+    "source": {
+      "type": "url",
+      "url": "https://cdn.norisk.gg/misc/icons/forge_icon.png"
+    }
+  },
+  "background": null,
+  "norisk_information": {
+    "keep_local_assets": false,
+    "is_experimental": false,
+    "copy_initial_mc_data": true
+  }
+}
