@@ -1128,5 +1128,7 @@
   "nrc.profiles.import.unknownFormat": "Dosya formatı tanınmadı",
   "nrc.profiles.import.back": "Geri",
   "nrc.profiles.import.badlion.title": "Badlion Client",
-  "nrc.profiles.import.badlion.description": "Bir Badlion profilinden HUD konumlarını, modülleri ve tuş atamalarını içe aktar"
+  "nrc.profiles.import.badlion.description": "Bir Badlion profilinden HUD konumlarını, modülleri ve tuş atamalarını içe aktar",
+  "nrc.profiles.import.beta.badge": "BETA",
+  "nrc.profiles.import.beta.warning": "İstemciler arası içe aktarma deneyseldir — bazı ayarlar tam olarak aktarılamayabilir. Lütfen sorunları bildirin!"
 }

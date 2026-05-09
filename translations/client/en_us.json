@@ -1171,5 +1171,7 @@
   "nrc.profiles.import.unknownFormat": "File format not recognized",
   "nrc.profiles.import.back": "Back",
   "nrc.profiles.import.badlion.title": "Badlion Client",
-  "nrc.profiles.import.badlion.description": "Import HUD positions, modules and keybinds from a Badlion profile"
+  "nrc.profiles.import.badlion.description": "Import HUD positions, modules and keybinds from a Badlion profile",
+  "nrc.profiles.import.beta.badge": "BETA",
+  "nrc.profiles.import.beta.warning": "Cross-client import is experimental — some settings may not transfer perfectly. Please report issues!"
 }

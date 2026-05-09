@@ -284,5 +284,7 @@
   "nrc.profiles.import.unknownFormat": "Filformat ikke gjenkjent",
   "nrc.profiles.import.back": "Tilbake",
   "nrc.profiles.import.badlion.title": "Badlion Client",
-  "nrc.profiles.import.badlion.description": "Importer HUD-posisjoner, moduler og tastebindinger fra en Badlion-profil"
+  "nrc.profiles.import.badlion.description": "Importer HUD-posisjoner, moduler og tastebindinger fra en Badlion-profil",
+  "nrc.profiles.import.beta.badge": "BETA",
+  "nrc.profiles.import.beta.warning": "Import mellom klienter er eksperimentell — noen innstillinger overføres kanskje ikke perfekt. Vennligst rapporter feil!"
 }

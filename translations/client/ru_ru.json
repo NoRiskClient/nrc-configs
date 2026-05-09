@@ -1128,5 +1128,7 @@
   "nrc.profiles.import.unknownFormat": "Формат файла не распознан",
   "nrc.profiles.import.back": "Назад",
   "nrc.profiles.import.badlion.title": "Badlion Client",
-  "nrc.profiles.import.badlion.description": "Импортировать позиции HUD, модули и привязки клавиш из профиля Badlion"
+  "nrc.profiles.import.badlion.description": "Импортировать позиции HUD, модули и привязки клавиш из профиля Badlion",
+  "nrc.profiles.import.beta.badge": "BETA",
+  "nrc.profiles.import.beta.warning": "Импорт между клиентами экспериментальный — некоторые настройки могут не перенестись корректно. Пожалуйста, сообщайте о проблемах!"
 }

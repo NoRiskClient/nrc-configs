@@ -1128,5 +1128,7 @@
   "nrc.profiles.import.unknownFormat": "Formato file non riconosciuto",
   "nrc.profiles.import.back": "Indietro",
   "nrc.profiles.import.badlion.title": "Badlion Client",
-  "nrc.profiles.import.badlion.description": "Importa posizioni HUD, moduli e scorciatoie da un profilo Badlion"
+  "nrc.profiles.import.badlion.description": "Importa posizioni HUD, moduli e scorciatoie da un profilo Badlion",
+  "nrc.profiles.import.beta.badge": "BETA",
+  "nrc.profiles.import.beta.warning": "L'importazione tra client è sperimentale — alcune impostazioni potrebbero non essere trasferite perfettamente. Segnala i problemi!"
 }

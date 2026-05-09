@@ -1128,5 +1128,7 @@
   "nrc.profiles.import.unknownFormat": "फ़ाइल प्रारूप पहचाना नहीं गया",
   "nrc.profiles.import.back": "वापस",
   "nrc.profiles.import.badlion.title": "Badlion Client",
-  "nrc.profiles.import.badlion.description": "Badlion प्रोफ़ाइल से HUD स्थान, मॉड्यूल और कीबाइंड आयात करें"
+  "nrc.profiles.import.badlion.description": "Badlion प्रोफ़ाइल से HUD स्थान, मॉड्यूल और कीबाइंड आयात करें",
+  "nrc.profiles.import.beta.badge": "BETA",
+  "nrc.profiles.import.beta.warning": "क्लाइंट के बीच आयात प्रायोगिक है — कुछ सेटिंग्स पूरी तरह से स्थानांतरित नहीं हो सकती हैं। कृपया समस्याएँ रिपोर्ट करें!"
 }
