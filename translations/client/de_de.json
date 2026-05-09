@@ -1157,5 +1157,19 @@
   "nrc.ui.modules.cosmetics.customTexture.placeholder": "—",
   "nrc.ui.modules.value.dropStack": "Drop Stack",
   "nrc.ui.modules.value.dropKey": "Drop-Taste",
-  "nrc.ui.modules.description.dropStack": "Wirft den gesamten ausgewählten Hotbar-Stack mit einem Tastendruck ab (wie Vanilla Strg+Q)."
+  "nrc.ui.modules.description.dropStack": "Wirft den gesamten ausgewählten Hotbar-Stack mit einem Tastendruck ab (wie Vanilla Strg+Q).",
+  "nrc.profiles.import.button": "Importieren",
+  "nrc.profiles.import.title": "Profil importieren",
+  "nrc.profiles.import.feather.title": "Feather Launcher",
+  "nrc.profiles.import.feather.description": "HUD-Positionen, Module und Keybinds aus einem Feather-Profil übernehmen",
+  "nrc.profiles.import.lunar.title": "Lunar Client",
+  "nrc.profiles.import.lunar.description": "HUD-Positionen, Module und Keybinds aus einem Lunar-Profil übernehmen",
+  "nrc.profiles.import.file.title": "Aus Datei",
+  "nrc.profiles.import.file.description": "Datei wählen — Feather/Lunar/NRC-Profil wird automatisch erkannt",
+  "nrc.profiles.import.notFound": "Auf diesem System nicht installiert",
+  "nrc.profiles.import.selectProfile": "Quell-Profil wählen",
+  "nrc.profiles.import.success": "%s Module importiert",
+  "nrc.profiles.import.failed": "Import fehlgeschlagen",
+  "nrc.profiles.import.unknownFormat": "Dateiformat nicht erkannt",
+  "nrc.profiles.import.back": "Zurück"
 }
