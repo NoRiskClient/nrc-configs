@@ -1,0 +1,304 @@
+{
+    "displayName": "NRC Mini",
+    "description": "The social side of NoRiskClient in one mod \u00e2\u20ac\u201d Hosted Worlds, Friends, Cosmetics, Emotes and Capes. No QoL or HUD modules. Drop it into any Forge/Fabric/NeoForge profile to play with your friends.",
+    "inheritsFrom": null,
+    "excludeMods": null,
+    "mods": [
+        {
+            "id": "nrc-mini",
+            "displayName": "nrc-mini",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrc-mini"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "26.2.576-nexus+forge.1.7.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "26.2.578-nexus+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.576-nexus+forge.1.12.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.16.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.64-nexus+forge.1.16.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.18.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.18.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.19.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.19.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.19.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.19.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.20.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.20.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.64-nexus+neoforge.1.21",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.64-nexus+neoforge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.64-nexus+neoforge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.156-nexus+forge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.64-nexus+neoforge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.64-nexus+neoforge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.9": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.64-nexus+neoforge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.64-nexus+neoforge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "26.2.578-nexus+fabric.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.154-nexus+forge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.416-nexus+neoforge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.185-nexus+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.337-nexus+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.185-nexus+forge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.185-nexus+neoforge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.576-nexus+fabric.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.1.185-nexus+forge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.1.185-nexus+neoforge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        }
+    ],
+    "assets": [],
+    "isExperimental": false,
+    "autoUpdate": true,
+    "loaderPolicy": {
+        "default": {
+            "fabric": {
+                "version": "0.19.2",
+                "min": null,
+                "strategy": null
+            }
+        },
+        "byMinecraft": {}
+    },
+    "startupHelper": {
+        "additional_paths": []
+    }
+}
