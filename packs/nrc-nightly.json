@@ -1,0 +1,2106 @@
+{
+    "displayName": "NRC Nightly",
+    "description": "Latest NoRiskClient nightly builds — every NRC module (client, compat, cosmetics, friends, mcreal, minigames, owolib) as separate jars, pulled from the dev-nrc-mini branch. No third-party mods; no nrc-mini/nrc-standalone bundles. Pin to the current Nexus contents — bump module versions in this file when newer nightly builds land.",
+    "inheritsFrom": null,
+    "excludeMods": null,
+    "mods": [
+        {
+            "id": "nrc-client",
+            "displayName": "nrc-client",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrc-client"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.7.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.12.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.16.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.16.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.18.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.18.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.19.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.19.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.19.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.19.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.20.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.20.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.7": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.9": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.602-dev-nrc-mini+fabric.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.602-dev-nrc-mini+forge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.602-dev-nrc-mini+neoforge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
+            "id": "nrc-compat",
+            "displayName": "nrc-compat",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrc-compat"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.7.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.12.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.16.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.16.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.18.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.18.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.19.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.19.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.19.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.19.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.20.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.20.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.7": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.9": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.594-dev-nrc-mini+fabric.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.594-dev-nrc-mini+forge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.594-dev-nrc-mini+neoforge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
+            "id": "nrc-cosmetics",
+            "displayName": "nrc-cosmetics",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrc-cosmetics"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.7.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.12.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.16.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.16.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.18.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.18.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.19.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.19.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.19.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.19.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.20.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.20.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.7": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.9": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.570-dev-nrc-mini+fabric.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.570-dev-nrc-mini+forge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.570-dev-nrc-mini+neoforge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
+            "id": "nrc-friends",
+            "displayName": "nrc-friends",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrc-friends"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.7.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.12.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.16.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.16.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.18.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.18.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.19.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.19.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.19.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.19.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.20.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.20.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.7": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.9": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.419-dev-nrc-mini+fabric.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.419-dev-nrc-mini+forge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.419-dev-nrc-mini+neoforge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
+            "id": "nrc-mcreal",
+            "displayName": "nrc-mcreal",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrc-mcreal"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.7.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.12.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.16.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.16.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.18.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.18.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.19.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.19.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.19.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.19.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.20.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.20.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.7": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.9": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.397-dev-nrc-mini+fabric.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.397-dev-nrc-mini+forge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.397-dev-nrc-mini+neoforge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
+            "id": "nrc-minigames",
+            "displayName": "nrc-minigames",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrc-minigames"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.7.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.12.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.16.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.16.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.18.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.18.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.19.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.19.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.19.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.19.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.20.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.20.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.7": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.9": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.33-dev-nrc-mini+fabric.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.33-dev-nrc-mini+forge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.33-dev-nrc-mini+neoforge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
+            "id": "nrc-owolib",
+            "displayName": "nrc-owolib",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrc-owolib"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.7.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.12.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.16.5": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.16.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.16.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.18.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.18.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.19.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.19.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.19.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.19.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.20.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.20.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.21",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.7": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21.7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.9": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.26.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.26.1.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.543-dev-nrc-mini+fabric.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "forge": {
+                        "identifier": "26.2.543-dev-nrc-mini+forge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "26.2.543-dev-nrc-mini+neoforge.26.1.2",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        }
+    ],
+    "assets": [
+        "norisk-prod",
+        "norisk-dev"
+    ],
+    "isExperimental": false,
+    "autoUpdate": true,
+    "loaderPolicy": {
+        "default": {
+            "fabric": {
+                "version": "0.19.2",
+                "min": null,
+                "strategy": null
+            }
+        },
+        "byMinecraft": {}
+    },
+    "startupHelper": {
+        "additional_paths": []
+    }
+}
