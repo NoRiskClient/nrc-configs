@@ -691,12 +691,12 @@
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.2.576-dev-nrc-mini+fabric.1.21",
+                        "identifier": "26.2.577-dev-nrc-mini+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.576-dev-nrc-mini+forge.1.21",
+                        "identifier": "26.2.577-dev-nrc-mini+forge.1.21",
                         "filename": null,
                         "source": null
                     },
@@ -708,17 +708,17 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.2.576-dev-nrc-mini+fabric.1.21.1",
+                        "identifier": "26.2.577-dev-nrc-mini+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.576-dev-nrc-mini+forge.1.21.1",
+                        "identifier": "26.2.577-dev-nrc-mini+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.576-dev-nrc-mini+neoforge.1.21.1",
+                        "identifier": "26.2.577-dev-nrc-mini+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
