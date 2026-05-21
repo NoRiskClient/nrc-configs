@@ -175,17 +175,17 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.324-verity+fabric.1.21.11",
+                        "identifier": "26.2.578-feat-wm+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.416-nexus+neoforge.1.21.11",
+                        "identifier": "26.2.578-feat-wm+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.21.11",
+                        "identifier": "26.2.578-feat-wm+forge.1.21.11",
                         "filename": null,
                         "source": null
                     }
