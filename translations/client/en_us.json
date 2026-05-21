@@ -375,6 +375,7 @@
   "nrc.ui.modules.value.rotation": "Rotation",
   "nrc.ui.modules.value.scale": "Scale",
   "nrc.ui.modules.value.nightMode": "Night Mode",
+  "nrc.ui.modules.value.tintText": "Tint Text",
   "nrc.ui.modules.value.moduleViewMode": "Module View",
   "nrc.ui.modules.value.scoreboard": "Scoreboard",
   "nrc.ui.modules.value.scrollStrength": "Scroll Strength",
