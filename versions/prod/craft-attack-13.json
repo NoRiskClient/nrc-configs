@@ -1,0 +1,42 @@
+{
+  "id": "d2332f66-9117-4cf3-b35b-6bac4262f984",
+  "name": "Craft Attack 13",
+  "path": "noriskclient/ca13",
+  "game_version": "1.21.10",
+  "loader": "fabric",
+  "loader_version": "0.17.3",
+  "created": "2025-10-25T06:51:17.741Z",
+  "last_played": null,
+  "settings": {
+    "java_path": null,
+    "use_custom_java_path": false,
+    "memory": {
+      "min": 1024,
+      "max": 4084
+    },
+    "resolution": null,
+    "fullscreen": false,
+    "extra_game_args": [],
+    "custom_jvm_args": null
+  },
+  "state": "not_installed",
+  "mods": [],
+  "selected_norisk_pack_id": "craft-attack-13",
+  "disabled_norisk_mods_detailed": [],
+  "source_standard_profile_id": null,
+  "group": "MODPACKS",
+  "is_standard_version": true,
+  "description": "CA13 Mische",
+  "banner": {
+    "source": {
+      "type": "url",
+      "url": "https://cdn.norisk.gg/misc/copper-golem.gif"
+    }
+  },
+  "background": null,
+  "norisk_information": {
+    "keep_local_assets": false,
+    "is_experimental": false,
+    "copy_initial_mc_data": false
+  }
+}

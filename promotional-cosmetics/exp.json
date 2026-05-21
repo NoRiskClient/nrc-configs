@@ -1,0 +1,35 @@
+{
+  "data": {
+    "5776b1be-e15f-4f24-9e64-09bbd907b308": {
+      "string": "Obisidian Collection 2025",
+      "durationInDays": 30,
+      "items": [
+        "a757d6c0-db9b-45ad-ae6d-9f8c21029108",
+        "2a8f403b-656e-4684-a290-bb00d339d6ad",
+        "f932d3b6-7361-49b8-a2ad-fb5cdb1f960e",
+        "e1588551-9fbf-4f26-8ce3-8ae5349f985d"
+      ]
+    },
+    "a6245164-ab3b-4df3-b738-dc5d9cb8e4dd": {
+      "string": "Lotus",
+      "durationInDays": 30,
+      "items": [
+        "949af60d-177d-4fd1-96d4-0a2e9a1a3dc1",
+        "1fcc82a2-ad8b-47fe-b5f9-f2f951f33bee",
+        "1f970494-f4d6-4323-8127-de9eb5129d49",
+        "1031a056-fdae-4410-8511-f896a0e829f7"
+      ]
+    },
+    "e6245164-ab3b-4df3-b738-dc5d9cb8e41d": {
+      "string": "Sunflower",
+      "durationInDays": 30,
+      "items": [
+        "f8144cb5-90eb-477c-9561-3635d2ad5fc8",
+        "6fcc82a2-ad8b-47fe-b5f9-f2f951f33bee",
+        "6f970494-f4d6-4323-8127-de9eb5129d49",
+        "2031a056-fdae-4410-8511-f896a0e829f7",
+        "1825dd74-b206-42b2-88f2-ea66f9e0c0e1"
+      ]
+    }
+  }
+}

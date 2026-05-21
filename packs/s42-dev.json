@@ -1156,14 +1156,9 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "0.12.25+1.21.11",
+                        "identifier": "0.13.0+1.21.11",
                         "filename": null,
-                        "source": {
-                            "type": "maven",
-                            "repositoryRef": "noriskproduction",
-                            "groupId": "io.wispforest",
-                            "artifactId": "owo-lib"
-                        }
+                        "source": null
                     }
                 }
             }
@@ -1373,7 +1368,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21.1",
+                        "identifier": "1.0.36+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
@@ -1394,7 +1389,7 @@
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21.7",
+                        "identifier": "1.0.36+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
@@ -1441,7 +1436,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21.1",
+                        "identifier": "1.0.162+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
@@ -1462,7 +1457,7 @@
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21.7",
+                        "identifier": "1.0.162+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
@@ -1502,56 +1497,56 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.1.5-feat-armor-hud-v2+fabric.1.21",
+                        "identifier": "26.1.6-dev-s42+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.1.5-feat-armor-hud-v2+fabric.1.21.1",
+                        "identifier": "26.1.6-dev-s42+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.1.5-feat-armor-hud-v2+fabric.1.21.4",
+                        "identifier": "26.1.6-dev-s42+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.1.5-feat-armor-hud-v2+fabric.1.21.5",
+                        "identifier": "26.1.6-dev-s42+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.1.5-feat-armor-hud-v2+fabric.1.21.7",
+                        "identifier": "26.1.6-dev-s42+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.1.5-feat-armor-hud-v2+fabric.1.21.8",
+                        "identifier": "26.1.6-dev-s42+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.1.5-feat-armor-hud-v2+fabric.1.21.10",
+                        "identifier": "26.1.6-dev-s42+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.1.5-feat-armor-hud-v2+fabric.1.21.11",
+                        "identifier": "26.1.6-dev-s42+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -1577,7 +1572,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21.1",
+                        "identifier": "1.0.138+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
@@ -1598,7 +1593,7 @@
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21.7",
+                        "identifier": "1.0.138+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
@@ -1645,7 +1640,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21.1",
+                        "identifier": "1.0.27+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
@@ -1666,7 +1661,7 @@
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21.7",
+                        "identifier": "1.0.27+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
@@ -1713,7 +1708,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21.1",
+                        "identifier": "1.0.27+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
@@ -1734,7 +1729,7 @@
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21.7",
+                        "identifier": "1.0.27+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
@@ -1781,7 +1776,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21.1",
+                        "identifier": "1.0.9+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
@@ -1802,7 +1797,7 @@
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21.7",
+                        "identifier": "1.0.9+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
@@ -1849,7 +1844,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21.1",
+                        "identifier": "1.0.55+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
@@ -1870,7 +1865,7 @@
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21.7",
+                        "identifier": "1.0.55+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
@@ -2322,6 +2317,73 @@
                 "1.21.11": {
                     "fabric": {
                         "identifier": "xm69SB7D",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
+            "id": "spotify-overlay",
+            "displayName": "Spotify Overlay",
+            "source": {
+                "type": "modrinth",
+                "projectId": "iRsArBuW",
+                "projectSlug": "spotify-overlay"
+            },
+            "compatibility": {
+                "1.21": {
+                    "fabric": {
+                        "identifier": "1.0.17-SNAPSHOT-fabric,1.21",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "1.0.17-SNAPSHOT-fabric,1.21.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "1.0.17-SNAPSHOT-fabric,1.21.4",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "1.0.17-SNAPSHOT-fabric,1.21.5",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.7": {
+                    "fabric": {
+                        "identifier": "1.0.17-SNAPSHOT-fabric,1.21.7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "1.0.17-SNAPSHOT-fabric,1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "1.0.17-SNAPSHOT-fabric,1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "1.0.17-SNAPSHOT-fabric,1.21.11",
                         "filename": null,
                         "source": null
                     }

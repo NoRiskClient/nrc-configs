@@ -1,6 +1,6 @@
 {
-    "displayName": "Verity Nexus",
-    "description": "Verity Nexus branch testing pack with latest nexus module builds",
+    "displayName": "Nexus S42 (Musa Dev)",
+    "description": "Musa's dev pack for the Spotify nametag feature, branched from Nexus",
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [
@@ -16,261 +16,268 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.576-nexus+forge.1.7.10",
+                        "identifier": "26.2.416-musa+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.324-verity+forge.1.8.9",
+                        "identifier": "26.2.424-musa+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.416-musa+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.16.5",
+                        "identifier": "26.2.416-musa+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.64-nexus+forge.1.16.5",
+                        "identifier": "26.2.416-musa+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.18.2",
+                        "identifier": "26.2.416-musa+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.18.2",
+                        "identifier": "26.2.416-musa+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.19.2",
+                        "identifier": "26.2.416-musa+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.19.2",
+                        "identifier": "26.2.416-musa+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.19.4",
+                        "identifier": "26.2.416-musa+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.19.4",
+                        "identifier": "26.2.416-musa+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.20.1",
+                        "identifier": "26.2.416-musa+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.20.1",
+                        "identifier": "26.2.416-musa+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.21.1",
+                        "identifier": "26.2.416-musa+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.21.1",
+                        "identifier": "26.2.416-musa+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.64-nexus+neoforge.1.21.1",
+                        "identifier": "26.2.416-musa+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.21.4",
+                        "identifier": "26.2.416-musa+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.21.4",
+                        "identifier": "26.2.416-musa+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.64-nexus+neoforge.1.21.4",
+                        "identifier": "26.2.416-musa+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.21.5",
+                        "identifier": "26.2.416-musa+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.156-nexus+forge.1.21.5",
+                        "identifier": "26.2.416-musa+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.64-nexus+neoforge.1.21.5",
+                        "identifier": "26.2.416-musa+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.21.8",
+                        "identifier": "26.2.416-musa+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.21.8",
+                        "identifier": "26.2.416-musa+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.64-nexus+neoforge.1.21.8",
+                        "identifier": "26.2.416-musa+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.21.10",
+                        "identifier": "26.2.416-musa+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.21.10",
+                        "identifier": "26.2.416-musa+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.64-nexus+neoforge.1.21.10",
+                        "identifier": "26.2.416-musa+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.578-feat-wm+fabric.1.21.11",
+                        "identifier": "26.2.424-musa+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.578-feat-wm+neoforge.1.21.11",
+                        "identifier": "26.2.416-musa+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.578-feat-wm+forge.1.21.11",
+                        "identifier": "26.2.416-musa+forge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.26.1",
+                        "identifier": "26.2.416-musa+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.337-nexus+neoforge.26.1",
+                        "identifier": "26.2.416-musa+neoforge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.185-nexus+forge.26.1",
+                        "identifier": "26.2.416-musa+forge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.26.1.1",
+                        "identifier": "26.2.416-musa+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.185-nexus+neoforge.26.1.1",
+                        "identifier": "26.2.416-musa+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.185-nexus+forge.26.1.1",
+                        "identifier": "26.2.416-musa+forge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.26.1.2",
+                        "identifier": "26.2.416-musa+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.185-nexus+neoforge.26.1.2",
+                        "identifier": "26.2.416-musa+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.185-nexus+forge.26.1.2",
+                        "identifier": "26.2.416-musa+forge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.21",
+                        "identifier": "26.2.416-musa+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.21",
+                        "identifier": "26.2.416-musa+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.64-nexus+neoforge.1.21",
+                        "identifier": "26.2.416-musa+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.2.576-nexus+fabric.1.21.9",
+                        "identifier": "26.2.416-musa+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.154-nexus+forge.1.21.9",
+                        "identifier": "26.2.416-musa+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.64-nexus+neoforge.1.21.9",
+                        "identifier": "26.2.416-musa+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
@@ -289,261 +296,268 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.542-nexus+forge.1.7.10",
+                        "identifier": "26.2.341-musa+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.543-nexus+forge.1.8.9",
+                        "identifier": "26.2.346-musa+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.341-musa+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.16.5",
+                        "identifier": "26.2.341-musa+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.297-nexus+forge.1.16.5",
+                        "identifier": "26.2.341-musa+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.18.2",
+                        "identifier": "26.2.341-musa+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.297-nexus+forge.1.18.2",
+                        "identifier": "26.2.341-musa+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.19.2",
+                        "identifier": "26.2.341-musa+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.297-nexus+forge.1.19.2",
+                        "identifier": "26.2.341-musa+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.19.4",
+                        "identifier": "26.2.341-musa+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.297-nexus+forge.1.19.4",
+                        "identifier": "26.2.341-musa+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.20.1",
+                        "identifier": "26.2.341-musa+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.297-nexus+forge.1.20.1",
+                        "identifier": "26.2.341-musa+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.21.1",
+                        "identifier": "26.2.341-musa+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.197-nexus+forge.1.21.1",
+                        "identifier": "26.2.341-musa+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.297-nexus+neoforge.1.21.1",
+                        "identifier": "26.2.341-musa+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.21.4",
+                        "identifier": "26.2.341-musa+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.197-nexus+forge.1.21.4",
+                        "identifier": "26.2.341-musa+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.297-nexus+neoforge.1.21.4",
+                        "identifier": "26.2.341-musa+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.21.5",
+                        "identifier": "26.2.341-musa+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.198-nexus+forge.1.21.5",
+                        "identifier": "26.2.341-musa+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.297-nexus+neoforge.1.21.5",
+                        "identifier": "26.2.341-musa+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.21.8",
+                        "identifier": "26.2.341-musa+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.197-nexus+forge.1.21.8",
+                        "identifier": "26.2.341-musa+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.297-nexus+neoforge.1.21.8",
+                        "identifier": "26.2.341-musa+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.21.10",
+                        "identifier": "26.2.341-musa+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.197-nexus+forge.1.21.10",
+                        "identifier": "26.2.341-musa+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.297-nexus+neoforge.1.21.10",
+                        "identifier": "26.2.341-musa+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.543-nexus+fabric.1.21.11",
+                        "identifier": "26.2.346-musa+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.341-nexus+neoforge.1.21.11",
+                        "identifier": "26.2.341-musa+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.197-nexus+forge.1.21.11",
+                        "identifier": "26.2.341-musa+forge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.26.1",
+                        "identifier": "26.2.341-musa+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.270-nexus+neoforge.26.1",
+                        "identifier": "26.2.341-musa+neoforge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.241-nexus+forge.26.1",
+                        "identifier": "26.2.341-musa+forge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.26.1.1",
+                        "identifier": "26.2.341-musa+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.241-nexus+neoforge.26.1.1",
+                        "identifier": "26.2.341-musa+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.241-nexus+forge.26.1.1",
+                        "identifier": "26.2.341-musa+forge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.26.1.2",
+                        "identifier": "26.2.341-musa+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.241-nexus+neoforge.26.1.2",
+                        "identifier": "26.2.341-musa+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.241-nexus+forge.26.1.2",
+                        "identifier": "26.2.341-musa+forge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.21",
+                        "identifier": "26.2.341-musa+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.197-nexus+forge.1.21",
+                        "identifier": "26.2.341-musa+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.297-nexus+neoforge.1.21",
+                        "identifier": "26.2.341-musa+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.2.542-nexus+fabric.1.21.9",
+                        "identifier": "26.2.341-musa+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.197-nexus+forge.1.21.9",
+                        "identifier": "26.2.341-musa+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.297-nexus+neoforge.1.21.9",
+                        "identifier": "26.2.341-musa+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
@@ -562,261 +576,268 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.525-nexus+forge.1.7.10",
+                        "identifier": "26.2.369-musa+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.294-verity+forge.1.8.9",
+                        "identifier": "26.2.373-musa+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.369-musa+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.16.5",
+                        "identifier": "26.2.369-musa+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.259-nexus+forge.1.16.5",
+                        "identifier": "26.2.369-musa+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.18.2",
+                        "identifier": "26.2.369-musa+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.259-nexus+forge.1.18.2",
+                        "identifier": "26.2.369-musa+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.19.2",
+                        "identifier": "26.2.369-musa+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.259-nexus+forge.1.19.2",
+                        "identifier": "26.2.369-musa+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.19.4",
+                        "identifier": "26.2.369-musa+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.259-nexus+forge.1.19.4",
+                        "identifier": "26.2.369-musa+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.20.1",
+                        "identifier": "26.2.369-musa+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.259-nexus+forge.1.20.1",
+                        "identifier": "26.2.369-musa+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.21.1",
+                        "identifier": "26.2.369-musa+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.182-nexus+forge.1.21.1",
+                        "identifier": "26.2.369-musa+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.259-nexus+neoforge.1.21.1",
+                        "identifier": "26.2.369-musa+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.21.4",
+                        "identifier": "26.2.369-musa+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.182-nexus+forge.1.21.4",
+                        "identifier": "26.2.369-musa+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.259-nexus+neoforge.1.21.4",
+                        "identifier": "26.2.369-musa+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.21.5",
+                        "identifier": "26.2.369-musa+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.184-nexus+forge.1.21.5",
+                        "identifier": "26.2.369-musa+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.259-nexus+neoforge.1.21.5",
+                        "identifier": "26.2.369-musa+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.21.8",
+                        "identifier": "26.2.369-musa+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.182-nexus+forge.1.21.8",
+                        "identifier": "26.2.369-musa+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.259-nexus+neoforge.1.21.8",
+                        "identifier": "26.2.369-musa+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.21.10",
+                        "identifier": "26.2.369-musa+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.182-nexus+forge.1.21.10",
+                        "identifier": "26.2.369-musa+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.259-nexus+neoforge.1.21.10",
+                        "identifier": "26.2.369-musa+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.294-verity+fabric.1.21.11",
+                        "identifier": "26.2.373-musa+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.367-nexus+neoforge.1.21.11",
+                        "identifier": "26.2.369-musa+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.182-nexus+forge.1.21.11",
+                        "identifier": "26.2.369-musa+forge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.26.1",
+                        "identifier": "26.2.369-musa+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.298-nexus+neoforge.26.1",
+                        "identifier": "26.2.369-musa+neoforge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.227-nexus+forge.26.1",
+                        "identifier": "26.2.369-musa+forge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.26.1.1",
+                        "identifier": "26.2.369-musa+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.227-nexus+neoforge.26.1.1",
+                        "identifier": "26.2.369-musa+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.227-nexus+forge.26.1.1",
+                        "identifier": "26.2.369-musa+forge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.26.1.2",
+                        "identifier": "26.2.369-musa+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.227-nexus+neoforge.26.1.2",
+                        "identifier": "26.2.369-musa+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.227-nexus+forge.26.1.2",
+                        "identifier": "26.2.369-musa+forge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.21",
+                        "identifier": "26.2.369-musa+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.182-nexus+forge.1.21",
+                        "identifier": "26.2.369-musa+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.259-nexus+neoforge.1.21",
+                        "identifier": "26.2.369-musa+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.21.9",
+                        "identifier": "26.2.369-musa+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.182-nexus+forge.1.21.9",
+                        "identifier": "26.2.369-musa+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.259-nexus+neoforge.1.21.9",
+                        "identifier": "26.2.369-musa+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
@@ -843,6 +864,13 @@
                 "1.8.9": {
                     "forge": {
                         "identifier": "26.2.407-nexus+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.406-nexus+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
@@ -1120,6 +1148,13 @@
                         "source": null
                     }
                 },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.385-nexus+forge.1.12.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
                 "1.16.5": {
                     "fabric": {
                         "identifier": "26.2.385-nexus+fabric.1.16.5",
@@ -1393,6 +1428,13 @@
                         "source": null
                     }
                 },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.26-nexus+forge.1.12.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
                 "1.21.11": {
                     "fabric": {
                         "identifier": "26.2.26-nexus+fabric.1.21.11",
@@ -1414,261 +1456,268 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.523-nexus+forge.1.7.10",
+                        "identifier": "26.2.367-musa+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.525-nexus+forge.1.8.9",
+                        "identifier": "26.2.372-musa+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "26.2.367-musa+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.16.5",
+                        "identifier": "26.2.367-musa+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.245-nexus+forge.1.16.5",
+                        "identifier": "26.2.367-musa+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.18.2",
+                        "identifier": "26.2.367-musa+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.245-nexus+forge.1.18.2",
+                        "identifier": "26.2.367-musa+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.19.2",
+                        "identifier": "26.2.367-musa+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.245-nexus+forge.1.19.2",
+                        "identifier": "26.2.367-musa+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.19.4",
+                        "identifier": "26.2.367-musa+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.245-nexus+forge.1.19.4",
+                        "identifier": "26.2.367-musa+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.20.1",
+                        "identifier": "26.2.367-musa+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.245-nexus+forge.1.20.1",
+                        "identifier": "26.2.367-musa+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.21.1",
+                        "identifier": "26.2.367-musa+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.186-nexus+forge.1.21.1",
+                        "identifier": "26.2.367-musa+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.245-nexus+neoforge.1.21.1",
+                        "identifier": "26.2.367-musa+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.21.4",
+                        "identifier": "26.2.367-musa+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.186-nexus+forge.1.21.4",
+                        "identifier": "26.2.367-musa+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.245-nexus+neoforge.1.21.4",
+                        "identifier": "26.2.367-musa+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.21.5",
+                        "identifier": "26.2.367-musa+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.188-nexus+forge.1.21.5",
+                        "identifier": "26.2.367-musa+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.245-nexus+neoforge.1.21.5",
+                        "identifier": "26.2.367-musa+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.21.8",
+                        "identifier": "26.2.367-musa+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.186-nexus+forge.1.21.8",
+                        "identifier": "26.2.367-musa+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.245-nexus+neoforge.1.21.8",
+                        "identifier": "26.2.367-musa+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.21.10",
+                        "identifier": "26.2.367-musa+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.186-nexus+forge.1.21.10",
+                        "identifier": "26.2.367-musa+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.245-nexus+neoforge.1.21.10",
+                        "identifier": "26.2.367-musa+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.525-nexus+fabric.1.21.11",
+                        "identifier": "26.2.372-musa+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.367-nexus+neoforge.1.21.11",
+                        "identifier": "26.2.367-musa+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.186-nexus+forge.1.21.11",
+                        "identifier": "26.2.367-musa+forge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.26.1",
+                        "identifier": "26.2.367-musa+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.2.300-nexus+neoforge.26.1",
+                        "identifier": "26.2.367-musa+neoforge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.228-nexus+forge.26.1",
+                        "identifier": "26.2.367-musa+forge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.26.1.1",
+                        "identifier": "26.2.367-musa+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.228-nexus+neoforge.26.1.1",
+                        "identifier": "26.2.367-musa+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.228-nexus+forge.26.1.1",
+                        "identifier": "26.2.367-musa+forge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.26.1.2",
+                        "identifier": "26.2.367-musa+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.228-nexus+neoforge.26.1.2",
+                        "identifier": "26.2.367-musa+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.228-nexus+forge.26.1.2",
+                        "identifier": "26.2.367-musa+forge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.21",
+                        "identifier": "26.2.367-musa+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.186-nexus+forge.1.21",
+                        "identifier": "26.2.367-musa+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.245-nexus+neoforge.1.21",
+                        "identifier": "26.2.367-musa+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.2.523-nexus+fabric.1.21.9",
+                        "identifier": "26.2.367-musa+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.1.186-nexus+forge.1.21.9",
+                        "identifier": "26.2.367-musa+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.1.245-nexus+neoforge.1.21.9",
+                        "identifier": "26.2.367-musa+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
@@ -2275,6 +2324,13 @@
                 "1.8.9": {
                     "forge": {
                         "identifier": "WiIRU3UP",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.12.2": {
+                    "forge": {
+                        "identifier": "knltv3Vh",
                         "filename": null,
                         "source": null
                     }
@@ -2937,6 +2993,13 @@
                 "artifactId": "nrcvoicechat"
             },
             "compatibility": {
+                "1.21": {
+                    "fabric": {
+                        "identifier": "26.2.19-beta+fabric.1.21",
+                        "filename": null,
+                        "source": null
+                    }
+                },
                 "1.21.1": {
                     "fabric": {
                         "identifier": "26.2.19-beta+fabric.1.21.1",
@@ -2958,9 +3021,23 @@
                         "source": null
                     }
                 },
+                "1.21.7": {
+                    "fabric": {
+                        "identifier": "26.2.19-beta+fabric.1.21.7",
+                        "filename": null,
+                        "source": null
+                    }
+                },
                 "1.21.8": {
                     "fabric": {
                         "identifier": "26.2.19-beta+fabric.1.21.8",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.9": {
+                    "fabric": {
+                        "identifier": "26.2.19-beta+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     }
@@ -2982,6 +3059,20 @@
                 "26.1": {
                     "fabric": {
                         "identifier": "26.2.19-beta+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.2.19-beta+fabric.26.1.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.2.19-beta+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     }
@@ -4035,7 +4126,7 @@
         "norisk-prod",
         "norisk-dev"
     ],
-    "isExperimental": false,
+    "isExperimental": true,
     "autoUpdate": true,
     "loaderPolicy": {
         "default": {
