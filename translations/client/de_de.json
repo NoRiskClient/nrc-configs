@@ -771,6 +771,7 @@
   "nrc.ui.shop.filter.affordable": "Bezahlbar",
   "nrc.ui.shop.filter.new": "Neu",
   "nrc.ui.shop.filter.owned": "Im Besitz",
+  "nrc.ui.shop.browse_all": "Alle anzeigen",
   "nrc.ui.modules.value.additionalNametagSize": "Größe",
   "nrc.ui.shortcuts.disable_snapping": "Einrasten deaktivieren",
   "nrc.ui.shortcuts.open_last_module": "Letztes Modul öffnen",
