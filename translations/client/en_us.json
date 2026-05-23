@@ -1123,6 +1123,7 @@
   "nrc.ui.modules.description.itemHighlighter": "Highlight configured items with a colored outline.",
   "nrc.ui.modules.description.itemModel": "Edit held-item model transformations.",
   "nrc.ui.modules.description.jumpReset": "Visual indicator for optimal jump reset timing in PvP.",
+  "nrc.ui.modules.description.lowFire": "Moves the fire overlay down in first person.",
   "nrc.ui.modules.description.mcReal": "Daily photo feature — share real moments with friends.",
   "nrc.ui.modules.description.nRC+": "Premium features and perks for NRC+ subscribers.",
   "nrc.ui.modules.description.noAdvancement": "Hide the advancement popups.",

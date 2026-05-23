@@ -1123,6 +1123,7 @@
   "nrc.ui.modules.description.itemHighlighter": "Hebt konfigurierte Items mit farbigem Umriss hervor.",
   "nrc.ui.modules.description.itemModel": "Bearbeite die Transformation gehaltener Item-Modelle.",
   "nrc.ui.modules.description.jumpReset": "Visuelle Anzeige für optimales Jump-Reset-Timing im PvP.",
+  "nrc.ui.modules.description.lowFire": "Verschiebt den Feuer-Overlay nach unten in der Ich-Perspektive.",
   "nrc.ui.modules.description.mcReal": "Tägliches Foto-Feature — teile echte Momente mit Freunden.",
   "nrc.ui.modules.description.nRC+": "Premium-Funktionen und Vorteile für NRC+ Abonnenten.",
   "nrc.ui.modules.description.noAdvancement": "Blendet die Fortschritts-Popups aus.",
