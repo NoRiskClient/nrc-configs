@@ -157,6 +157,8 @@
   "nrc.cosmetics.ui.code_label": "CODICE:",
   "nrc.cosmetics.ui.support_a_creator": "Supporta Un Creator",
   "nrc.cosmetics.ui.exclusive": "ESCLUSIVO",
+  "nrc.cosmetics.ui.unlock": "SBLOCCA",
+  "nrc.cosmetics.ui.exclusive.tooltip.title": "COME SBLOCCARE",
   "nrc.cosmetics.ui.new": "NUOVO",
   "nrc.cosmetics.ui.shop": "NEGOZIO",
   "nrc.cosmetics.ui.equip": "Equipaggia",

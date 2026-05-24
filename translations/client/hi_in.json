@@ -157,6 +157,8 @@
   "nrc.cosmetics.ui.code_label": "कोड:",
   "nrc.cosmetics.ui.support_a_creator": "एक क्रिएटर का समर्थन करें",
   "nrc.cosmetics.ui.exclusive": "विशेष",
+  "nrc.cosmetics.ui.unlock": "अनलॉक करें",
+  "nrc.cosmetics.ui.exclusive.tooltip.title": "कैसे अनलॉक करें",
   "nrc.cosmetics.ui.new": "नया",
   "nrc.cosmetics.ui.shop": "दुकान",
   "nrc.cosmetics.ui.equip": "पहनें",

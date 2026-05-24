@@ -157,6 +157,8 @@
   "nrc.cosmetics.ui.code_label": "KOD:",
   "nrc.cosmetics.ui.support_a_creator": "Wesprzyj Twórcę",
   "nrc.cosmetics.ui.exclusive": "EKSKLUZYWNY",
+  "nrc.cosmetics.ui.unlock": "ODBLOKUJ",
+  "nrc.cosmetics.ui.exclusive.tooltip.title": "JAK ODBLOKOWAĆ",
   "nrc.cosmetics.ui.new": "NOWY",
   "nrc.cosmetics.ui.shop": "SKLEP",
   "nrc.cosmetics.ui.equip": "Załóż",

@@ -157,6 +157,8 @@
   "nrc.cosmetics.ui.code_label": "CÓDIGO:",
   "nrc.cosmetics.ui.support_a_creator": "Apoya A Un Creador",
   "nrc.cosmetics.ui.exclusive": "EXCLUSIVO",
+  "nrc.cosmetics.ui.unlock": "DESBLOQUEAR",
+  "nrc.cosmetics.ui.exclusive.tooltip.title": "CÓMO DESBLOQUEAR",
   "nrc.cosmetics.ui.new": "NUEVO",
   "nrc.cosmetics.ui.shop": "TIENDA",
   "nrc.cosmetics.ui.equip": "Equipar",

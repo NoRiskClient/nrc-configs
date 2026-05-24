@@ -157,6 +157,8 @@
   "nrc.cosmetics.ui.code_label": "KOD:",
   "nrc.cosmetics.ui.support_a_creator": "Bir Yaratıcıyı Destekle",
   "nrc.cosmetics.ui.exclusive": "ÖZEL",
+  "nrc.cosmetics.ui.unlock": "KİLİDİ AÇ",
+  "nrc.cosmetics.ui.exclusive.tooltip.title": "NASIL KİLİDİ AÇILIR",
   "nrc.cosmetics.ui.new": "YENİ",
   "nrc.cosmetics.ui.shop": "MAĞAZA",
   "nrc.cosmetics.ui.equip": "Tak",

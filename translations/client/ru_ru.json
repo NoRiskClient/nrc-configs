@@ -157,6 +157,8 @@
   "nrc.cosmetics.ui.code_label": "КОД:",
   "nrc.cosmetics.ui.support_a_creator": "Поддержи Создателя",
   "nrc.cosmetics.ui.exclusive": "ЭКСКЛЮЗИВ",
+  "nrc.cosmetics.ui.unlock": "РАЗБЛОКИРОВАТЬ",
+  "nrc.cosmetics.ui.exclusive.tooltip.title": "КАК РАЗБЛОКИРОВАТЬ",
   "nrc.cosmetics.ui.new": "НОВОЕ",
   "nrc.cosmetics.ui.shop": "МАГАЗИН",
   "nrc.cosmetics.ui.equip": "Надеть",
