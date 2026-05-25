@@ -1205,11 +1205,19 @@
   "nrc.auth.select.badge.expired": "Refresh",
   "nrc.auth.select.devicecode.requesting": "Just a sec, getting things ready…",
   "nrc.auth.select.devicecode.title": "Sign in with Microsoft",
-  "nrc.auth.select.devicecode.blurb": "Microsoft is open in your browser. Sign in and you're done.",
+  "nrc.auth.select.devicecode.blurb": "Microsoft is open in your browser.\nSign in and you're done.",
+  "nrc.auth.select.devicecode.reopenLink": "↗ Click to re-open browser",
   "nrc.auth.select.devicecode.openBrowser": "Open in Browser",
   "nrc.auth.select.devicecode.waiting": "Waiting for you to sign in…",
   "nrc.auth.select.devicecode.fallbackLabel": "Code (only if needed)",
   "nrc.auth.select.devicecode.copy": "Copy",
   "nrc.auth.select.devicecode.copied": "Copied!",
-  "nrc.auth.select.devicecode.cancel": "Cancel"
+  "nrc.auth.select.devicecode.cancel": "Cancel",
+  "nrc.auth.select.devicecode.finishing": "Signing you in…",
+  "nrc.auth.select.devicecode.step.xbox": "Connecting to Xbox Live…",
+  "nrc.auth.select.devicecode.step.authorize": "Authorizing your account…",
+  "nrc.auth.select.devicecode.step.token": "Getting your Minecraft token…",
+  "nrc.auth.select.devicecode.step.license": "Checking your Minecraft license…",
+  "nrc.auth.select.devicecode.step.profile": "Loading your Minecraft profile…",
+  "nrc.auth.select.devicecode.step.finalizing": "Almost done…"
 }

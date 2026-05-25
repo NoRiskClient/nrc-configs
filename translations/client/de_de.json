@@ -1205,11 +1205,19 @@
   "nrc.auth.select.badge.expired": "Erneuern",
   "nrc.auth.select.devicecode.requesting": "Einen Moment, wird vorbereitet…",
   "nrc.auth.select.devicecode.title": "Mit Microsoft anmelden",
-  "nrc.auth.select.devicecode.blurb": "Microsoft ist in deinem Browser geöffnet. Anmelden und fertig.",
+  "nrc.auth.select.devicecode.blurb": "Microsoft ist in deinem Browser geöffnet.\nAnmelden und fertig.",
+  "nrc.auth.select.devicecode.reopenLink": "↗ Klick um Browser erneut zu öffnen",
   "nrc.auth.select.devicecode.openBrowser": "Im Browser öffnen",
   "nrc.auth.select.devicecode.waiting": "Warte auf deine Anmeldung…",
   "nrc.auth.select.devicecode.fallbackLabel": "Code (nur falls nötig)",
   "nrc.auth.select.devicecode.copy": "Kopieren",
   "nrc.auth.select.devicecode.copied": "Kopiert!",
-  "nrc.auth.select.devicecode.cancel": "Abbrechen"
+  "nrc.auth.select.devicecode.cancel": "Abbrechen",
+  "nrc.auth.select.devicecode.finishing": "Du wirst angemeldet…",
+  "nrc.auth.select.devicecode.step.xbox": "Verbinde mit Xbox Live…",
+  "nrc.auth.select.devicecode.step.authorize": "Autorisiere deinen Account…",
+  "nrc.auth.select.devicecode.step.token": "Hole dein Minecraft-Token…",
+  "nrc.auth.select.devicecode.step.license": "Prüfe deine Minecraft-Lizenz…",
+  "nrc.auth.select.devicecode.step.profile": "Lade dein Minecraft-Profil…",
+  "nrc.auth.select.devicecode.step.finalizing": "Gleich fertig…"
 }
