@@ -1048,6 +1048,7 @@
   "nrc.ui.modules.value.system": "System",
   "nrc.ui.modules.value.tutorial": "Tutorial",
   "nrc.ui.modules.value.v3BorderWidth": "V3 Border Width",
+  "nrc.ui.modules.value.closeOnRShift": "Close on Right Shift",
   "nrc.ui.modules.value.waitForServer": "Wait For Server",
   "nrc.ui.modules.value.actionBar": "Action Bar",
   "nrc.ui.modules.value.armorStatus": "Armor Status",

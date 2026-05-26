@@ -1019,6 +1019,7 @@
   "nrc.ui.modules.value.system": "Sistema",
   "nrc.ui.modules.value.tutorial": "Tutorial",
   "nrc.ui.modules.value.v3BorderWidth": "Larghezza Bordo V3",
+  "nrc.ui.modules.value.closeOnRShift": "Chiudi con Shift destro",
   "nrc.ui.modules.value.waitForServer": "Aspetta il Server",
   "nrc.ui.modules.value.actionBar": "Barra di Azione",
   "nrc.ui.modules.value.armorStatus": "Stato Armatura",

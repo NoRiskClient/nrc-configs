@@ -1048,6 +1048,7 @@
   "nrc.ui.modules.value.system": "System",
   "nrc.ui.modules.value.tutorial": "Tutorial",
   "nrc.ui.modules.value.v3BorderWidth": "V3 Rahmen-Breite",
+  "nrc.ui.modules.value.closeOnRShift": "Mit Rechter Shift schließen",
   "nrc.ui.modules.value.waitForServer": "Auf Server warten",
   "nrc.ui.modules.value.actionBar": "Aktionsleiste",
   "nrc.ui.modules.value.armorStatus": "Rüstungsstatus",

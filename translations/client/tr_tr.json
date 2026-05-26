@@ -1019,6 +1019,7 @@
   "nrc.ui.modules.value.system": "Sistem",
   "nrc.ui.modules.value.tutorial": "Eğitim",
   "nrc.ui.modules.value.v3BorderWidth": "V3 Kenar Genişliği",
+  "nrc.ui.modules.value.closeOnRShift": "Sağ Shift ile kapat",
   "nrc.ui.modules.value.waitForServer": "Sunucuyu Bekle",
   "nrc.ui.modules.value.actionBar": "Eylem Çubuğu",
   "nrc.ui.modules.value.armorStatus": "Zırh Durumu",

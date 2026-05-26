@@ -1019,6 +1019,7 @@
   "nrc.ui.modules.value.system": "सिस्टम",
   "nrc.ui.modules.value.tutorial": "ट्यूटोरियल",
   "nrc.ui.modules.value.v3BorderWidth": "V3 सीमा चौड़ाई",
+  "nrc.ui.modules.value.closeOnRShift": "राइट शिफ्ट से बंद करें",
   "nrc.ui.modules.value.waitForServer": "सर्वर की प्रतीक्षा करें",
   "nrc.ui.modules.value.actionBar": "एक्शन बार",
   "nrc.ui.modules.value.armorStatus": "कवच स्थिति",

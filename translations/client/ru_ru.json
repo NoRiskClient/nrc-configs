@@ -1019,6 +1019,7 @@
   "nrc.ui.modules.value.system": "Система",
   "nrc.ui.modules.value.tutorial": "Обучение",
   "nrc.ui.modules.value.v3BorderWidth": "Ширина Границы V3",
+  "nrc.ui.modules.value.closeOnRShift": "Закрывать правым Shift",
   "nrc.ui.modules.value.waitForServer": "Ждать Сервер",
   "nrc.ui.modules.value.actionBar": "Панель Действий",
   "nrc.ui.modules.value.armorStatus": "Статус Брони",

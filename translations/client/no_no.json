@@ -1,6 +1,7 @@
 {
   "nrc.ui.modules.value.scale": "Skala: %s",
   "nrc.ui.modules.value.nightMode": "Nattmodus",
+  "nrc.ui.modules.value.closeOnRShift": "Lukk med høyre Shift",
   "nrc.ui.modules.value.moduleViewMode": "Modulvisning",
   "nrc.ui.modules.value.background": "Bakgrunn",
   "nrc.ui.modules.value.multiColor": "Flerfarget",

@@ -1019,6 +1019,7 @@
   "nrc.ui.modules.value.system": "System",
   "nrc.ui.modules.value.tutorial": "Samouczek",
   "nrc.ui.modules.value.v3BorderWidth": "Szerokość Obramowania V3",
+  "nrc.ui.modules.value.closeOnRShift": "Zamknij prawym Shiftem",
   "nrc.ui.modules.value.waitForServer": "Czekaj na Serwer",
   "nrc.ui.modules.value.actionBar": "Pasek Akcji",
   "nrc.ui.modules.value.armorStatus": "Status Zbroi",

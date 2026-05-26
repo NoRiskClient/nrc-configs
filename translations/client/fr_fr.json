@@ -1019,6 +1019,7 @@
   "nrc.ui.modules.value.system": "Système",
   "nrc.ui.modules.value.tutorial": "Tutoriel",
   "nrc.ui.modules.value.v3BorderWidth": "Largeur de Bordure V3",
+  "nrc.ui.modules.value.closeOnRShift": "Fermer avec Maj droite",
   "nrc.ui.modules.value.waitForServer": "Attendre le Serveur",
   "nrc.ui.modules.value.actionBar": "Barre d'Action",
   "nrc.ui.modules.value.armorStatus": "Statut de l'Armure",
