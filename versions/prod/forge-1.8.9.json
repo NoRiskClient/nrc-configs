@@ -1,6 +1,6 @@
 {
   "id": "98e6a5c0-cb6b-4f30-8e4d-5b7f8f6a3e2b",
-  "name": "Forge 1.8.9",
+  "name": "NRC 1.8.9",
   "path": "noriskclient/legacy",
   "game_version": "1.8.9",
   "loader": "forge",
@@ -30,7 +30,7 @@
   "banner": {
     "source": {
       "type": "url",
-      "url": "https://cdn.norisk.gg/misc/icons/forge_icon.png"
+      "url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.8.9/assets/minecraft/textures/blocks/prismarine_bricks.png"
     }
   },
   "background": null,
