@@ -1,0 +1,42 @@
+{
+  "id": "95d58aaa-7635-4635-8e3c-a4a6a48e9a06",
+  "name": "NRC 1.7.10",
+  "path": "noriskclient/legacy",
+  "game_version": "1.7.10",
+  "loader": "forge",
+  "loader_version": "11.15.1.2318",
+  "created": "1970-01-01T00:00:00Z",
+  "last_played": null,
+  "settings": {
+    "java_path": null,
+    "use_custom_java_path": false,
+    "memory": {
+      "min": 1024,
+      "max": 3584
+    },
+    "resolution": null,
+    "fullscreen": false,
+    "extra_game_args": [],
+    "custom_jvm_args": null
+  },
+  "state": "not_installed",
+  "mods": [],
+  "selected_norisk_pack_id": "norisk-prod",
+  "disabled_norisk_mods_detailed": [],
+  "source_standard_profile_id": null,
+  "group": "NORISK CLIENT",
+  "is_standard_version": true,
+  "description": "Standard Forge profile for Minecraft 1.7.10",
+  "banner": {
+    "source": {
+      "type": "url",
+      "url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.7.10/assets/minecraft/textures/blocks/planks_acacia.png"
+    }
+  },
+  "background": null,
+  "norisk_information": {
+    "keep_local_assets": false,
+    "is_experimental": false,
+    "copy_initial_mc_data": false
+  }
+}
