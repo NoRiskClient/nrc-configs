@@ -37,6 +37,6 @@
   "norisk_information": {
     "keep_local_assets": false,
     "is_experimental": false,
-    "copy_initial_mc_data": true
+    "copy_initial_mc_data": false
   }
 }

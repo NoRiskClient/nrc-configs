@@ -1,11 +1,11 @@
 {
-  "id": "61105516-c4ff-43ee-b6b7-37578cfc9d10",
-  "name": "NRC 1.21.11 (BETA)",
+  "id": "cdbb927b-8739-4edb-8ca4-cbf8b090b247",
+  "name": "NRC 26.1.2 (BETA)",
   "path": "noriskclient/new",
-  "game_version": "1.21.11",
+  "game_version": "26.1.2",
   "loader": "fabric",
   "loader_version": "0.18.3",
-  "created": "2026-01-27T11:12:04.248Z",
+  "created": "2026-05-27T11:12:04.248Z",
   "last_played": null,
   "settings": {
     "java_path": null,
@@ -26,11 +26,11 @@
   "source_standard_profile_id": null,
   "group": "NORISK CLIENT",
   "is_standard_version": true,
-  "description": "NoRisk Client 1.21.11 (BETA)",
+  "description": "NoRisk Client 26.1.2 (BETA)",
   "banner": {
     "source": {
       "type": "url",
-      "url": "https://cdn.norisk.gg/misc/nrc_icon_white_256x256.png"
+      "url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/26.1.2/assets/minecraft/textures/block/golden_dandelion.png"
     }
   },
   "background": null,
