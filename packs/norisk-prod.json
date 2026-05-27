@@ -5,1492 +5,6 @@
   "excludeMods": null,
   "mods": [
     {
-      "id": "fabric-api",
-      "displayName": "Fabric API",
-      "source": {
-        "type": "modrinth",
-        "projectId": "P7dR8mSH",
-        "projectSlug": "fabric-api"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "0.116.4+1.21.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "0.116.2+1.21.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "0.115.1+1.21.4",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "0.123.2+1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "0.129.0+1.21.7",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "0.131.0+1.21.8",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "0.135.0+1.21.10",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "0.140.0+1.21.11",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "fabric-language-kotlin",
-      "displayName": "Fabric Kotlin",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "fabric",
-        "groupId": "net.fabricmc",
-        "artifactId": "fabric-language-kotlin"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.13.7+kotlin.2.2.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "1.13.7+kotlin.2.2.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "1.13.7+kotlin.2.2.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "1.13.7+kotlin.2.2.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "1.13.7+kotlin.2.2.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "1.13.7+kotlin.2.2.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "1.13.7+kotlin.2.2.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "1.13.7+kotlin.2.2.21",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "sodium",
-      "displayName": "Sodium",
-      "source": {
-        "type": "modrinth",
-        "projectId": "AANobbMI",
-        "projectSlug": "sodium"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "mc1.21-0.5.11",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "mc1.21.1-0.6.13-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "mc1.21.4-0.6.10-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "mc1.21.5-0.6.13-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "mc1.21.6-0.6.13-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "mc1.21.8-0.7.0-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "mc1.21.10-0.7.2-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "mc1.21.11-0.8.1-fabric",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "appleskin",
-      "displayName": "AppleSkin",
-      "source": {
-        "type": "modrinth",
-        "projectId": "EsAfCjCV",
-        "projectSlug": "appleskin"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "3.0.6+mc1.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "3.0.6+mc1.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "cHQjeYVS",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "VfjnbBAT",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "3.0.6+mc1.21.6",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "3.0.6+mc1.21.6",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "3.0.7+mc1.21.9",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "pvcLnrm0",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "health-indicators",
-      "displayName": "health-indicators",
-      "source": {
-        "type": "modrinth",
-        "projectId": "htkVd6dQ",
-        "projectSlug": "health-indicators"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "21.1.3",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "21.1.3",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "21.2.2-beta",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "21.5.2",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "21.6.0",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "21.6.0",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "21.9.1-beta",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "controlling",
-      "displayName": "Controlling",
-      "source": {
-        "type": "modrinth",
-        "projectId": "xv94TkTM",
-        "projectSlug": "controlling"
-      },
-      "compatibility": {
-        "1.21.7": {
-          "fabric": {
-            "identifier": "25.0.2",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "22.0.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "23.0.2",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21": {
-          "fabric": {
-            "identifier": "18.0.4",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "19.0.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "26.0.3",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "28.0.2",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "29.0.1",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "searchables",
-      "displayName": "Searchables",
-      "source": {
-        "type": "modrinth",
-        "projectId": "fuuu3xnx",
-        "projectSlug": "searchables"
-      },
-      "compatibility": {
-        "1.21.7": {
-          "fabric": {
-            "identifier": "SMSx9bul",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "7QUINkOj",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "Z4JnRLbU",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21": {
-          "fabric": {
-            "identifier": "8zrcFuRP",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "tRdr8Bg3",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "LLzPBiwT",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "tV7Ai2Tq",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "lBaUf76M",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "cubes-without-borders",
-      "displayName": "cubes-without-borders",
-      "source": {
-        "type": "modrinth",
-        "projectId": "ETlrkaYF",
-        "projectSlug": "cubes-without-borders"
-      },
-      "compatibility": {
-        "1.21.10": {
-          "fabric": {
-            "identifier": "3.0.0+1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "3.0.0+1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "3.0.0+1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "3.0.0+1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "3.0.0+1.21",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "silk",
-      "displayName": "Silk",
-      "source": {
-        "type": "modrinth",
-        "projectId": "aTaCgKLW",
-        "projectSlug": "silk"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.10.7",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "1.10.7",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "1.11.0",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "1.11.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "1.11.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "1.11.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "1.11.4",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "1.11.5",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "yacl",
-      "displayName": "yacl",
-      "source": {
-        "type": "modrinth",
-        "projectId": "1eAoo2KR",
-        "projectSlug": "yacl"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "3.7.1+1.21.1-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "3.7.1+1.21.1-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "3.7.1+1.21.4-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "3.7.1+1.21.5-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "3.7.1+1.21.6-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "3.7.1+1.21.6-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "3.8.0+1.21.9-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "3.8.1+1.21.11-fabric",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "architectury-api",
-      "displayName": "architectury-api",
-      "source": {
-        "type": "modrinth",
-        "projectId": "lhGA9TYQ",
-        "projectSlug": "architectury-api"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "13.0.8+fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "13.0.8+fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "15.0.3+fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "16.1.4+fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "17.0.8+fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "17.0.8+fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "18.0.5+fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "19.0.1+fabric",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "lithium",
-      "displayName": "Lithium",
-      "source": {
-        "type": "modrinth",
-        "projectId": "gvQqBUqZ",
-        "projectSlug": "lithium"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "mc1.21-0.12.7",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "mc1.21.1-0.15.0-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "mc1.21.4-0.14.7-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "mc1.21.5-0.16.2-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "mc1.21.7-0.18.0-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "mc1.21.8-0.18.0-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "mc1.21.10-0.20.0-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "mc1.21.11-0.21.1-fabric",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "indium",
-      "displayName": "Indium",
-      "source": {
-        "type": "modrinth",
-        "projectId": "Orvt0mRa",
-        "projectSlug": "indium"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.0.35+mc1.21",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "satin-api",
-      "displayName": "Satin Api",
-      "source": {
-        "type": "modrinth",
-        "projectId": "mACY2k1I",
-        "projectSlug": "satin-api"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "2.0.0",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "2.0.0",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "modmenu",
-      "displayName": "ModMenu",
-      "source": {
-        "type": "modrinth",
-        "projectId": "mOgUt4GM",
-        "projectSlug": "modmenu"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "11.0.3",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "11.0.3",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "13.0.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "14.0.0-rc.2",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "15.0.0-beta.3",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "15.0.0-beta.3",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "16.0.0-rc.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "17.0.0-alpha.1",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "immediatelyfast",
-      "displayName": "ImmediatelyFast",
-      "source": {
-        "type": "modrinth",
-        "projectId": "5ZwdcRci",
-        "projectSlug": "immediatelyfast"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.6.5+1.21.1-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "1.6.5+1.21.1-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "1.8.0+1.21.4-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "1.9.5+1.21.5-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "1.11.0+1.21.7-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "1.12.1+1.21.8-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "1.13.1+1.21.10-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "1.14.0+1.21.11-fabric",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "nvidium",
-      "displayName": "Nvidium",
-      "source": {
-        "type": "modrinth",
-        "projectId": "t1VgQEt1",
-        "projectSlug": "nvidium"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "0.3.1",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "ferrite-core",
-      "displayName": "FerriteCore",
-      "source": {
-        "type": "modrinth",
-        "projectId": "uXXizFIs",
-        "projectSlug": "ferrite-core"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "7.0.0-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "7.0.2-hotfix-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "7.1.1-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "8.0.0-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "8.0.0-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "8.0.0-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "8.0.0-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "8.0.3-fabric",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "geckolib",
-      "displayName": "GeckoLib",
-      "source": {
-        "type": "modrinth",
-        "projectId": "8BmcQJ2H",
-        "projectSlug": "geckolib"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "4.5.8",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "fHBvu50G",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "4.8.2-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "5.0",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "5.2.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "5.2.2",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "5.3-alpha-3",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "5.4.2",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "owo-lib",
-      "displayName": "owo-lib",
-      "source": {
-        "type": "modrinth",
-        "projectId": "ccKDOlHs",
-        "projectSlug": "owo-lib"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "0.12.10+1.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "0.12.15.4+1.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "0.12.20+1.21.4",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "0.12.21+1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "0.12.24+1.21.9",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "0.12.25+1.21.11",
-            "filename": null,
-            "source": {
-              "type": "maven",
-              "repositoryRef": "noriskproduction",
-              "groupId": "io.wispforest",
-              "artifactId": "owo-lib"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": "owo-lib-nrc",
-      "displayName": "owo-lib-nrc",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "noriskproduction",
-        "groupId": "io.wispforest",
-        "artifactId": "owo-lib"
-      },
-      "compatibility": {
-        "1.21.7": {
-          "fabric": {
-            "identifier": "0.12.25+1.21.6",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "0.12.26+1.21.8",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "entityculling",
-      "displayName": "EntityCulling",
-      "source": {
-        "type": "modrinth",
-        "projectId": "NNAgCjsB",
-        "projectSlug": "entityculling"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.7.0-1.21,fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "eKX1ek3L",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "NkBXk0Ye",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "29GV7fju",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "wxuS4Die",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "wxuS4Die",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "jUAl8SgQ",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "P9ZiZM7Q",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "modernfix",
-      "displayName": "ModernFix",
-      "source": {
-        "type": "modrinth",
-        "projectId": "nmDcB62a",
-        "projectSlug": "modernfix"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "5.19.1+mc1.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "5.20.2+mc1.21.4",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "nrc-core",
-      "displayName": "nrc-core",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "noriskproduction",
-        "groupId": "gg.norisk",
-        "artifactId": "nrc-core"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.0.141+fabric.1.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "1.0.141+fabric.1.21.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "1.0.141+fabric.1.21.4",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "1.0.141+fabric.1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "1.0.141+fabric.1.21.7",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "1.0.141+fabric.1.21.8",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "1.0.141+fabric.1.21.10",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "1.0.159-bughunter+fabric.1.21.11",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "nrc-voicechat",
-      "displayName": "nrc-voicechat",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "noriskproduction",
-        "groupId": "gg.norisk",
-        "artifactId": "nrc-voicechat"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.0.36+fabric.1.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "1.0.36+fabric.1.21.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "1.0.36+fabric.1.21.4",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "1.0.36+fabric.1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "1.0.36+fabric.1.21.7",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "1.0.36+fabric.1.21.8",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "1.0.36+fabric.1.21.10",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "1.0.40+fabric.1.21.11",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "nrc-ui",
-      "displayName": "nrc-ui",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "noriskproduction",
-        "groupId": "gg.norisk",
-        "artifactId": "nrc-ui"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.0.162+fabric.1.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "1.0.162+fabric.1.21.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "1.0.162+fabric.1.21.4",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "1.0.162+fabric.1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "1.0.162+fabric.1.21.7",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "1.0.162+fabric.1.21.8",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.10": {
-          "fabric": {
-            "identifier": "1.0.162+fabric.1.21.10",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.11": {
-          "fabric": {
-            "identifier": "1.0.183+fabric.1.21.11",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
       "id": "nrc-client",
       "displayName": "nrc-client",
       "source": {
@@ -1500,58 +14,584 @@
         "artifactId": "nrc-client"
       },
       "compatibility": {
+        "1.7.10": {
+          "forge": {
+            "identifier": "26.2.4813257-working+forge.1.7.10",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.8.9": {
+          "forge": {
+            "identifier": "26.2.4813257-working+forge.1.8.9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.12.2": {
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.12.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.16.5": {
+          "fabric": {
+            "identifier": "26.2.636-dev-nrc-mini+fabric.1.16.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.16.5",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "26.2.636-dev-nrc-mini+fabric.1.18.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.18.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "26.2.636-dev-nrc-mini+fabric.1.19.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.19.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "26.2.636-dev-nrc-mini+fabric.1.19.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.19.4",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "26.2.636-dev-nrc-mini+fabric.1.20.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.20.1",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "1.0.160-hotfix+fabric.1.21",
+            "identifier": "26.2.4813257-working+fabric.1.21",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.21",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "1.0.160-hotfix+fabric.1.21.1",
+            "identifier": "26.2.4813257-working+fabric.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.1",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "1.0.160-hotfix+fabric.1.21.4",
+            "identifier": "26.2.4813257-working+fabric.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.4",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "1.0.160-hotfix+fabric.1.21.5",
+            "identifier": "26.2.4813257-working+fabric.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.635-dev-nrc-mini+forge.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.5",
             "filename": null,
             "source": null
           }
         },
         "1.21.7": {
           "fabric": {
-            "identifier": "1.0.160-hotfix+fabric.1.21.7",
+            "identifier": "26.2.4813257-working+fabric.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.635-dev-nrc-mini+forge.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21.7",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "1.0.160-hotfix+fabric.1.21.8",
+            "identifier": "26.2.4813257-working+fabric.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.635-dev-nrc-mini+forge.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.602-dev-nrc-mini+neoforge.1.21.9",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.160-hotfix+fabric.1.21.10",
+            "identifier": "26.2.4813257-working+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.10",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "1.0.195+fabric.1.21.11",
+            "identifier": "26.2.4813257-working+fabric.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.636-dev-nrc-mini+forge.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.11",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.26.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.635-dev-nrc-mini+forge.26.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.26.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.635-dev-nrc-mini+forge.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.602-dev-nrc-mini+neoforge.26.1.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.635-dev-nrc-mini+forge.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.602-dev-nrc-mini+neoforge.26.1.2",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "nrc-compat",
+      "displayName": "nrc-compat",
+      "source": {
+        "type": "maven",
+        "repositoryRef": "noriskproduction",
+        "groupId": "gg.norisk",
+        "artifactId": "nrc-compat"
+      },
+      "compatibility": {
+        "1.7.10": {
+          "forge": {
+            "identifier": "26.2.4837074-working+forge.1.7.10",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.8.9": {
+          "forge": {
+            "identifier": "26.2.4837074-working+forge.1.8.9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.12.2": {
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.12.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.16.5": {
+          "fabric": {
+            "identifier": "26.2.628-dev-nrc-mini+fabric.1.16.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.16.5",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "26.2.628-dev-nrc-mini+fabric.1.18.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.18.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "26.2.628-dev-nrc-mini+fabric.1.19.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.19.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "26.2.628-dev-nrc-mini+fabric.1.19.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.19.4",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "26.2.628-dev-nrc-mini+fabric.1.20.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.20.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.1.21",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.21",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495878-dev-nrc-mini+neoforge.1.21.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.4": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495878-dev-nrc-mini+neoforge.1.21.4",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.5": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.627-dev-nrc-mini+forge.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495878-dev-nrc-mini+neoforge.1.21.5",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.7": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.627-dev-nrc-mini+forge.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21.7",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.8": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.627-dev-nrc-mini+forge.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495878-dev-nrc-mini+neoforge.1.21.8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.594-dev-nrc-mini+neoforge.1.21.9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.10": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495878-dev-nrc-mini+neoforge.1.21.10",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.11": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.628-dev-nrc-mini+forge.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495878-dev-nrc-mini+neoforge.1.21.11",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.26.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.627-dev-nrc-mini+forge.26.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495878-dev-nrc-mini+neoforge.26.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.627-dev-nrc-mini+forge.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.594-dev-nrc-mini+neoforge.26.1.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.627-dev-nrc-mini+forge.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.594-dev-nrc-mini+neoforge.26.1.2",
             "filename": null,
             "source": null
           }
@@ -1568,58 +608,287 @@
         "artifactId": "nrc-cosmetics"
       },
       "compatibility": {
+        "1.7.10": {
+          "forge": {
+            "identifier": "26.2.4837074-working+forge.1.7.10",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.8.9": {
+          "forge": {
+            "identifier": "26.2.4837074-working+forge.1.8.9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.12.2": {
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.12.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.16.5": {
+          "fabric": {
+            "identifier": "26.2.593-dev-nrc-mini+fabric.1.16.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.16.5",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "26.2.593-dev-nrc-mini+fabric.1.18.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.18.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "26.2.593-dev-nrc-mini+fabric.1.19.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.19.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "26.2.593-dev-nrc-mini+fabric.1.19.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.19.4",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "26.2.593-dev-nrc-mini+fabric.1.20.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.20.1",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "1.0.138+fabric.1.21",
+            "identifier": "26.2.4837074-working+fabric.1.21",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.21",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "1.0.138+fabric.1.21.1",
+            "identifier": "26.2.4837074-working+fabric.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495114-dev-nrc-mini+neoforge.1.21.1",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "1.0.138+fabric.1.21.4",
+            "identifier": "26.2.4837074-working+fabric.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495114-dev-nrc-mini+neoforge.1.21.4",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "1.0.138+fabric.1.21.5",
+            "identifier": "26.2.4837074-working+fabric.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495114-dev-nrc-mini+neoforge.1.21.5",
             "filename": null,
             "source": null
           }
         },
         "1.21.7": {
           "fabric": {
-            "identifier": "1.0.138+fabric.1.21.7",
+            "identifier": "26.2.4837074-working+fabric.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21.7",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "1.0.138+fabric.1.21.8",
+            "identifier": "26.2.4837074-working+fabric.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495114-dev-nrc-mini+neoforge.1.21.8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.570-dev-nrc-mini+neoforge.1.21.9",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.138+fabric.1.21.10",
+            "identifier": "26.2.4837074-working+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495114-dev-nrc-mini+neoforge.1.21.10",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "1.0.184+fabric.1.21.11",
+            "identifier": "26.2.4837074-working+fabric.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495114-dev-nrc-mini+neoforge.1.21.11",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.26.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.26.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4495114-dev-nrc-mini+neoforge.26.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.570-dev-nrc-mini+neoforge.26.1.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "26.2.4837074-working+fabric.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.593-dev-nrc-mini+forge.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.570-dev-nrc-mini+neoforge.26.1.2",
             "filename": null,
             "source": null
           }
@@ -1636,58 +905,287 @@
         "artifactId": "nrc-friends"
       },
       "compatibility": {
+        "1.7.10": {
+          "forge": {
+            "identifier": "26.2.4813257-working+forge.1.7.10",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.8.9": {
+          "forge": {
+            "identifier": "26.2.4813257-working+forge.1.8.9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.12.2": {
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.12.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.16.5": {
+          "fabric": {
+            "identifier": "26.2.433-dev-nrc-mini+fabric.1.16.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.16.5",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "26.2.433-dev-nrc-mini+fabric.1.18.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.18.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "26.2.433-dev-nrc-mini+fabric.1.19.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.19.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "26.2.433-dev-nrc-mini+fabric.1.19.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.19.4",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "26.2.433-dev-nrc-mini+fabric.1.20.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.20.1",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21",
+            "identifier": "26.2.4813257-working+fabric.1.21",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.21",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.1",
+            "identifier": "26.2.4813257-working+fabric.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.1",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.4",
+            "identifier": "26.2.4813257-working+fabric.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.4",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.5",
+            "identifier": "26.2.4813257-working+fabric.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.5",
             "filename": null,
             "source": null
           }
         },
         "1.21.7": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.7",
+            "identifier": "26.2.4813257-working+fabric.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21.7",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.8",
+            "identifier": "26.2.4813257-working+fabric.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.419-dev-nrc-mini+neoforge.1.21.9",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.10",
+            "identifier": "26.2.4813257-working+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.10",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "1.0.36+fabric.1.21.11",
+            "identifier": "26.2.4813257-working+fabric.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.11",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.26.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.26.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.26.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.419-dev-nrc-mini+neoforge.26.1.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.433-dev-nrc-mini+forge.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.419-dev-nrc-mini+neoforge.26.1.2",
             "filename": null,
             "source": null
           }
@@ -1704,58 +1202,287 @@
         "artifactId": "nrc-mcreal"
       },
       "compatibility": {
+        "1.7.10": {
+          "forge": {
+            "identifier": "26.2.4586095-working+forge.1.7.10",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.8.9": {
+          "forge": {
+            "identifier": "26.2.4586095-working+forge.1.8.9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.12.2": {
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.12.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.16.5": {
+          "fabric": {
+            "identifier": "26.2.411-dev-nrc-mini+fabric.1.16.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.16.5",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "26.2.411-dev-nrc-mini+fabric.1.18.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.18.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "26.2.411-dev-nrc-mini+fabric.1.19.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.19.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "26.2.411-dev-nrc-mini+fabric.1.19.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.19.4",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "26.2.411-dev-nrc-mini+fabric.1.20.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.20.1",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21",
+            "identifier": "26.2.4586095-working+fabric.1.21",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.21",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.1",
+            "identifier": "26.2.4586095-working+fabric.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.1",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.4",
+            "identifier": "26.2.4586095-working+fabric.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.4",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.5",
+            "identifier": "26.2.4586095-working+fabric.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.5",
             "filename": null,
             "source": null
           }
         },
         "1.21.7": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.7",
+            "identifier": "26.2.4586095-working+fabric.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21.7",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.8",
+            "identifier": "26.2.4586095-working+fabric.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "26.2.4586095-working+fabric.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.397-dev-nrc-mini+neoforge.1.21.9",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.10",
+            "identifier": "26.2.4586095-working+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.10",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "1.0.33+fabric.1.21.11",
+            "identifier": "26.2.4586095-working+fabric.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.11",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "26.2.4586095-working+fabric.26.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.26.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.26.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "26.2.4586095-working+fabric.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.397-dev-nrc-mini+neoforge.26.1.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "26.2.4586095-working+fabric.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.411-dev-nrc-mini+forge.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.397-dev-nrc-mini+neoforge.26.1.2",
             "filename": null,
             "source": null
           }
@@ -1772,58 +1499,287 @@
         "artifactId": "nrc-minigames"
       },
       "compatibility": {
+        "1.7.10": {
+          "forge": {
+            "identifier": "26.2.4586095-working+forge.1.7.10",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.8.9": {
+          "forge": {
+            "identifier": "26.2.4586095-working+forge.1.8.9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.12.2": {
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.12.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.16.5": {
+          "fabric": {
+            "identifier": "26.2.40-dev-nrc-mini+fabric.1.16.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.16.5",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "26.2.40-dev-nrc-mini+fabric.1.18.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.18.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "26.2.40-dev-nrc-mini+fabric.1.19.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.19.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "26.2.40-dev-nrc-mini+fabric.1.19.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.19.4",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "26.2.40-dev-nrc-mini+fabric.1.20.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.20.1",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "1.0.9+fabric.1.21",
+            "identifier": "26.2.4586095-working+fabric.1.21",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.21",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "1.0.9+fabric.1.21.1",
+            "identifier": "26.2.4586095-working+fabric.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.1",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "1.0.9+fabric.1.21.4",
+            "identifier": "26.2.4586095-working+fabric.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.4",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "1.0.9+fabric.1.21.5",
+            "identifier": "26.2.4586095-working+fabric.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.5",
             "filename": null,
             "source": null
           }
         },
         "1.21.7": {
           "fabric": {
-            "identifier": "1.0.9+fabric.1.21.7",
+            "identifier": "26.2.4586095-working+fabric.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21.7",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "1.0.9+fabric.1.21.8",
+            "identifier": "26.2.4586095-working+fabric.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "26.2.4586095-working+fabric.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.33-dev-nrc-mini+neoforge.1.21.9",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.9+fabric.1.21.10",
+            "identifier": "26.2.4586095-working+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.10",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "1.0.14+fabric.1.21.11",
+            "identifier": "26.2.4586095-working+fabric.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.1.21.11",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "26.2.4586095-working+fabric.26.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.26.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4448507-dev-nrc-mini+neoforge.26.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "26.2.4586095-working+fabric.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.33-dev-nrc-mini+neoforge.26.1.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "26.2.4586095-working+fabric.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.40-dev-nrc-mini+forge.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.33-dev-nrc-mini+neoforge.26.1.2",
             "filename": null,
             "source": null
           }
@@ -1831,86 +1787,296 @@
       }
     },
     {
-      "id": "nrc-emotes",
-      "displayName": "nrc-emotes",
+      "id": "nrc-owolib",
+      "displayName": "nrc-owolib",
       "source": {
         "type": "maven",
         "repositoryRef": "noriskproduction",
         "groupId": "gg.norisk",
-        "artifactId": "nrc-emotes"
+        "artifactId": "nrc-owolib"
       },
       "compatibility": {
+        "1.7.10": {
+          "forge": {
+            "identifier": "26.2.4813257-working+forge.1.7.10",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.8.9": {
+          "forge": {
+            "identifier": "26.2.4813257-working+forge.1.8.9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.12.2": {
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.12.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.16.5": {
+          "fabric": {
+            "identifier": "26.2.574-dev-nrc-mini+fabric.1.16.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.16.5",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "26.2.574-dev-nrc-mini+fabric.1.18.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.18.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "26.2.574-dev-nrc-mini+fabric.1.19.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.19.2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "26.2.574-dev-nrc-mini+fabric.1.19.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.19.4",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "26.2.574-dev-nrc-mini+fabric.1.20.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.20.1",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "1.0.55+fabric.1.21",
+            "identifier": "26.2.4813257-working+fabric.1.21",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.21",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "1.0.55+fabric.1.21.1",
+            "identifier": "26.2.4813257-working+fabric.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.21.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4491007-dev-nrc-mini+neoforge.1.21.1",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "1.0.55+fabric.1.21.4",
+            "identifier": "26.2.4813257-working+fabric.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.21.4",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4491007-dev-nrc-mini+neoforge.1.21.4",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "1.0.55+fabric.1.21.5",
+            "identifier": "26.2.4813257-working+fabric.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.21.5",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4491007-dev-nrc-mini+neoforge.1.21.5",
             "filename": null,
             "source": null
           }
         },
         "1.21.7": {
           "fabric": {
-            "identifier": "1.0.55+fabric.1.21.7",
+            "identifier": "26.2.4813257-working+fabric.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.21.7",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21.7",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "1.0.55+fabric.1.21.8",
+            "identifier": "26.2.4813257-working+fabric.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.21.8",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4491007-dev-nrc-mini+neoforge.1.21.8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.21.9",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.543-dev-nrc-mini+neoforge.1.21.9",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.55+fabric.1.21.10",
+            "identifier": "26.2.4813257-working+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.21.10",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4491007-dev-nrc-mini+neoforge.1.21.10",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "1.0.66+fabric.1.21.11",
+            "identifier": "26.2.4813257-working+fabric.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.1.21.11",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4491007-dev-nrc-mini+neoforge.1.21.11",
             "filename": null,
             "source": null
           }
-        }
-      }
-    },
-    {
-      "id": "player-animation-lib",
-      "displayName": "PlayerAnimator",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "kosmx",
-        "groupId": "dev.kosmx.player-anim",
-        "artifactId": "player-animation-lib-fabric"
-      },
-      "compatibility": {
-        "1.21": {
+        },
+        "26.1": {
           "fabric": {
-            "identifier": "1.0.2-rc1+1.21",
+            "identifier": "26.2.4813257-working+fabric.26.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.26.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.4491007-dev-nrc-mini+neoforge.26.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.26.1.1",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.543-dev-nrc-mini+neoforge.26.1.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "26.2.4813257-working+fabric.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "26.2.574-dev-nrc-mini+forge.26.1.2",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "26.2.543-dev-nrc-mini+neoforge.26.1.2",
             "filename": null,
             "source": null
           }
@@ -1918,25 +2084,32 @@
       }
     },
     {
-      "id": "datatracker",
-      "displayName": "DataTracker",
+      "id": "nrc-mixin-bootstrap",
+      "displayName": "nrc-mixin-bootstrap",
       "source": {
         "type": "maven",
         "repositoryRef": "noriskproduction",
         "groupId": "gg.norisk",
-        "artifactId": "datatracker"
+        "artifactId": "nrc-mixin-bootstrap"
       },
       "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.21-1.0.18",
+        "1.7.10": {
+          "forge": {
+            "identifier": "26.2.4611659-working+forge.1.7.10",
             "filename": null,
             "source": null
           }
         },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "1.21.4-1.0.18",
+        "1.8.9": {
+          "forge": {
+            "identifier": "26.2.4611659-working+forge.1.8.9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.12.2": {
+          "forge": {
+            "identifier": "26.2.14-dev-nrc-mini+forge.1.12.2",
             "filename": null,
             "source": null
           }
@@ -1944,123 +2117,127 @@
       }
     },
     {
-      "id": "quests",
-      "displayName": "quests",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "noriskproduction",
-        "groupId": "gg.norisk",
-        "artifactId": "quests"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.21-1.0.15",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "lobby-common",
-      "displayName": "lobby-common",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "noriskproduction",
-        "groupId": "gg.norisk",
-        "artifactId": "lobby-common"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.21-0.0.2",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "lobby-client",
-      "displayName": "lobby-client",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "noriskproduction",
-        "groupId": "gg.norisk",
-        "artifactId": "lobby-client"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.21-0.0.7",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "cicada",
-      "displayName": "cicada-lib",
+      "id": "sodium",
+      "displayName": "Sodium",
       "source": {
         "type": "modrinth",
-        "projectId": "IwCkru1D",
-        "projectSlug": "cicada"
+        "projectId": "AANobbMI",
+        "projectSlug": "sodium"
       },
       "compatibility": {
+        "1.16.5": {
+          "fabric": {
+            "identifier": "YAGZ1cCS",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "74Y5Z8fo",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "rAfhHfow",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "b4hTi3mo",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "OihdIimA",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "0.14.2+1.21-1.21.1",
+            "identifier": "u1OEbNKx",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "0.14.2+1.21-1.21.1",
+            "identifier": "u1OEbNKx",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "0.14.2+1.21.4",
+            "identifier": "c3YkZvne",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "0.14.2+1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "0.14.2+1.21.6-and-above",
+            "identifier": "DA250htH",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "0.14.2+1.21.6-and-above",
+            "identifier": "7pwil2dy",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "sFfidWgd",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "0.14.3+1.21.9-1.21.10",
+            "identifier": "sFfidWgd",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "0.14.3+1.21.9-1.21.10",
+            "identifier": "UddlN6L4",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "pXyXLdlT",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "uGvVQBnw",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "uGvVQBnw",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "uGvVQBnw",
             "filename": null,
             "source": null
           }
@@ -2068,66 +2245,122 @@
       }
     },
     {
-      "id": "simple-voice-chat",
-      "displayName": "simple-voice-chat",
+      "id": "fabric-language-kotlin",
+      "displayName": "Fabric Language Kotlin",
       "source": {
         "type": "modrinth",
-        "projectId": "9eGKb6K1",
-        "projectSlug": "simple-voice-chat"
+        "projectId": "Ha28R6CL",
+        "projectSlug": "fabric-language-kotlin"
       },
       "compatibility": {
+        "1.16.5": {
+          "fabric": {
+            "identifier": "ViT4gucI",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "ViT4gucI",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "ViT4gucI",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "ViT4gucI",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "ViT4gucI",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "fabric-1.21.1-2.6.4",
+            "identifier": "ViT4gucI",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "fabric-1.21.1-2.6.4",
+            "identifier": "ViT4gucI",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "fabric-1.21.4-2.6.4",
+            "identifier": "ViT4gucI",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "fabric-1.21.5-2.6.4",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "fabric-1.21.8-2.6.4",
+            "identifier": "ViT4gucI",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "fabric-1.21.8-2.6.4",
+            "identifier": "ViT4gucI",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "ViT4gucI",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "fabric-1.21.10-2.6.4",
+            "identifier": "ViT4gucI",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "fabric-1.21.11-2.6.9",
+            "identifier": "ViT4gucI",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "ViT4gucI",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "2i87JpYj",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "2i87JpYj",
             "filename": null,
             "source": null
           }
@@ -2135,66 +2368,229 @@
       }
     },
     {
-      "id": "cloth-config",
-      "displayName": "Cloth-Config",
+      "id": "kotlin-for-forge",
+      "displayName": "Kotlin for Forge",
       "source": {
         "type": "modrinth",
-        "projectId": "9s6osm5g",
-        "projectSlug": "cloth-config"
+        "projectId": "ordsPcFz",
+        "projectSlug": "kotlin-for-forge"
       },
       "compatibility": {
         "1.21": {
+          "neoforge": {
+            "identifier": "NrSebcsG",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "NrSebcsG",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "neoforge": {
+            "identifier": "NrSebcsG",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "NrSebcsG",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.4": {
+          "neoforge": {
+            "identifier": "NrSebcsG",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "NrSebcsG",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.5": {
+          "neoforge": {
+            "identifier": "NrSebcsG",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "NrSebcsG",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.8": {
+          "neoforge": {
+            "identifier": "pp2cY80Q",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "pp2cY80Q",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "neoforge": {
+            "identifier": "K2lpyV17",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "KNsvqa2M",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.10": {
+          "neoforge": {
+            "identifier": "K2lpyV17",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "KNsvqa2M",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.11": {
+          "neoforge": {
+            "identifier": "K2lpyV17",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "KNsvqa2M",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "fabric-api",
+      "displayName": "Fabric API",
+      "source": {
+        "type": "modrinth",
+        "projectId": "P7dR8mSH",
+        "projectSlug": "fabric-api"
+      },
+      "compatibility": {
+        "1.16.5": {
           "fabric": {
-            "identifier": "15.0.140+fabric",
+            "identifier": "IQ3UGSc2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "qk28POfr",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "6g95K303",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "nyAmoHlr",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "L6LGItxd",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21": {
+          "fabric": {
+            "identifier": "oGwyXeEI",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "15.0.140+fabric",
+            "identifier": "yGAe1owa",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "17.0.144+fabric",
+            "identifier": "p96k10UR",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "18.0.145+fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "19.0.147+fabric",
+            "identifier": "kKEGlsne",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "19.0.147+fabric",
+            "identifier": "g58ofrov",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "vczmWJBj",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "20.0.148+fabric",
+            "identifier": "tV4Gc0Zo",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "21.11.151+fabric",
+            "identifier": "i5tSkVBH",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "fm7UYECV",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "fm7UYECV",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "fm7UYECV",
             "filename": null,
             "source": null
           }
@@ -2202,59 +2598,135 @@
       }
     },
     {
-      "id": "moreculling",
-      "displayName": "MoreCulling",
+      "id": "immediatelyfast",
+      "displayName": "ImmediatelyFast",
       "source": {
         "type": "modrinth",
-        "projectId": "51shyZVL",
-        "projectSlug": "moreculling"
+        "projectId": "5ZwdcRci",
+        "projectSlug": "immediatelyfast"
       },
       "compatibility": {
+        "1.18.2": {
+          "fabric": {
+            "identifier": "D73h6MNI",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "gPV1o5PO",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "ezKTj0NE",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "Us8JqrP9",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "0.26.0",
+            "identifier": "yHztKxR5",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "fabric": {
+            "identifier": "yHztKxR5",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "kELp84IT",
+            "identifier": "CFJfGS8F",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "MDkI6Huh",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "ESxkwc6w",
+            "identifier": "AJh4ziDx",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "ivOsScf8",
+            "identifier": "iNldtLH8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "ntac1Na0",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "nASRyMbu",
+            "identifier": "ntac1Na0",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "Ju23l9rz",
+            "identifier": "QwkfUKSj",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "4srycLDJ",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "lRuSLf0Y",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "KibcXkbk",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "lRuSLf0Y",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "KibcXkbk",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "lRuSLf0Y",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "KibcXkbk",
             "filename": null,
             "source": null
           }
@@ -2262,66 +2734,148 @@
       }
     },
     {
-      "id": "3dskinlayers",
-      "displayName": "3DSkins",
+      "id": "entityculling",
+      "displayName": "Entity Culling",
       "source": {
         "type": "modrinth",
-        "projectId": "zV5r3pPn",
-        "projectSlug": "3dskinlayers"
+        "projectId": "NNAgCjsB",
+        "projectSlug": "entityculling"
       },
       "compatibility": {
+        "1.7.10": {
+          "forge": {
+            "identifier": "SLiFyIon",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.8.9": {
+          "forge": {
+            "identifier": "WiIRU3UP",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.12.2": {
+          "forge": {
+            "identifier": "knltv3Vh",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.16.5": {
+          "fabric": {
+            "identifier": "Qek7k92S",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "d3CbGntl",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "twdGLDHv",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "kMMyJFc8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "QFXoqZHC",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "s3z8zfIv",
+            "identifier": "ivkfruZP",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "lkUZHpIx",
+            "identifier": "xcyXBGgI",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "D5GmlSf8",
+            "identifier": "hLb4spl6",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "qFwcwulG",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "kltACksh",
+            "identifier": "ldvBBWG2",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "kltACksh",
+            "identifier": "fa1r3lFt",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "YkqoVa13",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "Uv7uC5kA",
+            "identifier": "zwBaFdjH",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "xm69SB7D",
+            "identifier": "Dx3xsUER",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "vOXBj8Y3",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "NaRJu6ah",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "NaRJu6ah",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "NaRJu6ah",
             "filename": null,
             "source": null
           }
@@ -2329,66 +2883,127 @@
       }
     },
     {
-      "id": "tiers",
-      "displayName": "tiers",
+      "id": "ferrite-core",
+      "displayName": "FerriteCore",
       "source": {
         "type": "modrinth",
-        "projectId": "bubOj4AD",
-        "projectSlug": "tiers"
+        "projectId": "uXXizFIs",
+        "projectSlug": "ferrite-core"
       },
       "compatibility": {
+        "1.16.5": {
+          "fabric": {
+            "identifier": "3UkWIj4a",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "776Z5oW9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "kwjHqfz7",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "RbR7EG8T",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "unerR5MN",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "0.6.1+1.21-1.21.1",
+            "identifier": "wmIZ4wP4",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "0.6.1+1.21-1.21.1",
+            "identifier": "sOzRw3CG",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "0.6.1+1.21.2-1.21.4",
+            "identifier": "7KqeXPRS",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "0.6.1+1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "0.6.1+1.21.6-1.21.8",
+            "identifier": "LdlksamY",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "0.6.1+1.21.6-1.21.8",
+            "identifier": "LdlksamY",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "bPLllEgi",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "0.6.2+1.21.9-1.21.10",
+            "identifier": "bPLllEgi",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "0.6.4+1.21.9-1.21.11",
+            "identifier": "Ii0gP3D8",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "mLI5k2Gi",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "d5ddUdiB",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "d5ddUdiB",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "d5ddUdiB",
             "filename": null,
             "source": null
           }
@@ -2396,453 +3011,127 @@
       }
     },
     {
-      "id": "ukulib",
-      "displayName": "ukulib",
+      "id": "lithium",
+      "displayName": "Lithium",
       "source": {
         "type": "modrinth",
-        "projectId": "6fJ2UigN",
-        "projectSlug": "ukulib"
+        "projectId": "gvQqBUqZ",
+        "projectSlug": "lithium"
       },
       "compatibility": {
+        "1.16.5": {
+          "fabric": {
+            "identifier": "rvsW1zhb",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "ALnv7Npy",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "m6sVgAi6",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "14hWYkog",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "iEcXOkz4",
+            "filename": null,
+            "source": null
+          }
+        },
         "1.21": {
           "fabric": {
-            "identifier": "1.4.1+1.21",
+            "identifier": "Yu6L8EnD",
             "filename": null,
             "source": null
           }
         },
         "1.21.1": {
           "fabric": {
-            "identifier": "1.4.1+1.21",
+            "identifier": "XQJtuOTA",
             "filename": null,
             "source": null
           }
         },
         "1.21.4": {
           "fabric": {
-            "identifier": "1.6.0+1.21.4",
+            "identifier": "u8pHPXJl",
             "filename": null,
             "source": null
           }
         },
         "1.21.5": {
           "fabric": {
-            "identifier": "1.7.1+1.21.5",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "wavey-capes",
-      "displayName": "WaveyCapes",
-      "source": {
-        "type": "modrinth",
-        "projectId": "kYuIpRLv",
-        "projectSlug": "wavey-capes"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "1.6.1.1-fabric,1.21",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "1.6.1.1-fabric,1.21.1",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "1.6.1.1-fabric,1.21.4",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "1.6.1.1-fabric,1.21.5",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "1.6.1.1-fabric,1.21.7",
+            "identifier": "xcELvp6R",
             "filename": null,
             "source": null
           }
         },
         "1.21.8": {
           "fabric": {
-            "identifier": "1.6.1.1-fabric,1.21.7",
+            "identifier": "qxIL7Kb8",
             "filename": null,
             "source": null
           }
         },
-        "1.21.11": {
+        "1.21.9": {
           "fabric": {
-            "identifier": "fpGe4KN7",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "shulkerboxtooltip",
-      "displayName": "shulkerboxtooltip",
-      "source": {
-        "type": "modrinth",
-        "projectId": "2M01OLQq",
-        "projectSlug": "shulkerboxtooltip"
-      },
-      "compatibility": {
-        "1.21": {
-          "fabric": {
-            "identifier": "5.1.2+1.21-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.1": {
-          "fabric": {
-            "identifier": "5.1.6+1.21.1-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.4": {
-          "fabric": {
-            "identifier": "5.2.4+1.21.4-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.5": {
-          "fabric": {
-            "identifier": "5.2.5+1.21.5-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.7": {
-          "fabric": {
-            "identifier": "5.2.8+1.21.7-fabric",
-            "filename": null,
-            "source": null
-          }
-        },
-        "1.21.8": {
-          "fabric": {
-            "identifier": "5.2.8+1.21.7-fabric",
+            "identifier": "L1sSIxFm",
             "filename": null,
             "source": null
           }
         },
         "1.21.10": {
           "fabric": {
-            "identifier": "5.2.11+1.21.9-fabric",
+            "identifier": "NsswKiwi",
             "filename": null,
             "source": null
           }
         },
         "1.21.11": {
           "fabric": {
-            "identifier": "5.2.14+1.21.11-fabric",
+            "identifier": "Ow7wA0kG",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "M93zf1Gr",
             "filename": null,
             "source": null
           }
-        }
-      }
-    },
-    {
-      "id": "vanillahud",
-      "displayName": "vanillahud",
-      "source": {
-        "type": "modrinth",
-        "projectId": "pWXJaKrX",
-        "projectSlug": "vanillahud"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v2.2.12",
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "W0ZXKJy9",
             "filename": null,
             "source": null
           }
-        }
-      }
-    },
-    {
-      "id": "animations",
-      "displayName": "animations",
-      "source": {
-        "type": "modrinth",
-        "projectId": "4Hfmgaef",
-        "projectSlug": "animations"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v2.2.5",
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "kHXOBNih",
             "filename": null,
             "source": null
           }
-        }
-      }
-    },
-    {
-      "id": "polynametag",
-      "displayName": "polynametag",
-      "source": {
-        "type": "modrinth",
-        "projectId": "HK3p7LMj",
-        "projectSlug": "polynametag"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v1.0.9",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "polysprint",
-      "displayName": "polysprint",
-      "source": {
-        "type": "modrinth",
-        "projectId": "i9xRThb3",
-        "projectSlug": "polysprint"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v1.0.1",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "patcher",
-      "displayName": "patcher",
-      "source": {
-        "type": "modrinth",
-        "projectId": "YknNc5nN",
-        "projectSlug": "patcher"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v1.10.3",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "evergreenhud",
-      "displayName": "evergreenhud",
-      "source": {
-        "type": "modrinth",
-        "projectId": "1yIQcc2b",
-        "projectSlug": "evergreenhud"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v2.1.7",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "overflowparticles",
-      "displayName": "overflowparticles",
-      "source": {
-        "type": "modrinth",
-        "projectId": "61g97TVF",
-        "projectSlug": "overflowparticles"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v2.1.7",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "keystrokes",
-      "displayName": "keystrokes",
-      "source": {
-        "type": "modrinth",
-        "projectId": "G2Hmyf0G",
-        "projectSlug": "keystrokes"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v1.0.0",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "crosshair",
-      "displayName": "crosshair",
-      "source": {
-        "type": "modrinth",
-        "projectId": "obfJASPU",
-        "projectSlug": "crosshair"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v1.0.3",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "polyblur",
-      "displayName": "polyblur",
-      "source": {
-        "type": "modrinth",
-        "projectId": "xT45UG5o",
-        "projectSlug": "polyblur"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v1.0.2",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "damagetint",
-      "displayName": "damagetint",
-      "source": {
-        "type": "modrinth",
-        "projectId": "6zatK8W5",
-        "projectSlug": "damagetint"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v3.3.0",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "polytime",
-      "displayName": "polytime",
-      "source": {
-        "type": "modrinth",
-        "projectId": "m3kNp1iP",
-        "projectSlug": "polytime"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v1.0.2",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "polyweather",
-      "displayName": "polyweather",
-      "source": {
-        "type": "modrinth",
-        "projectId": "r8Cr8YRg",
-        "projectSlug": "polyweather"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v1.0.0",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "glintcolorizer",
-      "displayName": "glintcolorizer",
-      "source": {
-        "type": "modrinth",
-        "projectId": "SevsTfWN",
-        "projectSlug": "glintcolorizer"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v2.0.1",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "hitbox",
-      "displayName": "hitbox",
-      "source": {
-        "type": "modrinth",
-        "projectId": "Mptc0jo6",
-        "projectSlug": "hitbox"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "v1.0.3",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "freelook-oneconfig",
-      "displayName": "freelook-oneconfig",
-      "source": {
-        "type": "modrinth",
-        "projectId": "S1v2ASLQ",
-        "projectSlug": "freelook-oneconfig"
-      },
-      "compatibility": {
-        "1.8.9": {
-          "forge": {
-            "identifier": "0.1.3+1.8.9-forge",
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "v2xoRvRP",
             "filename": null,
             "source": null
           }
@@ -2856,10 +3145,1408 @@
         "type": "url"
       },
       "compatibility": {
+        "1.7.10": {
+          "forge": {
+            "identifier": "https://cdn.norisk.gg/misc/mods/OptiFine_1.7.10_HD_U_E7.jar",
+            "filename": "OptiFine_1.7.10_HD_U_E7.jar",
+            "source": null
+          }
+        },
         "1.8.9": {
           "forge": {
-            "identifier": "https://cdn.norisk.gg/misc/mods/preview_OptiFine_1.8.9_HD_U_M6_pre1.jar",
-            "filename": "preview_OptiFine_1.8.9_HD_U_M6_pre1.jar",
+            "identifier": "https://cdn.norisk.gg/misc/mods/OptiFine_1.8.9_HD_U_M5.jar",
+            "filename": "OptiFine_1.8.9_HD_U_M5.jar",
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "simple-voice-chat",
+      "displayName": "Simple Voice Chat",
+      "source": {
+        "type": "modrinth",
+        "projectId": "9eGKb6K1",
+        "projectSlug": "simple-voice-chat"
+      },
+      "compatibility": {
+        "1.16.5": {
+          "fabric": {
+            "identifier": "fLJFtApx",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "OjrY36ca",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "dsfwPzzw",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "P39SUHsg",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "8UF66wDs",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "Fm3cX0F9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "CUKg92Gx",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "6Sovh5Kl",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "3vK57tXe",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21": {
+          "fabric": {
+            "identifier": "Flz6iR75",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "aCS0Sk3k",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "rGX4hrtP",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "fabric": {
+            "identifier": "Flz6iR75",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "rbDhEHQT",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "rGX4hrtP",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.4": {
+          "fabric": {
+            "identifier": "btEaH9kR",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "H833P93S",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "RAr6T3FM",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.5": {
+          "fabric": {
+            "identifier": "tHiaTbgM",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "c2pr4kFl",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "87MK1lQb",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.8": {
+          "fabric": {
+            "identifier": "j1PMVU2U",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "JakR8nnJ",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "WXuoJJ9J",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "pTfXZIdn",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "FmQkKMRD",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "GIyvcqq8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.10": {
+          "fabric": {
+            "identifier": "BfWx5pyS",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "pyWNRe8S",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "qtn5zsUZ",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.11": {
+          "fabric": {
+            "identifier": "TE9flmQz",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "ptHoHey2",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "FZlXRfl7",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "EuaIzAYI",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "laCwldU6",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "E7sN3upy",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "EuaIzAYI",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "laCwldU6",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "E7sN3upy",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "gVPjsMto",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "laCwldU6",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "E7sN3upy",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "modmenu",
+      "displayName": "Mod Menu",
+      "source": {
+        "type": "modrinth",
+        "projectId": "mOgUt4GM",
+        "projectSlug": "modmenu"
+      },
+      "compatibility": {
+        "1.16.5": {
+          "fabric": {
+            "identifier": "aShj7736",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "nVxObSbX",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "gSoPJyVn",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "lMqXEzUw",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "lEkperf6",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21": {
+          "fabric": {
+            "identifier": "v6Xx3fbU",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "fabric": {
+            "identifier": "v6Xx3fbU",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.4": {
+          "fabric": {
+            "identifier": "qEKKsTqd",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.5": {
+          "fabric": {
+            "identifier": "2ZvBR7XI",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.8": {
+          "fabric": {
+            "identifier": "ku5NivOP",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "pYbFlVtR",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.10": {
+          "fabric": {
+            "identifier": "pYbFlVtR",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.11": {
+          "fabric": {
+            "identifier": "Tyk71iSw",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "jvjwXH6l",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "jvjwXH6l",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "jvjwXH6l",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "3dskinlayers",
+      "displayName": "3D Skin Layers",
+      "source": {
+        "type": "modrinth",
+        "projectId": "zV5r3pPn",
+        "projectSlug": "3dskinlayers"
+      },
+      "compatibility": {
+        "1.8.9": {
+          "forge": {
+            "identifier": "ki0fDpDd",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.16.5": {
+          "fabric": {
+            "identifier": "8I3s7vjK",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "LJEZfE3e",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "tygVzY9j",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "NGQkqrJT",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "r81Z876i",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "vQ4DDeUO",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "e01TJzQD",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "YRwWgm01",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "V0AEyC8i",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "egmtcJdf",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21": {
+          "fabric": {
+            "identifier": "s3HQXMAH",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "POQKle2H",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "BeFsM0V8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "fabric": {
+            "identifier": "U0nPT3LQ",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "iZDnRxN8",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "lWa5oHuK",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.4": {
+          "fabric": {
+            "identifier": "a4UNNzsi",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "Vex6z6sV",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "fS2Npqrb",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.5": {
+          "fabric": {
+            "identifier": "jt9MQsNZ",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "FVSFKRL6",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "r54tPxKy",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.8": {
+          "fabric": {
+            "identifier": "HiK4aCzy",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "ujtDwvV8",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "ElNNxgxg",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "Uv7uC5kA",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "1M0oA70A",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.10": {
+          "fabric": {
+            "identifier": "epUMFHmN",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "2xvJ692E",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "d8KGxZKi",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.11": {
+          "fabric": {
+            "identifier": "ntxaPFv3",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "zBVYZ7CM",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "8kxiY3G1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "8kxiY3G1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "8kxiY3G1",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "shulkerboxtooltip",
+      "displayName": "Shulker Box Tooltip",
+      "source": {
+        "type": "modrinth",
+        "projectId": "2M01OLQq",
+        "projectSlug": "shulkerboxtooltip"
+      },
+      "compatibility": {
+        "1.21": {
+          "fabric": {
+            "identifier": "S1SXuzb2",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "bqu9WKPN",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "7D78snBY",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "fabric": {
+            "identifier": "NSrItCES",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "3dlXcI0n",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "IuqNIoAi",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.4": {
+          "fabric": {
+            "identifier": "zZfEoJB1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "5h6o8uKT",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "eGROc5cK",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.5": {
+          "fabric": {
+            "identifier": "mMHUyoWs",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "EOgqvBin",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "1Q4lYVH6",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.8": {
+          "fabric": {
+            "identifier": "XWxojbLp",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "GQMQcl7s",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "J8L51LrZ",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "Pq4bDUO1",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "lhCjNVjH",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "1gSfFk5V",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.10": {
+          "fabric": {
+            "identifier": "Tu7L0xsA",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "J1PRL9YF",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "zWxLWTbU",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.11": {
+          "fabric": {
+            "identifier": "rZovgkWT",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "yFmVkjkC",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "GfweYsB6",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "ZkGgdpPY",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "5mdIRt7O",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "ZkGgdpPY",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "5mdIRt7O",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "ZkGgdpPY",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "5mdIRt7O",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "waveycapes",
+      "displayName": "WaveyCapes",
+      "source": {
+        "type": "modrinth",
+        "projectId": "kYuIpRLv",
+        "projectSlug": "wavey-capes"
+      },
+      "compatibility": {
+        "1.16.5": {
+          "fabric": {
+            "identifier": "jvaGau1Z",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "dHzMeLL6",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "VWbixAai",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "Y8EJ8KbP",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "4BjohH69",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "H57nyfXA",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "OzQo4VDs",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "aoyyskwv",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "mCQ4kOlm",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21": {
+          "fabric": {
+            "identifier": "JEGOjMYn",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "wNooQpgy",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "dNN7McGp",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "fabric": {
+            "identifier": "XX9BrlJW",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "9iowzrcA",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "uuX7ce0R",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.4": {
+          "fabric": {
+            "identifier": "EcKyPvJR",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "5ph4dYAq",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "vjiRyyU7",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.5": {
+          "fabric": {
+            "identifier": "pF7bXBvC",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "EtAwk7tz",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "AiKpCoAk",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.8": {
+          "fabric": {
+            "identifier": "TJiebQCb",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "5n1WqGqt",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "C8nMaFFH",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "fUE9xs1s",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "SQQCmhAN",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "vBw3kWQr",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.10": {
+          "fabric": {
+            "identifier": "XbBsWRV9",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "nSfJXW5u",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "U1F8UD8y",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.11": {
+          "fabric": {
+            "identifier": "lGSZdVwH",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "aurAWvjX",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "K4cdp1K2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "K4cdp1K2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "K4cdp1K2",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "appleskin",
+      "displayName": "AppleSkin",
+      "source": {
+        "type": "modrinth",
+        "projectId": "EsAfCjCV",
+        "projectSlug": "appleskin"
+      },
+      "compatibility": {
+        "1.16.5": {
+          "fabric": {
+            "identifier": "8N1HVFeQ",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "633NTwhH",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.18.2": {
+          "fabric": {
+            "identifier": "3wbLqeIN",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "1ZaL0ACn",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.2": {
+          "fabric": {
+            "identifier": "tpQpTIMn",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.19.4": {
+          "fabric": {
+            "identifier": "aIpOZwoo",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "LAwakjdi",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.20.1": {
+          "fabric": {
+            "identifier": "N5XeV21r",
+            "filename": null,
+            "source": null
+          },
+          "forge": {
+            "identifier": "XdXDExVF",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21": {
+          "fabric": {
+            "identifier": "b5ZiCjAr",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "kztxpjAA",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "fabric": {
+            "identifier": "b5ZiCjAr",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "kztxpjAA",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.4": {
+          "fabric": {
+            "identifier": "cHQjeYVS",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "x1HG4UDz",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.5": {
+          "fabric": {
+            "identifier": "VfjnbBAT",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "P8sTsYtJ",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.8": {
+          "fabric": {
+            "identifier": "YAjCkZ29",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "zu0t9UzU",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "8sbiz1lS",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "z4BoJd9I",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.10": {
+          "fabric": {
+            "identifier": "8sbiz1lS",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "z4BoJd9I",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.11": {
+          "fabric": {
+            "identifier": "pvcLnrm0",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "MH9ov9DW",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "HwaLJe3v",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "i8MiVItH",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "HwaLJe3v",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "i8MiVItH",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "HwaLJe3v",
+            "filename": null,
+            "source": null
+          },
+          "neoforge": {
+            "identifier": "i8MiVItH",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "tiers",
+      "displayName": "Tiers",
+      "source": {
+        "type": "modrinth",
+        "projectId": "bubOj4AD",
+        "projectSlug": "tiers"
+      },
+      "compatibility": {
+        "1.20.1": {
+          "fabric": {
+            "identifier": "i2cxQrM2",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21": {
+          "fabric": {
+            "identifier": "BWhoHPJB",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "fabric": {
+            "identifier": "uyiLCuCD",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.4": {
+          "fabric": {
+            "identifier": "jmAzSxQR",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.5": {
+          "fabric": {
+            "identifier": "phFFqaq3",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.8": {
+          "fabric": {
+            "identifier": "otPPUMyO",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "jzu7BD4w",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.10": {
+          "fabric": {
+            "identifier": "T6R0NotO",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.11": {
+          "fabric": {
+            "identifier": "NKwlD6Bf",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "alv4H8Og",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "eyOpGlcw",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "z15ejeNF",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "nrcvoicechat",
+      "displayName": "nrcvoicechat",
+      "source": {
+        "type": "maven",
+        "repositoryRef": "noriskproduction",
+        "groupId": "gg.norisk",
+        "artifactId": "nrcvoicechat"
+      },
+      "compatibility": {
+        "1.21": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.1.21",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.1": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.1.21.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.4": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.1.21.4",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.5": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.1.21.5",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.7": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.1.21.7",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.8": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.1.21.8",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.9": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.1.21.9",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.10": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          }
+        },
+        "1.21.11": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.1.21.11",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.26.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.1": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.26.1.1",
+            "filename": null,
+            "source": null
+          }
+        },
+        "26.1.2": {
+          "fabric": {
+            "identifier": "26.2.19-beta+fabric.26.1.2",
+            "filename": null,
             "source": null
           }
         }
@@ -2870,11 +4557,11 @@
     "norisk-prod"
   ],
   "isExperimental": false,
-  "autoUpdate": false,
+  "autoUpdate": true,
   "loaderPolicy": {
     "default": {
       "fabric": {
-        "version": "0.18.3",
+        "version": "0.19.2",
         "min": null,
         "strategy": null
       }
