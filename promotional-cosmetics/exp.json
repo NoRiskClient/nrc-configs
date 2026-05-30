@@ -30,6 +30,39 @@
         "2031a056-fdae-4410-8511-f896a0e829f7",
         "1825dd74-b206-42b2-88f2-ea66f9e0c0e1"
       ]
+    },
+    "510fd845-5062-4d95-b307-cdebfec00f3e": {
+      "string": "Aether Dimension Bundle",
+      "durationInDays": 14,
+      "items": [
+        "fc697c16-c067-4379-b7a4-e3d2d1923c10",
+        "3d675f27-07d1-422a-90cf-5f74a31e4ca6",
+        "6aaaaa1d-1ff4-48b9-ae89-803bb9a34923",
+        "51900163-aa13-4e77-b2f7-c1b025b10cdf",
+        "ed3a42bb-f8dd-4be9-bef8-80e96ae83277"
+      ]
+    },
+    "cff87fc6-2ed1-41c4-ab73-a770730a3bd7": {
+      "string": "End Dimension Bundle",
+      "durationInDays": 14,
+      "items": [
+        "02d3caa3-4a4f-4b37-ada7-657ec5799d7c",
+        "df0a4368-e4ef-4bb1-a6b2-7a6daf98f292",
+        "fd13f491-8c39-4771-a7f2-9a0c50b9c730",
+        "51900163-aa13-4e77-b2f7-c1b025b10cdf",
+        "ed3a42bb-f8dd-4be9-bef8-80e96ae83277"
+      ]
+    },
+    "65dcb324-bc49-422e-8838-f9165b48c2a4": {
+      "string": "Nether Dimension Bundle",
+      "durationInDays": 14,
+      "items": [
+        "859daa29-5dae-4256-83a4-e8a860e408e1",
+        "c02f63ba-d2fe-45e1-a1bd-c50ed54fa104",
+        "d110ac36-adf2-4dab-a831-a6496aa5a988",
+        "51900163-aa13-4e77-b2f7-c1b025b10cdf",
+        "ed3a42bb-f8dd-4be9-bef8-80e96ae83277"
+      ]
     }
   }
 }
