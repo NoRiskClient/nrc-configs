@@ -1,0 +1,23 @@
+{
+  "screens": [
+    {
+      "id": "ogcraft-screen",
+      "match": {
+        "servers": ["ogcraft.eu", "*.ogcraft.eu"]
+      },
+      "location": {
+        "facing": "north",
+        "corner_top": [39.436, 94.243, -188.965],
+        "corner_bottom": [26.882, 87.505, -188.965]
+      },
+      "media": {
+        "url": "https://www.zdf.de/assets/brasilien-deutschland-102~1920x1080?cb=1760518848443"
+      },
+      "goal_particles": [
+        { "x": 33.159, "y": 90.874355, "z": -188.965 },
+        { "x": 38.5, "y": 91.2, "z": -192.0 },
+        { "x": 28.0, "y": 90.5, "z": -185.5 }
+      ]
+    }
+  ]
+}
