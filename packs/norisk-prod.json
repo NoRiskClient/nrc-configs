@@ -85,12 +85,12 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.636-dev-nrc-mini+fabric.1.20.1",
+                        "identifier": "26.2.5469557-dev-nrc-mini+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.636-dev-nrc-mini+forge.1.20.1",
+                        "identifier": "26.2.5469557-dev-nrc-mini+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
@@ -382,12 +382,12 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.628-dev-nrc-mini+fabric.1.20.1",
+                        "identifier": "26.2.5469557-dev-nrc-mini+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.628-dev-nrc-mini+forge.1.20.1",
+                        "identifier": "26.2.5469557-dev-nrc-mini+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
@@ -679,12 +679,12 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.593-dev-nrc-mini+fabric.1.20.1",
+                        "identifier": "26.2.5457991-dev-nrc-mini+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.593-dev-nrc-mini+forge.1.20.1",
+                        "identifier": "26.2.5457991-dev-nrc-mini+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
@@ -976,12 +976,12 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.433-dev-nrc-mini+fabric.1.20.1",
+                        "identifier": "26.2.5457991-dev-nrc-mini+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.433-dev-nrc-mini+forge.1.20.1",
+                        "identifier": "26.2.5457991-dev-nrc-mini+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
@@ -1273,12 +1273,12 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.411-dev-nrc-mini+fabric.1.20.1",
+                        "identifier": "26.2.5457991-dev-nrc-mini+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.411-dev-nrc-mini+forge.1.20.1",
+                        "identifier": "26.2.5457991-dev-nrc-mini+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
@@ -1570,12 +1570,12 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.40-dev-nrc-mini+fabric.1.20.1",
+                        "identifier": "26.2.5419884-dev-nrc-mini+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.40-dev-nrc-mini+forge.1.20.1",
+                        "identifier": "26.2.5419884-dev-nrc-mini+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
@@ -1867,12 +1867,12 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.574-dev-nrc-mini+fabric.1.20.1",
+                        "identifier": "26.2.5469557-dev-nrc-mini+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.574-dev-nrc-mini+forge.1.20.1",
+                        "identifier": "26.2.5469557-dev-nrc-mini+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
