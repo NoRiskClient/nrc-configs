@@ -1867,12 +1867,12 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.2.574-dev-nrc-mini+fabric.1.20.1",
+                        "identifier": "26.2.5469557-dev-nrc-mini+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.574-dev-nrc-mini+forge.1.20.1",
+                        "identifier": "26.2.5469557-dev-nrc-mini+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
