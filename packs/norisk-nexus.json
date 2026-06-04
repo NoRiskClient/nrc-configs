@@ -1798,14 +1798,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.5551583-dev-nrc-mini+forge.1.7.10",
+                        "identifier": "26.2.5566674-dev-nrc-mini+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.5551583-dev-nrc-mini+forge.1.8.9",
+                        "identifier": "26.2.5566674-dev-nrc-mini+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1836,7 +1836,7 @@
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.5551583-dev-nrc-mini+forge.1.18.2",
+                        "identifier": "26.2.5566674-dev-nrc-mini+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
@@ -1848,7 +1848,7 @@
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.5551583-dev-nrc-mini+forge.1.19.2",
+                        "identifier": "26.2.5566674-dev-nrc-mini+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
@@ -1860,7 +1860,7 @@
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.2.5551583-dev-nrc-mini+forge.1.19.4",
+                        "identifier": "26.2.5566674-dev-nrc-mini+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
