@@ -2117,6 +2117,24 @@
             }
         },
         {
+            "id": "mcef-keksuccino",
+            "displayName": "MCEF [Keksuccino's Fork]",
+            "source": {
+                "type": "modrinth",
+                "projectId": "bQhBuv7x",
+                "projectSlug": "mcef-keksuccino"
+            },
+            "compatibility": {
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "JLGheGoq",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
             "id": "sodium",
             "displayName": "Sodium",
             "source": {
