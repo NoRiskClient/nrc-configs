@@ -3436,6 +3436,177 @@
             }
         },
         {
+            "id": "cloth-config",
+            "displayName": "Cloth Config API",
+            "source": {
+                "type": "modrinth",
+                "projectId": "9s6osm5g",
+                "projectSlug": "cloth-config"
+            },
+            "compatibility": {
+                "1.18.2": {
+                    "fabric": {
+                        "identifier": "BLMp2TRt",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.2": {
+                    "fabric": {
+                        "identifier": "ZpV0fKbO",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.19.4": {
+                    "fabric": {
+                        "identifier": "ZTMfeJij",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.20.1": {
+                    "fabric": {
+                        "identifier": "2xQdCMyG",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21": {
+                    "fabric": {
+                        "identifier": "HpMb5wGb",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "izKINKFg",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.1": {
+                    "fabric": {
+                        "identifier": "HpMb5wGb",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "izKINKFg",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.4": {
+                    "fabric": {
+                        "identifier": "TJ6o2sr4",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "dWfheG9X",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.5": {
+                    "fabric": {
+                        "identifier": "qA00xo1O",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "jjrPm6iW",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.8": {
+                    "fabric": {
+                        "identifier": "cz0b1j8R",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "BYkKAJ0C",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.9": {
+                    "fabric": {
+                        "identifier": "qMxkrrmq",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "AzRGxC9j",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "qMxkrrmq",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "AzRGxC9j",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "xuX40TN5",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "Wsus0EWg",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "GFM8zh9J",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "TimoYzse",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "GFM8zh9J",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "TimoYzse",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "GFM8zh9J",
+                        "filename": null,
+                        "source": null
+                    },
+                    "neoforge": {
+                        "identifier": "TimoYzse",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
             "id": "moreculling",
             "displayName": "MoreCulling",
             "source": {
