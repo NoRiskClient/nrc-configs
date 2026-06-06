@@ -1329,7 +1329,7 @@
   "mcreal.comment.error.not_found": "Kommentar nicht gefunden.",
   "mcreal.post.error.not_found": "Beitrag nicht gefunden.",
   "nrc.mcreal.not_posted": "Du hast noch keinen McReal gepostet.",
-    "nrc.worldcup.screen.upcoming.header": "Nächste Spiele",
+  "nrc.worldcup.screen.upcoming.header": "Nächste Spiele",
   "nrc.worldcup.screen.upcoming.empty": "Keine anstehenden Spiele",
   "nrc.worldcup.screen.finished.header": "Letzte Spiele",
   "nrc.worldcup.screen.finished.empty": "Keine beendeten Spiele",
