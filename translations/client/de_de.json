@@ -1113,6 +1113,7 @@
   "nrc.ui.modules.description.worldcup": "WM-Bildschirme im Spiel, Live-Spiel-Overlay und Tor-Feiern",
   "nrc.ui.modules.value.worldScreenDisplay": "Anzeigemodus",
   "nrc.ui.modules.value.worldScreenVolume": "Stream-Lautstärke",
+  "nrc.ui.modules.value.muteWorldScreens": "Stumm",
   "nrc.ui.modules.value.teamNameGradient": "Teamnamen-Farben",
   "nrc.ui.modules.value.showLiveMatchOverlay": "Live-Spiel-Overlay",
   "nrc.ui.modules.value.goalCelebrationParticles": "Tor-Feier Partikel",

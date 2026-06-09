@@ -1083,6 +1083,7 @@
   "nrc.ui.modules.description.worldcup": "Telas da Copa do Mundo no jogo, overlay de partida ao vivo e comemorações de gol",
   "nrc.ui.modules.value.worldScreenDisplay": "Modo de exibição",
   "nrc.ui.modules.value.worldScreenVolume": "Volume do stream",
+  "nrc.ui.modules.value.muteWorldScreens": "Silenciar",
   "nrc.ui.modules.value.teamNameGradient": "Cores dos nomes dos times",
   "nrc.ui.modules.value.showLiveMatchOverlay": "Overlay de partida ao vivo",
   "nrc.ui.modules.value.goalCelebrationParticles": "Partículas de comemoração de gol",

@@ -1083,6 +1083,7 @@
   "nrc.ui.modules.description.worldcup": "Oyun içi Dünya Kupası ekranları, canlı maç katmanı ve gol kutlamaları",
   "nrc.ui.modules.value.worldScreenDisplay": "Görüntüleme modu",
   "nrc.ui.modules.value.worldScreenVolume": "Yayın sesi",
+  "nrc.ui.modules.value.muteWorldScreens": "Sessiz",
   "nrc.ui.modules.value.teamNameGradient": "Takım adı renkleri",
   "nrc.ui.modules.value.showLiveMatchOverlay": "Canlı maç katmanı",
   "nrc.ui.modules.value.goalCelebrationParticles": "Gol kutlama parçacıkları",

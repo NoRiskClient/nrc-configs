@@ -1083,6 +1083,7 @@
   "nrc.ui.modules.description.worldcup": "Écrans Coupe du Monde en jeu, superposition du match en direct et célébrations de buts",
   "nrc.ui.modules.value.worldScreenDisplay": "Mode d'affichage",
   "nrc.ui.modules.value.worldScreenVolume": "Volume du stream",
+  "nrc.ui.modules.value.muteWorldScreens": "Muet",
   "nrc.ui.modules.value.teamNameGradient": "Couleurs des noms d'équipe",
   "nrc.ui.modules.value.showLiveMatchOverlay": "Superposition du match en direct",
   "nrc.ui.modules.value.goalCelebrationParticles": "Particules de célébration de but",

@@ -1113,6 +1113,7 @@
   "nrc.ui.modules.description.worldcup": "In-world World Cup screens, live match overlay, and goal celebrations",
   "nrc.ui.modules.value.worldScreenDisplay": "Display Mode",
   "nrc.ui.modules.value.worldScreenVolume": "Stream Volume",
+  "nrc.ui.modules.value.muteWorldScreens": "Mute",
   "nrc.ui.modules.value.teamNameGradient": "Team Name Colors",
   "nrc.ui.modules.value.showLiveMatchOverlay": "Live Match Overlay",
   "nrc.ui.modules.value.goalCelebrationParticles": "Goal Celebration Particles",

@@ -1083,6 +1083,7 @@
   "nrc.ui.modules.description.worldcup": "Ekrany MŚ w grze, nakładka meczu na żywo i celebracje bramek",
   "nrc.ui.modules.value.worldScreenDisplay": "Tryb wyświetlania",
   "nrc.ui.modules.value.worldScreenVolume": "Głośność streamu",
+  "nrc.ui.modules.value.muteWorldScreens": "Wycisz",
   "nrc.ui.modules.value.teamNameGradient": "Kolory nazw drużyn",
   "nrc.ui.modules.value.showLiveMatchOverlay": "Nakładka meczu na żywo",
   "nrc.ui.modules.value.goalCelebrationParticles": "Cząsteczki celebracji bramki",
