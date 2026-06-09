@@ -1298,12 +1298,12 @@
   "nrc.worldcup.screen.half_time": "Descanso",
   "nrc.worldcup.screen.match_finished": "Finalizado",
   "nrc.worldcup.screen.extra_time": "%s+'",
-  "nrc.worldcup.screen.countdown.past": "Terminado",
+  "nrc.worldcup.screen.countdown.past": "Pasado",
   "nrc.worldcup.screen.countdown.today": "Hoy",
   "nrc.worldcup.screen.countdown.tomorrow": "Mañana",
   "nrc.worldcup.screen.countdown.in_days": "En %s días",
   "nrc.worldcup.screen.window.title": "Copa Mundial FIFA",
-  "nrc.worldcup.screen.window.range": "11.06.2026 – 19.07.2026",
+  "nrc.worldcup.screen.window.range": "11.06.2026 – 20.07.2026",
   "nrc.worldcup.screen.window.from": "desde %s",
   "nrc.worldcup.screen.window.until": "hasta %s"
 }
