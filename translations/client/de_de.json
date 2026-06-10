@@ -1110,6 +1110,14 @@
   "nrc.ui.modules.value.weatherChanger": "Wetter-Wechsler",
   "nrc.ui.modules.value.wheel": "Rad",
   "nrc.ui.modules.value.zoom": "Zoom",
+  "nrc.ui.modules.description.worldcup": "WM-Bildschirme im Spiel, Live-Spiel-Overlay und Tor-Feiern",
+  "nrc.ui.modules.value.worldScreenDisplay": "Anzeigemodus",
+  "nrc.ui.modules.value.worldScreenVolume": "Stream-Lautstärke",
+  "nrc.ui.modules.value.muteWorldScreens": "Stumm",
+  "nrc.ui.modules.value.teamNameGradient": "Teamnamen-Farben",
+  "nrc.ui.modules.value.showLiveMatchOverlay": "Live-Spiel-Overlay",
+  "nrc.ui.modules.value.goalCelebrationParticles": "Tor-Feier Partikel",
+  "nrc.ui.modules.value.goalCelebrationSound": "Tor-Feier Sound",
   "nrc.ui.modules.description.actionBar": "Passe Aussehen und Verhalten der Aktionsleiste an.",
   "nrc.ui.modules.description.armorStatus": "Zeige die Haltbarkeit deiner Rüstung im HUD an.",
   "nrc.ui.modules.description.arrowTrail": "Fügt Pfeilen im Flug eine anpassbare Spur hinzu.",
@@ -1346,7 +1354,7 @@
   "nrc.worldcup.screen.countdown.tomorrow": "Morgen",
   "nrc.worldcup.screen.countdown.in_days": "In %s Tagen",
   "nrc.worldcup.screen.window.title": "FIFA Weltmeisterschaft",
-  "nrc.worldcup.screen.window.range": "11.06.2026 – 19.07.2026",
+  "nrc.worldcup.screen.window.range": "11.06.2026 – 20.07.2026",
   "nrc.worldcup.screen.window.from": "ab %s",
   "nrc.worldcup.screen.window.until": "bis %s"
 }
