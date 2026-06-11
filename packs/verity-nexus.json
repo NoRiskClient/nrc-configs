@@ -1515,14 +1515,14 @@
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.2.28-feat-wm+forge.1.12.2",
+                        "identifier": "26.2.6157219-feat-wm+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.2.28-feat-wm+fabric.1.16.5",
+                        "identifier": "26.2.6157219-feat-wm+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
@@ -1534,7 +1534,7 @@
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.2.28-feat-wm+fabric.1.18.2",
+                        "identifier": "26.2.6157219-feat-wm+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
@@ -1546,7 +1546,7 @@
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.2.28-feat-wm+fabric.1.19.2",
+                        "identifier": "26.2.6157219-feat-wm+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
@@ -1558,7 +1558,7 @@
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.2.28-feat-wm+fabric.1.19.4",
+                        "identifier": "26.2.6157219-feat-wm+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
@@ -1812,14 +1812,14 @@
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.2.525-feat-wm+forge.1.12.2",
+                        "identifier": "26.2.6157219-feat-wm+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.2.525-feat-wm+fabric.1.16.5",
+                        "identifier": "26.2.6157219-feat-wm+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
@@ -1831,7 +1831,7 @@
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.2.525-feat-wm+fabric.1.18.2",
+                        "identifier": "26.2.6157219-feat-wm+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
@@ -1843,7 +1843,7 @@
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.2.525-feat-wm+fabric.1.19.2",
+                        "identifier": "26.2.6157219-feat-wm+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
@@ -1855,7 +1855,7 @@
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.2.525-feat-wm+fabric.1.19.4",
+                        "identifier": "26.2.6157219-feat-wm+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
