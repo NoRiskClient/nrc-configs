@@ -1306,5 +1306,21 @@
   "nrc.worldcup.screen.window.title": "Mistrzostwa Świata FIFA",
   "nrc.worldcup.screen.window.range": "11.06.2026 – 20.07.2026",
   "nrc.worldcup.screen.window.from": "od %s",
-  "nrc.worldcup.screen.window.until": "do %s"
+  "nrc.worldcup.screen.window.until": "do %s",
+  "nrc.worldcup.screen.broadcaster.on_ard": "%s w ARD",
+  "nrc.worldcup.screen.broadcaster.on_zdf": "%s w ZDF",
+  "nrc.worldcup.screen.broadcaster.no_stream": "%s brak transmisji",
+  "nrc.worldscreen.zdf.consent.toast.title": "Mistrzostwa Świata",
+  "nrc.worldscreen.zdf.consent.toast.description": "Pokazać transmisję na żywo ZDF?",
+  "nrc.worldscreen.zdf.consent.decline.title": "Odrzucić cookies?",
+  "nrc.worldscreen.zdf.consent.decline.message": "Bez zgody transmisja na żywo ZDF na ekranie MŚ nie zostanie załadowana. Na pewno?",
+  "nrc.worldscreen.zdf.consent.decline.confirm": "Odrzuć",
+  "nrc.worldcup.settings.zdf_consent.category": "Stream ZDF",
+  "nrc.worldcup.settings.zdf_consent.enable": "Włącz",
+  "nrc.worldcup.settings.zdf_consent.clear_cache": "Wyczyść cache",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.title": "Wyczyścić cache ZDF?",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "To usuwa pliki cookie przeglądarki ZDF i zapisany wybór zgody.",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "Wyczyść",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "Cache wyczyszczony",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "Cache przeglądarki ZDF i zgoda zostały zresetowane."
 }
