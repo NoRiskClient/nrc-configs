@@ -1306,5 +1306,21 @@
   "nrc.worldcup.screen.window.title": "Чемпионат мира FIFA",
   "nrc.worldcup.screen.window.range": "11.06.2026 – 20.07.2026",
   "nrc.worldcup.screen.window.from": "с %s",
-  "nrc.worldcup.screen.window.until": "до %s"
+  "nrc.worldcup.screen.window.until": "до %s",
+  "nrc.worldcup.screen.broadcaster.on_ard": "%s на ARD",
+  "nrc.worldcup.screen.broadcaster.on_zdf": "%s на ZDF",
+  "nrc.worldcup.screen.broadcaster.no_stream": "%s нет трансляции",
+  "nrc.worldscreen.zdf.consent.toast.title": "Чемпионат мира",
+  "nrc.worldscreen.zdf.consent.toast.description": "Показать прямую трансляцию ZDF?",
+  "nrc.worldscreen.zdf.consent.decline.title": "Отклонить cookies?",
+  "nrc.worldscreen.zdf.consent.decline.message": "Без согласия прямая трансляция ZDF на экране чемпионата мира не загрузится. Ты уверен?",
+  "nrc.worldscreen.zdf.consent.decline.confirm": "Отклонить",
+  "nrc.worldcup.settings.zdf_consent.category": "Трансляция ZDF",
+  "nrc.worldcup.settings.zdf_consent.enable": "Включить",
+  "nrc.worldcup.settings.zdf_consent.clear_cache": "Очистить кэш",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.title": "Очистить кэш ZDF?",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "Это удалит cookies браузера ZDF и сохранённый выбор согласия.",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "Очистить",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "Кэш очищен",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "Кэш браузера ZDF и согласие были сброшены."
 }

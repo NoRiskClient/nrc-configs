@@ -1306,5 +1306,21 @@
   "nrc.worldcup.screen.window.title": "FIFA Dünya Kupası",
   "nrc.worldcup.screen.window.range": "11.06.2026 – 20.07.2026",
   "nrc.worldcup.screen.window.from": "%s tarihinden",
-  "nrc.worldcup.screen.window.until": "%s tarihine kadar"
+  "nrc.worldcup.screen.window.until": "%s tarihine kadar",
+  "nrc.worldcup.screen.broadcaster.on_ard": "%s ARD'de",
+  "nrc.worldcup.screen.broadcaster.on_zdf": "%s ZDF'de",
+  "nrc.worldcup.screen.broadcaster.no_stream": "%s yayın yok",
+  "nrc.worldscreen.zdf.consent.toast.title": "Dünya Kupası",
+  "nrc.worldscreen.zdf.consent.toast.description": "ZDF canlı yayını gösterilsin mi?",
+  "nrc.worldscreen.zdf.consent.decline.title": "Çerezleri reddet?",
+  "nrc.worldscreen.zdf.consent.decline.message": "Kabul etmeden Dünya Kupası ekranındaki ZDF canlı yayını yüklenmez. Emin misin?",
+  "nrc.worldscreen.zdf.consent.decline.confirm": "Reddet",
+  "nrc.worldcup.settings.zdf_consent.category": "ZDF Yayını",
+  "nrc.worldcup.settings.zdf_consent.enable": "Etkinleştir",
+  "nrc.worldcup.settings.zdf_consent.clear_cache": "Önbelleği temizle",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.title": "ZDF önbelleği temizlensin mi?",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "Bu, ZDF tarayıcı çerezlerini ve kayıtlı onay tercihinizi siler.",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "Temizle",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "Önbellek temizlendi",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF tarayıcı önbelleği ve onay sıfırlandı."
 }
