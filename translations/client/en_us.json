@@ -1356,5 +1356,21 @@
   "nrc.worldcup.screen.window.title": "FIFA World Cup",
   "nrc.worldcup.screen.window.range": "11.06.2026 – 20.07.2026",
   "nrc.worldcup.screen.window.from": "from %s",
-  "nrc.worldcup.screen.window.until": "until %s"
+  "nrc.worldcup.screen.window.until": "until %s",
+  "nrc.worldcup.screen.broadcaster.on_ard": "%s on ARD",
+  "nrc.worldcup.screen.broadcaster.on_zdf": "%s on ZDF",
+  "nrc.worldcup.screen.broadcaster.no_stream": "%s no Stream",
+  "nrc.worldscreen.zdf.consent.toast.title": "World Cup",
+  "nrc.worldscreen.zdf.consent.toast.description": "Show ZDF live stream?",
+  "nrc.worldscreen.zdf.consent.decline.title": "Decline cookies?",
+  "nrc.worldscreen.zdf.consent.decline.message": "Without accepting, the ZDF live stream on the World Cup screen won't load. Are you sure?",
+  "nrc.worldscreen.zdf.consent.decline.confirm": "Decline",
+  "nrc.worldcup.settings.zdf_consent.category": "ZDF Stream",
+  "nrc.worldcup.settings.zdf_consent.enable": "Enable",
+  "nrc.worldcup.settings.zdf_consent.clear_cache": "Clear Cache",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.title": "Clear ZDF cache?",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "This clears ZDF browser cookies and your saved consent choice.",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "Clear",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "Cache cleared",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF browser cache and consent were reset."
 }
