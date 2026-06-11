@@ -153,6 +153,8 @@
   "nrc.cosmetics.ui.rename_outfit": "✎ OUTFIT UMBENENNEN",
   "nrc.cosmetics.ui.save": "SPEICHERN",
   "nrc.cosmetics.ui.save_and_use": "SPEICHERN & VERWENDEN",
+  "nrc.cosmetics.ui.choose_variant": "VARIANTE WÄHLEN",
+  "nrc.cosmetics.ui.texture_preview_title": "TEXTUR-VARIANTEN",
   "nrc.cosmetics.ui.creator_code": "CREATOR-CODE",
   "nrc.cosmetics.ui.code_label": "CODE:",
   "nrc.cosmetics.ui.support_a_creator": "Unterstütze einen Creator",
