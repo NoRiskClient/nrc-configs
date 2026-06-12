@@ -460,5 +460,21 @@
   "nrc.worldcup.screen.window.title": "FIFA VM",
   "nrc.worldcup.screen.window.range": "11.06.2026 – 20.07.2026",
   "nrc.worldcup.screen.window.from": "fra %s",
-  "nrc.worldcup.screen.window.until": "til %s"
+  "nrc.worldcup.screen.window.until": "til %s",
+  "nrc.worldcup.screen.broadcaster.on_ard": "%s på ARD",
+  "nrc.worldcup.screen.broadcaster.on_zdf": "%s på ZDF",
+  "nrc.worldcup.screen.broadcaster.no_stream": "%s ingen sending",
+  "nrc.worldscreen.zdf.consent.toast.title": "VM",
+  "nrc.worldscreen.zdf.consent.toast.description": "Vise ZDF direktesending?",
+  "nrc.worldscreen.zdf.consent.decline.title": "Avslå informasjonskapsler?",
+  "nrc.worldscreen.zdf.consent.decline.message": "Uten å godta lastes ikke ZDF direktesendingen på VM-skjermen. Er du sikker?",
+  "nrc.worldscreen.zdf.consent.decline.confirm": "Avslå",
+  "nrc.worldcup.settings.zdf_consent.category": "ZDF-strøm",
+  "nrc.worldcup.settings.zdf_consent.enable": "Aktiver",
+  "nrc.worldcup.settings.zdf_consent.clear_cache": "Tøm cache",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.title": "Tøm ZDF-cache?",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "Dette sletter ZDF nettlesercookies og ditt lagrede samtykkevalg.",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "Tøm",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "Cache tømt",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF nettlesercache og samtykke ble tilbakestilt."
 }

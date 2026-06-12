@@ -1306,5 +1306,21 @@
   "nrc.worldcup.screen.window.title": "फीफा विश्व कप",
   "nrc.worldcup.screen.window.range": "11.06.2026 – 20.07.2026",
   "nrc.worldcup.screen.window.from": "%s से",
-  "nrc.worldcup.screen.window.until": "%s तक"
+  "nrc.worldcup.screen.window.until": "%s तक",
+  "nrc.worldcup.screen.broadcaster.on_ard": "%s on ARD",
+  "nrc.worldcup.screen.broadcaster.on_zdf": "%s on ZDF",
+  "nrc.worldcup.screen.broadcaster.no_stream": "%s no Stream",
+  "nrc.worldscreen.zdf.consent.toast.title": "वर्ल्ड कप",
+  "nrc.worldscreen.zdf.consent.toast.description": "ZDF लाइव स्ट्रीम दिखाएं?",
+  "nrc.worldscreen.zdf.consent.decline.title": "कुकीज़ अस्वीकार करें?",
+  "nrc.worldscreen.zdf.consent.decline.message": "स्वीकार किए बिना वर्ल्ड कप स्क्रीन पर ZDF लाइव स्ट्रीम लोड नहीं होगी। क्या आप सुनिश्चित हैं?",
+  "nrc.worldscreen.zdf.consent.decline.confirm": "अस्वीकार करें",
+  "nrc.worldcup.settings.zdf_consent.category": "ZDF स्ट्रीम",
+  "nrc.worldcup.settings.zdf_consent.enable": "सक्षम करें",
+  "nrc.worldcup.settings.zdf_consent.clear_cache": "कैश साफ़ करें",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.title": "ZDF कैश साफ़ करें?",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "यह ZDF ब्राउज़र कुकीज़ और आपकी सहेजी गई सहमति हटा देता है।",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "साफ़ करें",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "कैश साफ़ हो गया",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF ब्राउज़र कैश और सहमति रीसेट कर दी गई।"
 }

@@ -1358,5 +1358,21 @@
   "nrc.worldcup.screen.window.title": "FIFA Weltmeisterschaft",
   "nrc.worldcup.screen.window.range": "11.06.2026 – 20.07.2026",
   "nrc.worldcup.screen.window.from": "ab %s",
-  "nrc.worldcup.screen.window.until": "bis %s"
+  "nrc.worldcup.screen.window.until": "bis %s",
+  "nrc.worldcup.screen.broadcaster.on_ard": "%s auf ARD",
+  "nrc.worldcup.screen.broadcaster.on_zdf": "%s auf ZDF",
+  "nrc.worldcup.screen.broadcaster.no_stream": "%s kein Stream",
+  "nrc.worldscreen.zdf.consent.toast.title": "Weltmeisterschaft",
+  "nrc.worldscreen.zdf.consent.toast.description": "ZDF-Livestream anzeigen?",
+  "nrc.worldscreen.zdf.consent.decline.title": "Cookies ablehnen?",
+  "nrc.worldscreen.zdf.consent.decline.message": "Ohne Zustimmung wird der ZDF-Livestream auf dem WM-Screen nicht geladen. Bist du sicher?",
+  "nrc.worldscreen.zdf.consent.decline.confirm": "Ablehnen",
+  "nrc.worldcup.settings.zdf_consent.category": "ZDF-Stream",
+  "nrc.worldcup.settings.zdf_consent.enable": "Aktivieren",
+  "nrc.worldcup.settings.zdf_consent.clear_cache": "Cache leeren",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.title": "ZDF-Cache leeren?",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "Löscht ZDF-Browser-Cookies und deine gespeicherte Einwilligung.",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "Leeren",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "Cache geleert",
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF-Browser-Cache und Einwilligung wurden zurückgesetzt."
 }
