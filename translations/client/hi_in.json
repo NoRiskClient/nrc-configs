@@ -1301,6 +1301,7 @@
   "nrc.worldcup.screen.match_finished": "समाप्त",
   "nrc.worldcup.screen.extra_time": "%s+'",
   "nrc.worldcup.screen.countdown.past": "बीत चुका",
+  "nrc.worldcup.screen.countdown.starting_soon": "जल्द शुरू होगा",
   "nrc.worldcup.screen.countdown.today": "आज",
   "nrc.worldcup.screen.countdown.tomorrow": "कल",
   "nrc.worldcup.screen.countdown.in_days": "%s दिनों में",

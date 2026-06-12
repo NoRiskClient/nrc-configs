@@ -1301,6 +1301,7 @@
   "nrc.worldcup.screen.match_finished": "Bitti",
   "nrc.worldcup.screen.extra_time": "%s+'",
   "nrc.worldcup.screen.countdown.past": "Geçti",
+  "nrc.worldcup.screen.countdown.starting_soon": "Yakında başlıyor",
   "nrc.worldcup.screen.countdown.today": "Bugün",
   "nrc.worldcup.screen.countdown.tomorrow": "Yarın",
   "nrc.worldcup.screen.countdown.in_days": "%s gün içinde",

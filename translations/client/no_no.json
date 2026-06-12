@@ -455,6 +455,7 @@
   "nrc.worldcup.screen.match_finished": "Ferdig",
   "nrc.worldcup.screen.extra_time": "%s+'",
   "nrc.worldcup.screen.countdown.past": "Over",
+  "nrc.worldcup.screen.countdown.starting_soon": "Starter snart",
   "nrc.worldcup.screen.countdown.today": "I dag",
   "nrc.worldcup.screen.countdown.tomorrow": "I morgen",
   "nrc.worldcup.screen.countdown.in_days": "Om %s dager",

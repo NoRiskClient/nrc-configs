@@ -1301,6 +1301,7 @@
   "nrc.worldcup.screen.match_finished": "Terminé",
   "nrc.worldcup.screen.extra_time": "%s+'",
   "nrc.worldcup.screen.countdown.past": "Passé",
+  "nrc.worldcup.screen.countdown.starting_soon": "Bientôt",
   "nrc.worldcup.screen.countdown.today": "Aujourd'hui",
   "nrc.worldcup.screen.countdown.tomorrow": "Demain",
   "nrc.worldcup.screen.countdown.in_days": "Dans %s jours",
