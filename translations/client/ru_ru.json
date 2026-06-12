@@ -1083,6 +1083,7 @@
   "nrc.ui.modules.description.worldcup": "Экраны ЧМ в игре, оверлей live-матча и празднование голов",
   "nrc.ui.modules.value.worldScreenDisplay": "Режим отображения",
   "nrc.ui.modules.value.worldScreenVolume": "Громкость трансляции",
+  "nrc.ui.modules.value.worldScreenBrowserResolution": "Разрешение",
   "nrc.ui.modules.value.muteWorldScreens": "Без звука",
   "nrc.ui.modules.value.teamNameGradient": "Цвета названий команд",
   "nrc.ui.modules.value.showLiveMatchOverlay": "Оверлей live-матча",

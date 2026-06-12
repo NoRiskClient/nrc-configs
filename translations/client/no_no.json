@@ -20,6 +20,7 @@
   "nrc.ui.modules.description.worldcup": "VM-skjermer i spillet, live-kamp-overlegg og målfeiringer",
   "nrc.ui.modules.value.worldScreenDisplay": "Visningsmodus",
   "nrc.ui.modules.value.worldScreenVolume": "Stream-volum",
+  "nrc.ui.modules.value.worldScreenBrowserResolution": "Oppløsning",
   "nrc.ui.modules.value.muteWorldScreens": "Demp",
   "nrc.ui.modules.value.teamNameGradient": "Lagnavn-farger",
   "nrc.ui.modules.value.showLiveMatchOverlay": "Live-kamp-overlegg",

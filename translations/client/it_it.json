@@ -1083,6 +1083,7 @@
   "nrc.ui.modules.description.worldcup": "Schermi Coppa del Mondo nel gioco, overlay partita in diretta e celebrazioni gol",
   "nrc.ui.modules.value.worldScreenDisplay": "Modalità visualizzazione",
   "nrc.ui.modules.value.worldScreenVolume": "Volume stream",
+  "nrc.ui.modules.value.worldScreenBrowserResolution": "Risoluzione",
   "nrc.ui.modules.value.muteWorldScreens": "Muto",
   "nrc.ui.modules.value.teamNameGradient": "Colori nomi squadra",
   "nrc.ui.modules.value.showLiveMatchOverlay": "Overlay partita in diretta",
