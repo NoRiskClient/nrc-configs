@@ -2214,14 +2214,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.6181384-feat-wm+forge.1.7.10",
+                        "identifier": "26.2.6902777-feat-wm+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.6181384-feat-wm+forge.1.8.9",
+                        "identifier": "26.2.6902777-feat-wm+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -2431,7 +2431,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.6181384-feat-wm+fabric.1.21.11",
+                        "identifier": "26.2.6902777-feat-wm+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -2499,7 +2499,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.6181384-feat-wm+fabric.26.2",
+                        "identifier": "26.2.6902777-feat-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
