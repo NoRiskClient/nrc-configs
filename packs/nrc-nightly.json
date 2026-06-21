@@ -1,6 +1,6 @@
 {
     "displayName": "NRC Nightly",
-    "description": "Latest NoRiskClient nightly builds \u00e2\u20ac\u201d every NRC module (client, compat, cosmetics, friends, mcreal, minigames, owolib) as separate jars, pulled from the dev-nrc-mini branch. No third-party mods; no nrc-mini/nrc-standalone bundles. Pin to the current Nexus contents \u00e2\u20ac\u201d bump module versions in this file when newer nightly builds land.",
+    "description": "Latest NoRiskClient nightly builds â€” every NRC module (client, compat, cosmetics, friends, mcreal, minigames, owolib) as separate jars, pulled from the dev-nrc-mini branch. No third-party mods; no nrc-mini/nrc-standalone bundles. Pin to the current Nexus contents â€” bump module versions in this file when newer nightly builds land.",
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [
@@ -301,7 +301,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.0-working-wm+fabric.26.2",
+                        "identifier": "26.2.6341261-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -615,7 +615,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.0-working-wm+fabric.26.2",
+                        "identifier": "26.2.6341598-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -929,7 +929,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.0-working-wm+fabric.26.2",
+                        "identifier": "26.2.6341598-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1243,7 +1243,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.0-working-wm+fabric.26.2",
+                        "identifier": "26.2.6341598-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1557,7 +1557,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.0-working-wm+fabric.26.2",
+                        "identifier": "26.2.6341598-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1871,7 +1871,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.0-working-wm+fabric.26.2",
+                        "identifier": "26.2.6341598-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2185,7 +2185,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.0-working-wm+fabric.26.2",
+                        "identifier": "26.2.6181384-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2499,7 +2499,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.0-working-wm+fabric.26.2",
+                        "identifier": "26.2.6181384-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
