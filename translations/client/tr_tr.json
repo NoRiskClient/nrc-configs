@@ -1327,5 +1327,9 @@
   "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "Bu, ZDF tarayıcı çerezlerini ve kayıtlı onay tercihinizi siler.",
   "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "Temizle",
   "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "Önbellek temizlendi",
-  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF tarayıcı önbelleği ve onay sıfırlandı."
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF tarayıcı önbelleği ve onay sıfırlandı.",
+  "nrc.ui.reauth.button": "Oturumu onar ve yeniden bağlan",
+  "nrc.ui.reauth.refreshing": "Oturum onarılıyor...",
+  "nrc.ui.reauth.success": "Yeniden bağlanılıyor...",
+  "nrc.ui.reauth.failed": "Yeniden kimlik doğrulama başarısız"
 }

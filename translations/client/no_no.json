@@ -481,5 +481,9 @@
   "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "Dette sletter ZDF nettlesercookies og ditt lagrede samtykkevalg.",
   "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "Tøm",
   "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "Cache tømt",
-  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF nettlesercache og samtykke ble tilbakestilt."
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF nettlesercache og samtykke ble tilbakestilt.",
+  "nrc.ui.reauth.button": "Fiks økt og koble til igjen",
+  "nrc.ui.reauth.refreshing": "Fikser økt...",
+  "nrc.ui.reauth.success": "Kobler til igjen...",
+  "nrc.ui.reauth.failed": "Reautentisering mislyktes"
 }

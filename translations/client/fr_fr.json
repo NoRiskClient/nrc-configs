@@ -1327,5 +1327,9 @@
   "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "Cela supprime les cookies du navigateur ZDF et votre choix de consentement enregistré.",
   "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "Vider",
   "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "Cache vidé",
-  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "Le cache du navigateur ZDF et le consentement ont été réinitialisés."
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "Le cache du navigateur ZDF et le consentement ont été réinitialisés.",
+  "nrc.ui.reauth.button": "Réparer la session et reconnecter",
+  "nrc.ui.reauth.refreshing": "Réparation de la session...",
+  "nrc.ui.reauth.success": "Reconnexion...",
+  "nrc.ui.reauth.failed": "Échec de la réauthentification"
 }

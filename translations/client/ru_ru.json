@@ -1327,5 +1327,9 @@
   "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "Это удалит cookies браузера ZDF и сохранённый выбор согласия.",
   "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "Очистить",
   "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "Кэш очищен",
-  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "Кэш браузера ZDF и согласие были сброшены."
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "Кэш браузера ZDF и согласие были сброшены.",
+  "nrc.ui.reauth.button": "Исправить сессию и переподключиться",
+  "nrc.ui.reauth.refreshing": "Исправление сессии...",
+  "nrc.ui.reauth.success": "Переподключение...",
+  "nrc.ui.reauth.failed": "Ошибка повторной авторизации"
 }

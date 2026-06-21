@@ -1327,5 +1327,9 @@
   "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.message": "यह ZDF ब्राउज़र कुकीज़ और आपकी सहेजी गई सहमति हटा देता है।",
   "nrc.worldcup.settings.zdf_consent.clear_cache.confirm.confirm": "साफ़ करें",
   "nrc.worldcup.settings.zdf_consent.clear_cache.toast.title": "कैश साफ़ हो गया",
-  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF ब्राउज़र कैश और सहमति रीसेट कर दी गई।"
+  "nrc.worldcup.settings.zdf_consent.clear_cache.toast.description": "ZDF ब्राउज़र कैश और सहमति रीसेट कर दी गई।",
+  "nrc.ui.reauth.button": "सत्र ठीक करें और पुनः कनेक्ट करें",
+  "nrc.ui.reauth.refreshing": "सत्र ठीक किया जा रहा है...",
+  "nrc.ui.reauth.success": "पुनः कनेक्ट हो रहा है...",
+  "nrc.ui.reauth.failed": "पुनः प्रमाणीकरण विफल"
 }
