@@ -1,0 +1,317 @@
+{
+  "displayName": "Hypixel Skyblock Update",
+  "description": "Modpack for Hypixel Skyblock",
+  "inheritsFrom": [
+    "norisk-prod"
+  ],
+  "excludeMods": null,
+  "mods": [
+    {
+      "id": "skyblocker",
+      "displayName": "Skyblocker",
+      "source": {
+        "type": "modrinth",
+        "projectId": "y6DuFGwJ",
+        "projectSlug": "skyblocker-liap"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "v6.5.2+1.21.11",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "fabric-api",
+      "displayName": "Fabric API",
+      "source": {
+        "type": "modrinth",
+        "projectId": "P7dR8mSH",
+        "projectSlug": "fabric-api"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "0.141.4+1.21.11",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "skyocean",
+      "displayName": "SkyOcean",
+      "source": {
+        "type": "modrinth",
+        "projectId": "dIczrQAR",
+        "projectSlug": "skyocean"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "1.16.1",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "firmament",
+      "displayName": "Firmament for Hypixel SkyBlock",
+      "source": {
+        "type": "modrinth",
+        "projectId": "IJNUBZ2a",
+        "projectSlug": "firmament"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "44.2.0+mc1.21.11",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "fabric-language-kotlin",
+      "displayName": "Fabric Language Kotlin",
+      "source": {
+        "type": "modrinth",
+        "projectId": "Ha28R6CL",
+        "projectSlug": "fabric-language-kotlin"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "1.13.12+kotlin.2.4.0",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "placeholder-api",
+      "displayName": "placeholder-api",
+      "source": {
+        "type": "modrinth",
+        "projectId": "eXts2L7r",
+        "projectSlug": "placeholder-api"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "2.8.2+1.21.10",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "roughly-enough-items",
+      "displayName": "Roughly Enough Items (REI)",
+      "source": {
+        "type": "modrinth",
+        "projectId": "nfn13YXA",
+        "projectSlug": "rei"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "21.11.816+fabric",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "architectury-api",
+      "displayName": "architectury-api",
+      "source": {
+        "type": "modrinth",
+        "projectId": "lhGA9TYQ",
+        "projectSlug": "architectury-api"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "19.0.1+fabric",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "cloth-config",
+      "displayName": "cloth-config",
+      "source": {
+        "type": "modrinth",
+        "projectId": "9s6osm5g",
+        "projectSlug": "cloth-config"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "21.11.153+fabric",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "sodium-extra",
+      "displayName": "Sodium Extra",
+      "source": {
+        "type": "modrinth",
+        "projectId": "PtjYWJkn",
+        "projectSlug": "sodium-extra"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "mc1.21.11-0.8.3+fabric",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "sodium",
+      "displayName": "Sodium",
+      "source": {
+        "type": "modrinth",
+        "projectId": "AANobbMI",
+        "projectSlug": "sodium"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "mc1.21.11-0.8.12-fabric",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "scoreboard-overhaul",
+      "displayName": "Scoreboard Overhaul",
+      "source": {
+        "type": "modrinth",
+        "projectId": "2YIQkF2v",
+        "projectSlug": "scoreboard-overhaul"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "1.4.2-mc1.21.9",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "yet-another-config-lib",
+      "displayName": "yet-another-config-lib",
+      "source": {
+        "type": "modrinth",
+        "projectId": "1eAoo2KR",
+        "projectSlug": "yet-another-config-lib"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "3.8.2+1.21.11-fabric",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "modmenu",
+      "displayName": "modmenu",
+      "source": {
+        "type": "modrinth",
+        "projectId": "mOgUt4GM",
+        "projectSlug": "modmenu"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "17.0.0",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "skyhanni",
+      "displayName": "SkyHanni for Hypixel SkyBlock",
+      "source": {
+        "type": "modrinth",
+        "projectId": "byNkmv5G",
+        "projectSlug": "skyhanni"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "7.25.0",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "sound-controller",
+      "displayName": "Sound Controller",
+      "source": {
+        "type": "modrinth",
+        "projectId": "uY9zbflw",
+        "projectSlug": "sound-controller"
+      },
+      "compatibility": {
+        "1.21.11": {
+          "fabric": {
+            "identifier": "1.2.4-mc1.21.11",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    }
+  ],
+  "assets": [
+    "hypixel-skyblock",
+    "norisk-prod"
+  ],
+  "isExperimental": false,
+  "autoUpdate": false,
+  "loaderPolicy": {
+    "default": {
+      "fabric": {
+        "version": "0.19.2",
+        "min": null,
+        "strategy": null
+      }
+    },
+    "byMinecraft": {}
+  },
+  "startupHelper": {
+    "additional_paths": []
+  }
+}
