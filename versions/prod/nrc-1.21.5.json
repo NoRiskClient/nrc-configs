@@ -38,6 +38,6 @@
     "keep_local_assets": false,
     "is_experimental": false,
     "copy_initial_mc_data": false,
-    "is_main_version": true
+    "is_main_version": false
   }
 }

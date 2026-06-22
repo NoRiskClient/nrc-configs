@@ -1,6 +1,6 @@
 {
   "id": "cdbb927b-8739-4edb-8ca4-cbf8b090b247",
-  "name": "NRC 26.1.2 (BETA)",
+  "name": "NRC 26.1.2",
   "path": "noriskclient/new",
   "game_version": "26.1.2",
   "loader": "fabric",
@@ -38,6 +38,6 @@
     "keep_local_assets": false,
     "is_experimental": false,
     "copy_initial_mc_data": false,
-    "is_main_version": false
+    "is_main_version": true
   }
 }
