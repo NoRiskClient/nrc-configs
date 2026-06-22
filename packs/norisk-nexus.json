@@ -5313,7 +5313,7 @@
     "loaderPolicy": {
         "default": {
             "fabric": {
-                "version": "0.19.2",
+                "version": "0.19.3",
                 "min": null,
                 "strategy": null
             }
