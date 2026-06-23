@@ -187,6 +187,7 @@
   "nrc.cosmetics.dialog.delete_message": "Möchtest du \"%s\" wirklich löschen?",
   "nrc.plus.goodies.claim_all": "ALLE ABHOLEN",
   "nrc.ui.button.okay": "Okay",
+  "nrc.ui.pause.serverSwitcher": "Server wechseln",
   "nrc.ui.reauth.button": "Session reparieren & verbinden",
   "nrc.ui.reauth.refreshing": "Repariere Session...",
   "nrc.ui.reauth.success": "Verbinde neu...",

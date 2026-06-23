@@ -183,6 +183,7 @@
   "nrc.cosmetics.outfit.override_skin.desc": "Quando ativado, este conjunto usa a skin selecionada em vez da sua skin do Minecraft.",
   "nrc.plus.goodies.claim_all": "RESGATAR TUDO",
   "nrc.ui.button.okay": "Ok",
+  "nrc.ui.pause.serverSwitcher": "Trocar servidor",
   "nrc.ui.dialog.info_title": "Info",
   "nrc.cosmetics.ui.search_cosmetic": "Pesquisar...",
   "nrc.cosmetics.ui.steal_skin_by_url": "ENVIAR SKIN POR URL",

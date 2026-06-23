@@ -183,6 +183,7 @@
   "nrc.cosmetics.outfit.override_skin.desc": "Если включено, этот образ использует выбранный скин вместо вашего скина Minecraft.",
   "nrc.plus.goodies.claim_all": "ЗАБРАТЬ ВСЁ",
   "nrc.ui.button.okay": "Окей",
+  "nrc.ui.pause.serverSwitcher": "Сменить сервер",
   "nrc.ui.dialog.info_title": "Инфо",
   "nrc.cosmetics.ui.search_cosmetic": "Поиск...",
   "nrc.cosmetics.ui.steal_skin_by_url": "ЗАГРУЗИТЬ СКИН ПО URL",

@@ -183,6 +183,7 @@
   "nrc.cosmetics.outfit.override_skin.desc": "सक्षम होने पर, यह आउटफ़िट आपकी Minecraft स्किन के बजाय चयनित स्किन का उपयोग करता है।",
   "nrc.plus.goodies.claim_all": "सभी का दावा करें",
   "nrc.ui.button.okay": "ठीक है",
+  "nrc.ui.pause.serverSwitcher": "सर्वर बदलें",
   "nrc.ui.dialog.info_title": "जानकारी",
   "nrc.cosmetics.ui.search_cosmetic": "खोजें...",
   "nrc.cosmetics.ui.steal_skin_by_url": "URL से स्किन अपलोड करें",

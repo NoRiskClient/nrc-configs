@@ -534,5 +534,6 @@
   "nrc.worldcup.screen.bracket.slot.final.home": "Vinner 1/2 1",
   "nrc.worldcup.screen.bracket.slot.final.away": "Vinner 1/2 2",
   "nrc.worldcup.screen.bracket.slot.third.home": "Taper 1/2 1",
-  "nrc.worldcup.screen.bracket.slot.third.away": "Taper 1/2 2"
+  "nrc.worldcup.screen.bracket.slot.third.away": "Taper 1/2 2",
+  "nrc.ui.pause.serverSwitcher": "Bytt server"
 }

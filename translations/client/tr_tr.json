@@ -183,6 +183,7 @@
   "nrc.cosmetics.outfit.override_skin.desc": "Etkinleştirildiğinde, bu kıyafet Minecraft skininiz yerine seçili skini kullanır.",
   "nrc.plus.goodies.claim_all": "HEPSİNİ AL",
   "nrc.ui.button.okay": "Tamam",
+  "nrc.ui.pause.serverSwitcher": "Sunucu değiştir",
   "nrc.ui.dialog.info_title": "Bilgi",
   "nrc.cosmetics.ui.search_cosmetic": "Ara...",
   "nrc.cosmetics.ui.steal_skin_by_url": "URL'DEN KAPLAMA YÜKLE",
