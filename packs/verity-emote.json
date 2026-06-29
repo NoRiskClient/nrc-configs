@@ -644,14 +644,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.7743799-feat-syncemote+forge.1.7.10",
+                        "identifier": "26.2.7745369-feat-syncemote+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.7743799-feat-syncemote+forge.1.8.9",
+                        "identifier": "26.2.7745369-feat-syncemote+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
