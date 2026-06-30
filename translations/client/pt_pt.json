@@ -661,6 +661,7 @@
   "nrc.ui.modules.value.flyingFov": "FOV a voar",
   "nrc.ui.modules.value.flyingMultiplier": "Multiplicador de voo",
   "nrc.ui.modules.value.toggleKey": "Tecla de alternar",
+  "nrc.ui.modules.value.videoCaptureKey": "Tecla de captura de vídeo",
   "nrc.ui.modules.description.tiertagger": "Mostra o Tier PvP do jogador na nametag e as suas estatísticas no perfil.",
   "nrc.ui.label.new_waypoint": "Novo waypoint",
   "nrc.ui.modules.description.waypoints": "Cria waypoints para navegar no teu mundo e trocar com amigos (Xaero's Worldmap recomendado)",

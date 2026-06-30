@@ -436,6 +436,7 @@
   "nrc.ui.modules.value.funkyPonk": "Funky Modu",
   "nrc.ui.modules.value.bestOf": "En İyi %s",
   "nrc.ui.modules.value.disableIcon": "İkonu Kapat",
+  "nrc.ui.modules.value.videoCaptureKey": "Video kayıt tuşu",
   "nrc.ui.modules.value.cosmeticRenderDistance": "Kozmetik Render Mesafesi %s",
   "nrc.quest.description.collect_any_powerups": "Bu %s güçlendiriciden herhangi birini topla",
   "nrc.quest.description.collect_coins_on_train": "Trendeyken %s jeton topla",

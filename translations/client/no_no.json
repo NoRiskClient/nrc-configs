@@ -121,6 +121,7 @@
   "nrc.ui.modules.value.others": "Andre",
   "nrc.ui.modules.value.strength": "Styrke",
   "nrc.ui.modules.value.inGui": "I brukergrensesnittet",
+  "nrc.ui.modules.value.videoCaptureKey": "Videoopptakstast",
   "nrc.ui.modules.button.tooltip.apply_all": "Still inn endringer globalt",
   "nrc.generic.error.user_not_found": "Bruker ble ikke funnet",
   "nrc.generic.errors.no_valid_uuid": "Ingen gyldig UUID",
