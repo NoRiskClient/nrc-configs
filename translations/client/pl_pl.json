@@ -436,6 +436,7 @@
   "nrc.ui.modules.value.funkyPonk": "Tryb Funky",
   "nrc.ui.modules.value.bestOf": "Najlepszy Z %s",
   "nrc.ui.modules.value.disableIcon": "Wyłącz Ikonę",
+  "nrc.ui.modules.value.videoCaptureKey": "Klawisz nagrywania wideo",
   "nrc.ui.modules.value.cosmeticRenderDistance": "Dystans Renderowania Kosmetyków %s",
   "nrc.quest.description.collect_any_powerups": "Zbierz dowolny z tych %s power-upów",
   "nrc.quest.description.collect_coins_on_train": "Zbierz %s monet będąc w pociągu",
