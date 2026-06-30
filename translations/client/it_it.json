@@ -436,6 +436,7 @@
   "nrc.ui.modules.value.funkyPonk": "Modalità Funky",
   "nrc.ui.modules.value.bestOf": "Migliore Di %s",
   "nrc.ui.modules.value.disableIcon": "Disattiva Icona",
+  "nrc.ui.modules.value.videoCaptureKey": "Tasto cattura video",
   "nrc.ui.modules.value.cosmeticRenderDistance": "Distanza Render Cosmetici %s",
   "nrc.quest.description.collect_any_powerups": "Raccogli uno qualsiasi di questi %s power-up",
   "nrc.quest.description.collect_coins_on_train": "Raccogli %s monete sul treno",
