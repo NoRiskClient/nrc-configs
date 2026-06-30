@@ -436,6 +436,7 @@
   "nrc.ui.modules.value.funkyPonk": "Funky Режим",
   "nrc.ui.modules.value.bestOf": "Лучшее Из %s",
   "nrc.ui.modules.value.disableIcon": "Отключить Иконку",
+  "nrc.ui.modules.value.videoCaptureKey": "Клавиша записи видео",
   "nrc.ui.modules.value.cosmeticRenderDistance": "Дальность Рендера Косметики %s",
   "nrc.quest.description.collect_any_powerups": "Собери любой из этих %s усилителей",
   "nrc.quest.description.collect_coins_on_train": "Собери %s монет на поезде",
