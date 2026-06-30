@@ -461,6 +461,7 @@
   "nrc.ui.modules.value.funkyPonk": "Funky Modus",
   "nrc.ui.modules.value.bestOf": "Best-of-%s",
   "nrc.ui.modules.value.disableIcon": "Icon deaktivieren",
+  "nrc.ui.modules.value.videoCaptureKey": "Video-Aufnahmetaste",
   "nrc.ui.modules.value.cosmeticRenderDistance": "Cosmetic Sichtweite %s",
   "nrc.quest.description.collect_any_powerups": "Sammle eines dieser %s Powerups",
   "nrc.quest.description.collect_coins_on_train": "Sammle %s Münzen auf dem Zug",
