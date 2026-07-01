@@ -1,4 +1,13 @@
 {
+  "nrc.friends.host.error.no_world": "Ingen enkeltspillerverden er åpen.",
+  "nrc.friends.host.error.publish_failed": "Kunne ikke åpne verdenen for LAN.",
+  "nrc.friends.host.error.unavailable": "Hosting er for øyeblikket utilgjengelig.",
+  "nrc.friends.host.error.tunnel_failed": "Kunne ikke nå hosting-serveren. Prøv igjen.",
+  "nrc.friends.host.error.not_hosting": "Du hoster ingen verden.",
+  "nrc.friends.host.error.no_tunnel": "Ingen aktiv hosting-tilkobling.",
+  "nrc.friends.host.ended.token_expired": "Hostet verden stoppet: økten din er utløpt. Start hostingen på nytt.",
+  "nrc.friends.host.ended.relay_unreachable": "Hostet verden stoppet: mistet tilkoblingen til hosting-serveren.",
+  "nrc.friends.host.ended.world_closed": "Hostet verden stoppet: verdenen ble lukket.",
   "nrc.serverstyling.advert.motd": "Premium Minecraft-hosting\nUten abonnement • DDoS-beskyttelse • Online med en gang",
   "nrc.serverstyling.advert.openWebsite": "Åpne nettside",
   "nrc.ui.modules.value.scale": "Skala: %s",
