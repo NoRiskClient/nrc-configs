@@ -16,14 +16,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.7759120-working-wm+forge.1.7.10",
+                        "identifier": "26.3.371600-working-wm+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.7759120-working-wm+forge.1.8.9",
+                        "identifier": "26.3.371600-working-wm+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -233,7 +233,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.7759120-working-wm+fabric.1.21.11",
+                        "identifier": "26.3.371600-working-wm+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -301,7 +301,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.7759120-working-wm+fabric.26.2",
+                        "identifier": "26.3.371600-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -330,14 +330,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.22376-working-wm+forge.1.7.10",
+                        "identifier": "26.3.371600-working-wm+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.22376-working-wm+forge.1.8.9",
+                        "identifier": "26.3.371600-working-wm+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -547,7 +547,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.22376-working-wm+fabric.1.21.11",
+                        "identifier": "26.3.371600-working-wm+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -615,7 +615,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.22376-working-wm+fabric.26.2",
+                        "identifier": "26.3.371600-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -644,14 +644,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.7549268-working-wm+forge.1.7.10",
+                        "identifier": "26.3.371600-working-wm+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.7549268-working-wm+forge.1.8.9",
+                        "identifier": "26.3.371600-working-wm+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -861,7 +861,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.7549268-working-wm+fabric.1.21.11",
+                        "identifier": "26.3.371600-working-wm+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -929,7 +929,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.7549268-working-wm+fabric.26.2",
+                        "identifier": "26.3.371600-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -958,14 +958,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.22376-working-wm+forge.1.7.10",
+                        "identifier": "26.3.371600-working-wm+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.22376-working-wm+forge.1.8.9",
+                        "identifier": "26.3.371600-working-wm+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1175,7 +1175,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.22376-working-wm+fabric.1.21.11",
+                        "identifier": "26.3.371600-working-wm+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1243,7 +1243,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.22376-working-wm+fabric.26.2",
+                        "identifier": "26.3.371600-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1272,14 +1272,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.7549268-working-wm+forge.1.7.10",
+                        "identifier": "26.3.371600-working-wm+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.7549268-working-wm+forge.1.8.9",
+                        "identifier": "26.3.371600-working-wm+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1489,7 +1489,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.7549268-working-wm+fabric.1.21.11",
+                        "identifier": "26.3.371600-working-wm+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1557,7 +1557,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.7549268-working-wm+fabric.26.2",
+                        "identifier": "26.3.371600-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1900,14 +1900,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.58885-working-wm+forge.1.7.10",
+                        "identifier": "26.3.371600-working-wm+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.58885-working-wm+forge.1.8.9",
+                        "identifier": "26.3.371600-working-wm+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -2117,7 +2117,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.58885-working-wm+fabric.1.21.11",
+                        "identifier": "26.3.371600-working-wm+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -2185,7 +2185,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.58885-working-wm+fabric.26.2",
+                        "identifier": "26.3.371600-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2214,14 +2214,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.7055235-working-wm+forge.1.7.10",
+                        "identifier": "26.3.371600-working-wm+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.7055235-working-wm+forge.1.8.9",
+                        "identifier": "26.3.371600-working-wm+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -2431,7 +2431,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.2.7055235-working-wm+fabric.1.21.11",
+                        "identifier": "26.3.371600-working-wm+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -2499,7 +2499,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.2.7055235-working-wm+fabric.26.2",
+                        "identifier": "26.3.371600-working-wm+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2528,14 +2528,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.2.7647252-working-wm+forge.1.7.10",
+                        "identifier": "26.3.125923-working-wm+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.2.7647252-working-wm+forge.1.8.9",
+                        "identifier": "26.3.125923-working-wm+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
