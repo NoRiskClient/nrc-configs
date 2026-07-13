@@ -1437,5 +1437,10 @@
   "mcreal.video.button.open_url": "[APRI]",
   "mcreal.video.button.open_url.hover": "Clicca per aprire nel browser",
   "mcreal.video.button.copy_url": "[COPIA URL]",
-  "mcreal.video.button.copy_url.hover": "Clicca per copiare l'URL"
+  "mcreal.video.button.copy_url.hover": "Clicca per copiare l'URL",
+  "nrc.ui.modules.description.bad_optimizations": "Impostazioni sperimentali che ricavano FPS extra",
+  "nrc.ui.modules.value.skinAtlas": "Atlante delle skin",
+  "nrc.ui.modules.value.renderPassBindSkip": "Salto bind del render pass",
+  "nrc.ui.modules.value.skinAtlas.description": "Unisce tutte le skin dei giocatori in una sola texture per disegnare molti giocatori con molti meno render pass",
+  "nrc.ui.modules.value.renderPassBindSkip.description": "Salta i cambi di framebuffer ridondanti tra i render pass"
 }

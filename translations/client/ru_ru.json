@@ -1437,5 +1437,10 @@
   "mcreal.video.button.open_url": "[ОТКРЫТЬ]",
   "mcreal.video.button.open_url.hover": "Нажми, чтобы открыть в браузере",
   "mcreal.video.button.copy_url": "[КОПИРОВАТЬ URL]",
-  "mcreal.video.button.copy_url.hover": "Нажми, чтобы скопировать URL"
+  "mcreal.video.button.copy_url.hover": "Нажми, чтобы скопировать URL",
+  "nrc.ui.modules.description.bad_optimizations": "Экспериментальные настройки, выжимающие дополнительные FPS",
+  "nrc.ui.modules.value.skinAtlas": "Атлас скинов",
+  "nrc.ui.modules.value.renderPassBindSkip": "Пропуск привязки рендер-пассов",
+  "nrc.ui.modules.value.skinAtlas.description": "Объединяет все скины игроков в одну текстуру, чтобы отрисовывать много игроков за гораздо меньшее число рендер-пассов",
+  "nrc.ui.modules.value.renderPassBindSkip.description": "Пропускает лишние переключения фреймбуфера между рендер-пассами"
 }

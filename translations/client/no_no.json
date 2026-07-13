@@ -591,5 +591,10 @@
   "mcreal.video.button.open_url": "[ÅPNE]",
   "mcreal.video.button.open_url.hover": "Klikk for å åpne i nettleseren",
   "mcreal.video.button.copy_url": "[KOPIER URL]",
-  "mcreal.video.button.copy_url.hover": "Klikk for å kopiere URL-en"
+  "mcreal.video.button.copy_url.hover": "Klikk for å kopiere URL-en",
+  "nrc.ui.modules.description.bad_optimizations": "Eksperimentelle innstillinger som gir ekstra FPS",
+  "nrc.ui.modules.value.skinAtlas": "Skin-atlas",
+  "nrc.ui.modules.value.renderPassBindSkip": "Hopp over render pass-bind",
+  "nrc.ui.modules.value.skinAtlas.description": "Setter alle spillerskins sammen i en tekstur slik at mange spillere tegnes med langt faerre render passes",
+  "nrc.ui.modules.value.renderPassBindSkip.description": "Hopper over unodvendige framebuffer-bytter mellom render passes"
 }

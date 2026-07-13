@@ -1437,5 +1437,10 @@
   "mcreal.video.button.open_url": "[खोलें]",
   "mcreal.video.button.open_url.hover": "ब्राउज़र में खोलने के लिए क्लिक करें",
   "mcreal.video.button.copy_url": "[URL कॉपी करें]",
-  "mcreal.video.button.copy_url.hover": "URL कॉपी करने के लिए क्लिक करें"
+  "mcreal.video.button.copy_url.hover": "URL कॉपी करने के लिए क्लिक करें",
+  "nrc.ui.modules.description.bad_optimizations": "प्रायोगिक सेटिंग्स जो अतिरिक्त FPS निकालती हैं",
+  "nrc.ui.modules.value.skinAtlas": "स्किन एटलस",
+  "nrc.ui.modules.value.renderPassBindSkip": "रेंडर पास बाइंड स्किप",
+  "nrc.ui.modules.value.skinAtlas.description": "सभी खिलाड़ियों की स्किन्स को एक टेक्सचर में जोड़ता है ताकि कई खिलाड़ी बहुत कम रेंडर पास में बन सकें",
+  "nrc.ui.modules.value.renderPassBindSkip.description": "रेंडर पास के बीच अनावश्यक फ्रेमबफर स्विच छोड़ता है"
 }
