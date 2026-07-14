@@ -1442,5 +1442,7 @@
   "nrc.ui.modules.value.skinAtlas": "Atlante delle skin",
   "nrc.ui.modules.value.renderPassBindSkip": "Salto bind del render pass",
   "nrc.ui.modules.value.skinAtlas.description": "Unisce tutte le skin dei giocatori in una sola texture per disegnare molti giocatori con molti meno render pass",
-  "nrc.ui.modules.value.renderPassBindSkip.description": "Salta i cambi di framebuffer ridondanti tra i render pass"
+  "nrc.ui.modules.value.renderPassBindSkip.description": "Salta i cambi di framebuffer ridondanti tra i render pass",
+  "nrc.ui.modules.value.iconAtlas": "Atlante delle icone",
+  "nrc.ui.modules.value.iconAtlas.description": "Unisce tutte le icone dei nametag in una sola texture per disegnarle in un solo render pass"
 }

@@ -1442,5 +1442,7 @@
   "nrc.ui.modules.value.skinAtlas": "Атлас скинов",
   "nrc.ui.modules.value.renderPassBindSkip": "Пропуск привязки рендер-пассов",
   "nrc.ui.modules.value.skinAtlas.description": "Объединяет все скины игроков в одну текстуру, чтобы отрисовывать много игроков за гораздо меньшее число рендер-пассов",
-  "nrc.ui.modules.value.renderPassBindSkip.description": "Пропускает лишние переключения фреймбуфера между рендер-пассами"
+  "nrc.ui.modules.value.renderPassBindSkip.description": "Пропускает лишние переключения фреймбуфера между рендер-пассами",
+  "nrc.ui.modules.value.iconAtlas": "Атлас иконок",
+  "nrc.ui.modules.value.iconAtlas.description": "Объединяет все иконки неймтегов в одну текстуру, чтобы отрисовывать их за один рендер-пасс"
 }

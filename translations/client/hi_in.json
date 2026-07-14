@@ -1442,5 +1442,7 @@
   "nrc.ui.modules.value.skinAtlas": "स्किन एटलस",
   "nrc.ui.modules.value.renderPassBindSkip": "रेंडर पास बाइंड स्किप",
   "nrc.ui.modules.value.skinAtlas.description": "सभी खिलाड़ियों की स्किन्स को एक टेक्सचर में जोड़ता है ताकि कई खिलाड़ी बहुत कम रेंडर पास में बन सकें",
-  "nrc.ui.modules.value.renderPassBindSkip.description": "रेंडर पास के बीच अनावश्यक फ्रेमबफर स्विच छोड़ता है"
+  "nrc.ui.modules.value.renderPassBindSkip.description": "रेंडर पास के बीच अनावश्यक फ्रेमबफर स्विच छोड़ता है",
+  "nrc.ui.modules.value.iconAtlas": "आइकन एटलस",
+  "nrc.ui.modules.value.iconAtlas.description": "सभी नेमटैग आइकनों को एक टेक्सचर में जोड़ता है ताकि वे एक ही रेंडर पास में बनें"
 }

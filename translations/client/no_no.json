@@ -596,5 +596,7 @@
   "nrc.ui.modules.value.skinAtlas": "Skin-atlas",
   "nrc.ui.modules.value.renderPassBindSkip": "Hopp over render pass-bind",
   "nrc.ui.modules.value.skinAtlas.description": "Setter alle spillerskins sammen i en tekstur slik at mange spillere tegnes med langt faerre render passes",
-  "nrc.ui.modules.value.renderPassBindSkip.description": "Hopper over unodvendige framebuffer-bytter mellom render passes"
+  "nrc.ui.modules.value.renderPassBindSkip.description": "Hopper over unodvendige framebuffer-bytter mellom render passes",
+  "nrc.ui.modules.value.iconAtlas": "Ikon-atlas",
+  "nrc.ui.modules.value.iconAtlas.description": "Setter alle nametag-ikoner sammen i en tekstur slik at de tegnes i ett render pass"
 }

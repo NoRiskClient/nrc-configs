@@ -1503,5 +1503,7 @@
   "nrc.ui.modules.value.skinAtlas": "Skin Atlas",
   "nrc.ui.modules.value.renderPassBindSkip": "Render Pass Bind Skip",
   "nrc.ui.modules.value.skinAtlas.description": "Stitches all player skins into one texture so many players draw in far fewer render passes",
-  "nrc.ui.modules.value.renderPassBindSkip.description": "Skips redundant framebuffer switches between render passes"
+  "nrc.ui.modules.value.renderPassBindSkip.description": "Skips redundant framebuffer switches between render passes",
+  "nrc.ui.modules.value.iconAtlas": "Icon Atlas",
+  "nrc.ui.modules.value.iconAtlas.description": "Stitches all nametag icons into one texture so they draw in a single render pass"
 }

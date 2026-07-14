@@ -1442,5 +1442,7 @@
   "nrc.ui.modules.value.skinAtlas": "Atlas skinów",
   "nrc.ui.modules.value.renderPassBindSkip": "Pomijanie bindowania render pass",
   "nrc.ui.modules.value.skinAtlas.description": "Łączy wszystkie skiny graczy w jedną teksturę, dzięki czemu wielu graczy rysuje się w znacznie mniejszej liczbie render passów",
-  "nrc.ui.modules.value.renderPassBindSkip.description": "Pomija zbędne przełączenia framebuffera między render passami"
+  "nrc.ui.modules.value.renderPassBindSkip.description": "Pomija zbędne przełączenia framebuffera między render passami",
+  "nrc.ui.modules.value.iconAtlas": "Atlas ikon",
+  "nrc.ui.modules.value.iconAtlas.description": "Łączy wszystkie ikony nametagów w jedną teksturę, dzięki czemu rysują się w jednym render passie"
 }
