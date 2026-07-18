@@ -1,0 +1,15 @@
+{
+  "adRewardAmount": 250,
+  "adDailyCap": 5,
+  "dailyBonusBase": 100,
+  "dailyStreakStep": 25,
+  "dailyStreakCap": 500,
+  "streakMilestones": [
+    { "every": 7, "bonus": 1000 },
+    { "every": 30, "bonus": 12000 }
+  ],
+  "streakFreezeMaxHeld": 2,
+  "streakRepairWindowDays": 7,
+  "streakRepairMaxDays": 60,
+  "leaderboardSize": 100
+}

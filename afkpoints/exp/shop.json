@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "id": "streak_freeze",
+      "name": "Streak Freeze",
+      "description": "Saves your streak automatically when you miss a day.",
+      "icon": "solar:snowflake-bold",
+      "price": 2500,
+      "rarity": "RARE",
+      "category": "STREAK",
+      "grant": { "type": "streak_freeze" },
+      "maxOwned": 2
+    },
+    {
+      "id": "streak_repair",
+      "name": "Streak Repair",
+      "description": "Restore a streak you lost within the last 7 days.",
+      "icon": "solar:heart-pulse-bold",
+      "price": 7500,
+      "rarity": "EPIC",
+      "category": "STREAK",
+      "grant": { "type": "streak_repair" }
+    },
+    {
+      "id": "rental_heavenly_cape",
+      "name": "Heavenly Cape",
+      "description": "7-day rental of the Heavenly Cape. Wear it while your streak lives.",
+      "icon": "solar:cloud-bold",
+      "price": 10000,
+      "rarity": "LEGENDARY",
+      "category": "COSMETICS",
+      "grant": { "type": "cosmetic", "cosmeticId": "14f6b24c-1145-4530-9a91-164378279b9f", "rentalDays": 7 },
+      "badge": "7d"
+    },
+    {
+      "id": "nrc_plus_30",
+      "name": "30 Days NRC+",
+      "description": "A month of NoRiskClient Plus.",
+      "icon": "solar:star-bold",
+      "price": 75000,
+      "rarity": "LEGENDARY",
+      "category": "LAUNCHER",
+      "grant": { "type": "nrc_plus", "days": 30 }
+    },
+    {
+      "id": "launcher_theme_midnight",
+      "name": "Midnight Theme",
+      "description": "Unlock the Midnight launcher theme.",
+      "icon": "solar:moon-stars-bold",
+      "price": 15000,
+      "rarity": "RARE",
+      "category": "LAUNCHER",
+      "grant": { "type": "launcher", "key": "theme_midnight" },
+      "maxOwned": 1
+    }
+  ]
+}
