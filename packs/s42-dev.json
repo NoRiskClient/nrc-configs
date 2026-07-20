@@ -1375,7 +1375,7 @@
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.40+fabric.1.21.4",
+                        "identifier": "1.0.36+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
@@ -1443,7 +1443,7 @@
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.183+fabric.1.21.4",
+                        "identifier": "1.0.162+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
@@ -1579,7 +1579,7 @@
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.184+fabric.1.21.4",
+                        "identifier": "1.0.138+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
@@ -1647,7 +1647,7 @@
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.36+fabric.1.21.4",
+                        "identifier": "1.0.27+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
@@ -1715,7 +1715,7 @@
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.33+fabric.1.21.4",
+                        "identifier": "1.0.27+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
@@ -1783,7 +1783,7 @@
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.14+fabric.1.21.4",
+                        "identifier": "1.0.9+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
@@ -1851,7 +1851,7 @@
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "1.0.66+fabric.1.21.4",
+                        "identifier": "1.0.55+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
