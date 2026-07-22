@@ -563,63 +563,6 @@
       }
     },
     {
-      "id": "nrc-core",
-      "displayName": "nrc-core",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "noriskproduction",
-        "groupId": "gg.norisk",
-        "artifactId": "nrc-core"
-      },
-      "compatibility": {
-        "1.21.10": {
-          "fabric": {
-            "identifier": "1.0.105+fabric.1.21.10",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "nrc-voicechat",
-      "displayName": "nrc-voicechat",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "noriskproduction",
-        "groupId": "gg.norisk",
-        "artifactId": "nrc-voicechat"
-      },
-      "compatibility": {
-        "1.21.10": {
-          "fabric": {
-            "identifier": "1.0.36+fabric.1.21.10",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
-      "id": "nrc-ui",
-      "displayName": "nrc-ui",
-      "source": {
-        "type": "maven",
-        "repositoryRef": "noriskproduction",
-        "groupId": "gg.norisk",
-        "artifactId": "nrc-ui"
-      },
-      "compatibility": {
-        "1.21.10": {
-          "fabric": {
-            "identifier": "1.0.155+fabric.1.21.10",
-            "filename": null,
-            "source": null
-          }
-        }
-      }
-    },
-    {
       "id": "nrc-client",
       "displayName": "nrc-client",
       "source": {
@@ -631,7 +574,26 @@
       "compatibility": {
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.142+fabric.1.21.10",
+            "identifier": "26.3.1663417-working+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "nrc-compat",
+      "displayName": "nrc-compat",
+      "source": {
+        "type": "maven",
+        "repositoryRef": "noriskproduction",
+        "groupId": "gg.norisk",
+        "artifactId": "nrc-compat"
+      },
+      "compatibility": {
+        "1.21.10": {
+          "fabric": {
+            "identifier": "26.3.1663417-working+fabric.1.21.10",
             "filename": null,
             "source": null
           }
@@ -650,7 +612,7 @@
       "compatibility": {
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.101+fabric.1.21.10",
+            "identifier": "26.3.1619698-working+fabric.1.21.10",
             "filename": null,
             "source": null
           }
@@ -669,7 +631,7 @@
       "compatibility": {
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.27+fabric.1.21.10",
+            "identifier": "26.3.1619698-working+fabric.1.21.10",
             "filename": null,
             "source": null
           }
@@ -688,7 +650,7 @@
       "compatibility": {
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.26+fabric.1.21.10",
+            "identifier": "26.3.1619698-working+fabric.1.21.10",
             "filename": null,
             "source": null
           }
@@ -696,18 +658,56 @@
       }
     },
     {
-      "id": "nrc-emotes",
-      "displayName": "nrc-emotes",
+      "id": "nrc-minigames",
+      "displayName": "nrc-minigames",
       "source": {
         "type": "maven",
         "repositoryRef": "noriskproduction",
         "groupId": "gg.norisk",
-        "artifactId": "nrc-emotes"
+        "artifactId": "nrc-minigames"
       },
       "compatibility": {
         "1.21.10": {
           "fabric": {
-            "identifier": "1.0.50+fabric.1.21.10",
+            "identifier": "26.3.1619698-working+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "nrc-owolib",
+      "displayName": "nrc-owolib",
+      "source": {
+        "type": "maven",
+        "repositoryRef": "noriskproduction",
+        "groupId": "gg.norisk",
+        "artifactId": "nrc-owolib"
+      },
+      "compatibility": {
+        "1.21.10": {
+          "fabric": {
+            "identifier": "26.3.1619698-working+fabric.1.21.10",
+            "filename": null,
+            "source": null
+          }
+        }
+      }
+    },
+    {
+      "id": "nrc-voicechat",
+      "displayName": "nrc-voicechat",
+      "source": {
+        "type": "maven",
+        "repositoryRef": "noriskproduction",
+        "groupId": "gg.norisk",
+        "artifactId": "nrc-voicechat"
+      },
+      "compatibility": {
+        "1.21.10": {
+          "fabric": {
+            "identifier": "26.3.1619698-working+fabric.1.21.10",
             "filename": null,
             "source": null
           }
@@ -975,7 +975,7 @@
   "loaderPolicy": {
     "default": {
       "fabric": {
-        "version": "0.17.3",
+        "version": "0.19.3",
         "min": null,
         "strategy": null
       }
