@@ -1200,6 +1200,7 @@
   "nrc.command.profile.not_found": "Kein Spieler mit dem Namen '%s' gefunden.",
   "nrc.ui.tips.title": "Tipps",
   "nrc.ui.tips.value.rshift": "Nutze R-Shift, um das NoRiskClient-Menü zu öffnen",
+  "nrc.ui.tips.value.ctrl_f2": "Nutze Strg+F2, um McReal-Videos aufzunehmen — die Taste kannst du umbinden",
   "nrc.ui.modules.cosmetics.customTexture.playerName.label": "Eigener Skin",
   "nrc.ui.modules.cosmetics.customTexture.playerName.placeholder": "Spielername",
   "nrc.ui.modules.cosmetics.customTexture.playerName.description": "Nutze den aktuellen Skin eines beliebigen Minecraft-Spielers als Cosmetic-Texture.",
