@@ -618,6 +618,7 @@
   "nrc.ui.modules.value.autoHide": "Nascondi automaticamente",
   "nrc.ui.modules.value.enableMarquee": "Testo scorrevole",
   "nrc.ui.modules.value.showInNameTag": "Mostra nel nametag",
+  "nrc.ui.modules.value.showOtherSpotify": "Mostra la musica degli altri",
   "nrc.ui.modules.value.hideHudWhenOverHead": "Solo sopra la testa",
   "nrc.ui.modules.value.showProgressLabels": "Mostra etichette tempo",
   "nrc.ui.modules.value.sourceSpotify": "Spotify",

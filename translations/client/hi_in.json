@@ -617,6 +617,7 @@
   "nrc.ui.modules.value.autoHide": "स्वतः छिपाएं",
   "nrc.ui.modules.value.enableMarquee": "मार्की",
   "nrc.ui.modules.value.showInNameTag": "नेमटैग में दिखाएं",
+  "nrc.ui.modules.value.showOtherSpotify": "दूसरों का संगीत दिखाएं",
   "nrc.ui.modules.value.hideHudWhenOverHead": "केवल सिर के ऊपर",
   "nrc.ui.modules.value.showProgressLabels": "समय लेबल दिखाएं",
   "nrc.ui.modules.value.sourceSpotify": "Spotify",

@@ -646,6 +646,7 @@
   "nrc.ui.modules.value.autoHide": "Auto Hide",
   "nrc.ui.modules.value.enableMarquee": "Marquee",
   "nrc.ui.modules.value.showInNameTag": "Show in Nametag",
+  "nrc.ui.modules.value.showOtherSpotify": "Show Others' Music",
   "nrc.ui.modules.value.hideHudWhenOverHead": "Overhead Only",
   "nrc.ui.modules.value.showProgressLabels": "Show Time Labels",
   "nrc.ui.modules.value.sourceSpotify": "Spotify",
