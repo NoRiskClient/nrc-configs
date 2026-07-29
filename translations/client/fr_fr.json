@@ -1444,5 +1444,6 @@
   "nrc.ui.modules.value.skinAtlas.description": "Assemble toutes les skins des joueurs dans une seule texture pour dessiner de nombreux joueurs avec beaucoup moins de passes de rendu",
   "nrc.ui.modules.value.renderPassBindSkip.description": "Ignore les changements de framebuffer redondants entre les passes de rendu",
   "nrc.ui.modules.value.iconAtlas": "Atlas d'icônes",
-  "nrc.ui.modules.value.iconAtlas.description": "Assemble toutes les icônes des pseudos dans une seule texture pour les dessiner en une seule passe de rendu"
+  "nrc.ui.modules.value.iconAtlas.description": "Assemble toutes les icônes des pseudos dans une seule texture pour les dessiner en une seule passe de rendu",
+  "nrc.testassets.join_notice": "%s fichier(s) de ton dossier de test sont actifs. Utilise /nrc test pour les lister."
 }

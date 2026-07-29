@@ -1444,5 +1444,6 @@
   "nrc.ui.modules.value.skinAtlas.description": "सभी खिलाड़ियों की स्किन्स को एक टेक्सचर में जोड़ता है ताकि कई खिलाड़ी बहुत कम रेंडर पास में बन सकें",
   "nrc.ui.modules.value.renderPassBindSkip.description": "रेंडर पास के बीच अनावश्यक फ्रेमबफर स्विच छोड़ता है",
   "nrc.ui.modules.value.iconAtlas": "आइकन एटलस",
-  "nrc.ui.modules.value.iconAtlas.description": "सभी नेमटैग आइकनों को एक टेक्सचर में जोड़ता है ताकि वे एक ही रेंडर पास में बनें"
+  "nrc.ui.modules.value.iconAtlas.description": "सभी नेमटैग आइकनों को एक टेक्सचर में जोड़ता है ताकि वे एक ही रेंडर पास में बनें",
+  "nrc.testassets.join_notice": "आपके टेस्ट फ़ोल्डर में %s फ़ाइल सक्रिय हैं। सूची देखने के लिए /nrc test का उपयोग करें।"
 }

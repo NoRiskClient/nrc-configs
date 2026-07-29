@@ -1444,5 +1444,6 @@
   "nrc.ui.modules.value.skinAtlas.description": "Tüm oyuncu skinlerini tek bir dokuda birleştirir, böylece çok sayıda oyuncu çok daha az render pass ile çizilir",
   "nrc.ui.modules.value.renderPassBindSkip.description": "Render passler arasındaki gereksiz framebuffer geçişlerini atlar",
   "nrc.ui.modules.value.iconAtlas": "İkon atlası",
-  "nrc.ui.modules.value.iconAtlas.description": "Tüm nametag ikonlarını tek bir dokuda birleştirir, böylece tek bir render pass ile çizilirler"
+  "nrc.ui.modules.value.iconAtlas.description": "Tüm nametag ikonlarını tek bir dokuda birleştirir, böylece tek bir render pass ile çizilirler",
+  "nrc.testassets.join_notice": "Test klasörünüzdeki %s dosya etkin. Listelemek için /nrc test kullanın."
 }
