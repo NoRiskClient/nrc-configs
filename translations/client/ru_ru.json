@@ -1468,5 +1468,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "Сила покачивания",
   "nrc.ui.modules.value.minDurabilityValue": "Мин. прочность",
   "nrc.ui.modules.value.minDurabilityPercentage": "Мин. прочность %",
-  "nrc.ui.modules.value.playBreakSound": "Звук поломки"
+  "nrc.ui.modules.value.playBreakSound": "Звук поломки",
+  "nrc.ui.modules.value.soundMode": "Звук",
+  "nrc.ui.modules.value.customSound": "Свой звук",
+  "nrc.ui.modules.value.plopAnimation": "Анимация появления"
 }

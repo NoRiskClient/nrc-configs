@@ -1468,5 +1468,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "हिलने की तीव्रता",
   "nrc.ui.modules.value.minDurabilityValue": "न्यूनतम टिकाऊपन",
   "nrc.ui.modules.value.minDurabilityPercentage": "न्यूनतम टिकाऊपन %",
-  "nrc.ui.modules.value.playBreakSound": "टूटने की ध्वनि बजाएँ"
+  "nrc.ui.modules.value.playBreakSound": "टूटने की ध्वनि बजाएँ",
+  "nrc.ui.modules.value.soundMode": "ध्वनि",
+  "nrc.ui.modules.value.customSound": "कस्टम ध्वनि",
+  "nrc.ui.modules.value.plopAnimation": "प्लॉप एनिमेशन"
 }

@@ -1468,5 +1468,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "Intensità oscillazione",
   "nrc.ui.modules.value.minDurabilityValue": "Durabilità min.",
   "nrc.ui.modules.value.minDurabilityPercentage": "Durabilità min. %",
-  "nrc.ui.modules.value.playBreakSound": "Riproduci suono di rottura"
+  "nrc.ui.modules.value.playBreakSound": "Riproduci suono di rottura",
+  "nrc.ui.modules.value.soundMode": "Suono",
+  "nrc.ui.modules.value.customSound": "Suono personalizzato",
+  "nrc.ui.modules.value.plopAnimation": "Animazione di rimbalzo"
 }

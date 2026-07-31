@@ -1468,5 +1468,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "Intensité du rebond",
   "nrc.ui.modules.value.minDurabilityValue": "Durabilité min.",
   "nrc.ui.modules.value.minDurabilityPercentage": "Durabilité min. %",
-  "nrc.ui.modules.value.playBreakSound": "Jouer le son de rupture"
+  "nrc.ui.modules.value.playBreakSound": "Jouer le son de rupture",
+  "nrc.ui.modules.value.soundMode": "Son",
+  "nrc.ui.modules.value.customSound": "Son personnalisé",
+  "nrc.ui.modules.value.plopAnimation": "Animation de rebond"
 }

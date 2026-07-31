@@ -1468,5 +1468,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "Intensidad del rebote",
   "nrc.ui.modules.value.minDurabilityValue": "Durabilidad mín.",
   "nrc.ui.modules.value.minDurabilityPercentage": "Durabilidad mín. %",
-  "nrc.ui.modules.value.playBreakSound": "Reproducir sonido de rotura"
+  "nrc.ui.modules.value.playBreakSound": "Reproducir sonido de rotura",
+  "nrc.ui.modules.value.soundMode": "Sonido",
+  "nrc.ui.modules.value.customSound": "Sonido personalizado",
+  "nrc.ui.modules.value.plopAnimation": "Animación de rebote"
 }

@@ -622,5 +622,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "Vippeintensitet",
   "nrc.ui.modules.value.minDurabilityValue": "Min. holdbarhet",
   "nrc.ui.modules.value.minDurabilityPercentage": "Min. holdbarhet %",
-  "nrc.ui.modules.value.playBreakSound": "Spill ødeleggelseslyd"
+  "nrc.ui.modules.value.playBreakSound": "Spill ødeleggelseslyd",
+  "nrc.ui.modules.value.soundMode": "Lyd",
+  "nrc.ui.modules.value.customSound": "Egen lyd",
+  "nrc.ui.modules.value.plopAnimation": "Plopp-animasjon"
 }

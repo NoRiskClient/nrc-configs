@@ -1468,5 +1468,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "Siła drgania",
   "nrc.ui.modules.value.minDurabilityValue": "Min. wytrzymałość",
   "nrc.ui.modules.value.minDurabilityPercentage": "Min. wytrzymałość %",
-  "nrc.ui.modules.value.playBreakSound": "Odtwarzaj dźwięk pęknięcia"
+  "nrc.ui.modules.value.playBreakSound": "Odtwarzaj dźwięk pęknięcia",
+  "nrc.ui.modules.value.soundMode": "Dźwięk",
+  "nrc.ui.modules.value.customSound": "Własny dźwięk",
+  "nrc.ui.modules.value.plopAnimation": "Animacja odbicia"
 }

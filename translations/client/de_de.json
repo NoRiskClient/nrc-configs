@@ -1529,5 +1529,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "Wackel-Intensität",
   "nrc.ui.modules.value.minDurabilityValue": "Min. Haltbarkeit",
   "nrc.ui.modules.value.minDurabilityPercentage": "Min. Haltbarkeit %",
-  "nrc.ui.modules.value.playBreakSound": "Bruchgeräusch abspielen"
+  "nrc.ui.modules.value.playBreakSound": "Bruchgeräusch abspielen",
+  "nrc.ui.modules.value.soundMode": "Sound",
+  "nrc.ui.modules.value.customSound": "Eigener Sound",
+  "nrc.ui.modules.value.plopAnimation": "Plop-Animation"
 }

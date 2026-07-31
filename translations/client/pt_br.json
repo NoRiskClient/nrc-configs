@@ -1468,5 +1468,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "Intensidade do balanço",
   "nrc.ui.modules.value.minDurabilityValue": "Durabilidade mín.",
   "nrc.ui.modules.value.minDurabilityPercentage": "Durabilidade mín. %",
-  "nrc.ui.modules.value.playBreakSound": "Tocar som de quebra"
+  "nrc.ui.modules.value.playBreakSound": "Tocar som de quebra",
+  "nrc.ui.modules.value.soundMode": "Som",
+  "nrc.ui.modules.value.customSound": "Som personalizado",
+  "nrc.ui.modules.value.plopAnimation": "Animação de salto"
 }

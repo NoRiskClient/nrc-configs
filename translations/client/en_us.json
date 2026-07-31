@@ -1529,5 +1529,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "Bob Intensity",
   "nrc.ui.modules.value.minDurabilityValue": "Min Durability",
   "nrc.ui.modules.value.minDurabilityPercentage": "Min Durability %",
-  "nrc.ui.modules.value.playBreakSound": "Play Breaking Sound"
+  "nrc.ui.modules.value.playBreakSound": "Play Breaking Sound",
+  "nrc.ui.modules.value.soundMode": "Sound",
+  "nrc.ui.modules.value.customSound": "Custom Sound",
+  "nrc.ui.modules.value.plopAnimation": "Plop Animation"
 }

@@ -1468,5 +1468,8 @@
   "nrc.ui.modules.value.warningBobIntensity": "Sallanma şiddeti",
   "nrc.ui.modules.value.minDurabilityValue": "Min. dayanıklılık",
   "nrc.ui.modules.value.minDurabilityPercentage": "Min. dayanıklılık %",
-  "nrc.ui.modules.value.playBreakSound": "Kırılma sesi çal"
+  "nrc.ui.modules.value.playBreakSound": "Kırılma sesi çal",
+  "nrc.ui.modules.value.soundMode": "Ses",
+  "nrc.ui.modules.value.customSound": "Özel ses",
+  "nrc.ui.modules.value.plopAnimation": "Plop animasyonu"
 }
