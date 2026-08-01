@@ -625,5 +625,9 @@
   "nrc.ui.modules.value.playBreakSound": "Spill ødeleggelseslyd",
   "nrc.ui.modules.value.soundMode": "Lyd",
   "nrc.ui.modules.value.customSound": "Egen lyd",
-  "nrc.ui.modules.value.plopAnimation": "Plopp-animasjon"
+  "nrc.ui.modules.value.plopAnimation": "Plopp-animasjon",
+  "nrc.ui.modules.value.spotifyVisibility": "Synlighet for Spotify-navnelapp",
+  "nrc.ui.modules.value.spotifyShowOwn": "Vis sangen din",
+  "nrc.ui.modules.value.spotifyNameTagPosition": "Posisjon",
+  "nrc.ui.modules.value.spotifyOverheadOnly": "Kun over hodet"
 }
