@@ -560,6 +560,7 @@
   "nrc.ui.modules.value.textShadow": "Text Schatten",
   "nrc.ui.modules.value.showOtherAdditionalNameTag": "Zusätzlichen nametag von anderen anzeigen",
   "nrc.ui.modules.value.showYourAdditionalNameTag": "Deinen zusätzlichen Nametag anzeigen",
+  "nrc.ui.modules.value.spotifyVisibility": "Spotify-Nametag Sichtbarkeit",
   "nrc.ui.modules.value.showBackgroundAdditionalNameTag": "Hintergrund anzeigen",
   "nrc.ui.modules.value.additionalNameTagText": "Text",
   "nrc.ui.modules.value.additionalNameTagSize": "Größe",
