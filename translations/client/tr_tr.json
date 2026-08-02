@@ -128,6 +128,7 @@
   "norisk.ui.cancel": "İptal",
   "norisk.ui.confirm": "Onayla",
   "norisk.ui.modules": "Modülleri Aç",
+  "nrc.cosmetics.emote.interactive.join_prompt": "[%s] %s'e katıl",
   "nrc.cosmetics.enum.filter.all": "TÜMÜ",
   "nrc.cosmetics.enum.filter.alphabet": "ALFABE",
   "nrc.cosmetics.enum.filter.owned": "SAHİP OLUNAN",

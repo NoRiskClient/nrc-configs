@@ -128,6 +128,7 @@
   "norisk.ui.cancel": "Abbrechen",
   "norisk.ui.confirm": "Bestätigen",
   "norisk.ui.modules": "Module öffnen",
+  "nrc.cosmetics.emote.interactive.join_prompt": "[%s] %s beitreten",
   "nrc.cosmetics.enum.filter.all": "ALLE",
   "nrc.cosmetics.enum.filter.alphabet": "ALPHABET",
   "nrc.cosmetics.enum.filter.owned": "GEHÖRT",

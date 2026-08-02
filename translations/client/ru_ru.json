@@ -128,6 +128,7 @@
   "norisk.ui.cancel": "Отмена",
   "norisk.ui.confirm": "Подтвердить",
   "norisk.ui.modules": "Открыть Модули",
+  "nrc.cosmetics.emote.interactive.join_prompt": "[%s] Присоединиться к %s",
   "nrc.cosmetics.enum.filter.all": "ВСЕ",
   "nrc.cosmetics.enum.filter.alphabet": "АЛФАВИТ",
   "nrc.cosmetics.enum.filter.owned": "В НАЛИЧИИ",

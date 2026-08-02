@@ -128,6 +128,7 @@
   "norisk.ui.cancel": "रद्द करें",
   "norisk.ui.confirm": "पुष्टि करें",
   "norisk.ui.modules": "मॉड्यूल खोलें",
+  "nrc.cosmetics.emote.interactive.join_prompt": "[%s] %s में शामिल हों",
   "nrc.cosmetics.enum.filter.all": "सभी",
   "nrc.cosmetics.enum.filter.alphabet": "वर्णमाला",
   "nrc.cosmetics.enum.filter.owned": "स्वामित्व",

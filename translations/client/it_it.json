@@ -128,6 +128,7 @@
   "norisk.ui.cancel": "Annulla",
   "norisk.ui.confirm": "Conferma",
   "norisk.ui.modules": "Apri Moduli",
+  "nrc.cosmetics.emote.interactive.join_prompt": "[%s] Unisciti a %s",
   "nrc.cosmetics.enum.filter.all": "TUTTO",
   "nrc.cosmetics.enum.filter.alphabet": "ALFABETO",
   "nrc.cosmetics.enum.filter.owned": "POSSEDUTI",
