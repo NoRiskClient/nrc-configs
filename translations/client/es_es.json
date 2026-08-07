@@ -623,6 +623,7 @@
   "nrc.ui.modules.value.autoHide": "Ocultar automáticamente",
   "nrc.ui.modules.value.enableMarquee": "Texto deslizante",
   "nrc.ui.modules.value.showInNameTag": "Mostrar en la etiqueta de nombre",
+  "nrc.ui.modules.value.showOtherSpotify": "Mostrar música de otros",
   "nrc.ui.modules.value.hideHudWhenOverHead": "Solo sobre la cabeza",
   "nrc.ui.modules.value.showProgressLabels": "Mostrar etiquetas de tiempo",
   "nrc.ui.modules.value.sourceSpotify": "Spotify",
