@@ -474,6 +474,12 @@
   "mcreal.comment.error.not_found": "Kommentar ikke funnet.",
   "mcreal.post.error.not_found": "Innlegg ikke funnet.",
   "nrc.mcreal.not_posted": "Du har ikke postet en McReal ennå.",
+  "nrc.mcreal.error.too_many_pins": "Alle festeplasser er fulle. Fjern en festing først.",
+  "nrc.mcreal.error.post_not_found": "Fant ikke den McReal-en.",
+  "nrc.mcreal.error.post_deleted": "Den McReal-en er allerede slettet.",
+  "nrc.mcreal.error.not_own_post": "Du kan bare feste dine egne McReals.",
+  "nrc.mcreal.error.index_too_big": "Den festeplassen finnes ikke.",
+  "nrc.mcreal.error.index_too_small": "Den festeplassen finnes ikke.",
   "nrc.worldcup.screen.upcoming.header": "Kommende kamper",
   "nrc.worldcup.screen.upcoming.empty": "Ingen kommende kamper",
   "nrc.worldcup.screen.finished.header": "Siste kamper",
@@ -696,5 +702,7 @@
   "nrc.splitchat.menu.new_tab": "Ny fane",
   "nrc.splitchat.menu.new_window": "Nytt vindu",
   "nrc.splitchat.menu.delete_tab": "Slett fane",
-  "nrc.splitchat.menu.delete_window": "Slett vindu"
+  "nrc.splitchat.menu.delete_window": "Slett vindu",
+  "mcreal.profile.pin.added": "McReal festet til profilen din",
+  "mcreal.profile.pin.removed": "Festing fjernet"
 }
