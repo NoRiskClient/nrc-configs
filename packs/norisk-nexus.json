@@ -5090,7 +5090,7 @@
         "norisk-prod"
     ],
     "isExperimental": false,
-    "autoUpdate": true,
+    "autoUpdate": false,
     "loaderPolicy": {
         "default": {
             "fabric": {
