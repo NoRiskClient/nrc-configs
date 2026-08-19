@@ -1520,6 +1520,8 @@
   "nrc.ui.modules.value.iconAtlas": "Icon Atlas",
   "nrc.ui.modules.value.iconAtlas.description": "Stitches all nametag icons into one texture so they draw in a single render pass",
   "nrc.testassets.join_notice": "%s file(s) in your test folder are active. Use /nrc test to list them.",
+  "nrc.testassets.rejected_title": "Ignored %s file(s) in your test folder:",
+  "nrc.testassets.rejected_hint": "Names may only use a-z 0-9 . _ - — rename it and run /nrc test reload",
   "nrc.ui.modules.description.musas_armor_hud": "Shows the durability of your equipped armor beside the hotbar, based on uku's Armor Hud (MIT license)",
   "nrc.ui.modules.value.positionMode": "Sticky Hud",
   "nrc.ui.modules.value.leftPieceMode": "Left Piece",
