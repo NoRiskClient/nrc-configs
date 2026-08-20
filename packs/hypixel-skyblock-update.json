@@ -1,6 +1,11 @@
 {
   "displayName": "Hypixel Skyblock Update",
   "description": "Modpack for Hypixel Skyblock",
+    "listing": {
+        "category": "partner",
+        "weight": 10,
+        "hidden": false
+    },
   "inheritsFrom": [
     "norisk-prod"
   ],

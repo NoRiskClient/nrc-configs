@@ -1,6 +1,11 @@
 {
     "displayName": "Norisk Production",
     "description": "Default NRC modpack with various pvp & survival mods",
+    "listing": {
+        "category": "",
+        "weight": 100,
+        "hidden": false
+    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [

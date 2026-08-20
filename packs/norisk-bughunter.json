@@ -1,6 +1,11 @@
 {
     "displayName": "NoRisk BugHunter",
     "description": "version designed for testing new features and finding bugs",
+    "listing": {
+        "category": "intern",
+        "weight": 0,
+        "hidden": true
+    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [

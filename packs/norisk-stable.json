@@ -1,6 +1,11 @@
 {
     "displayName": "NoRisk Stable",
     "description": "stable norisk branch based on the new nexus update",
+    "listing": {
+        "category": "",
+        "weight": 90,
+        "hidden": false
+    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [

@@ -1,6 +1,11 @@
 {
     "displayName": "Verity Emote",
     "description": "Verity Emote Pack",
+    "listing": {
+        "category": "intern",
+        "weight": 0,
+        "hidden": true
+    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [

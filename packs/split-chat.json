@@ -1,6 +1,11 @@
 {
     "displayName": "Split Chat",
     "description": "nrc-nightly based pack for testing the feat/split-chat branch (Split Chat module: chat windows, tabs and filters). The NRC module identifiers name the feat/split-chat branch. Their build numbers are still the ones inherited from nrc-nightly - no -feat-split-chat+ artifact has been published to maven.norisk.gg yet, so they need bumping to a real build before this pack installs.",
+    "listing": {
+        "category": "intern",
+        "weight": 0,
+        "hidden": true
+    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [

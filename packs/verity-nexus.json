@@ -1,6 +1,11 @@
 {
     "displayName": "Verity Nexus",
     "description": "Verity Nexus branch testing pack with latest nexus module builds",
+    "listing": {
+        "category": "intern",
+        "weight": 0,
+        "hidden": true
+    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [

@@ -42,6 +42,28 @@
       "default": false,
       "description": "Whether this is an experimental pack"
     },
+    "listing": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "How the pack is presented in the launcher's pack picker",
+      "properties": {
+        "category": {
+          "type": "string",
+          "default": "",
+          "description": "Group heading in the picker; empty means the main, unlabelled group"
+        },
+        "weight": {
+          "type": "integer",
+          "default": 0,
+          "description": "Sort weight inside the group; higher sorts first"
+        },
+        "hidden": {
+          "type": "boolean",
+          "default": false,
+          "description": "Keep out of the default list; reachable via \"show more\""
+        }
+      }
+    },
     "autoUpdate": {
       "type": "boolean",
       "default": false,

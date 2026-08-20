@@ -1,6 +1,11 @@
 {
   "displayName": "Craft Attack 13",
   "description": "ca13 mische",
+    "listing": {
+        "category": "partner",
+        "weight": 10,
+        "hidden": false
+    },
   "inheritsFrom": null,
   "excludeMods": null,
   "mods": [

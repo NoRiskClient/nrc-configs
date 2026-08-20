@@ -1,6 +1,11 @@
 {
     "displayName": "NRC Mini",
     "description": "The social side of NoRiskClient in one mod â€” Hosted Worlds, Friends, Cosmetics, Emotes and Capes. No QoL or HUD modules. Drop it into any Forge/Fabric/NeoForge profile to play with your friends.",
+    "listing": {
+        "category": "",
+        "weight": 80,
+        "hidden": false
+    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [

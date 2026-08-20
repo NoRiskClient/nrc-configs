@@ -1,6 +1,11 @@
 {
     "displayName": "NRC Nightly",
     "description": "Latest NoRiskClient nightly builds â€” every NRC module (client, compat, cosmetics, friends, mcreal, minigames, owolib) as separate jars, pulled from the dev-nrc-mini branch. No third-party mods; no nrc-mini/nrc-standalone bundles. Pin to the current Nexus contents â€” bump module versions in this file when newer nightly builds land.",
+    "listing": {
+        "category": "beta",
+        "weight": 50,
+        "hidden": false
+    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [

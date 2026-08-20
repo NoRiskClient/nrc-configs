@@ -1,6 +1,11 @@
 {
     "displayName": "NRC Standalone",
     "description": "The full NoRiskClient as a single standalone mod â€” every module, every feature, every HUD. No launcher, no side-mods. Drop it into any Forge/Fabric/NeoForge profile and get the complete NRC experience.",
+    "listing": {
+        "category": "intern",
+        "weight": 0,
+        "hidden": true
+    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [

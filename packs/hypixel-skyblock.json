@@ -1,6 +1,11 @@
 {
   "displayName": "Hypixel Skyblock",
   "description": "Modpack for Hypixel Skyblock",
+    "listing": {
+        "category": "partner",
+        "weight": 20,
+        "hidden": false
+    },
   "inheritsFrom": [
     "norisk-prod"
   ],
