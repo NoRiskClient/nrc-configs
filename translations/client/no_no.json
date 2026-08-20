@@ -704,5 +704,8 @@
   "nrc.splitchat.menu.delete_tab": "Slett fane",
   "nrc.splitchat.menu.delete_window": "Slett vindu",
   "mcreal.profile.pin.added": "McReal festet til profilen din",
-  "mcreal.profile.pin.removed": "Festing fjernet"
+  "mcreal.profile.pin.removed": "Festing fjernet",
+  "nrc.update.available.title": "Oppdatering tilgjengelig",
+  "nrc.update.available.description": "NoRisk Client %1$s er tilgjengelig. Din versjon: %2$s.",
+  "nrc.update.available.action": "Godta for å åpne nedlastingssiden."
 }

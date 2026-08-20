@@ -1550,5 +1550,8 @@
   "nrc.splitchat.menu.new_tab": "Nuova scheda",
   "nrc.splitchat.menu.new_window": "Nuova finestra",
   "nrc.splitchat.menu.delete_tab": "Elimina scheda",
-  "nrc.splitchat.menu.delete_window": "Elimina finestra"
+  "nrc.splitchat.menu.delete_window": "Elimina finestra",
+  "nrc.update.available.title": "Aggiornamento disponibile",
+  "nrc.update.available.description": "NoRisk Client %1$s è disponibile. La tua versione: %2$s.",
+  "nrc.update.available.action": "Accetta per aprire la pagina dei download."
 }

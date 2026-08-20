@@ -1615,5 +1615,8 @@
   "nrc.splitchat.menu.new_tab": "New Tab",
   "nrc.splitchat.menu.new_window": "New Window",
   "nrc.splitchat.menu.delete_tab": "Delete Tab",
-  "nrc.splitchat.menu.delete_window": "Delete Window"
+  "nrc.splitchat.menu.delete_window": "Delete Window",
+  "nrc.update.available.title": "Update Available",
+  "nrc.update.available.description": "NoRisk Client %1$s is available. Your version: %2$s.",
+  "nrc.update.available.action": "Accept to open the downloads page."
 }

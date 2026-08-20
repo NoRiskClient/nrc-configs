@@ -1550,5 +1550,8 @@
   "nrc.splitchat.menu.new_tab": "Yeni sekme",
   "nrc.splitchat.menu.new_window": "Yeni pencere",
   "nrc.splitchat.menu.delete_tab": "Sekmeyi sil",
-  "nrc.splitchat.menu.delete_window": "Pencereyi sil"
+  "nrc.splitchat.menu.delete_window": "Pencereyi sil",
+  "nrc.update.available.title": "Güncelleme mevcut",
+  "nrc.update.available.description": "NoRisk Client %1$s yayınlandı. Sürümünüz: %2$s.",
+  "nrc.update.available.action": "İndirme sayfasını açmak için onaylayın."
 }

@@ -1550,5 +1550,8 @@
   "nrc.splitchat.menu.new_tab": "Nouvel onglet",
   "nrc.splitchat.menu.new_window": "Nouvelle fenêtre",
   "nrc.splitchat.menu.delete_tab": "Supprimer l'onglet",
-  "nrc.splitchat.menu.delete_window": "Supprimer la fenêtre"
+  "nrc.splitchat.menu.delete_window": "Supprimer la fenêtre",
+  "nrc.update.available.title": "Mise à jour disponible",
+  "nrc.update.available.description": "NoRisk Client %1$s est disponible. Votre version : %2$s.",
+  "nrc.update.available.action": "Acceptez pour ouvrir la page de téléchargement."
 }

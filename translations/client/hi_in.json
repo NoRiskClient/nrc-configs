@@ -1550,5 +1550,8 @@
   "nrc.splitchat.menu.new_tab": "नया टैब",
   "nrc.splitchat.menu.new_window": "नई विंडो",
   "nrc.splitchat.menu.delete_tab": "टैब हटाएँ",
-  "nrc.splitchat.menu.delete_window": "विंडो हटाएँ"
+  "nrc.splitchat.menu.delete_window": "विंडो हटाएँ",
+  "nrc.update.available.title": "अपडेट उपलब्ध",
+  "nrc.update.available.description": "NoRisk Client %1$s उपलब्ध है। आपका संस्करण: %2$s.",
+  "nrc.update.available.action": "डाउनलोड पेज खोलने के लिए स्वीकार करें।"
 }
