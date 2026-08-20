@@ -1,0 +1,191 @@
+{
+  "fastitems-itemrenderer-mixin": {
+    "mc": ["1.21.11"],
+    "loader": ["fabric"],
+    "mod": "fastitems",
+    "status": "solved",
+    "severity": "crash",
+    "signatures": ["fastitems", "ItemRendererMixin", "method_23179"],
+    "actions": ["disable_mod:fastitems"],
+    "texts": {
+      "en": { "title": "Crash on startup — mod \"fastitems\" doesn't work with 1.21.11", "summary": "Delete or update the \"fastitems\" mod.", "actionLabels": ["Disable fastitems"] },
+      "de": { "title": "Absturz beim Start — Mod „fastitems\" passt nicht zu 1.21.11", "summary": "Lösche oder update die Mod „fastitems\".", "actionLabels": ["fastitems deaktivieren"] },
+      "pl": { "title": "Crash przy starcie — mod \"fastitems\" nie pasuje do 1.21.11", "summary": "Usuń lub zaktualizuj moda \"fastitems\".", "actionLabels": ["Wyłącz fastitems"] },
+      "fr": { "title": "Crash au démarrage — le mod « fastitems » n'est pas compatible avec 1.21.11", "summary": "Supprime ou mets à jour le mod « fastitems ».", "actionLabels": ["Désactiver fastitems"] },
+      "it": { "title": "Crash all'avvio — la mod \"fastitems\" non è compatibile con 1.21.11", "summary": "Elimina o aggiorna la mod \"fastitems\".", "actionLabels": ["Disattiva fastitems"] },
+      "tr": { "title": "Başlangıçta çökme — \"fastitems\" modu 1.21.11 ile uyumlu değil", "summary": "\"fastitems\" modunu sil veya güncelle.", "actionLabels": ["fastitems'i devre dışı bırak"] },
+      "pt": { "title": "Crash ao iniciar — o mod \"fastitems\" não é compatível com 1.21.11", "summary": "Exclua ou atualize o mod \"fastitems\".", "actionLabels": ["Desativar fastitems"] },
+      "es": { "title": "Crash al iniciar — el mod \"fastitems\" no es compatible con 1.21.11", "summary": "Elimina o actualiza el mod \"fastitems\".", "actionLabels": ["Desactivar fastitems"] },
+      "ru": { "title": "Краш при запуске — мод \"fastitems\" не совместим с 1.21.11", "summary": "Удалите или обновите мод \"fastitems\".", "actionLabels": ["Отключить fastitems"] },
+      "hi": { "title": "शुरू होते ही क्रैश — मॉड \"fastitems\" 1.21.11 के साथ काम नहीं करता", "summary": "\"fastitems\" मॉड को हटाएँ या अपडेट करें।", "actionLabels": ["fastitems बंद करें"] }
+    }
+  },
+  "legacy-mixin-runtime-conflict": {
+    "mc": ["1.8.9", "1.7.10"],
+    "loader": ["forge"],
+    "mod": "nrcclient",
+    "status": "investigating",
+    "severity": "crash",
+    "signatures": ["Scanned 0 target(s)", "IMixinService.getLogger"],
+    "actions": [],
+    "texts": {
+      "en": { "title": "Crash on startup (1.8.9/1.7.10) — Mixin runtime conflict", "summary": "Known NRC bug on legacy versions (1.8.9/1.7.10) — an older Mixin library interferes. Fix is coming.", "workaround": "Remove the mod that bundles an old Mixin version (often older 1.8.9-era mods)." },
+      "de": { "title": "Absturz beim Start (1.8.9/1.7.10) — Mixin-Runtime-Konflikt", "summary": "Bekannter NRC-Bug auf Legacy (1.8.9/1.7.10) — eine ältere Mixin-Lib stört. Fix kommt.", "workaround": "Die Mod entfernen, die eine alte Mixin-Version mitbringt (oft ältere 1.8.9-Mods)." },
+      "pl": { "title": "Crash przy starcie (1.8.9/1.7.10) — konflikt środowiska Mixin", "summary": "Znany błąd NRC na starszych wersjach (1.8.9/1.7.10) — przeszkadza starsza biblioteka Mixin. Poprawka w drodze.", "workaround": "Usuń moda, który zawiera starą wersję Mixin (często starsze mody z ery 1.8.9)." },
+      "fr": { "title": "Crash au démarrage (1.8.9/1.7.10) — conflit de runtime Mixin", "summary": "Bug NRC connu sur les anciennes versions (1.8.9/1.7.10) — une ancienne bibliothèque Mixin interfère. Un correctif arrive.", "workaround": "Retire le mod qui embarque une ancienne version de Mixin (souvent de vieux mods 1.8.9)." },
+      "it": { "title": "Crash all'avvio (1.8.9/1.7.10) — conflitto runtime Mixin", "summary": "Bug NRC noto sulle versioni legacy (1.8.9/1.7.10) — una vecchia libreria Mixin interferisce. Il fix è in arrivo.", "workaround": "Rimuovi la mod che include una vecchia versione di Mixin (spesso vecchie mod dell'era 1.8.9)." },
+      "tr": { "title": "Başlangıçta çökme (1.8.9/1.7.10) — Mixin çalışma zamanı çakışması", "summary": "Eski sürümlerde (1.8.9/1.7.10) bilinen NRC hatası — eski bir Mixin kütüphanesi soruna yol açıyor. Düzeltme geliyor.", "workaround": "Eski bir Mixin sürümü içeren modu kaldır (genellikle eski 1.8.9 dönemi modları)." },
+      "pt": { "title": "Crash ao iniciar (1.8.9/1.7.10) — conflito de runtime do Mixin", "summary": "Bug conhecido do NRC em versões legadas (1.8.9/1.7.10) — uma biblioteca Mixin antiga interfere. Correção a caminho.", "workaround": "Remova o mod que traz uma versão antiga do Mixin (geralmente mods antigos da era 1.8.9)." },
+      "es": { "title": "Crash al iniciar (1.8.9/1.7.10) — conflicto de runtime de Mixin", "summary": "Bug conocido de NRC en versiones antiguas (1.8.9/1.7.10) — una librería Mixin antigua interfiere. El arreglo está en camino.", "workaround": "Quita el mod que incluye una versión antigua de Mixin (a menudo mods antiguos de la era 1.8.9)." },
+      "ru": { "title": "Краш при запуске (1.8.9/1.7.10) — конфликт рантайма Mixin", "summary": "Известный баг NRC на старых версиях (1.8.9/1.7.10) — мешает старая библиотека Mixin. Исправление в работе.", "workaround": "Удалите мод, который содержит старую версию Mixin (часто это старые моды эпохи 1.8.9)." },
+      "hi": { "title": "शुरू होते ही क्रैश (1.8.9/1.7.10) — Mixin रनटाइम टकराव", "summary": "पुराने संस्करणों (1.8.9/1.7.10) पर NRC का ज्ञात बग — एक पुरानी Mixin लाइब्रेरी बाधा डालती है। फ़िक्स आ रहा है।", "workaround": "वह मॉड हटाएँ जो पुराना Mixin संस्करण लाता है (अक्सर पुराने 1.8.9 दौर के मॉड)।" }
+    }
+  },
+  "nrc-discord-mcreal": {
+    "mc": ["1.21.11"],
+    "loader": ["fabric"],
+    "mod": "nrcclient",
+    "status": "investigating",
+    "severity": "crash",
+    "signatures": ["gg.norisk.mcreal.ui.McRealScreen", "DiscordIntegrationModule.resolveScreenState"],
+    "actions": ["enable_norisk_mod:nrc-mcreal"],
+    "texts": {
+      "en": { "title": "Crash on startup — Discord module needs the McReal screen (NRC)", "summary": "Known NRC bug — our Discord module accesses the McReal screen, which isn't loaded. Fix is coming.", "workaround": "Enable nrc-mcreal in the NoRisk pack, then the game starts again.", "actionLabels": ["Enable nrc-mcreal"] },
+      "de": { "title": "Absturz beim Start — Discord-Modul vermisst McReal-Screen (NRC)", "summary": "Bekannter NRC-Bug — unser Discord-Modul greift auf den McReal-Screen zu, der nicht geladen ist. Fix kommt.", "workaround": "Aktiviere nrc-mcreal im NoRisk-Pack, dann startet das Spiel wieder.", "actionLabels": ["nrc-mcreal aktivieren"] },
+      "pl": { "title": "Crash przy starcie — moduł Discord wymaga ekranu McReal (NRC)", "summary": "Znany błąd NRC — nasz moduł Discord sięga po ekran McReal, który nie jest załadowany. Poprawka w drodze.", "workaround": "Włącz nrc-mcreal w paczce NoRisk, wtedy gra znów wystartuje.", "actionLabels": ["Włącz nrc-mcreal"] },
+      "fr": { "title": "Crash au démarrage — le module Discord requiert l'écran McReal (NRC)", "summary": "Bug NRC connu — notre module Discord accède à l'écran McReal qui n'est pas chargé. Un correctif arrive.", "workaround": "Active nrc-mcreal dans le pack NoRisk, le jeu redémarrera.", "actionLabels": ["Activer nrc-mcreal"] },
+      "it": { "title": "Crash all'avvio — il modulo Discord richiede la schermata McReal (NRC)", "summary": "Bug NRC noto — il nostro modulo Discord accede alla schermata McReal, che non è caricata. Il fix è in arrivo.", "workaround": "Attiva nrc-mcreal nel pack NoRisk, così il gioco riparte.", "actionLabels": ["Attiva nrc-mcreal"] },
+      "tr": { "title": "Başlangıçta çökme — Discord modülü McReal ekranını arıyor (NRC)", "summary": "Bilinen NRC hatası — Discord modülümüz yüklü olmayan McReal ekranına erişiyor. Düzeltme geliyor.", "workaround": "NoRisk paketinde nrc-mcreal'i etkinleştir, oyun tekrar başlar.", "actionLabels": ["nrc-mcreal'i etkinleştir"] },
+      "pt": { "title": "Crash ao iniciar — módulo do Discord precisa da tela McReal (NRC)", "summary": "Bug conhecido do NRC — nosso módulo do Discord acessa a tela McReal, que não está carregada. Correção a caminho.", "workaround": "Ative o nrc-mcreal no pack NoRisk e o jogo volta a iniciar.", "actionLabels": ["Ativar nrc-mcreal"] },
+      "es": { "title": "Crash al iniciar — el módulo de Discord necesita la pantalla McReal (NRC)", "summary": "Bug conocido de NRC — nuestro módulo de Discord accede a la pantalla McReal, que no está cargada. El arreglo está en camino.", "workaround": "Activa nrc-mcreal en el pack NoRisk y el juego arrancará de nuevo.", "actionLabels": ["Activar nrc-mcreal"] },
+      "ru": { "title": "Краш при запуске — модулю Discord нужен экран McReal (NRC)", "summary": "Известный баг NRC — наш модуль Discord обращается к экрану McReal, который не загружен. Исправление в работе.", "workaround": "Включите nrc-mcreal в паке NoRisk — игра снова запустится.", "actionLabels": ["Включить nrc-mcreal"] },
+      "hi": { "title": "शुरू होते ही क्रैश — Discord मॉड्यूल को McReal स्क्रीन चाहिए (NRC)", "summary": "NRC का ज्ञात बग — हमारा Discord मॉड्यूल McReal स्क्रीन तक पहुँचता है, जो लोड नहीं है। फ़िक्स आ रहा है।", "workaround": "NoRisk पैक में nrc-mcreal चालू करें, फिर गेम दोबारा शुरू होगा।", "actionLabels": ["nrc-mcreal चालू करें"] }
+    }
+  },
+  "nrcclient-glintcolor-vulkanmod": {
+    "mc": ["1.21.11"],
+    "loader": ["fabric"],
+    "mod": "nrcclient",
+    "status": "investigating",
+    "severity": "crash",
+    "signatures": ["glintcolorizer.GlintColorMixin", "nrc$modifyGlintColor", "net.vulkanmod.mixin.render.RenderTypeM", "nrcclient"],
+    "actions": ["disable_mod:vulkanmod"],
+    "texts": {
+      "en": { "title": "Crash on startup — glint colors (NRC) vs. VulkanMod", "summary": "Known NRC bug — our glint-color feature clashes with VulkanMod. Fix is coming, you don't need to do anything.", "workaround": "Remove VulkanMod (or ImmediatelyFast) from the mods folder, then the game starts again.", "actionLabels": ["Disable VulkanMod"] },
+      "de": { "title": "Absturz beim Start — Glint-Farben (NRC) vs. VulkanMod", "summary": "Bekannter NRC-Bug — unser Glint-Farben-Feature kollidiert mit VulkanMod. Fix kommt, du musst nichts tun.", "workaround": "VulkanMod (oder ImmediatelyFast) aus dem Mods-Ordner nehmen, dann startet das Spiel wieder.", "actionLabels": ["VulkanMod deaktivieren"] },
+      "pl": { "title": "Crash przy starcie — kolory glint (NRC) vs. VulkanMod", "summary": "Znany błąd NRC — nasza funkcja kolorów glint koliduje z VulkanMod. Poprawka w drodze, nic nie musisz robić.", "workaround": "Usuń VulkanMod (lub ImmediatelyFast) z folderu mods, wtedy gra znów wystartuje.", "actionLabels": ["Wyłącz VulkanMod"] },
+      "fr": { "title": "Crash au démarrage — couleurs de glint (NRC) vs VulkanMod", "summary": "Bug NRC connu — notre fonction de couleurs de glint entre en conflit avec VulkanMod. Un correctif arrive, tu n'as rien à faire.", "workaround": "Retire VulkanMod (ou ImmediatelyFast) du dossier mods, le jeu redémarrera.", "actionLabels": ["Désactiver VulkanMod"] },
+      "it": { "title": "Crash all'avvio — colori glint (NRC) vs. VulkanMod", "summary": "Bug NRC noto — la nostra funzione dei colori glint è in conflitto con VulkanMod. Il fix è in arrivo, non devi fare nulla.", "workaround": "Rimuovi VulkanMod (o ImmediatelyFast) dalla cartella mods, così il gioco riparte.", "actionLabels": ["Disattiva VulkanMod"] },
+      "tr": { "title": "Başlangıçta çökme — glint renkleri (NRC) vs. VulkanMod", "summary": "Bilinen NRC hatası — glint renkleri özelliğimiz VulkanMod ile çakışıyor. Düzeltme geliyor, bir şey yapmana gerek yok.", "workaround": "VulkanMod'u (veya ImmediatelyFast'i) mods klasöründen kaldır, oyun tekrar başlar.", "actionLabels": ["VulkanMod'u devre dışı bırak"] },
+      "pt": { "title": "Crash ao iniciar — cores de glint (NRC) vs. VulkanMod", "summary": "Bug conhecido do NRC — nosso recurso de cores de glint entra em conflito com o VulkanMod. Correção a caminho, você não precisa fazer nada.", "workaround": "Remova o VulkanMod (ou ImmediatelyFast) da pasta mods e o jogo volta a iniciar.", "actionLabels": ["Desativar VulkanMod"] },
+      "es": { "title": "Crash al iniciar — colores de glint (NRC) vs. VulkanMod", "summary": "Bug conocido de NRC — nuestra función de colores de glint choca con VulkanMod. El arreglo está en camino, no tienes que hacer nada.", "workaround": "Quita VulkanMod (o ImmediatelyFast) de la carpeta mods y el juego arrancará de nuevo.", "actionLabels": ["Desactivar VulkanMod"] },
+      "ru": { "title": "Краш при запуске — цвета глинта (NRC) против VulkanMod", "summary": "Известный баг NRC — наша функция цветов глинта конфликтует с VulkanMod. Исправление в работе, ничего делать не нужно.", "workaround": "Уберите VulkanMod (или ImmediatelyFast) из папки mods — игра снова запустится.", "actionLabels": ["Отключить VulkanMod"] },
+      "hi": { "title": "शुरू होते ही क्रैश — ग्लिंट रंग (NRC) बनाम VulkanMod", "summary": "NRC का ज्ञात बग — हमारा ग्लिंट-रंग फ़ीचर VulkanMod से टकराता है। फ़िक्स आ रहा है, आपको कुछ करने की ज़रूरत नहीं।", "workaround": "VulkanMod (या ImmediatelyFast) को mods फ़ोल्डर से हटाएँ, फिर गेम दोबारा शुरू होगा।", "actionLabels": ["VulkanMod बंद करें"] }
+    }
+  },
+  "nrcclient-xaero-compat": {
+    "mc": ["1.21.10", "1.21.11"],
+    "loader": ["fabric"],
+    "mod": "nrcclient",
+    "status": "investigating",
+    "severity": "crash",
+    "signatures": ["nrc$xaeroRemoveAll", "GuiAddWaypointMixin"],
+    "actions": [],
+    "texts": {
+      "en": { "title": "Crash on startup — NRC Xaero compat doesn't match your Xaero version", "summary": "Known NRC bug — our Xaero compat mixin doesn't match the installed Xaero version. Fix is coming.", "workaround": "Update Xaero (Minimap/Worldmap/XaeroPlus) to the version supported by NRC, or remove it for now." },
+      "de": { "title": "Absturz beim Start — NRC Xaero-Compat passt nicht zur Xaero-Version", "summary": "Bekannter NRC-Bug — unser Xaero-Compat-Mixin passt nicht zur installierten Xaero-Version. Fix kommt.", "workaround": "Xaero (Minimap/Worldmap/XaeroPlus) auf die von NRC unterstützte Version bringen, oder vorerst entfernen." },
+      "pl": { "title": "Crash przy starcie — kompatybilność NRC z Xaero nie pasuje do wersji Xaero", "summary": "Znany błąd NRC — nasz mixin kompatybilności z Xaero nie pasuje do zainstalowanej wersji Xaero. Poprawka w drodze.", "workaround": "Zaktualizuj Xaero (Minimap/Worldmap/XaeroPlus) do wersji wspieranej przez NRC albo na razie go usuń." },
+      "fr": { "title": "Crash au démarrage — la compat Xaero de NRC ne correspond pas à ta version de Xaero", "summary": "Bug NRC connu — notre mixin de compat Xaero ne correspond pas à la version de Xaero installée. Un correctif arrive.", "workaround": "Mets Xaero (Minimap/Worldmap/XaeroPlus) sur la version supportée par NRC, ou retire-le pour l'instant." },
+      "it": { "title": "Crash all'avvio — la compat Xaero di NRC non corrisponde alla tua versione di Xaero", "summary": "Bug NRC noto — il nostro mixin di compatibilità Xaero non corrisponde alla versione di Xaero installata. Il fix è in arrivo.", "workaround": "Porta Xaero (Minimap/Worldmap/XaeroPlus) alla versione supportata da NRC, oppure rimuovilo per ora." },
+      "tr": { "title": "Başlangıçta çökme — NRC Xaero uyumluluğu Xaero sürümünle eşleşmiyor", "summary": "Bilinen NRC hatası — Xaero uyumluluk mixin'imiz yüklü Xaero sürümüyle eşleşmiyor. Düzeltme geliyor.", "workaround": "Xaero'yu (Minimap/Worldmap/XaeroPlus) NRC'nin desteklediği sürüme getir veya şimdilik kaldır." },
+      "pt": { "title": "Crash ao iniciar — a compat Xaero do NRC não corresponde à sua versão do Xaero", "summary": "Bug conhecido do NRC — nosso mixin de compatibilidade com Xaero não corresponde à versão instalada do Xaero. Correção a caminho.", "workaround": "Atualize o Xaero (Minimap/Worldmap/XaeroPlus) para a versão suportada pelo NRC ou remova-o por enquanto." },
+      "es": { "title": "Crash al iniciar — la compat de Xaero de NRC no coincide con tu versión de Xaero", "summary": "Bug conocido de NRC — nuestro mixin de compatibilidad con Xaero no coincide con la versión instalada de Xaero. El arreglo está en camino.", "workaround": "Pon Xaero (Minimap/Worldmap/XaeroPlus) en la versión soportada por NRC o quítalo por ahora." },
+      "ru": { "title": "Краш при запуске — Xaero-совместимость NRC не подходит к вашей версии Xaero", "summary": "Известный баг NRC — наш миксин совместимости с Xaero не подходит к установленной версии Xaero. Исправление в работе.", "workaround": "Обновите Xaero (Minimap/Worldmap/XaeroPlus) до версии, поддерживаемой NRC, или временно удалите его." },
+      "hi": { "title": "शुरू होते ही क्रैश — NRC का Xaero कम्पैट आपकी Xaero वर्ज़न से मेल नहीं खाता", "summary": "NRC का ज्ञात बग — हमारा Xaero कम्पैट मिक्सिन इंस्टॉल की गई Xaero वर्ज़न से मेल नहीं खाता। फ़िक्स आ रहा है।", "workaround": "Xaero (Minimap/Worldmap/XaeroPlus) को NRC द्वारा समर्थित वर्ज़न पर लाएँ, या फ़िलहाल हटा दें।" }
+    }
+  },
+  "nrccompat-jpms-split-package": {
+    "mc": ["1.20.1"],
+    "loader": ["forge"],
+    "mod": "nrccompat",
+    "status": "investigating",
+    "severity": "crash",
+    "signatures": ["ResolutionException", "nrccompat", "exports package"],
+    "actions": [],
+    "texts": {
+      "en": { "title": "Crash on startup — nrccompat package conflict (ResolutionException)", "summary": "Known NRC bug — our nrccompat module clashes with other modules. Fix is coming, you don't need to do anything.", "workaround": "Mostly happens with KotlinForForge or a separate MixinExtras mod — try removing that mod. Otherwise wait for the fix." },
+      "de": { "title": "Absturz beim Start — nrccompat Paket-Konflikt (ResolutionException)", "summary": "Bekannter NRC-Bug — unser nrccompat-Modul kollidiert mit anderen Modulen. Fix kommt, du musst nichts tun.", "workaround": "Tritt v.a. mit KotlinForForge oder einer extra MixinExtras-Mod auf — diese Mod testweise entfernen. Sonst auf Fix warten." },
+      "pl": { "title": "Crash przy starcie — konflikt pakietów nrccompat (ResolutionException)", "summary": "Znany błąd NRC — nasz moduł nrccompat koliduje z innymi modułami. Poprawka w drodze, nic nie musisz robić.", "workaround": "Występuje głównie z KotlinForForge lub osobnym modem MixinExtras — spróbuj usunąć tego moda. W przeciwnym razie poczekaj na poprawkę." },
+      "fr": { "title": "Crash au démarrage — conflit de packages nrccompat (ResolutionException)", "summary": "Bug NRC connu — notre module nrccompat entre en conflit avec d'autres modules. Un correctif arrive, tu n'as rien à faire.", "workaround": "Survient surtout avec KotlinForForge ou un mod MixinExtras séparé — essaie de retirer ce mod. Sinon attends le correctif." },
+      "it": { "title": "Crash all'avvio — conflitto di pacchetti nrccompat (ResolutionException)", "summary": "Bug NRC noto — il nostro modulo nrccompat è in conflitto con altri moduli. Il fix è in arrivo, non devi fare nulla.", "workaround": "Succede soprattutto con KotlinForForge o una mod MixinExtras separata — prova a rimuovere quella mod. Altrimenti aspetta il fix." },
+      "tr": { "title": "Başlangıçta çökme — nrccompat paket çakışması (ResolutionException)", "summary": "Bilinen NRC hatası — nrccompat modülümüz diğer modüllerle çakışıyor. Düzeltme geliyor, bir şey yapmana gerek yok.", "workaround": "Çoğunlukla KotlinForForge veya ayrı bir MixinExtras moduyla oluşur — o modu kaldırmayı dene. Aksi halde düzeltmeyi bekle." },
+      "pt": { "title": "Crash ao iniciar — conflito de pacotes do nrccompat (ResolutionException)", "summary": "Bug conhecido do NRC — nosso módulo nrccompat entra em conflito com outros módulos. Correção a caminho, você não precisa fazer nada.", "workaround": "Acontece principalmente com KotlinForForge ou um mod MixinExtras separado — tente remover esse mod. Caso contrário, aguarde a correção." },
+      "es": { "title": "Crash al iniciar — conflicto de paquetes de nrccompat (ResolutionException)", "summary": "Bug conocido de NRC — nuestro módulo nrccompat choca con otros módulos. El arreglo está en camino, no tienes que hacer nada.", "workaround": "Ocurre sobre todo con KotlinForForge o un mod MixinExtras aparte — prueba a quitar ese mod. Si no, espera el arreglo." },
+      "ru": { "title": "Краш при запуске — конфликт пакетов nrccompat (ResolutionException)", "summary": "Известный баг NRC — наш модуль nrccompat конфликтует с другими модулями. Исправление в работе, ничего делать не нужно.", "workaround": "Чаще всего возникает с KotlinForForge или отдельным модом MixinExtras — попробуйте удалить этот мод. Иначе дождитесь исправления." },
+      "hi": { "title": "शुरू होते ही क्रैश — nrccompat पैकेज टकराव (ResolutionException)", "summary": "NRC का ज्ञात बग — हमारा nrccompat मॉड्यूल दूसरे मॉड्यूल से टकराता है। फ़िक्स आ रहा है, आपको कुछ करने की ज़रूरत नहीं।", "workaround": "ज़्यादातर KotlinForForge या अलग MixinExtras मॉड के साथ होता है — वह मॉड हटाकर देखें। वरना फ़िक्स का इंतज़ार करें।" }
+    }
+  },
+  "optifine-relaunch-native": {
+    "mc": ["1.8.9"],
+    "loader": ["forge"],
+    "mod": "nrcclient",
+    "status": "investigating",
+    "severity": "crash",
+    "signatures": ["lwjgl64.dll already loaded in another classloader", "optifine.reflect.Reflector"],
+    "actions": ["disable_mod:optifine"],
+    "texts": {
+      "en": { "title": "Crash on startup (1.8.9) — OptiFine + relaunch (lwjgl already loaded)", "summary": "Known NRC bug — our relaunch doesn't get along with OptiFine. Fix is coming.", "workaround": "Remove OptiFine, then the game starts again.", "actionLabels": ["Disable OptiFine"] },
+      "de": { "title": "Absturz beim Start (1.8.9) — OptiFine + Relaunch (lwjgl already loaded)", "summary": "Bekannter NRC-Bug — unser Relaunch verträgt sich mit OptiFine nicht. Fix kommt.", "workaround": "OptiFine rausnehmen, dann startet das Spiel wieder.", "actionLabels": ["OptiFine deaktivieren"] },
+      "pl": { "title": "Crash przy starcie (1.8.9) — OptiFine + relaunch (lwjgl already loaded)", "summary": "Znany błąd NRC — nasz relaunch nie współpracuje z OptiFine. Poprawka w drodze.", "workaround": "Usuń OptiFine, wtedy gra znów wystartuje.", "actionLabels": ["Wyłącz OptiFine"] },
+      "fr": { "title": "Crash au démarrage (1.8.9) — OptiFine + relaunch (lwjgl already loaded)", "summary": "Bug NRC connu — notre relaunch ne s'entend pas avec OptiFine. Un correctif arrive.", "workaround": "Retire OptiFine, le jeu redémarrera.", "actionLabels": ["Désactiver OptiFine"] },
+      "it": { "title": "Crash all'avvio (1.8.9) — OptiFine + relaunch (lwjgl already loaded)", "summary": "Bug NRC noto — il nostro relaunch non va d'accordo con OptiFine. Il fix è in arrivo.", "workaround": "Rimuovi OptiFine, così il gioco riparte.", "actionLabels": ["Disattiva OptiFine"] },
+      "tr": { "title": "Başlangıçta çökme (1.8.9) — OptiFine + relaunch (lwjgl already loaded)", "summary": "Bilinen NRC hatası — relaunch mekanizmamız OptiFine ile anlaşamıyor. Düzeltme geliyor.", "workaround": "OptiFine'ı kaldır, oyun tekrar başlar.", "actionLabels": ["OptiFine'ı devre dışı bırak"] },
+      "pt": { "title": "Crash ao iniciar (1.8.9) — OptiFine + relaunch (lwjgl already loaded)", "summary": "Bug conhecido do NRC — nosso relaunch não se dá bem com o OptiFine. Correção a caminho.", "workaround": "Remova o OptiFine e o jogo volta a iniciar.", "actionLabels": ["Desativar OptiFine"] },
+      "es": { "title": "Crash al iniciar (1.8.9) — OptiFine + relaunch (lwjgl already loaded)", "summary": "Bug conocido de NRC — nuestro relaunch no se lleva bien con OptiFine. El arreglo está en camino.", "workaround": "Quita OptiFine y el juego arrancará de nuevo.", "actionLabels": ["Desactivar OptiFine"] },
+      "ru": { "title": "Краш при запуске (1.8.9) — OptiFine + relaunch (lwjgl already loaded)", "summary": "Известный баг NRC — наш relaunch не уживается с OptiFine. Исправление в работе.", "workaround": "Уберите OptiFine — игра снова запустится.", "actionLabels": ["Отключить OptiFine"] },
+      "hi": { "title": "शुरू होते ही क्रैश (1.8.9) — OptiFine + रीलॉन्च (lwjgl already loaded)", "summary": "NRC का ज्ञात बग — हमारा रीलॉन्च OptiFine के साथ नहीं चलता। फ़िक्स आ रहा है।", "workaround": "OptiFine हटाएँ, फिर गेम दोबारा शुरू होगा।", "actionLabels": ["OptiFine बंद करें"] }
+    }
+  },
+  "sodiumdynamiclights-method18097": {
+    "mc": ["1.21.11"],
+    "loader": ["fabric"],
+    "mod": "sodiumdynamiclights",
+    "status": "solved",
+    "severity": "crash",
+    "signatures": ["InvalidInjectionException", "sodiumdynamiclights", "method_18097", "net.minecraft.class_310", "onUpdateLevelInEngines"],
+    "actions": ["disable_mod:sodiumdynamiclights"],
+    "texts": {
+      "en": { "title": "Crash on startup — mod \"sodiumdynamiclights\" doesn't fit", "summary": "Delete the \"sodiumdynamiclights\" mod from your mods folder.", "actionLabels": ["Disable Sodium Dynamic Lights"] },
+      "de": { "title": "Absturz beim Start — Mod „sodiumdynamiclights\" passt nicht", "summary": "Lösche die Mod „sodiumdynamiclights\" aus deinem Mods-Ordner.", "actionLabels": ["Sodium Dynamic Lights deaktivieren"] },
+      "pl": { "title": "Crash przy starcie — mod \"sodiumdynamiclights\" nie pasuje", "summary": "Usuń moda \"sodiumdynamiclights\" z folderu mods.", "actionLabels": ["Wyłącz Sodium Dynamic Lights"] },
+      "fr": { "title": "Crash au démarrage — le mod « sodiumdynamiclights » n'est pas compatible", "summary": "Supprime le mod « sodiumdynamiclights » de ton dossier mods.", "actionLabels": ["Désactiver Sodium Dynamic Lights"] },
+      "it": { "title": "Crash all'avvio — la mod \"sodiumdynamiclights\" non è compatibile", "summary": "Elimina la mod \"sodiumdynamiclights\" dalla cartella mods.", "actionLabels": ["Disattiva Sodium Dynamic Lights"] },
+      "tr": { "title": "Başlangıçta çökme — \"sodiumdynamiclights\" modu uyumlu değil", "summary": "\"sodiumdynamiclights\" modunu mods klasöründen sil.", "actionLabels": ["Sodium Dynamic Lights'ı devre dışı bırak"] },
+      "pt": { "title": "Crash ao iniciar — o mod \"sodiumdynamiclights\" não é compatível", "summary": "Exclua o mod \"sodiumdynamiclights\" da sua pasta mods.", "actionLabels": ["Desativar Sodium Dynamic Lights"] },
+      "es": { "title": "Crash al iniciar — el mod \"sodiumdynamiclights\" no es compatible", "summary": "Elimina el mod \"sodiumdynamiclights\" de tu carpeta mods.", "actionLabels": ["Desactivar Sodium Dynamic Lights"] },
+      "ru": { "title": "Краш при запуске — мод \"sodiumdynamiclights\" не подходит", "summary": "Удалите мод \"sodiumdynamiclights\" из папки mods.", "actionLabels": ["Отключить Sodium Dynamic Lights"] },
+      "hi": { "title": "शुरू होते ही क्रैश — मॉड \"sodiumdynamiclights\" मेल नहीं खाता", "summary": "अपने mods फ़ोल्डर से \"sodiumdynamiclights\" मॉड हटाएँ।", "actionLabels": ["Sodium Dynamic Lights बंद करें"] }
+    }
+  },
+  "voxy-extra-mixin": {
+    "mc": [],
+    "loader": ["fabric"],
+    "mod": "voxy-extra",
+    "status": "solved",
+    "severity": "crash",
+    "signatures": ["VoxyClientInstanceMixin", "voxy-extra", "me.cortex.voxy.client.VoxyClientInstance"],
+    "actions": ["disable_mod:voxy-extra"],
+    "texts": {
+      "en": { "title": "Crash on startup — mod \"voxy-extra\" doesn't fit", "summary": "Delete \"voxy-extra\" or bring voxy + voxy-extra to matching versions.", "actionLabels": ["Disable voxy-extra"] },
+      "de": { "title": "Absturz beim Start — Mod „voxy-extra\" passt nicht", "summary": "Lösche „voxy-extra\" oder bring voxy + voxy-extra auf zueinander passende Versionen.", "actionLabels": ["voxy-extra deaktivieren"] },
+      "pl": { "title": "Crash przy starcie — mod \"voxy-extra\" nie pasuje", "summary": "Usuń \"voxy-extra\" albo dopasuj wersje voxy + voxy-extra do siebie.", "actionLabels": ["Wyłącz voxy-extra"] },
+      "fr": { "title": "Crash au démarrage — le mod « voxy-extra » n'est pas compatible", "summary": "Supprime « voxy-extra » ou mets voxy + voxy-extra sur des versions compatibles entre elles.", "actionLabels": ["Désactiver voxy-extra"] },
+      "it": { "title": "Crash all'avvio — la mod \"voxy-extra\" non è compatibile", "summary": "Elimina \"voxy-extra\" oppure porta voxy + voxy-extra a versioni compatibili tra loro.", "actionLabels": ["Disattiva voxy-extra"] },
+      "tr": { "title": "Başlangıçta çökme — \"voxy-extra\" modu uyumlu değil", "summary": "\"voxy-extra\"yı sil veya voxy + voxy-extra'yı birbiriyle uyumlu sürümlere getir.", "actionLabels": ["voxy-extra'yı devre dışı bırak"] },
+      "pt": { "title": "Crash ao iniciar — o mod \"voxy-extra\" não é compatível", "summary": "Exclua o \"voxy-extra\" ou coloque voxy + voxy-extra em versões compatíveis entre si.", "actionLabels": ["Desativar voxy-extra"] },
+      "es": { "title": "Crash al iniciar — el mod \"voxy-extra\" no es compatible", "summary": "Elimina \"voxy-extra\" o pon voxy + voxy-extra en versiones compatibles entre sí.", "actionLabels": ["Desactivar voxy-extra"] },
+      "ru": { "title": "Краш при запуске — мод \"voxy-extra\" не подходит", "summary": "Удалите \"voxy-extra\" или приведите voxy + voxy-extra к совместимым версиям.", "actionLabels": ["Отключить voxy-extra"] },
+      "hi": { "title": "शुरू होते ही क्रैश — मॉड \"voxy-extra\" मेल नहीं खाता", "summary": "\"voxy-extra\" हटाएँ या voxy + voxy-extra को आपस में मेल खाते वर्ज़न पर लाएँ।", "actionLabels": ["voxy-extra बंद करें"] }
+    }
+  }
+}
