@@ -1,11 +1,6 @@
 {
     "displayName": "Split Chat",
     "description": "nrc-nightly based pack for testing the feat/split-chat branch (Split Chat module: chat windows, tabs and filters). The NRC module identifiers name the feat/split-chat branch. Their build numbers are still the ones inherited from nrc-nightly - no -feat-split-chat+ artifact has been published to maven.norisk.gg yet, so they need bumping to a real build before this pack installs.",
-    "listing": {
-        "category": "intern",
-        "weight": 0,
-        "hidden": true
-    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [
@@ -21,14 +16,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.3488630-feat-split-chat+forge.1.7.10",
+                        "identifier": "26.3.4462988-feat-split-chat+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.3488630-feat-split-chat+forge.1.8.9",
+                        "identifier": "26.3.4462988-feat-split-chat+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -238,7 +233,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.3488630-feat-split-chat+fabric.1.21.11",
+                        "identifier": "26.3.4462988-feat-split-chat+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -306,7 +301,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.3488630-feat-split-chat+fabric.26.2",
+                        "identifier": "26.3.4462988-feat-split-chat+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
