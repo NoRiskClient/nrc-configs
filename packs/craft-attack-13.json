@@ -976,7 +976,7 @@
     "norisk-prod"
   ],
   "isExperimental": false,
-  "autoUpdate": false,
+  "autoUpdate": true,
   "loaderPolicy": {
     "default": {
       "fabric": {
