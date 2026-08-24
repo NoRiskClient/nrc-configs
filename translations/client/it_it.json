@@ -922,6 +922,7 @@
   "nrc.cosmetics.shop.error.variant_parent_not_found": "Variante del Cosmetico non trovata!",
   "nrc.cosmetics.cape_update.positive": "Mantello aggiornato con successo",
   "nrc.ui.label.no_emotes": "Non possiedi alcun emote.",
+  "nrc.ui.emote.locked": "OTTIENI NELLO SHOP",
   "nrc.ui.minigames.spectate": "Osserva",
   "nrc.minigames.error.empty_slots": "Errore: Slot Minigioco Vuoti",
   "creatorcode.icon.required_text": "Necessario per visualizzare",

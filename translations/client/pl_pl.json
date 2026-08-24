@@ -922,6 +922,7 @@
   "nrc.cosmetics.shop.error.variant_parent_not_found": "Nie znaleziono wariantu kosmetyku!",
   "nrc.cosmetics.cape_update.positive": "Pomyślnie zaktualizowano pelerynę",
   "nrc.ui.label.no_emotes": "Nie posiadasz żadnych emote.",
+  "nrc.ui.emote.locked": "ZDOBĄDŹ W SKLEPIE",
   "nrc.ui.minigames.spectate": "Obserwuj",
   "nrc.minigames.error.empty_slots": "Błąd: Puste Sloty Minigier",
   "creatorcode.icon.required_text": "Wymagane do wyświetlenia",

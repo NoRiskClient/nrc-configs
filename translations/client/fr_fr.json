@@ -922,6 +922,7 @@
   "nrc.cosmetics.shop.error.variant_parent_not_found": "Variante de Cosmétique non trouvée !",
   "nrc.cosmetics.cape_update.positive": "Cape mise à jour avec succès",
   "nrc.ui.label.no_emotes": "Tu ne possèdes aucun emote.",
+  "nrc.ui.emote.locked": "OBTENIR EN BOUTIQUE",
   "nrc.ui.minigames.spectate": "Observer",
   "nrc.minigames.error.empty_slots": "Erreur : Emplacements de Mini-jeu Vides",
   "creatorcode.icon.required_text": "Requis pour l'affichage",

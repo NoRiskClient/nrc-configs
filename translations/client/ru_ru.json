@@ -922,6 +922,7 @@
   "nrc.cosmetics.shop.error.variant_parent_not_found": "Вариант косметики не найден!",
   "nrc.cosmetics.cape_update.positive": "Плащ успешно обновлён",
   "nrc.ui.label.no_emotes": "У тебя нет эмоций.",
+  "nrc.ui.emote.locked": "ПОЛУЧИТЬ В МАГАЗИНЕ",
   "nrc.ui.minigames.spectate": "Наблюдать",
   "nrc.minigames.error.empty_slots": "Ошибка: Пустые Слоты Мини-игр",
   "creatorcode.icon.required_text": "Требуется для отображения",

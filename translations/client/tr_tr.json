@@ -922,6 +922,7 @@
   "nrc.cosmetics.shop.error.variant_parent_not_found": "Kozmetik Varyantı bulunamadı!",
   "nrc.cosmetics.cape_update.positive": "Pelerin başarıyla güncellendi",
   "nrc.ui.label.no_emotes": "Hiç emote'un yok.",
+  "nrc.ui.emote.locked": "MAĞAZADAN AL",
   "nrc.ui.minigames.spectate": "İzle",
   "nrc.minigames.error.empty_slots": "Hata: Boş Mini Oyun Yerleri",
   "creatorcode.icon.required_text": "Görüntülemek için gerekli",

@@ -707,5 +707,6 @@
   "mcreal.profile.pin.removed": "Festing fjernet",
   "nrc.update.available.title": "Oppdatering tilgjengelig",
   "nrc.update.available.description": "NoRisk Client %1$s er tilgjengelig. Din versjon: %2$s.",
-  "nrc.update.available.action": "Godta for å åpne nedlastingssiden."
+  "nrc.update.available.action": "Godta for å åpne nedlastingssiden.",
+  "nrc.ui.emote.locked": "HENT I BUTIKKEN"
 }

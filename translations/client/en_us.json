@@ -958,6 +958,7 @@
   "nrc.cosmetics.shop.toast.variant_unlocked": "Variant unlocked!",
   "nrc.cosmetics.cape_update.positive": "Cape was updated successfully",
   "nrc.ui.label.no_emotes": "You don't own any emotes.",
+  "nrc.ui.emote.locked": "GET IN SHOP",
   "nrc.ui.minigames.spectate": "Spectate",
   "nrc.minigames.error.empty_slots": "Error: Empty Minigame Slots",
   "creatorcode.icon.required_text": "Required to display",

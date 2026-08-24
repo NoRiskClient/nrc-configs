@@ -921,6 +921,7 @@
   "nrc.cosmetics.shop.error.variant_parent_not_found": "कॉस्मेटिक वैरिएंट नहीं मिला!",
   "nrc.cosmetics.cape_update.positive": "केप सफलतापूर्वक अपडेट हुआ",
   "nrc.ui.label.no_emotes": "आपके पास कोई emote नहीं है।",
+  "nrc.ui.emote.locked": "शॉप से लें",
   "nrc.ui.minigames.spectate": "देखें",
   "nrc.minigames.error.empty_slots": "त्रुटि: खाली मिनीगेम स्लॉट",
   "creatorcode.icon.required_text": "दिखाने के लिए आवश्यक",

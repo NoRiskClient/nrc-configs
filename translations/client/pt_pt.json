@@ -922,6 +922,7 @@
   "nrc.cosmetics.shop.error.variant_parent_not_found": "Variante de Cosmético não encontrada!",
   "nrc.cosmetics.cape_update.positive": "Capa atualizada com sucesso",
   "nrc.ui.label.no_emotes": "Não possuis nenhum emote.",
+  "nrc.ui.emote.locked": "OBTER NA LOJA",
   "nrc.ui.minigames.spectate": "Assistir",
   "nrc.minigames.error.empty_slots": "Erro: Vagas de Minijogo Vazias",
   "creatorcode.icon.required_text": "Necessário para exibir",
