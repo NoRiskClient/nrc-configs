@@ -563,6 +563,25 @@
             }
         },
         {
+            "id": "nrc-abstraction",
+            "displayName": "nrc-abstraction",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrc-abstraction"
+            },
+            "compatibility": {
+                "1.21.10": {
+                    "fabric": {
+                        "identifier": "26.3.4633285-working+fabric.1.21.10",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
             "id": "nrc-client",
             "displayName": "nrc-client",
             "source": {
