@@ -5405,7 +5405,7 @@
         "norisk-dev"
     ],
     "isExperimental": false,
-    "autoUpdate": false,
+    "autoUpdate": true,
     "loaderPolicy": {
         "default": {
             "fabric": {
