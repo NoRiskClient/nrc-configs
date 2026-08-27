@@ -1554,5 +1554,12 @@
   "nrc.splitchat.menu.delete_window": "विंडो हटाएँ",
   "nrc.update.available.title": "अपडेट उपलब्ध",
   "nrc.update.available.description": "NoRisk Client %1$s उपलब्ध है। आपका संस्करण: %2$s.",
-  "nrc.update.available.action": "डाउनलोड पेज खोलने के लिए स्वीकार करें।"
+  "nrc.update.available.action": "डाउनलोड पेज खोलने के लिए स्वीकार करें।",
+  "nrc.ui.modules.description.light_level": "आसपास के ब्लॉक का लाइट लेवल दिखाता है ताकि आप मॉब स्पॉन देख और रोक सकें।",
+  "nrc.ui.modules.value.scanRange": "स्कैन रेंज",
+  "nrc.ui.modules.value.onlySpawnable": "केवल स्पॉन योग्य",
+  "nrc.ui.modules.value.textSize": "टेक्स्ट आकार",
+  "nrc.ui.modules.value.spawnableColor": "स्पॉन योग्य",
+  "nrc.ui.modules.value.nightSpawnableColor": "रात में स्पॉन योग्य",
+  "nrc.ui.modules.value.safeColor": "सुरक्षित"
 }

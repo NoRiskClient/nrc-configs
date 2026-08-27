@@ -1554,5 +1554,12 @@
   "nrc.splitchat.menu.delete_window": "Удалить окно",
   "nrc.update.available.title": "Доступно обновление",
   "nrc.update.available.description": "NoRisk Client %1$s уже доступен. Ваша версия: %2$s.",
-  "nrc.update.available.action": "Подтвердите, чтобы открыть страницу загрузок."
+  "nrc.update.available.action": "Подтвердите, чтобы открыть страницу загрузок.",
+  "nrc.ui.modules.description.light_level": "Показывает уровень света соседних блоков, чтобы вы могли находить и предотвращать спавн мобов.",
+  "nrc.ui.modules.value.scanRange": "Радиус сканирования",
+  "nrc.ui.modules.value.onlySpawnable": "Только со спавном",
+  "nrc.ui.modules.value.textSize": "Размер текста",
+  "nrc.ui.modules.value.spawnableColor": "Спавн возможен",
+  "nrc.ui.modules.value.nightSpawnableColor": "Спавн ночью",
+  "nrc.ui.modules.value.safeColor": "Безопасно"
 }

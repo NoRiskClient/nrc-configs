@@ -1554,5 +1554,12 @@
   "nrc.splitchat.menu.delete_window": "Excluir janela",
   "nrc.update.available.title": "Atualização disponível",
   "nrc.update.available.description": "NoRisk Client %1$s está disponível. Sua versão: %2$s.",
-  "nrc.update.available.action": "Aceite para abrir a página de downloads."
+  "nrc.update.available.action": "Aceite para abrir a página de downloads.",
+  "nrc.ui.modules.description.light_level": "Mostra o nível de luz dos blocos próximos para você identificar e impedir o surgimento de mobs.",
+  "nrc.ui.modules.value.scanRange": "Alcance da varredura",
+  "nrc.ui.modules.value.onlySpawnable": "Apenas spawnáveis",
+  "nrc.ui.modules.value.textSize": "Tamanho do texto",
+  "nrc.ui.modules.value.spawnableColor": "Spawnável",
+  "nrc.ui.modules.value.nightSpawnableColor": "Spawnável à noite",
+  "nrc.ui.modules.value.safeColor": "Seguro"
 }

@@ -1554,5 +1554,12 @@
   "nrc.splitchat.menu.delete_window": "Supprimer la fenêtre",
   "nrc.update.available.title": "Mise à jour disponible",
   "nrc.update.available.description": "NoRisk Client %1$s est disponible. Votre version : %2$s.",
-  "nrc.update.available.action": "Acceptez pour ouvrir la page de téléchargement."
+  "nrc.update.available.action": "Acceptez pour ouvrir la page de téléchargement.",
+  "nrc.ui.modules.description.light_level": "Affiche le niveau de lumière des blocs proches pour repérer et empêcher l'apparition des monstres.",
+  "nrc.ui.modules.value.scanRange": "Portée de scan",
+  "nrc.ui.modules.value.onlySpawnable": "Uniquement zones d'apparition",
+  "nrc.ui.modules.value.textSize": "Taille du texte",
+  "nrc.ui.modules.value.spawnableColor": "Apparition possible",
+  "nrc.ui.modules.value.nightSpawnableColor": "Apparition la nuit",
+  "nrc.ui.modules.value.safeColor": "Sûr"
 }

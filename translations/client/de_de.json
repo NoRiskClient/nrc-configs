@@ -1619,5 +1619,12 @@
   "nrc.splitchat.menu.delete_window": "Fenster löschen",
   "nrc.update.available.title": "Update verfügbar",
   "nrc.update.available.description": "NoRisk Client %1$s ist verfügbar. Deine Version: %2$s.",
-  "nrc.update.available.action": "Bestätige, um die Download-Seite zu öffnen."
+  "nrc.update.available.action": "Bestätige, um die Download-Seite zu öffnen.",
+  "nrc.ui.modules.description.light_level": "Zeigt das Lichtlevel der Blöcke in der Nähe, damit du Mobspawns erkennst und verhinderst.",
+  "nrc.ui.modules.value.scanRange": "Scanreichweite",
+  "nrc.ui.modules.value.onlySpawnable": "Nur spawnbare",
+  "nrc.ui.modules.value.textSize": "Textgröße",
+  "nrc.ui.modules.value.spawnableColor": "Spawnbar",
+  "nrc.ui.modules.value.nightSpawnableColor": "Nachts spawnbar",
+  "nrc.ui.modules.value.safeColor": "Sicher"
 }

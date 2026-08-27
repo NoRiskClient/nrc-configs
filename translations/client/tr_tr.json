@@ -1554,5 +1554,12 @@
   "nrc.splitchat.menu.delete_window": "Pencereyi sil",
   "nrc.update.available.title": "Güncelleme mevcut",
   "nrc.update.available.description": "NoRisk Client %1$s yayınlandı. Sürümünüz: %2$s.",
-  "nrc.update.available.action": "İndirme sayfasını açmak için onaylayın."
+  "nrc.update.available.action": "İndirme sayfasını açmak için onaylayın.",
+  "nrc.ui.modules.description.light_level": "Yakındaki blokların ışık seviyesini gösterir, böylece mob doğuşlarını görüp engelleyebilirsin.",
+  "nrc.ui.modules.value.scanRange": "Tarama menzili",
+  "nrc.ui.modules.value.onlySpawnable": "Sadece doğabilenler",
+  "nrc.ui.modules.value.textSize": "Yazı boyutu",
+  "nrc.ui.modules.value.spawnableColor": "Doğabilir",
+  "nrc.ui.modules.value.nightSpawnableColor": "Geceleri doğabilir",
+  "nrc.ui.modules.value.safeColor": "Güvenli"
 }
