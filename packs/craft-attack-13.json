@@ -612,7 +612,7 @@
             "compatibility": {
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.3.4949660-working+fabric.1.21.10",
+                        "identifier": "26.3.4961096-working+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
