@@ -1555,6 +1555,7 @@
   "nrc.ui.modules.description.smooth_chat": "Fa scorrere i nuovi messaggi della chat invece di farli comparire di colpo",
   "nrc.ui.modules.value.slideDuration": "Durata scorrimento (ms)",
   "nrc.ui.modules.value.fadeIn": "Dissolvenza in entrata",
+  "nrc.ui.modules.value.animateInput": "Anima campo di testo",
   "nrc.splitchat.general.title": "Generale",
   "nrc.splitchat.general.keep_history": "Mantieni la cronologia tra i server",
   "nrc.splitchat.general.keep_history.tooltip": "Attivo: la chat resta quando lasci un server. Disattivo: alla disconnessione ogni scheda viene svuotata.",

@@ -1555,6 +1555,7 @@
   "nrc.ui.modules.description.smooth_chat": "Плавно вдвигает новые сообщения чата вместо резкого появления",
   "nrc.ui.modules.value.slideDuration": "Длительность анимации (мс)",
   "nrc.ui.modules.value.fadeIn": "Плавное появление",
+  "nrc.ui.modules.value.animateInput": "Анимация поля ввода",
   "nrc.splitchat.general.title": "Общее",
   "nrc.splitchat.general.keep_history": "Сохранять историю между серверами",
   "nrc.splitchat.general.keep_history.tooltip": "Вкл.: чат сохраняется при выходе с сервера. Выкл.: при отключении все вкладки очищаются.",

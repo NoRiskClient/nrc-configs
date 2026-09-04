@@ -1555,6 +1555,7 @@
   "nrc.ui.modules.description.smooth_chat": "Desliza los mensajes nuevos del chat en lugar de hacerlos aparecer de golpe",
   "nrc.ui.modules.value.slideDuration": "Duración del deslizamiento (ms)",
   "nrc.ui.modules.value.fadeIn": "Aparecer gradualmente",
+  "nrc.ui.modules.value.animateInput": "Animar campo de texto",
   "nrc.splitchat.general.title": "General",
   "nrc.splitchat.general.keep_history": "Mantener el historial entre servidores",
   "nrc.splitchat.general.keep_history.tooltip": "Activado: el chat se conserva al salir de un servidor. Desactivado: al desconectarte se vacían todas las pestañas.",

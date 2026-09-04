@@ -1555,6 +1555,7 @@
   "nrc.ui.modules.description.smooth_chat": "Yeni sohbet mesajlarını aniden göstermek yerine kaydırarak getirir",
   "nrc.ui.modules.value.slideDuration": "Kaydırma süresi (ms)",
   "nrc.ui.modules.value.fadeIn": "Yavaş belirme",
+  "nrc.ui.modules.value.animateInput": "Giriş alanını canlandır",
   "nrc.splitchat.general.title": "Genel",
   "nrc.splitchat.general.keep_history": "Geçmişi sunucular arasında koru",
   "nrc.splitchat.general.keep_history.tooltip": "Açık: sunucudan ayrılınca sohbet kalır. Kapalı: bağlantı kesilince tüm sekmeler boşalır.",
