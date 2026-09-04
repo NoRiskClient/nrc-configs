@@ -1554,6 +1554,7 @@
   "nrc.splitchat.menu.delete_window": "Eliminar janela",
   "nrc.ui.modules.description.smooth_chat": "Desliza as novas mensagens do chat em vez de as fazer aparecer de repente",
   "nrc.ui.modules.value.slideDuration": "Duração do deslize (ms)",
+  "nrc.ui.modules.value.fadeIn": "Aparecer gradualmente",
   "nrc.splitchat.general.title": "Geral",
   "nrc.splitchat.general.keep_history": "Manter histórico entre servidores",
   "nrc.splitchat.general.keep_history.tooltip": "Ligado: o chat mantém-se ao sair de um servidor. Desligado: desligar esvazia todos os separadores.",

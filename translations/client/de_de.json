@@ -1619,6 +1619,7 @@
   "nrc.splitchat.menu.delete_window": "Fenster löschen",
   "nrc.ui.modules.description.smooth_chat": "Lässt neue Chatnachrichten hineingleiten, statt sie aufploppen zu lassen",
   "nrc.ui.modules.value.slideDuration": "Gleitdauer (ms)",
+  "nrc.ui.modules.value.fadeIn": "Einblenden",
   "nrc.splitchat.general.title": "Allgemein",
   "nrc.splitchat.general.keep_history": "Verlauf über Server hinweg behalten",
   "nrc.splitchat.general.keep_history.tooltip": "An: Der Chat bleibt beim Verlassen eines Servers erhalten. Aus: Beim Verbindungsabbruch werden alle Tabs geleert.",

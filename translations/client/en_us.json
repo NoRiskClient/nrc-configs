@@ -1619,6 +1619,7 @@
   "nrc.splitchat.menu.delete_window": "Delete Window",
   "nrc.ui.modules.description.smooth_chat": "Slides new chat messages in instead of letting them pop up",
   "nrc.ui.modules.value.slideDuration": "Slide Duration (ms)",
+  "nrc.ui.modules.value.fadeIn": "Fade In",
   "nrc.splitchat.general.title": "General",
   "nrc.splitchat.general.keep_history": "Keep history across servers",
   "nrc.splitchat.general.keep_history.tooltip": "On: the chat survives leaving a server. Off: disconnecting empties every tab.",
