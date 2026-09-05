@@ -625,6 +625,7 @@
   "nrc.ui.modules.value.autoHide": "Otomatik gizle",
   "nrc.ui.modules.value.enableMarquee": "Kayan yazı",
   "nrc.ui.modules.value.showInNameTag": "İsim etiketinde göster",
+  "nrc.ui.modules.value.showOtherSpotify": "Diğerlerinin müziğini göster",
   "nrc.ui.modules.value.hideHudWhenOverHead": "Yalnızca baş üstünde",
   "nrc.ui.modules.value.showProgressLabels": "Zaman etiketlerini göster",
   "nrc.ui.modules.value.sourceSpotify": "Spotify",

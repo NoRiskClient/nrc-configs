@@ -625,6 +625,7 @@
   "nrc.ui.modules.value.autoHide": "Автоскрытие",
   "nrc.ui.modules.value.enableMarquee": "Бегущая строка",
   "nrc.ui.modules.value.showInNameTag": "Показывать над именем",
+  "nrc.ui.modules.value.showOtherSpotify": "Показывать музыку других",
   "nrc.ui.modules.value.hideHudWhenOverHead": "Только над головой",
   "nrc.ui.modules.value.showProgressLabels": "Показывать время",
   "nrc.ui.modules.value.sourceSpotify": "Spotify",

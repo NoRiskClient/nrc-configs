@@ -653,6 +653,7 @@
   "nrc.ui.modules.value.autoHide": "Automatisch ausblenden",
   "nrc.ui.modules.value.enableMarquee": "Lauftext",
   "nrc.ui.modules.value.showInNameTag": "Im Namensschild anzeigen",
+  "nrc.ui.modules.value.showOtherSpotify": "Musik anderer anzeigen",
   "nrc.ui.modules.value.hideHudWhenOverHead": "Nur über dem Kopf",
   "nrc.ui.modules.value.showProgressLabels": "Zeitangaben anzeigen",
   "nrc.ui.modules.value.sourceSpotify": "Spotify",
