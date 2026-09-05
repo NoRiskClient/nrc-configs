@@ -626,6 +626,7 @@
   "nrc.ui.modules.value.autoHide": "Masquage auto",
   "nrc.ui.modules.value.enableMarquee": "Défilement",
   "nrc.ui.modules.value.showInNameTag": "Afficher sur le pseudo",
+  "nrc.ui.modules.value.showOtherSpotify": "Afficher la musique des autres",
   "nrc.ui.modules.value.hideHudWhenOverHead": "Au-dessus de la tête uniquement",
   "nrc.ui.modules.value.showProgressLabels": "Afficher le temps",
   "nrc.ui.modules.value.sourceSpotify": "Spotify",

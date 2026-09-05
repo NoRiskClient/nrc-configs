@@ -290,6 +290,7 @@
   "nrc.ui.modules.value.autoHide": "Skjul automatisk",
   "nrc.ui.modules.value.enableMarquee": "Rulletekst",
   "nrc.ui.modules.value.showInNameTag": "Vis i navnelapp",
+  "nrc.ui.modules.value.showOtherSpotify": "Vis andres musikk",
   "nrc.ui.modules.value.hideHudWhenOverHead": "Bare over hodet",
   "nrc.ui.modules.value.showProgressLabels": "Vis tidsetiketter",
   "nrc.ui.modules.value.sourceSpotify": "Spotify",

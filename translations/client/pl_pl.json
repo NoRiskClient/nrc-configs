@@ -626,6 +626,7 @@
   "nrc.ui.modules.value.autoHide": "Autoukrywanie",
   "nrc.ui.modules.value.enableMarquee": "Przewijanie tekstu",
   "nrc.ui.modules.value.showInNameTag": "Pokaż na tabliczce",
+  "nrc.ui.modules.value.showOtherSpotify": "Pokaż muzykę innych",
   "nrc.ui.modules.value.hideHudWhenOverHead": "Tylko nad głową",
   "nrc.ui.modules.value.showProgressLabels": "Pokaż etykiety czasu",
   "nrc.ui.modules.value.sourceSpotify": "Spotify",
