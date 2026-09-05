@@ -292,6 +292,7 @@
   "nrc.generic.error.cooldown": "Sakin ol... %s saniye",
   "nrc.generic.error.no_valid_uuid": "Geçersiz UUID.",
   "nrc.generic.error.user_not_found": "Kullanıcı bulunamadı.",
+  "nrc.generic.errors.invalid_skin_url": "Geçersiz skin bağlantısı.",
   "nrc.generic.errors.cooldown": "Sakin ol... %s saniye",
   "nrc.generic.errors.no_valid_uuid": "Geçersiz UUID.",
   "nrc.generic.errors.user_not_found": "Kullanıcı bulunamadı.",

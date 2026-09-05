@@ -292,6 +292,7 @@
   "nrc.generic.error.cooldown": "रुको यार... %s सेकंड के लिए",
   "nrc.generic.error.no_valid_uuid": "मान्य UUID नहीं।",
   "nrc.generic.error.user_not_found": "उपयोगकर्ता नहीं मिला।",
+  "nrc.generic.errors.invalid_skin_url": "स्किन लिंक मान्य नहीं है।",
   "nrc.generic.errors.cooldown": "रुको यार... %s सेकंड के लिए",
   "nrc.generic.errors.no_valid_uuid": "मान्य UUID नहीं।",
   "nrc.generic.errors.user_not_found": "उपयोगकर्ता नहीं मिला।",

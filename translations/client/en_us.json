@@ -312,6 +312,7 @@
   "nrc.generic.error.cooldown": "Chill man... for %s seconds",
   "nrc.generic.error.no_valid_uuid": "No Valid UUID.",
   "nrc.generic.error.user_not_found": "User was not found.",
+  "nrc.generic.errors.invalid_skin_url": "That skin link is not valid.",
   "nrc.generic.errors.cooldown": "Chill man... for %s seconds",
   "nrc.generic.errors.no_valid_uuid": "No Valid UUID.",
   "nrc.generic.errors.user_not_found": "User was not found.",

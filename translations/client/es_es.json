@@ -292,6 +292,7 @@
   "nrc.generic.error.cooldown": "Tranqui... durante %s segundos",
   "nrc.generic.error.no_valid_uuid": "UUID no válido.",
   "nrc.generic.error.user_not_found": "Usuario no encontrado.",
+  "nrc.generic.errors.invalid_skin_url": "El enlace de la skin no es válido.",
   "nrc.generic.errors.cooldown": "Tranqui... durante %s segundos",
   "nrc.generic.errors.no_valid_uuid": "UUID no válido.",
   "nrc.generic.errors.user_not_found": "Usuario no encontrado.",

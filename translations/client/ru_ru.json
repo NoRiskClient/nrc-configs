@@ -292,6 +292,7 @@
   "nrc.generic.error.cooldown": "Полегче... на %s секунд",
   "nrc.generic.error.no_valid_uuid": "Неверный UUID.",
   "nrc.generic.error.user_not_found": "Пользователь не найден.",
+  "nrc.generic.errors.invalid_skin_url": "Неверная ссылка на скин.",
   "nrc.generic.errors.cooldown": "Полегче... на %s секунд",
   "nrc.generic.errors.no_valid_uuid": "Неверный UUID.",
   "nrc.generic.errors.user_not_found": "Пользователь не найден.",

@@ -312,6 +312,7 @@
   "nrc.generic.error.cooldown": "Chill Bruder … für %s Sekunden",
   "nrc.generic.error.no_valid_uuid": "Keine gültige UUID.",
   "nrc.generic.error.user_not_found": "Benutzer wurde nicht gefunden.",
+  "nrc.generic.errors.invalid_skin_url": "Der Skin-Link ist ungültig.",
   "nrc.generic.errors.cooldown": "Chill Bruder … für %s Sekunden",
   "nrc.generic.errors.no_valid_uuid": "Keine gültige UUID.",
   "nrc.generic.errors.user_not_found": "Benutzer wurde nicht gefunden.",
