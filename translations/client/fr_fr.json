@@ -1554,6 +1554,8 @@
   "nrc.splitchat.menu.delete_window": "Supprimer la fenêtre",
   "nrc.ui.modules.description.smooth_chat": "Fait glisser les nouveaux messages du chat au lieu de les faire apparaître d'un coup",
   "nrc.ui.modules.value.slideDuration": "Durée du glissement (ms)",
+  "nrc.ui.modules.value.fadeIn": "Fondu entrant",
+  "nrc.ui.modules.value.animateInput": "Animer le champ de saisie",
   "nrc.splitchat.general.title": "Général",
   "nrc.splitchat.general.keep_history": "Conserver l'historique entre les serveurs",
   "nrc.splitchat.general.keep_history.tooltip": "Activé : le chat est conservé quand tu quittes un serveur. Désactivé : la déconnexion vide tous les onglets.",

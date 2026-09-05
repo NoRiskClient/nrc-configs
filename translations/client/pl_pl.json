@@ -1554,6 +1554,8 @@
   "nrc.splitchat.menu.delete_window": "Usuń okno",
   "nrc.ui.modules.description.smooth_chat": "Wsuwa nowe wiadomości czatu zamiast wyświetlać je nagle",
   "nrc.ui.modules.value.slideDuration": "Czas wsuwania (ms)",
+  "nrc.ui.modules.value.fadeIn": "Wygaszanie wejściowe",
+  "nrc.ui.modules.value.animateInput": "Animuj pole tekstowe",
   "nrc.splitchat.general.title": "Ogólne",
   "nrc.splitchat.general.keep_history": "Zachowaj historię między serwerami",
   "nrc.splitchat.general.keep_history.tooltip": "Wł.: czat zostaje po opuszczeniu serwera. Wył.: rozłączenie opróżnia wszystkie karty.",

@@ -1554,6 +1554,8 @@
   "nrc.splitchat.menu.delete_window": "विंडो हटाएँ",
   "nrc.ui.modules.description.smooth_chat": "नए चैट संदेशों को अचानक दिखाने के बजाय स्लाइड करके लाता है",
   "nrc.ui.modules.value.slideDuration": "स्लाइड अवधि (ms)",
+  "nrc.ui.modules.value.fadeIn": "फ़ेड इन",
+  "nrc.ui.modules.value.animateInput": "इनपुट एनिमेट करें",
   "nrc.splitchat.general.title": "सामान्य",
   "nrc.splitchat.general.keep_history": "सर्वर बदलने पर इतिहास रखें",
   "nrc.splitchat.general.keep_history.tooltip": "चालू: सर्वर छोड़ने पर चैट बना रहता है। बंद: डिस्कनेक्ट होने पर हर टैब खाली हो जाता है।",

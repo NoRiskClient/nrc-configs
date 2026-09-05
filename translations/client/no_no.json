@@ -705,6 +705,8 @@
   "nrc.splitchat.menu.delete_window": "Slett vindu",
   "nrc.ui.modules.description.smooth_chat": "Lar nye chatmeldinger gli inn i stedet for å dukke opp brått",
   "nrc.ui.modules.value.slideDuration": "Glidevarighet (ms)",
+  "nrc.ui.modules.value.fadeIn": "Tone inn",
+  "nrc.ui.modules.value.animateInput": "Animer tekstfelt",
   "nrc.splitchat.general.title": "Generelt",
   "nrc.splitchat.general.keep_history": "Behold historikk mellom servere",
   "nrc.splitchat.general.keep_history.tooltip": "På: chatten beholdes når du forlater en server. Av: frakobling tømmer alle faner.",
