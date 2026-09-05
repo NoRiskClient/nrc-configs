@@ -5423,5 +5423,23 @@
         "category": "",
         "weight": 0,
         "hidden": false
-    }
+    },
+    "natives": [
+        {
+            "id": "ffmpeg",
+            "repositoryRef": "central",
+            "artifacts": [
+                {
+                    "groupId": "org.bytedeco",
+                    "artifactId": "javacpp",
+                    "version": "1.5.11"
+                },
+                {
+                    "groupId": "org.bytedeco",
+                    "artifactId": "ffmpeg",
+                    "version": "7.1-1.5.11"
+                }
+            ]
+        }
+    ]
 }
