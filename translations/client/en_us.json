@@ -966,6 +966,7 @@
   "nrc.ui.emote.locked": "GET IN SHOP",
   "nrc.ui.emote.filter.duo_off": "All Emotes",
   "nrc.ui.emote.filter.duo_on": "Duo Only",
+  "nrc.ui.emote.duo": "Duo",
   "nrc.ui.minigames.spectate": "Spectate",
   "nrc.minigames.error.empty_slots": "Error: Empty Minigame Slots",
   "creatorcode.icon.required_text": "Required to display",

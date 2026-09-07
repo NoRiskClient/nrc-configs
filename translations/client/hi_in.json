@@ -929,6 +929,7 @@
   "nrc.ui.emote.locked": "शॉप से लें",
   "nrc.ui.emote.filter.duo_off": "सभी इमोट",
   "nrc.ui.emote.filter.duo_on": "केवल डुओ",
+  "nrc.ui.emote.duo": "डुओ",
   "nrc.ui.minigames.spectate": "देखें",
   "nrc.minigames.error.empty_slots": "त्रुटि: खाली मिनीगेम स्लॉट",
   "creatorcode.icon.required_text": "दिखाने के लिए आवश्यक",

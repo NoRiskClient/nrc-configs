@@ -966,6 +966,7 @@
   "nrc.ui.emote.locked": "IM SHOP HOLEN",
   "nrc.ui.emote.filter.duo_off": "Alle Emotes",
   "nrc.ui.emote.filter.duo_on": "Nur Duo",
+  "nrc.ui.emote.duo": "Duo",
   "nrc.ui.minigames.spectate": "Zuschauen",
   "nrc.minigames.error.empty_slots": "Fehler: Leere Minigame-Slots",
   "creatorcode.icon.required_text": "Required to display",

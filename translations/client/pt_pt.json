@@ -930,6 +930,7 @@
   "nrc.ui.emote.locked": "OBTER NA LOJA",
   "nrc.ui.emote.filter.duo_off": "Todos os Emotes",
   "nrc.ui.emote.filter.duo_on": "Apenas Duo",
+  "nrc.ui.emote.duo": "Duo",
   "nrc.ui.minigames.spectate": "Assistir",
   "nrc.minigames.error.empty_slots": "Erro: Vagas de Minijogo Vazias",
   "creatorcode.icon.required_text": "Necessário para exibir",
