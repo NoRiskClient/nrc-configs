@@ -796,6 +796,7 @@
   "nrc.ui.shop.filter.affordable": "Доступные",
   "nrc.ui.shop.filter.new": "Новые",
   "nrc.ui.shop.filter.owned": "В наличии",
+  "nrc.ui.shop.filter.multi": "Совместные",
   "nrc.ui.modules.value.additionalNametagSize": "Размер",
   "nrc.ui.shortcuts.disable_snapping": "Отключить привязку",
   "nrc.ui.shortcuts.open_last_module": "Открыть последний модуль",

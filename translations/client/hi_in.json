@@ -795,6 +795,7 @@
   "nrc.ui.shop.filter.affordable": "किफायती",
   "nrc.ui.shop.filter.new": "नए",
   "nrc.ui.shop.filter.owned": "स्वामित्व वाले",
+  "nrc.ui.shop.filter.multi": "मल्टीप्लेयर",
   "nrc.ui.modules.value.additionalNametagSize": "आकार",
   "nrc.ui.shortcuts.disable_snapping": "स्नैपिंग अक्षम करें",
   "nrc.ui.shortcuts.open_last_module": "अंतिम मॉड्यूल खोलें",

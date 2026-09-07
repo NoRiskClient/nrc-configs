@@ -796,6 +796,7 @@
   "nrc.ui.shop.filter.affordable": "Uygun fiyatlı",
   "nrc.ui.shop.filter.new": "Yeni",
   "nrc.ui.shop.filter.owned": "Sahip olunan",
+  "nrc.ui.shop.filter.multi": "Çok Oyunculu",
   "nrc.ui.modules.value.additionalNametagSize": "Boyut",
   "nrc.ui.shortcuts.disable_snapping": "Yakalamayı kapat",
   "nrc.ui.shortcuts.open_last_module": "Son modülü aç",

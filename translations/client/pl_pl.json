@@ -796,6 +796,7 @@
   "nrc.ui.shop.filter.affordable": "Przystępne",
   "nrc.ui.shop.filter.new": "Nowe",
   "nrc.ui.shop.filter.owned": "Posiadane",
+  "nrc.ui.shop.filter.multi": "Wieloosobowe",
   "nrc.ui.modules.value.additionalNametagSize": "Rozmiar",
   "nrc.ui.shortcuts.disable_snapping": "Wyłącz przyciąganie",
   "nrc.ui.shortcuts.open_last_module": "Otwórz ostatni moduł",

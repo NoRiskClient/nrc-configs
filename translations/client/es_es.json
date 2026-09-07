@@ -796,6 +796,7 @@
   "nrc.ui.shop.filter.affordable": "Asequibles",
   "nrc.ui.shop.filter.new": "Nuevos",
   "nrc.ui.shop.filter.owned": "Obtenidos",
+  "nrc.ui.shop.filter.multi": "Multijugador",
   "nrc.ui.modules.value.additionalNametagSize": "Tamaño",
   "nrc.ui.shortcuts.disable_snapping": "Desactivar snap",
   "nrc.ui.shortcuts.open_last_module": "Abrir último módulo",

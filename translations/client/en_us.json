@@ -826,6 +826,7 @@
   "nrc.ui.shop.filter.affordable": "Affordable",
   "nrc.ui.shop.filter.new": "New",
   "nrc.ui.shop.filter.owned": "Owned",
+  "nrc.ui.shop.filter.multi": "Multiplayer",
   "nrc.ui.shop.browse_all": "Browse All",
   "nrc.ui.modules.value.additionalNametagSize": "Size",
   "nrc.ui.shortcuts.disable_snapping": "Disable snapping",
