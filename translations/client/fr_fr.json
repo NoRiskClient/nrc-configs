@@ -928,6 +928,8 @@
   "nrc.cosmetics.cape_update.positive": "Cape mise à jour avec succès",
   "nrc.ui.label.no_emotes": "Tu ne possèdes aucun emote.",
   "nrc.ui.emote.locked": "OBTENIR EN BOUTIQUE",
+  "nrc.ui.emote.filter.duo_off": "Tous les Emotes",
+  "nrc.ui.emote.filter.duo_on": "Duo Seulement",
   "nrc.ui.minigames.spectate": "Observer",
   "nrc.minigames.error.empty_slots": "Erreur : Emplacements de Mini-jeu Vides",
   "creatorcode.icon.required_text": "Requis pour l'affichage",
