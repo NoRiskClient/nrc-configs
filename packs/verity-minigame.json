@@ -1,6 +1,6 @@
 {
-    "displayName": "Syncemotes",
-    "description": "nrc-nightly based pack for testing the fix/syncemotes branch. Same mods as nrc-nightly, NRC module identifiers point at the fix-syncemotes branch.",
+    "displayName": "Verity Minigame",
+    "description": "nrc-nightly based pack for testing the feat/port-minigames branch. Same mods as nrc-nightly, NRC module identifiers point at the feat-port-minigames branch.",
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [
@@ -16,302 +16,302 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.5661712-fix-syncemotes+forge.1.7.10",
+                        "identifier": "26.3.5661712-feat-port-minigames+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.5661712-fix-syncemotes+forge.1.8.9",
+                        "identifier": "26.3.5661712-feat-port-minigames+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.12.2",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.3.4888729-fix-syncemotes+fabric.1.16.5",
+                        "identifier": "26.3.4888729-feat-port-minigames+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.16.5",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.3.4888729-fix-syncemotes+fabric.1.18.2",
+                        "identifier": "26.3.4888729-feat-port-minigames+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5767841-fix-syncemotes+forge.1.18.2",
+                        "identifier": "26.3.5767841-feat-port-minigames+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.3.4888729-fix-syncemotes+fabric.1.19.2",
+                        "identifier": "26.3.4888729-feat-port-minigames+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5767841-fix-syncemotes+forge.1.19.2",
+                        "identifier": "26.3.5767841-feat-port-minigames+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.3.4888729-fix-syncemotes+fabric.1.19.4",
+                        "identifier": "26.3.4888729-feat-port-minigames+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5767841-fix-syncemotes+forge.1.19.4",
+                        "identifier": "26.3.5767841-feat-port-minigames+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.3.5767841-fix-syncemotes+fabric.1.20.1",
+                        "identifier": "26.3.5767841-feat-port-minigames+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5767841-fix-syncemotes+forge.1.20.1",
+                        "identifier": "26.3.5767841-feat-port-minigames+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.3.5767841-fix-syncemotes+fabric.1.21",
+                        "identifier": "26.3.5767841-feat-port-minigames+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.21",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.1.21",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.3.5767841-fix-syncemotes+fabric.1.21.1",
+                        "identifier": "26.3.5767841-feat-port-minigames+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.21.1",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.1.21.1",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.3.5767841-fix-syncemotes+fabric.1.21.4",
+                        "identifier": "26.3.5767841-feat-port-minigames+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.21.4",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.1.21.4",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.3.5767841-fix-syncemotes+fabric.1.21.5",
+                        "identifier": "26.3.5767841-feat-port-minigames+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.21.5",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.1.21.5",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.3.5767841-fix-syncemotes+fabric.1.21.7",
+                        "identifier": "26.3.5767841-feat-port-minigames+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.21.7",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.1.21.7",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.3.5767841-fix-syncemotes+fabric.1.21.8",
+                        "identifier": "26.3.5767841-feat-port-minigames+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.21.8",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.1.21.8",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.3.5767841-fix-syncemotes+fabric.1.21.9",
+                        "identifier": "26.3.5767841-feat-port-minigames+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.21.9",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.1.21.9",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.3.5767841-fix-syncemotes+fabric.1.21.10",
+                        "identifier": "26.3.5767841-feat-port-minigames+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.21.10",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.1.21.10",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.5661712-fix-syncemotes+fabric.1.21.11",
+                        "identifier": "26.3.5661712-feat-port-minigames+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.1.21.11",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.1.21.11",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.5661712-fix-syncemotes+fabric.26.1",
+                        "identifier": "26.3.5661712-feat-port-minigames+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.26.1",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.26.1",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.5661712-fix-syncemotes+fabric.26.1.1",
+                        "identifier": "26.3.5661712-feat-port-minigames+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.26.1.1",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.26.1.1",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.5661712-fix-syncemotes+fabric.26.1.2",
+                        "identifier": "26.3.5661712-feat-port-minigames+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.26.1.2",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.26.1.2",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.5661712-fix-syncemotes+fabric.26.2",
+                        "identifier": "26.3.5661712-feat-port-minigames+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+forge.26.2",
+                        "identifier": "26.3.4888729-feat-port-minigames+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4888729-fix-syncemotes+neoforge.26.2",
+                        "identifier": "26.3.4888729-feat-port-minigames+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
@@ -330,302 +330,302 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.5945806-fix-syncemotes+forge.1.7.10",
+                        "identifier": "26.3.5945806-feat-port-minigames+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.5945806-fix-syncemotes+forge.1.8.9",
+                        "identifier": "26.3.5945806-feat-port-minigames+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.12.2",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.3.4989418-fix-syncemotes+fabric.1.16.5",
+                        "identifier": "26.3.4989418-feat-port-minigames+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.16.5",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.3.4989418-fix-syncemotes+fabric.1.18.2",
+                        "identifier": "26.3.4989418-feat-port-minigames+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5867185-fix-syncemotes+forge.1.18.2",
+                        "identifier": "26.3.5867185-feat-port-minigames+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.3.4989418-fix-syncemotes+fabric.1.19.2",
+                        "identifier": "26.3.4989418-feat-port-minigames+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5867185-fix-syncemotes+forge.1.19.2",
+                        "identifier": "26.3.5867185-feat-port-minigames+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.3.4989418-fix-syncemotes+fabric.1.19.4",
+                        "identifier": "26.3.4989418-feat-port-minigames+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5867185-fix-syncemotes+forge.1.19.4",
+                        "identifier": "26.3.5867185-feat-port-minigames+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.3.5867185-fix-syncemotes+fabric.1.20.1",
+                        "identifier": "26.3.5867185-feat-port-minigames+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5867185-fix-syncemotes+forge.1.20.1",
+                        "identifier": "26.3.5867185-feat-port-minigames+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.3.5867185-fix-syncemotes+fabric.1.21",
+                        "identifier": "26.3.5867185-feat-port-minigames+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.21",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.1.21",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.3.5867185-fix-syncemotes+fabric.1.21.1",
+                        "identifier": "26.3.5867185-feat-port-minigames+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.21.1",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.1.21.1",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.3.5867185-fix-syncemotes+fabric.1.21.4",
+                        "identifier": "26.3.5867185-feat-port-minigames+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.21.4",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.1.21.4",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.3.5867185-fix-syncemotes+fabric.1.21.5",
+                        "identifier": "26.3.5867185-feat-port-minigames+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.21.5",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.1.21.5",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.3.5867185-fix-syncemotes+fabric.1.21.7",
+                        "identifier": "26.3.5867185-feat-port-minigames+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.21.7",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.1.21.7",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.3.5867185-fix-syncemotes+fabric.1.21.8",
+                        "identifier": "26.3.5867185-feat-port-minigames+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.21.8",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.1.21.8",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.3.5867185-fix-syncemotes+fabric.1.21.9",
+                        "identifier": "26.3.5867185-feat-port-minigames+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.21.9",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.1.21.9",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.3.5867185-fix-syncemotes+fabric.1.21.10",
+                        "identifier": "26.3.5867185-feat-port-minigames+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.21.10",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.1.21.10",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.5945806-fix-syncemotes+fabric.1.21.11",
+                        "identifier": "26.3.5945806-feat-port-minigames+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.21.11",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.1.21.11",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.5945806-fix-syncemotes+fabric.26.1",
+                        "identifier": "26.3.5945806-feat-port-minigames+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.26.1",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.26.1",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.5945806-fix-syncemotes+fabric.26.1.1",
+                        "identifier": "26.3.5945806-feat-port-minigames+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.26.1.1",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.26.1.1",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.5945806-fix-syncemotes+fabric.26.1.2",
+                        "identifier": "26.3.5945806-feat-port-minigames+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.26.1.2",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.26.1.2",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.5945806-fix-syncemotes+fabric.26.2",
+                        "identifier": "26.3.5945806-feat-port-minigames+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.26.2",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+neoforge.26.2",
+                        "identifier": "26.3.4989418-feat-port-minigames+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
@@ -644,302 +644,302 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.5666198-fix-syncemotes+forge.1.7.10",
+                        "identifier": "26.3.5666198-feat-port-minigames+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.5666198-fix-syncemotes+forge.1.8.9",
+                        "identifier": "26.3.5666198-feat-port-minigames+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.12.2",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.3.4961096-fix-syncemotes+fabric.1.16.5",
+                        "identifier": "26.3.4961096-feat-port-minigames+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.16.5",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.3.4961096-fix-syncemotes+fabric.1.18.2",
+                        "identifier": "26.3.4961096-feat-port-minigames+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5866171-fix-syncemotes+forge.1.18.2",
+                        "identifier": "26.3.5866171-feat-port-minigames+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.3.4961096-fix-syncemotes+fabric.1.19.2",
+                        "identifier": "26.3.4961096-feat-port-minigames+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5866171-fix-syncemotes+forge.1.19.2",
+                        "identifier": "26.3.5866171-feat-port-minigames+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.3.4961096-fix-syncemotes+fabric.1.19.4",
+                        "identifier": "26.3.4961096-feat-port-minigames+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5866171-fix-syncemotes+forge.1.19.4",
+                        "identifier": "26.3.5866171-feat-port-minigames+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.3.5866171-fix-syncemotes+fabric.1.20.1",
+                        "identifier": "26.3.5866171-feat-port-minigames+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5866171-fix-syncemotes+forge.1.20.1",
+                        "identifier": "26.3.5866171-feat-port-minigames+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.3.5866171-fix-syncemotes+fabric.1.21",
+                        "identifier": "26.3.5866171-feat-port-minigames+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.21",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.1.21",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.3.5866171-fix-syncemotes+fabric.1.21.1",
+                        "identifier": "26.3.5866171-feat-port-minigames+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.21.1",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.1.21.1",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.3.5866171-fix-syncemotes+fabric.1.21.4",
+                        "identifier": "26.3.5866171-feat-port-minigames+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.21.4",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.1.21.4",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.3.5866171-fix-syncemotes+fabric.1.21.5",
+                        "identifier": "26.3.5866171-feat-port-minigames+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.21.5",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.1.21.5",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.3.5866171-fix-syncemotes+fabric.1.21.7",
+                        "identifier": "26.3.5866171-feat-port-minigames+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.21.7",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.1.21.7",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.3.5866171-fix-syncemotes+fabric.1.21.8",
+                        "identifier": "26.3.5866171-feat-port-minigames+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.21.8",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.1.21.8",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.3.5866171-fix-syncemotes+fabric.1.21.9",
+                        "identifier": "26.3.5866171-feat-port-minigames+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.21.9",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.1.21.9",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.3.5866171-fix-syncemotes+fabric.1.21.10",
+                        "identifier": "26.3.5866171-feat-port-minigames+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.21.10",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.1.21.10",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.5666198-fix-syncemotes+fabric.1.21.11",
+                        "identifier": "26.3.5666198-feat-port-minigames+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.1.21.11",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.1.21.11",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.5666198-fix-syncemotes+fabric.26.1",
+                        "identifier": "26.3.5666198-feat-port-minigames+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.26.1",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.26.1",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.5666198-fix-syncemotes+fabric.26.1.1",
+                        "identifier": "26.3.5666198-feat-port-minigames+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.26.1.1",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.26.1.1",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.5666198-fix-syncemotes+fabric.26.1.2",
+                        "identifier": "26.3.5666198-feat-port-minigames+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.26.1.2",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.26.1.2",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.5666198-fix-syncemotes+fabric.26.2",
+                        "identifier": "26.3.5666198-feat-port-minigames+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+forge.26.2",
+                        "identifier": "26.3.4961096-feat-port-minigames+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4961096-fix-syncemotes+neoforge.26.2",
+                        "identifier": "26.3.4961096-feat-port-minigames+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
@@ -958,302 +958,302 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.5946651-fix-syncemotes+forge.1.7.10",
+                        "identifier": "26.3.5946651-feat-port-minigames+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.5946651-fix-syncemotes+forge.1.8.9",
+                        "identifier": "26.3.5946651-feat-port-minigames+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.12.2",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.3.4854127-fix-syncemotes+fabric.1.16.5",
+                        "identifier": "26.3.4854127-feat-port-minigames+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.16.5",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.3.4854127-fix-syncemotes+fabric.1.18.2",
+                        "identifier": "26.3.4854127-feat-port-minigames+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5755184-fix-syncemotes+forge.1.18.2",
+                        "identifier": "26.3.5755184-feat-port-minigames+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.3.4854127-fix-syncemotes+fabric.1.19.2",
+                        "identifier": "26.3.4854127-feat-port-minigames+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5755184-fix-syncemotes+forge.1.19.2",
+                        "identifier": "26.3.5755184-feat-port-minigames+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.3.4854127-fix-syncemotes+fabric.1.19.4",
+                        "identifier": "26.3.4854127-feat-port-minigames+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5755184-fix-syncemotes+forge.1.19.4",
+                        "identifier": "26.3.5755184-feat-port-minigames+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.3.5755184-fix-syncemotes+fabric.1.20.1",
+                        "identifier": "26.3.5755184-feat-port-minigames+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5755184-fix-syncemotes+forge.1.20.1",
+                        "identifier": "26.3.5755184-feat-port-minigames+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.3.5755184-fix-syncemotes+fabric.1.21",
+                        "identifier": "26.3.5755184-feat-port-minigames+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.21",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.1.21",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.3.5755184-fix-syncemotes+fabric.1.21.1",
+                        "identifier": "26.3.5755184-feat-port-minigames+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.21.1",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.1.21.1",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.3.5755184-fix-syncemotes+fabric.1.21.4",
+                        "identifier": "26.3.5755184-feat-port-minigames+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.21.4",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.1.21.4",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.3.5755184-fix-syncemotes+fabric.1.21.5",
+                        "identifier": "26.3.5755184-feat-port-minigames+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.21.5",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.1.21.5",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.3.5755184-fix-syncemotes+fabric.1.21.7",
+                        "identifier": "26.3.5755184-feat-port-minigames+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.21.7",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.1.21.7",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.3.5755184-fix-syncemotes+fabric.1.21.8",
+                        "identifier": "26.3.5755184-feat-port-minigames+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.21.8",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.1.21.8",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.3.5755184-fix-syncemotes+fabric.1.21.9",
+                        "identifier": "26.3.5755184-feat-port-minigames+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.21.9",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.1.21.9",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.3.5755184-fix-syncemotes+fabric.1.21.10",
+                        "identifier": "26.3.5755184-feat-port-minigames+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.21.10",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.1.21.10",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.5946651-fix-syncemotes+fabric.1.21.11",
+                        "identifier": "26.3.5946651-feat-port-minigames+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.1.21.11",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.1.21.11",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.5946651-fix-syncemotes+fabric.26.1",
+                        "identifier": "26.3.5946651-feat-port-minigames+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.26.1",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.26.1",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.5946651-fix-syncemotes+fabric.26.1.1",
+                        "identifier": "26.3.5946651-feat-port-minigames+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.26.1.1",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.26.1.1",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.5946651-fix-syncemotes+fabric.26.1.2",
+                        "identifier": "26.3.5946651-feat-port-minigames+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.26.1.2",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.26.1.2",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.5946651-fix-syncemotes+fabric.26.2",
+                        "identifier": "26.3.5946651-feat-port-minigames+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+forge.26.2",
+                        "identifier": "26.3.4854127-feat-port-minigames+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4854127-fix-syncemotes+neoforge.26.2",
+                        "identifier": "26.3.4854127-feat-port-minigames+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
@@ -1272,302 +1272,302 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.7.10",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.8.9",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.12.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.16.5",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.16.5",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.18.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5780444-fix-syncemotes+forge.1.18.2",
+                        "identifier": "26.3.5780444-feat-port-minigames+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.19.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5780444-fix-syncemotes+forge.1.19.2",
+                        "identifier": "26.3.5780444-feat-port-minigames+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.19.4",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5780444-fix-syncemotes+forge.1.19.4",
+                        "identifier": "26.3.5780444-feat-port-minigames+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.3.5780444-fix-syncemotes+fabric.1.20.1",
+                        "identifier": "26.3.5780444-feat-port-minigames+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5780444-fix-syncemotes+forge.1.20.1",
+                        "identifier": "26.3.5780444-feat-port-minigames+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.3.5780444-fix-syncemotes+fabric.1.21",
+                        "identifier": "26.3.5780444-feat-port-minigames+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.3.5780444-fix-syncemotes+fabric.1.21.1",
+                        "identifier": "26.3.5780444-feat-port-minigames+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.3.5780444-fix-syncemotes+fabric.1.21.4",
+                        "identifier": "26.3.5780444-feat-port-minigames+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.4",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.4",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.3.5780444-fix-syncemotes+fabric.1.21.5",
+                        "identifier": "26.3.5780444-feat-port-minigames+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.5",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.5",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.3.5780444-fix-syncemotes+fabric.1.21.7",
+                        "identifier": "26.3.5780444-feat-port-minigames+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.7",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.7",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.3.5780444-fix-syncemotes+fabric.1.21.8",
+                        "identifier": "26.3.5780444-feat-port-minigames+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.8",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.8",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.3.5780444-fix-syncemotes+fabric.1.21.9",
+                        "identifier": "26.3.5780444-feat-port-minigames+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.9",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.9",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.3.5780444-fix-syncemotes+fabric.1.21.10",
+                        "identifier": "26.3.5780444-feat-port-minigames+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.10",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.10",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.21.11",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.11",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.11",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.26.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.26.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.26.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.26.1.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.26.1.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.26.1.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.26.1.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.26.1.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.26.1.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.26.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.26.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.26.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
@@ -1586,302 +1586,302 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.5767022-fix-syncemotes+forge.1.7.10",
+                        "identifier": "26.3.5767022-feat-port-minigames+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.5767022-fix-syncemotes+forge.1.8.9",
+                        "identifier": "26.3.5767022-feat-port-minigames+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.12.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.16.5",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.16.5",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.18.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.18.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.19.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.19.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.19.4",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.19.4",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.20.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.20.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.21",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.21.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.21.4",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.4",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.4",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.21.5",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.5",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.5",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.21.7",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.7",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.7",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.21.8",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.8",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.8",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.21.9",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.9",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.9",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.3.4686868-fix-syncemotes+fabric.1.21.10",
+                        "identifier": "26.3.4686868-feat-port-minigames+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.10",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.10",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.5767022-fix-syncemotes+fabric.1.21.11",
+                        "identifier": "26.3.5767022-feat-port-minigames+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.1.21.11",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.1.21.11",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.5767022-fix-syncemotes+fabric.26.1",
+                        "identifier": "26.3.5767022-feat-port-minigames+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.26.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.26.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.5767022-fix-syncemotes+fabric.26.1.1",
+                        "identifier": "26.3.5767022-feat-port-minigames+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.26.1.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.26.1.1",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.5767022-fix-syncemotes+fabric.26.1.2",
+                        "identifier": "26.3.5767022-feat-port-minigames+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.26.1.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.26.1.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.5767022-fix-syncemotes+fabric.26.2",
+                        "identifier": "26.3.5767022-feat-port-minigames+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+forge.26.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4686868-fix-syncemotes+neoforge.26.2",
+                        "identifier": "26.3.4686868-feat-port-minigames+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
@@ -1900,302 +1900,302 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.7.10",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.8.9",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.12.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.16.5",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.16.5",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.18.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.18.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.19.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.19.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.19.4",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.19.4",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.20.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.20.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.21",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.21",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.1.21",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.21.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.21.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.1.21.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.21.4",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.21.4",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.1.21.4",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.21.5",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.21.5",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.1.21.5",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.21.7",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.21.7",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.1.21.7",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.21.8",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.21.8",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.1.21.8",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.21.9",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.21.9",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.1.21.9",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.21.10",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.21.10",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.1.21.10",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.1.21.11",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.1.21.11",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.1.21.11",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.26.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.26.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.26.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.26.1.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.26.1.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.26.1.1",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.26.1.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.26.1.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.26.1.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.4354550-fix-syncemotes+fabric.26.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+forge.26.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4354550-fix-syncemotes+neoforge.26.2",
+                        "identifier": "26.3.4354550-feat-port-minigames+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
@@ -2214,302 +2214,302 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.5636315-fix-syncemotes+forge.1.7.10",
+                        "identifier": "26.3.5636315-feat-port-minigames+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.5636315-fix-syncemotes+forge.1.8.9",
+                        "identifier": "26.3.5636315-feat-port-minigames+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.12.2",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.3.4972891-fix-syncemotes+fabric.1.16.5",
+                        "identifier": "26.3.4972891-feat-port-minigames+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.16.5",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.3.4972891-fix-syncemotes+fabric.1.18.2",
+                        "identifier": "26.3.4972891-feat-port-minigames+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5867016-fix-syncemotes+forge.1.18.2",
+                        "identifier": "26.3.5867016-feat-port-minigames+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.3.4972891-fix-syncemotes+fabric.1.19.2",
+                        "identifier": "26.3.4972891-feat-port-minigames+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5867016-fix-syncemotes+forge.1.19.2",
+                        "identifier": "26.3.5867016-feat-port-minigames+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.3.4972891-fix-syncemotes+fabric.1.19.4",
+                        "identifier": "26.3.4972891-feat-port-minigames+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5867016-fix-syncemotes+forge.1.19.4",
+                        "identifier": "26.3.5867016-feat-port-minigames+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.3.5867016-fix-syncemotes+fabric.1.20.1",
+                        "identifier": "26.3.5867016-feat-port-minigames+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.5867016-fix-syncemotes+forge.1.20.1",
+                        "identifier": "26.3.5867016-feat-port-minigames+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.3.5867016-fix-syncemotes+fabric.1.21",
+                        "identifier": "26.3.5867016-feat-port-minigames+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.21",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.1.21",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.3.5867016-fix-syncemotes+fabric.1.21.1",
+                        "identifier": "26.3.5867016-feat-port-minigames+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.21.1",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.1.21.1",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.3.5867016-fix-syncemotes+fabric.1.21.4",
+                        "identifier": "26.3.5867016-feat-port-minigames+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.21.4",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.1.21.4",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.3.5867016-fix-syncemotes+fabric.1.21.5",
+                        "identifier": "26.3.5867016-feat-port-minigames+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.21.5",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.1.21.5",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.3.5867016-fix-syncemotes+fabric.1.21.7",
+                        "identifier": "26.3.5867016-feat-port-minigames+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.21.7",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.1.21.7",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.3.5867016-fix-syncemotes+fabric.1.21.8",
+                        "identifier": "26.3.5867016-feat-port-minigames+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.21.8",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.1.21.8",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.3.5867016-fix-syncemotes+fabric.1.21.9",
+                        "identifier": "26.3.5867016-feat-port-minigames+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.21.9",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.1.21.9",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.3.5867016-fix-syncemotes+fabric.1.21.10",
+                        "identifier": "26.3.5867016-feat-port-minigames+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.21.10",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.1.21.10",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.5636315-fix-syncemotes+fabric.1.21.11",
+                        "identifier": "26.3.5636315-feat-port-minigames+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.1.21.11",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.1.21.11",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.5636315-fix-syncemotes+fabric.26.1",
+                        "identifier": "26.3.5636315-feat-port-minigames+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.26.1",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.26.1",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.5636315-fix-syncemotes+fabric.26.1.1",
+                        "identifier": "26.3.5636315-feat-port-minigames+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.26.1.1",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.26.1.1",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.5636315-fix-syncemotes+fabric.26.1.2",
+                        "identifier": "26.3.5636315-feat-port-minigames+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.26.1.2",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.26.1.2",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.5636315-fix-syncemotes+fabric.26.2",
+                        "identifier": "26.3.5636315-feat-port-minigames+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+forge.26.2",
+                        "identifier": "26.3.4972891-feat-port-minigames+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4972891-fix-syncemotes+neoforge.26.2",
+                        "identifier": "26.3.4972891-feat-port-minigames+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
@@ -2528,101 +2528,101 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.1.21",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.1.21.1",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.1.21.4",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.1.21.5",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.1.21.7",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.1.21.8",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.1.21.9",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.1.21.10",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.1.21.11",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.26.1",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.26.1.1",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.26.1.2",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.4266764-fix-syncemotes+fabric.26.2",
+                        "identifier": "26.3.4266764-feat-port-minigames+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.3.4266764-fix-syncemotes+forge.26.2",
+                        "identifier": "26.3.4266764-feat-port-minigames+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.3.4266764-fix-syncemotes+neoforge.26.2",
+                        "identifier": "26.3.4266764-feat-port-minigames+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
@@ -2641,21 +2641,21 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.7.10",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.8.9",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.3.4989418-fix-syncemotes+forge.1.12.2",
+                        "identifier": "26.3.4989418-feat-port-minigames+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
