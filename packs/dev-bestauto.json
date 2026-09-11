@@ -1,6 +1,6 @@
 {
     "displayName": "Dev BestAuto",
-    "description": "Dev pack for BestAuto. Inherits Norisk Production; override module versions in \"mods\" below.",
+    "description": "Dev pack for BestAuto. Inherits Norisk Production; override module versions in \"mods\" below",
     "inheritsFrom": [
         "norisk-prod"
     ],
