@@ -1,11 +1,6 @@
 {
     "displayName": "Verity Nexus",
     "description": "Verity Nexus branch testing pack with latest nexus module builds",
-    "listing": {
-        "category": "intern",
-        "weight": 0,
-        "hidden": true
-    },
     "inheritsFrom": null,
     "excludeMods": null,
     "mods": [
@@ -21,14 +16,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.3661715-fix-many-issues+forge.1.7.10",
+                        "identifier": "26.3.5661712-fix-many-issues+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.3661715-fix-many-issues+forge.1.8.9",
+                        "identifier": "26.3.5661712-fix-many-issues+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -238,7 +233,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.3661715-fix-many-issues+fabric.1.21.11",
+                        "identifier": "26.3.5661712-fix-many-issues+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -255,7 +250,7 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.3661715-fix-many-issues+fabric.26.1",
+                        "identifier": "26.3.5661712-fix-many-issues+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
@@ -272,7 +267,7 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.3661715-fix-many-issues+fabric.26.1.1",
+                        "identifier": "26.3.5661712-fix-many-issues+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
@@ -289,7 +284,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.3661715-fix-many-issues+fabric.26.1.2",
+                        "identifier": "26.3.5661712-fix-many-issues+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
@@ -306,7 +301,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.3661715-fix-many-issues+fabric.26.2",
+                        "identifier": "26.3.5661712-fix-many-issues+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -649,14 +644,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.3682901-fix-many-issues+forge.1.7.10",
+                        "identifier": "26.3.6349587-fix-many-issues+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.3682901-fix-many-issues+forge.1.8.9",
+                        "identifier": "26.3.6349587-fix-many-issues+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -866,7 +861,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.3682901-fix-many-issues+fabric.1.21.11",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -883,7 +878,7 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.3682901-fix-many-issues+fabric.26.1",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
@@ -900,7 +895,7 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.3682901-fix-many-issues+fabric.26.1.1",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
@@ -917,7 +912,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.3682901-fix-many-issues+fabric.26.1.2",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
@@ -934,7 +929,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.3682901-fix-many-issues+fabric.26.2",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -963,14 +958,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.3675139-fix-many-issues+forge.1.7.10",
+                        "identifier": "26.3.6349587-fix-many-issues+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.3675139-fix-many-issues+forge.1.8.9",
+                        "identifier": "26.3.6349587-fix-many-issues+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1180,7 +1175,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.1.21.11",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1197,7 +1192,7 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
@@ -1214,7 +1209,7 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1.1",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
@@ -1231,7 +1226,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1.2",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
@@ -1248,7 +1243,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.2",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1277,14 +1272,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.3675139-fix-many-issues+forge.1.7.10",
+                        "identifier": "26.3.4686868-fix-many-issues+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.3675139-fix-many-issues+forge.1.8.9",
+                        "identifier": "26.3.4686868-fix-many-issues+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1494,7 +1489,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.1.21.11",
+                        "identifier": "26.3.4686868-fix-many-issues+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1511,7 +1506,7 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1",
+                        "identifier": "26.3.4686868-fix-many-issues+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
@@ -1528,7 +1523,7 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1.1",
+                        "identifier": "26.3.4686868-fix-many-issues+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
@@ -1545,7 +1540,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1.2",
+                        "identifier": "26.3.4686868-fix-many-issues+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
@@ -1562,7 +1557,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.2",
+                        "identifier": "26.3.4686868-fix-many-issues+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1591,14 +1586,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.3675139-fix-many-issues+forge.1.7.10",
+                        "identifier": "26.3.6349587-fix-many-issues+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.3675139-fix-many-issues+forge.1.8.9",
+                        "identifier": "26.3.6349587-fix-many-issues+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1808,7 +1803,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.1.21.11",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1825,7 +1820,7 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
@@ -1842,7 +1837,7 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1.1",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
@@ -1859,7 +1854,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1.2",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
@@ -1876,7 +1871,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.2",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2219,14 +2214,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.3675139-fix-many-issues+forge.1.7.10",
+                        "identifier": "26.3.6349587-fix-many-issues+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.3675139-fix-many-issues+forge.1.8.9",
+                        "identifier": "26.3.6349587-fix-many-issues+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -2436,7 +2431,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.1.21.11",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -2453,7 +2448,7 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
@@ -2470,7 +2465,7 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1.1",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
@@ -2487,7 +2482,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1.2",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
@@ -2504,7 +2499,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.2",
+                        "identifier": "26.3.6349587-fix-many-issues+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2589,35 +2584,35 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.1.21.11",
+                        "identifier": "26.3.4266764-fix-many-issues+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1",
+                        "identifier": "26.3.4266764-fix-many-issues+fabric.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1.1",
+                        "identifier": "26.3.4266764-fix-many-issues+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.1.2",
+                        "identifier": "26.3.4266764-fix-many-issues+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.3675139-fix-many-issues+fabric.26.2",
+                        "identifier": "26.3.4266764-fix-many-issues+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2646,14 +2641,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.3609790-fix-many-issues+forge.1.7.10",
+                        "identifier": "26.3.4989418-fix-many-issues+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.3609790-fix-many-issues+forge.1.8.9",
+                        "identifier": "26.3.4989418-fix-many-issues+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -5422,5 +5417,10 @@
     },
     "startupHelper": {
         "additional_paths": []
+    },
+    "listing": {
+        "category": "intern",
+        "weight": 0,
+        "hidden": true
     }
 }
