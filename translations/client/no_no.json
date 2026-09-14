@@ -758,7 +758,7 @@
   "nrc.ui.modules.value.mode": "Modus",
   "nrc.ui.modules.value.overlayAlpha": "Gjennomsiktighet",
   "nrc.plus.subscription.divider": "ABONNEMENT",
-  "nrc.plus.subscription.with_coins": "MED MYNTER",
+  "nrc.plus.subscription.with_coins": "ÉN GANG MED MYNTER · F.EKS. SOM GAVE",
   "nrc.plus.subscription.per_month": "%s€ / måned",
   "nrc.plus.subscription.per_year": "%s€ / år",
   "nrc.plus.subscription.load_failed": "Kunne ikke laste abonnementer",
@@ -769,5 +769,7 @@
   "nrc.plus.subscription.status.ended": "Abonnement avsluttet",
   "nrc.plus.subscription.status.expired": "Abonnement utløpt · betaling mislyktes",
   "nrc.plus.toast.title": "NRC+",
-  "nrc.plus.toast.updated": "Aktivt til %s"
+  "nrc.plus.toast.updated": "Aktivt til %s",
+  "nrc.plus.subscription.best_value": "BESTE TILBUD · SPAR %s%%",
+  "nrc.plus.subscription.coins_hint": "≈ %s€ / måned"
 }
