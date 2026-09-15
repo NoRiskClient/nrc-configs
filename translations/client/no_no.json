@@ -768,6 +768,11 @@
   "nrc.plus.subscription.status.ended": "Abonnement avsluttet",
   "nrc.plus.subscription.status.expired": "Abonnement utløpt · betaling mislyktes",
   "nrc.plus.toast.title": "NRC+",
-  "nrc.plus.toast.updated": "Aktivt til %s",
-  "nrc.plus.subscription.best_value": "BESTE TILBUD · SPAR %s%%"
+  "nrc.plus.subscription.best_value": "BESTE TILBUD · SPAR %s%%",
+  "nrc.plus.toast.granted": "Aktivt til %s",
+  "nrc.plus.toast.refunded": "Refundert · NRC+ slutter %s",
+  "nrc.plus.toast.cancelled": "Abonnement sagt opp · NRC+ varer til %s",
+  "nrc.plus.toast.cancel_aborted": "Abonnement gjenopptatt · fornyes %s",
+  "nrc.plus.toast.ended": "Abonnement avsluttet",
+  "nrc.plus.toast.expired": "Abonnement utløpt · betaling mislyktes"
 }
