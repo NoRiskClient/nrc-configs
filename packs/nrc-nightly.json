@@ -5581,8 +5581,8 @@
         "additional_paths": []
     },
     "listing": {
-        "category": "",
-        "weight": 0,
+        "category": "testing",
+        "weight": 20,
         "hidden": false
     }
 }
