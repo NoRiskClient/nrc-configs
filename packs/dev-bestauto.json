@@ -18,14 +18,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.5945806-working+forge.1.7.10",
+                        "identifier": "26.3.6934940-working+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.5945806-working+forge.1.8.9",
+                        "identifier": "26.3.6934940-working+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -235,7 +235,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.5945806-working+fabric.1.21.11",
+                        "identifier": "26.3.6934940-working+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -252,7 +252,7 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.5945806-working+fabric.26.1",
+                        "identifier": "26.3.6934940-working+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
@@ -269,7 +269,7 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.5945806-working+fabric.26.1.1",
+                        "identifier": "26.3.6934940-working+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
@@ -286,7 +286,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.3.5945806-working+fabric.26.1.2",
+                        "identifier": "26.3.6934940-working+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
@@ -303,7 +303,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.5945806-working+fabric.26.2",
+                        "identifier": "26.3.6934940-working+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -326,6 +326,7 @@
     ],
     "isExperimental": false,
     "autoUpdate": true,
+    "loaderPolicy": null,
     "startupHelper": {
         "additional_paths": []
     },
