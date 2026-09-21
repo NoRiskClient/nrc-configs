@@ -364,6 +364,8 @@
   "nrc.ui.modules.value.historyLimit": "Limite d'Historique",
   "nrc.ui.modules.value.duplicateCounter": "Compteur de doublons",
   "nrc.ui.modules.value.duplicateDepth": "Portée des doublons",
+  "nrc.ui.modules.info.duplicateCounter": "Regroupe les messages répétés sur une seule ligne avec un compteur ×N au lieu d'encombrer le chat.",
+  "nrc.ui.modules.info.duplicateDepth": "Nombre de messages récents vérifiés pour une répétition. 1 ne regroupe que les messages qui se suivent directement.",
   "nrc.ui.modules.value.copyOnClick": "Copier au clic",
   "nrc.ui.modules.value.copyKey": "Touche de copie",
   "nrc.ui.modules.value.copySound": "Son de copie",

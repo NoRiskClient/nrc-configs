@@ -364,6 +364,8 @@
   "nrc.ui.modules.value.historyLimit": "Limit Historii",
   "nrc.ui.modules.value.duplicateCounter": "Licznik duplikatów",
   "nrc.ui.modules.value.duplicateDepth": "Zasięg duplikatów",
+  "nrc.ui.modules.info.duplicateCounter": "Łączy powtarzające się wiadomości w jedną linię z licznikiem ×N zamiast zapychać czat.",
+  "nrc.ui.modules.info.duplicateDepth": "Ile ostatnich wiadomości jest sprawdzanych pod kątem powtórzeń. 1 łączy tylko wiadomości następujące bezpośrednio po sobie.",
   "nrc.ui.modules.value.copyOnClick": "Kopiuj kliknięciem",
   "nrc.ui.modules.value.copyKey": "Klawisz kopiowania",
   "nrc.ui.modules.value.copySound": "Dźwięk kopiowania",

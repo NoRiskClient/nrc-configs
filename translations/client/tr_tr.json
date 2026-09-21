@@ -364,6 +364,8 @@
   "nrc.ui.modules.value.historyLimit": "Geçmiş Limiti",
   "nrc.ui.modules.value.duplicateCounter": "Yinelenen sayacı",
   "nrc.ui.modules.value.duplicateDepth": "Yinelenen menzili",
+  "nrc.ui.modules.info.duplicateCounter": "Tekrarlanan mesajları sohbeti doldurmak yerine ×N sayaçlı tek bir satırda birleştirir.",
+  "nrc.ui.modules.info.duplicateDepth": "Tekrar için kaç son mesajın kontrol edileceği. 1 yalnızca art arda gelen mesajları birleştirir.",
   "nrc.ui.modules.value.copyOnClick": "Tıklayarak kopyala",
   "nrc.ui.modules.value.copyKey": "Kopyalama tuşu",
   "nrc.ui.modules.value.copySound": "Kopyalama sesi",

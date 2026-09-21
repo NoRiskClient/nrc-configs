@@ -364,6 +364,8 @@
   "nrc.ui.modules.value.historyLimit": "Лимит Истории",
   "nrc.ui.modules.value.duplicateCounter": "Счётчик повторов",
   "nrc.ui.modules.value.duplicateDepth": "Дальность повторов",
+  "nrc.ui.modules.info.duplicateCounter": "Объединяет повторяющиеся сообщения в одну строку со счётчиком ×N, чтобы не засорять чат.",
+  "nrc.ui.modules.info.duplicateDepth": "Сколько последних сообщений проверяется на повтор. 1 объединяет только сообщения, идущие подряд.",
   "nrc.ui.modules.value.copyOnClick": "Копировать по клику",
   "nrc.ui.modules.value.copyKey": "Клавиша копирования",
   "nrc.ui.modules.value.copySound": "Звук копирования",

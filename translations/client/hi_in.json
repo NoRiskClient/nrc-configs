@@ -364,6 +364,8 @@
   "nrc.ui.modules.value.historyLimit": "इतिहास सीमा",
   "nrc.ui.modules.value.duplicateCounter": "डुप्लिकेट काउंटर",
   "nrc.ui.modules.value.duplicateDepth": "डुप्लिकेट रेंज",
+  "nrc.ui.modules.info.duplicateCounter": "दोहराए गए संदेशों को चैट भरने के बजाय ×N काउंटर वाली एक पंक्ति में जोड़ता है।",
+  "nrc.ui.modules.info.duplicateDepth": "दोहराव के लिए कितने हाल के संदेश जाँचे जाते हैं। 1 केवल लगातार आए संदेशों को जोड़ता है।",
   "nrc.ui.modules.value.copyOnClick": "क्लिक से कॉपी करें",
   "nrc.ui.modules.value.copyKey": "कॉपी कुंजी",
   "nrc.ui.modules.value.copySound": "कॉपी ध्वनि",

@@ -364,6 +364,8 @@
   "nrc.ui.modules.value.historyLimit": "Verlaufslimit",
   "nrc.ui.modules.value.duplicateCounter": "Duplikat-Zähler",
   "nrc.ui.modules.value.duplicateDepth": "Duplikat-Reichweite",
+  "nrc.ui.modules.info.duplicateCounter": "Fasst wiederholte Nachrichten zu einer Zeile mit ×N-Zähler zusammen, statt den Chat vollzuspammen.",
+  "nrc.ui.modules.info.duplicateDepth": "Wie viele der letzten Nachrichten auf eine Wiederholung geprüft werden. 1 fasst nur direkt aufeinanderfolgende Nachrichten zusammen.",
   "nrc.ui.modules.value.copyOnClick": "Kopieren per Klick",
   "nrc.ui.modules.value.copyKey": "Kopier-Taste",
   "nrc.ui.modules.value.copySound": "Kopier-Sound",

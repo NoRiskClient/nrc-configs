@@ -364,6 +364,8 @@
   "nrc.ui.modules.value.historyLimit": "History Limit",
   "nrc.ui.modules.value.duplicateCounter": "Duplicate Counter",
   "nrc.ui.modules.value.duplicateDepth": "Duplicate Range",
+  "nrc.ui.modules.info.duplicateCounter": "Merges repeated messages into one line with a ×N counter instead of filling the chat.",
+  "nrc.ui.modules.info.duplicateDepth": "How many recent messages are checked for a repeat. 1 only merges messages that follow each other directly.",
   "nrc.ui.modules.value.copyOnClick": "Copy On Click",
   "nrc.ui.modules.value.copyKey": "Copy Key",
   "nrc.ui.modules.value.copySound": "Copy Sound",

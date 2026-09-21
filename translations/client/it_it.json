@@ -364,6 +364,8 @@
   "nrc.ui.modules.value.historyLimit": "Limite Cronologia",
   "nrc.ui.modules.value.duplicateCounter": "Contatore duplicati",
   "nrc.ui.modules.value.duplicateDepth": "Raggio duplicati",
+  "nrc.ui.modules.info.duplicateCounter": "Unisce i messaggi ripetuti in una sola riga con un contatore ×N invece di riempire la chat.",
+  "nrc.ui.modules.info.duplicateDepth": "Quanti messaggi recenti vengono controllati per trovare ripetizioni. 1 unisce solo i messaggi consecutivi.",
   "nrc.ui.modules.value.copyOnClick": "Copia con clic",
   "nrc.ui.modules.value.copyKey": "Tasto copia",
   "nrc.ui.modules.value.copySound": "Suono di copia",
