@@ -315,6 +315,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.3.7123795-working+fabric.26.3",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -626,6 +633,13 @@
                     },
                     "neoforge": {
                         "identifier": "26.3.7133601-working+neoforge.26.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.3.7133601-working+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -943,6 +957,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.3.7129055-working+fabric.26.3",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -1254,6 +1275,13 @@
                     },
                     "neoforge": {
                         "identifier": "26.3.7049054-working+neoforge.26.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.3.7049054-working+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -1571,6 +1599,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.3.7049054-working+fabric.26.3",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -1882,6 +1917,13 @@
                     },
                     "neoforge": {
                         "identifier": "26.3.7049054-working+neoforge.26.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.3.7049054-working+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -2199,6 +2241,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.3.7049054-working+fabric.26.3",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -2513,6 +2562,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.3.7133606-working+fabric.26.3",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -2623,6 +2679,13 @@
                     },
                     "neoforge": {
                         "identifier": "26.3.7049054-working+neoforge.26.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.3.7049054-working+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -2799,6 +2862,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "bAZQdGpg",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -2929,6 +2999,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "eRRZzGMc",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -3056,6 +3133,13 @@
                 "26.2": {
                     "fabric": {
                         "identifier": "vodPC30d",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "bNnaTiuM",
                         "filename": null,
                         "source": null
                     }
@@ -3204,6 +3288,13 @@
                     },
                     "neoforge": {
                         "identifier": "TuU2J6Rb",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "3MP9UR23",
                         "filename": null,
                         "source": null
                     }
@@ -3363,6 +3454,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "YuGJTeFm",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -3503,6 +3601,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "d5ddUdiB",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -3640,6 +3745,13 @@
                     },
                     "neoforge": {
                         "identifier": "QeEyF9xT",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "WXHRsMRl",
                         "filename": null,
                         "source": null
                     }
@@ -3826,6 +3938,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "eZ3xIIuk",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -4006,6 +4125,13 @@
                     },
                     "neoforge": {
                         "identifier": "7UWWz2eS",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "zL2UEFXS",
                         "filename": null,
                         "source": null
                     }
@@ -4302,6 +4428,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "3fRw6NfP",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -4429,6 +4562,13 @@
                 "26.2": {
                     "fabric": {
                         "identifier": "dTGuPZ91",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "lcxkZSq6",
                         "filename": null,
                         "source": null
                     }
@@ -4664,6 +4804,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "G8BCRxv5",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -4856,6 +5003,13 @@
                     },
                     "neoforge": {
                         "identifier": "UpVdxQTS",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "Cj9VEeGt",
                         "filename": null,
                         "source": null
                     }
@@ -5084,6 +5238,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "btMqe7fQ",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -5294,6 +5455,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "PHjDtQay",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         },
@@ -5393,6 +5561,13 @@
                 "26.2": {
                     "fabric": {
                         "identifier": "XLgXLbg6",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "6TDcDJ2S",
                         "filename": null,
                         "source": null
                     }

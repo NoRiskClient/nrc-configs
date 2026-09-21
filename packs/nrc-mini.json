@@ -315,6 +315,13 @@
                         "filename": null,
                         "source": null
                     }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.3.6770156-working+fabric.26.3",
+                        "filename": null,
+                        "source": null
+                    }
                 }
             }
         }
