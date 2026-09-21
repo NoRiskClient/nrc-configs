@@ -5409,7 +5409,7 @@
     "loaderPolicy": {
         "default": {
             "fabric": {
-                "version": "0.19.2",
+                "version": "0.19.5",
                 "min": null,
                 "strategy": null
             }

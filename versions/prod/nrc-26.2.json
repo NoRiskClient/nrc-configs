@@ -4,7 +4,7 @@
   "path": "noriskclient/new",
   "game_version": "26.2",
   "loader": "fabric",
-  "loader_version": "0.19.3",
+  "loader_version": "0.19.5",
   "created": "2026-06-22T11:12:04.248Z",
   "last_played": null,
   "settings": {
