@@ -1742,5 +1742,6 @@
   "nrc.cosmetics.ui.gift.toast.received": "Hai ricevuto %s!",
   "nrc.ui.modules.info.itemPhysicsRotation": "Casuale dà a ogni oggetto un angolo fisso proprio, Rotazione mantiene quella originale, Fisso li orienta tutti allo stesso modo.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Atterrando, gli oggetti si girano sulla faccia piatta più vicina invece di restare nell'angolo di caduta.",
-  "nrc.ui.modules.info.itemPhysicsTilt": "Quanto si inclinano gli oggetti a terra. 90 li stende del tutto, 0 li lascia in piedi."
+  "nrc.ui.modules.info.itemPhysicsTilt": "Quanto si inclinano gli oggetti a terra. 90 li stende del tutto, 0 li lascia in piedi.",
+  "nrc.cosmetics.ui.wishlist.browse": "Sfoglia i cosmetici"
 }

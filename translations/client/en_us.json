@@ -1742,5 +1742,6 @@
   "nrc.cosmetics.ui.gift.toast.received": "You received %s!",
   "nrc.ui.modules.info.itemPhysicsRotation": "Random gives every item its own fixed angle, Spin keeps the vanilla rotation, Fixed points them all the same way.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Items turn onto their nearest flat side when they land instead of keeping the angle they fell at.",
-  "nrc.ui.modules.info.itemPhysicsTilt": "How far items tip over on the ground. 90 lays them completely flat, 0 leaves them upright."
+  "nrc.ui.modules.info.itemPhysicsTilt": "How far items tip over on the ground. 90 lays them completely flat, 0 leaves them upright.",
+  "nrc.cosmetics.ui.wishlist.browse": "Browse cosmetics"
 }

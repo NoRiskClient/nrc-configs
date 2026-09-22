@@ -887,5 +887,6 @@
   "nrc.cosmetics.ui.gift.toast.received": "Du fikk %s!",
   "nrc.ui.modules.info.itemPhysicsRotation": "Tilfeldig gir hver gjenstand sin egen faste vinkel, Snurr beholder den vanlige rotasjonen, og Fast peker alle likt.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Når gjenstander lander, snur de seg over på den nærmeste flate siden i stedet for å bli liggende i fallvinkelen.",
-  "nrc.ui.modules.info.itemPhysicsTilt": "Hvor mye gjenstander velter på bakken. 90 legger dem helt flatt, 0 lar dem stå oppreist."
+  "nrc.ui.modules.info.itemPhysicsTilt": "Hvor mye gjenstander velter på bakken. 90 legger dem helt flatt, 0 lar dem stå oppreist.",
+  "nrc.cosmetics.ui.wishlist.browse": "Bla gjennom kosmetikk"
 }

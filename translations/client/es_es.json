@@ -1742,5 +1742,6 @@
   "nrc.cosmetics.ui.gift.toast.received": "¡Has recibido %s!",
   "nrc.ui.modules.info.itemPhysicsRotation": "Aleatorio da a cada objeto su propio ángulo fijo, Girar mantiene la rotación original y Fijo los orienta todos igual.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Al aterrizar, los objetos se giran sobre su cara plana más cercana en vez de quedarse en el ángulo de caída.",
-  "nrc.ui.modules.info.itemPhysicsTilt": "Cuánto se inclinan los objetos en el suelo. 90 los deja totalmente planos, 0 los deja de pie."
+  "nrc.ui.modules.info.itemPhysicsTilt": "Cuánto se inclinan los objetos en el suelo. 90 los deja totalmente planos, 0 los deja de pie.",
+  "nrc.cosmetics.ui.wishlist.browse": "Explorar cosméticos"
 }

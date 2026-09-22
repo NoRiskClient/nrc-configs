@@ -1742,5 +1742,6 @@
   "nrc.cosmetics.ui.gift.toast.received": "Du hast %s erhalten!",
   "nrc.ui.modules.info.itemPhysicsRotation": "Zufällig gibt jedem Item einen eigenen festen Winkel, Drehen behält die Vanilla-Drehung, Fest richtet alle gleich aus.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Items kippen beim Landen auf ihre nächste flache Seite, statt im Fallwinkel liegen zu bleiben.",
-  "nrc.ui.modules.info.itemPhysicsTilt": "Wie weit Items am Boden kippen. 90 legt sie ganz flach, 0 lässt sie aufrecht."
+  "nrc.ui.modules.info.itemPhysicsTilt": "Wie weit Items am Boden kippen. 90 legt sie ganz flach, 0 lässt sie aufrecht.",
+  "nrc.cosmetics.ui.wishlist.browse": "Cosmetics durchstöbern"
 }

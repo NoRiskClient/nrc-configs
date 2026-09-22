@@ -1742,5 +1742,6 @@
   "nrc.cosmetics.ui.gift.toast.received": "Tu as reçu %s !",
   "nrc.ui.modules.info.itemPhysicsRotation": "Aléatoire donne à chaque objet son propre angle fixe, Rotation garde la rotation d'origine, Fixe les oriente tous pareil.",
   "nrc.ui.modules.info.itemPhysicsSettle": "En atterrissant, les objets basculent sur leur face plate la plus proche au lieu de garder leur angle de chute.",
-  "nrc.ui.modules.info.itemPhysicsTilt": "À quel point les objets basculent au sol. 90 les couche complètement, 0 les laisse debout."
+  "nrc.ui.modules.info.itemPhysicsTilt": "À quel point les objets basculent au sol. 90 les couche complètement, 0 les laisse debout.",
+  "nrc.cosmetics.ui.wishlist.browse": "Parcourir les cosmétiques"
 }

@@ -1742,5 +1742,6 @@
   "nrc.cosmetics.ui.gift.toast.received": "%s aldın!",
   "nrc.ui.modules.info.itemPhysicsRotation": "Rastgele her eşyaya kendi sabit açısını verir, Döndür orijinal dönüşü korur, Sabit hepsini aynı yöne çevirir.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Eşyalar yere düşünce düşüş açısında kalmak yerine en yakın düz yüzeylerinin üstüne döner.",
-  "nrc.ui.modules.info.itemPhysicsTilt": "Eşyaların yerde ne kadar yattığı. 90 tamamen düz yatırır, 0 dik bırakır."
+  "nrc.ui.modules.info.itemPhysicsTilt": "Eşyaların yerde ne kadar yattığı. 90 tamamen düz yatırır, 0 dik bırakır.",
+  "nrc.cosmetics.ui.wishlist.browse": "Kozmetiklere göz at"
 }

@@ -1742,5 +1742,6 @@
   "nrc.cosmetics.ui.gift.toast.received": "Otrzymujesz %s!",
   "nrc.ui.modules.info.itemPhysicsRotation": "Losowo nadaje każdemu przedmiotowi własny stały kąt, Obrót zachowuje oryginalne obracanie, a Stały ustawia wszystkie tak samo.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Po wylądowaniu przedmioty obracają się na najbliższą płaską stronę zamiast zostawać pod kątem upadku.",
-  "nrc.ui.modules.info.itemPhysicsTilt": "Jak mocno przedmioty kładą się na ziemi. 90 kładzie je zupełnie płasko, 0 zostawia je pionowo."
+  "nrc.ui.modules.info.itemPhysicsTilt": "Jak mocno przedmioty kładą się na ziemi. 90 kładzie je zupełnie płasko, 0 zostawia je pionowo.",
+  "nrc.cosmetics.ui.wishlist.browse": "Przeglądaj kosmetyki"
 }

@@ -1742,5 +1742,6 @@
   "nrc.cosmetics.ui.gift.toast.received": "Você recebeu %s!",
   "nrc.ui.modules.info.itemPhysicsRotation": "Aleatório dá a cada item um ângulo fixo próprio, Girar mantém a rotação original e Fixo alinha todos igual.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Ao cair no chão, os itens viram para a face plana mais próxima em vez de manter o ângulo da queda.",
-  "nrc.ui.modules.info.itemPhysicsTilt": "O quanto os itens tombam no chão. 90 os deixa totalmente deitados, 0 os deixa em pé."
+  "nrc.ui.modules.info.itemPhysicsTilt": "O quanto os itens tombam no chão. 90 os deixa totalmente deitados, 0 os deixa em pé.",
+  "nrc.cosmetics.ui.wishlist.browse": "Explorar cosméticos"
 }

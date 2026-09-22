@@ -1742,5 +1742,6 @@
   "nrc.cosmetics.ui.gift.toast.received": "आपको %s मिला!",
   "nrc.ui.modules.info.itemPhysicsRotation": "रैंडम हर आइटम को अपना एक तय कोण देता है, स्पिन सामान्य घुमाव बनाए रखता है, और फ़िक्स्ड सबको एक ही दिशा में रखता है।",
   "nrc.ui.modules.info.itemPhysicsSettle": "गिरने पर आइटम अपने सबसे नज़दीकी सपाट हिस्से पर पलट जाते हैं, गिरने वाले कोण पर नहीं रहते।",
-  "nrc.ui.modules.info.itemPhysicsTilt": "आइटम ज़मीन पर कितना झुकते हैं। 90 उन्हें पूरी तरह सपाट रखता है, 0 उन्हें खड़ा रखता है।"
+  "nrc.ui.modules.info.itemPhysicsTilt": "आइटम ज़मीन पर कितना झुकते हैं। 90 उन्हें पूरी तरह सपाट रखता है, 0 उन्हें खड़ा रखता है।",
+  "nrc.cosmetics.ui.wishlist.browse": "कॉस्मेटिक्स देखें"
 }
