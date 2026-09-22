@@ -1725,5 +1725,22 @@
   "nrc.ui.modules.value.textSize": "टेक्स्ट आकार",
   "nrc.ui.modules.value.spawnableColor": "स्पॉन योग्य",
   "nrc.ui.modules.value.nightSpawnableColor": "रात में स्पॉन योग्य",
-  "nrc.ui.modules.value.safeColor": "सुरक्षित"
+  "nrc.ui.modules.value.safeColor": "सुरक्षित",
+  "nrc.cosmetics.ui.wishlist.title": "इच्छा-सूची",
+  "nrc.cosmetics.ui.wishlist.add": "इच्छा-सूची में जोड़ें?",
+  "nrc.cosmetics.ui.wishlist.remove": "इच्छा-सूची से हटाएँ?",
+  "nrc.cosmetics.ui.wishlist.loading": "इच्छा-सूची लोड हो रही है...",
+  "nrc.cosmetics.ui.wishlist.failed": "इच्छा-सूची लोड नहीं हो सकी :(",
+  "nrc.cosmetics.ui.wishlist.empty": "इच्छा-सूची में अभी कुछ नहीं है",
+  "nrc.cosmetics.ui.wishlist.unavailable": "ये आइटम अब उपलब्ध नहीं हैं",
+  "nrc.cosmetics.ui.wishlist.toast.title": "इच्छा-सूची",
+  "nrc.cosmetics.ui.wishlist.toast.added": "आपकी इच्छा-सूची में जोड़ा गया!",
+  "nrc.cosmetics.ui.wishlist.toast.removed": "आपकी इच्छा-सूची से हटाया गया!",
+  "nrc.cosmetics.ui.wishlist.toast.failed": "आपकी इच्छा-सूची अपडेट नहीं हो सकी :(",
+  "nrc.ui.shop.filter.wishlist": "इच्छा-सूची",
+  "nrc.cosmetics.ui.gift.toast.title": "उपहार",
+  "nrc.cosmetics.ui.gift.toast.received": "आपको %s मिला!",
+  "nrc.ui.modules.info.itemPhysicsRotation": "रैंडम हर आइटम को अपना एक तय कोण देता है, स्पिन सामान्य घुमाव बनाए रखता है, और फ़िक्स्ड सबको एक ही दिशा में रखता है।",
+  "nrc.ui.modules.info.itemPhysicsSettle": "गिरने पर आइटम अपने सबसे नज़दीकी सपाट हिस्से पर पलट जाते हैं, गिरने वाले कोण पर नहीं रहते।",
+  "nrc.ui.modules.info.itemPhysicsTilt": "आइटम ज़मीन पर कितना झुकते हैं। 90 उन्हें पूरी तरह सपाट रखता है, 0 उन्हें खड़ा रखता है।"
 }

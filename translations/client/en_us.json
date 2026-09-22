@@ -1725,5 +1725,22 @@
   "nrc.ui.modules.value.textSize": "Text Size",
   "nrc.ui.modules.value.spawnableColor": "Spawnable",
   "nrc.ui.modules.value.nightSpawnableColor": "Spawnable At Night",
-  "nrc.ui.modules.value.safeColor": "Safe"
+  "nrc.ui.modules.value.safeColor": "Safe",
+  "nrc.cosmetics.ui.wishlist.title": "Wishlist",
+  "nrc.cosmetics.ui.wishlist.add": "Add to wishlist?",
+  "nrc.cosmetics.ui.wishlist.remove": "Remove from wishlist?",
+  "nrc.cosmetics.ui.wishlist.loading": "Loading wishlist...",
+  "nrc.cosmetics.ui.wishlist.failed": "Could not load the wishlist :(",
+  "nrc.cosmetics.ui.wishlist.empty": "Nothing on the wishlist yet",
+  "nrc.cosmetics.ui.wishlist.unavailable": "These items are no longer available",
+  "nrc.cosmetics.ui.wishlist.toast.title": "Wishlist",
+  "nrc.cosmetics.ui.wishlist.toast.added": "Added to your wishlist!",
+  "nrc.cosmetics.ui.wishlist.toast.removed": "Removed from your wishlist!",
+  "nrc.cosmetics.ui.wishlist.toast.failed": "Could not update your wishlist :(",
+  "nrc.ui.shop.filter.wishlist": "Wishlist",
+  "nrc.cosmetics.ui.gift.toast.title": "Gift",
+  "nrc.cosmetics.ui.gift.toast.received": "You received %s!",
+  "nrc.ui.modules.info.itemPhysicsRotation": "Random gives every item its own fixed angle, Spin keeps the vanilla rotation, Fixed points them all the same way.",
+  "nrc.ui.modules.info.itemPhysicsSettle": "Items turn onto their nearest flat side when they land instead of keeping the angle they fell at.",
+  "nrc.ui.modules.info.itemPhysicsTilt": "How far items tip over on the ground. 90 lays them completely flat, 0 leaves them upright."
 }

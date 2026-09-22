@@ -1725,5 +1725,22 @@
   "nrc.ui.modules.value.textSize": "Tamanho do texto",
   "nrc.ui.modules.value.spawnableColor": "Spawnável",
   "nrc.ui.modules.value.nightSpawnableColor": "Spawnável à noite",
-  "nrc.ui.modules.value.safeColor": "Seguro"
+  "nrc.ui.modules.value.safeColor": "Seguro",
+  "nrc.cosmetics.ui.wishlist.title": "Lista de desejos",
+  "nrc.cosmetics.ui.wishlist.add": "Adicionar à lista de desejos?",
+  "nrc.cosmetics.ui.wishlist.remove": "Remover da lista de desejos?",
+  "nrc.cosmetics.ui.wishlist.loading": "Carregando a lista de desejos...",
+  "nrc.cosmetics.ui.wishlist.failed": "Não foi possível carregar a lista de desejos :(",
+  "nrc.cosmetics.ui.wishlist.empty": "Ainda não há nada na lista de desejos",
+  "nrc.cosmetics.ui.wishlist.unavailable": "Estes itens não estão mais disponíveis",
+  "nrc.cosmetics.ui.wishlist.toast.title": "Lista de desejos",
+  "nrc.cosmetics.ui.wishlist.toast.added": "Adicionado à sua lista de desejos!",
+  "nrc.cosmetics.ui.wishlist.toast.removed": "Removido da sua lista de desejos!",
+  "nrc.cosmetics.ui.wishlist.toast.failed": "Não foi possível atualizar sua lista de desejos :(",
+  "nrc.ui.shop.filter.wishlist": "Lista de desejos",
+  "nrc.cosmetics.ui.gift.toast.title": "Presente",
+  "nrc.cosmetics.ui.gift.toast.received": "Você recebeu %s!",
+  "nrc.ui.modules.info.itemPhysicsRotation": "Aleatório dá a cada item um ângulo fixo próprio, Girar mantém a rotação original e Fixo alinha todos igual.",
+  "nrc.ui.modules.info.itemPhysicsSettle": "Ao cair no chão, os itens viram para a face plana mais próxima em vez de manter o ângulo da queda.",
+  "nrc.ui.modules.info.itemPhysicsTilt": "O quanto os itens tombam no chão. 90 os deixa totalmente deitados, 0 os deixa em pé."
 }
