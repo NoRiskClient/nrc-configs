@@ -1743,5 +1743,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Aleatorio da a cada objeto su propio ángulo fijo, Girar mantiene la rotación original y Fijo los orienta todos igual.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Al aterrizar, los objetos se giran sobre su cara plana más cercana en vez de quedarse en el ángulo de caída.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Cuánto se inclinan los objetos en el suelo. 90 los deja totalmente planos, 0 los deja de pie.",
-  "nrc.cosmetics.ui.wishlist.browse": "Explorar cosméticos"
+  "nrc.cosmetics.ui.wishlist.browse": "Explorar cosméticos",
+  "nrc.ui.modules.value.shieldStatus": "Estado del Escudo",
+  "nrc.ui.modules.description.shield_status": "Colorea tu escudo según su estado para que veas de un vistazo cuándo está desactivado",
+  "nrc.ui.modules.value.tintReady": "Colorear al estar listo",
+  "nrc.ui.modules.value.readyColor": "Color listo",
+  "nrc.ui.modules.value.tintActive": "Colorear al bloquear",
+  "nrc.ui.modules.value.activeColor": "Color al bloquear",
+  "nrc.ui.modules.value.tintRaising": "Colorear al levantar",
+  "nrc.ui.modules.value.raisingColor": "Color al levantar",
+  "nrc.ui.modules.value.tintDisabled": "Colorear al estar desactivado",
+  "nrc.ui.modules.value.disabledColor": "Color desactivado",
+  "nrc.ui.modules.value.fadeOverCooldown": "Transición durante el enfriamiento",
+  "nrc.ui.modules.info.tintReady": "Colorea el escudo mientras está listo para bloquear.",
+  "nrc.ui.modules.info.tintActive": "Colorea el escudo mientras bloqueas activamente.",
+  "nrc.ui.modules.info.tintRaising": "Colorea el escudo en el breve momento tras levantarlo, antes de que empiece a bloquear.",
+  "nrc.ui.modules.info.tintDisabled": "Colorea el escudo mientras un golpe de hacha lo tiene desactivado.",
+  "nrc.ui.modules.info.fadeOverCooldown": "Pasa del color desactivado al color listo mientras se agota el enfriamiento."
 }

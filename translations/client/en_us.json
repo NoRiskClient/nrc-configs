@@ -1743,5 +1743,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Random gives every item its own fixed angle, Spin keeps the vanilla rotation, Fixed points them all the same way.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Items turn onto their nearest flat side when they land instead of keeping the angle they fell at.",
   "nrc.ui.modules.info.itemPhysicsTilt": "How far items tip over on the ground. 90 lays them completely flat, 0 leaves them upright.",
-  "nrc.cosmetics.ui.wishlist.browse": "Browse cosmetics"
+  "nrc.cosmetics.ui.wishlist.browse": "Browse cosmetics",
+  "nrc.ui.modules.value.shieldStatus": "Shield Status",
+  "nrc.ui.modules.description.shield_status": "Colors your shield by its state so you see at a glance when it is disabled",
+  "nrc.ui.modules.value.tintReady": "Tint When Ready",
+  "nrc.ui.modules.value.readyColor": "Ready Color",
+  "nrc.ui.modules.value.tintActive": "Tint While Blocking",
+  "nrc.ui.modules.value.activeColor": "Blocking Color",
+  "nrc.ui.modules.value.tintRaising": "Tint While Raising",
+  "nrc.ui.modules.value.raisingColor": "Raising Color",
+  "nrc.ui.modules.value.tintDisabled": "Tint When Disabled",
+  "nrc.ui.modules.value.disabledColor": "Disabled Color",
+  "nrc.ui.modules.value.fadeOverCooldown": "Fade Over Cooldown",
+  "nrc.ui.modules.info.tintReady": "Colors the shield while it is ready to block.",
+  "nrc.ui.modules.info.tintActive": "Colors the shield while you are actively blocking.",
+  "nrc.ui.modules.info.tintRaising": "Colors the shield in the short moment after you raise it, before it starts blocking.",
+  "nrc.ui.modules.info.tintDisabled": "Colors the shield while an axe hit has disabled it.",
+  "nrc.ui.modules.info.fadeOverCooldown": "Blends from the disabled color back to the ready color while the cooldown runs out."
 }

@@ -1743,5 +1743,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Aleatório dá a cada item um ângulo fixo próprio, Girar mantém a rotação original e Fixo alinha todos igual.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Ao cair no chão, os itens viram para a face plana mais próxima em vez de manter o ângulo da queda.",
   "nrc.ui.modules.info.itemPhysicsTilt": "O quanto os itens tombam no chão. 90 os deixa totalmente deitados, 0 os deixa em pé.",
-  "nrc.cosmetics.ui.wishlist.browse": "Explorar cosméticos"
+  "nrc.cosmetics.ui.wishlist.browse": "Explorar cosméticos",
+  "nrc.ui.modules.value.shieldStatus": "Status do Escudo",
+  "nrc.ui.modules.description.shield_status": "Colore seu escudo de acordo com o estado para você ver na hora quando ele está desativado",
+  "nrc.ui.modules.value.tintReady": "Colorir quando pronto",
+  "nrc.ui.modules.value.readyColor": "Cor de pronto",
+  "nrc.ui.modules.value.tintActive": "Colorir ao bloquear",
+  "nrc.ui.modules.value.activeColor": "Cor ao bloquear",
+  "nrc.ui.modules.value.tintRaising": "Colorir ao levantar",
+  "nrc.ui.modules.value.raisingColor": "Cor ao levantar",
+  "nrc.ui.modules.value.tintDisabled": "Colorir quando desativado",
+  "nrc.ui.modules.value.disabledColor": "Cor de desativado",
+  "nrc.ui.modules.value.fadeOverCooldown": "Transição durante a recarga",
+  "nrc.ui.modules.info.tintReady": "Colore o escudo enquanto ele está pronto para bloquear.",
+  "nrc.ui.modules.info.tintActive": "Colore o escudo enquanto você está bloqueando.",
+  "nrc.ui.modules.info.tintRaising": "Colore o escudo no breve momento depois de levantá-lo, antes de começar a bloquear.",
+  "nrc.ui.modules.info.tintDisabled": "Colore o escudo enquanto um golpe de machado o mantém desativado.",
+  "nrc.ui.modules.info.fadeOverCooldown": "Passa da cor de desativado de volta para a cor de pronto enquanto a recarga termina."
 }

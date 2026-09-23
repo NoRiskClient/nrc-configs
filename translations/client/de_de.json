@@ -1743,5 +1743,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Zufällig gibt jedem Item einen eigenen festen Winkel, Drehen behält die Vanilla-Drehung, Fest richtet alle gleich aus.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Items kippen beim Landen auf ihre nächste flache Seite, statt im Fallwinkel liegen zu bleiben.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Wie weit Items am Boden kippen. 90 legt sie ganz flach, 0 lässt sie aufrecht.",
-  "nrc.cosmetics.ui.wishlist.browse": "Cosmetics durchstöbern"
+  "nrc.cosmetics.ui.wishlist.browse": "Cosmetics durchstöbern",
+  "nrc.ui.modules.value.shieldStatus": "Schild-Status",
+  "nrc.ui.modules.description.shield_status": "Färbt dein Schild je nach Zustand, damit du sofort siehst, wann es deaktiviert ist",
+  "nrc.ui.modules.value.tintReady": "Färben wenn bereit",
+  "nrc.ui.modules.value.readyColor": "Farbe bereit",
+  "nrc.ui.modules.value.tintActive": "Färben beim Blocken",
+  "nrc.ui.modules.value.activeColor": "Farbe beim Blocken",
+  "nrc.ui.modules.value.tintRaising": "Färben beim Hochheben",
+  "nrc.ui.modules.value.raisingColor": "Farbe beim Hochheben",
+  "nrc.ui.modules.value.tintDisabled": "Färben wenn deaktiviert",
+  "nrc.ui.modules.value.disabledColor": "Farbe deaktiviert",
+  "nrc.ui.modules.value.fadeOverCooldown": "Über Cooldown überblenden",
+  "nrc.ui.modules.info.tintReady": "Färbt das Schild, solange es blockbereit ist.",
+  "nrc.ui.modules.info.tintActive": "Färbt das Schild, während du aktiv blockst.",
+  "nrc.ui.modules.info.tintRaising": "Färbt das Schild im kurzen Moment nach dem Hochheben, bevor es blockt.",
+  "nrc.ui.modules.info.tintDisabled": "Färbt das Schild, solange es durch einen Axttreffer deaktiviert ist.",
+  "nrc.ui.modules.info.fadeOverCooldown": "Blendet von der Deaktiviert-Farbe zurück zur Bereit-Farbe, während der Cooldown abläuft."
 }

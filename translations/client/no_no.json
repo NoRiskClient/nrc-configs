@@ -888,5 +888,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Tilfeldig gir hver gjenstand sin egen faste vinkel, Snurr beholder den vanlige rotasjonen, og Fast peker alle likt.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Når gjenstander lander, snur de seg over på den nærmeste flate siden i stedet for å bli liggende i fallvinkelen.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Hvor mye gjenstander velter på bakken. 90 legger dem helt flatt, 0 lar dem stå oppreist.",
-  "nrc.cosmetics.ui.wishlist.browse": "Bla gjennom kosmetikk"
+  "nrc.cosmetics.ui.wishlist.browse": "Bla gjennom kosmetikk",
+  "nrc.ui.modules.value.shieldStatus": "Skjoldstatus",
+  "nrc.ui.modules.description.shield_status": "Farger skjoldet ditt etter tilstanden, så du ser med en gang når det er deaktivert",
+  "nrc.ui.modules.value.tintReady": "Farg når klart",
+  "nrc.ui.modules.value.readyColor": "Farge klart",
+  "nrc.ui.modules.value.tintActive": "Farg ved blokkering",
+  "nrc.ui.modules.value.activeColor": "Farge ved blokkering",
+  "nrc.ui.modules.value.tintRaising": "Farg ved løfting",
+  "nrc.ui.modules.value.raisingColor": "Farge ved løfting",
+  "nrc.ui.modules.value.tintDisabled": "Farg når deaktivert",
+  "nrc.ui.modules.value.disabledColor": "Farge deaktivert",
+  "nrc.ui.modules.value.fadeOverCooldown": "Overgang under nedkjøling",
+  "nrc.ui.modules.info.tintReady": "Farger skjoldet så lenge det er klart til å blokkere.",
+  "nrc.ui.modules.info.tintActive": "Farger skjoldet mens du blokkerer aktivt.",
+  "nrc.ui.modules.info.tintRaising": "Farger skjoldet i det korte øyeblikket etter at du løfter det, før det begynner å blokkere.",
+  "nrc.ui.modules.info.tintDisabled": "Farger skjoldet så lenge et økseslag har deaktivert det.",
+  "nrc.ui.modules.info.fadeOverCooldown": "Går fra deaktivert-fargen tilbake til klar-fargen mens nedkjølingen løper ut."
 }

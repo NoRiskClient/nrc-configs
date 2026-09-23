@@ -1743,5 +1743,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "रैंडम हर आइटम को अपना एक तय कोण देता है, स्पिन सामान्य घुमाव बनाए रखता है, और फ़िक्स्ड सबको एक ही दिशा में रखता है।",
   "nrc.ui.modules.info.itemPhysicsSettle": "गिरने पर आइटम अपने सबसे नज़दीकी सपाट हिस्से पर पलट जाते हैं, गिरने वाले कोण पर नहीं रहते।",
   "nrc.ui.modules.info.itemPhysicsTilt": "आइटम ज़मीन पर कितना झुकते हैं। 90 उन्हें पूरी तरह सपाट रखता है, 0 उन्हें खड़ा रखता है।",
-  "nrc.cosmetics.ui.wishlist.browse": "कॉस्मेटिक्स देखें"
+  "nrc.cosmetics.ui.wishlist.browse": "कॉस्मेटिक्स देखें",
+  "nrc.ui.modules.value.shieldStatus": "शील्ड स्टेटस",
+  "nrc.ui.modules.description.shield_status": "आपकी शील्ड को उसकी स्थिति के अनुसार रंगता है ताकि आप तुरंत देख सकें कि वह कब निष्क्रिय है",
+  "nrc.ui.modules.value.tintReady": "तैयार होने पर रंगें",
+  "nrc.ui.modules.value.readyColor": "तैयार रंग",
+  "nrc.ui.modules.value.tintActive": "ब्लॉक करते समय रंगें",
+  "nrc.ui.modules.value.activeColor": "ब्लॉक करते समय रंग",
+  "nrc.ui.modules.value.tintRaising": "उठाते समय रंगें",
+  "nrc.ui.modules.value.raisingColor": "उठाते समय रंग",
+  "nrc.ui.modules.value.tintDisabled": "निष्क्रिय होने पर रंगें",
+  "nrc.ui.modules.value.disabledColor": "निष्क्रिय रंग",
+  "nrc.ui.modules.value.fadeOverCooldown": "कूलडाउन के दौरान बदलें",
+  "nrc.ui.modules.info.tintReady": "शील्ड को तब तक रंगता है जब तक वह ब्लॉक करने के लिए तैयार है।",
+  "nrc.ui.modules.info.tintActive": "जब आप सक्रिय रूप से ब्लॉक कर रहे हों तब शील्ड को रंगता है।",
+  "nrc.ui.modules.info.tintRaising": "शील्ड उठाने के बाद, ब्लॉक शुरू होने से पहले के छोटे पल में उसे रंगता है।",
+  "nrc.ui.modules.info.tintDisabled": "जब कुल्हाड़ी के वार से शील्ड निष्क्रिय हो तब उसे रंगता है।",
+  "nrc.ui.modules.info.fadeOverCooldown": "कूलडाउन खत्म होते समय निष्क्रिय रंग से वापस तैयार रंग में बदलता है।"
 }

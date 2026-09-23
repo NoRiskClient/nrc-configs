@@ -1743,5 +1743,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Aléatoire donne à chaque objet son propre angle fixe, Rotation garde la rotation d'origine, Fixe les oriente tous pareil.",
   "nrc.ui.modules.info.itemPhysicsSettle": "En atterrissant, les objets basculent sur leur face plate la plus proche au lieu de garder leur angle de chute.",
   "nrc.ui.modules.info.itemPhysicsTilt": "À quel point les objets basculent au sol. 90 les couche complètement, 0 les laisse debout.",
-  "nrc.cosmetics.ui.wishlist.browse": "Parcourir les cosmétiques"
+  "nrc.cosmetics.ui.wishlist.browse": "Parcourir les cosmétiques",
+  "nrc.ui.modules.value.shieldStatus": "Statut du Bouclier",
+  "nrc.ui.modules.description.shield_status": "Colore ton bouclier selon son état pour voir d'un coup d'œil quand il est désactivé",
+  "nrc.ui.modules.value.tintReady": "Colorer quand prêt",
+  "nrc.ui.modules.value.readyColor": "Couleur prêt",
+  "nrc.ui.modules.value.tintActive": "Colorer en bloquant",
+  "nrc.ui.modules.value.activeColor": "Couleur en bloquant",
+  "nrc.ui.modules.value.tintRaising": "Colorer en levant",
+  "nrc.ui.modules.value.raisingColor": "Couleur en levant",
+  "nrc.ui.modules.value.tintDisabled": "Colorer quand désactivé",
+  "nrc.ui.modules.value.disabledColor": "Couleur désactivé",
+  "nrc.ui.modules.value.fadeOverCooldown": "Transition pendant le délai",
+  "nrc.ui.modules.info.tintReady": "Colore le bouclier tant qu'il est prêt à bloquer.",
+  "nrc.ui.modules.info.tintActive": "Colore le bouclier pendant que tu bloques activement.",
+  "nrc.ui.modules.info.tintRaising": "Colore le bouclier pendant le court instant après l'avoir levé, avant qu'il ne bloque.",
+  "nrc.ui.modules.info.tintDisabled": "Colore le bouclier tant qu'un coup de hache l'a désactivé.",
+  "nrc.ui.modules.info.fadeOverCooldown": "Passe de la couleur désactivé à la couleur prêt pendant que le délai s'écoule."
 }

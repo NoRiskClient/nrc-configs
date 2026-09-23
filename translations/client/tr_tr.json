@@ -1743,5 +1743,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Rastgele her eşyaya kendi sabit açısını verir, Döndür orijinal dönüşü korur, Sabit hepsini aynı yöne çevirir.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Eşyalar yere düşünce düşüş açısında kalmak yerine en yakın düz yüzeylerinin üstüne döner.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Eşyaların yerde ne kadar yattığı. 90 tamamen düz yatırır, 0 dik bırakır.",
-  "nrc.cosmetics.ui.wishlist.browse": "Kozmetiklere göz at"
+  "nrc.cosmetics.ui.wishlist.browse": "Kozmetiklere göz at",
+  "nrc.ui.modules.value.shieldStatus": "Kalkan Durumu",
+  "nrc.ui.modules.description.shield_status": "Kalkanını durumuna göre renklendirir, böylece devre dışı olduğunu anında görürsün",
+  "nrc.ui.modules.value.tintReady": "Hazırken renklendir",
+  "nrc.ui.modules.value.readyColor": "Hazır rengi",
+  "nrc.ui.modules.value.tintActive": "Bloklarken renklendir",
+  "nrc.ui.modules.value.activeColor": "Bloklama rengi",
+  "nrc.ui.modules.value.tintRaising": "Kaldırırken renklendir",
+  "nrc.ui.modules.value.raisingColor": "Kaldırma rengi",
+  "nrc.ui.modules.value.tintDisabled": "Devre dışıyken renklendir",
+  "nrc.ui.modules.value.disabledColor": "Devre dışı rengi",
+  "nrc.ui.modules.value.fadeOverCooldown": "Bekleme süresince geçiş",
+  "nrc.ui.modules.info.tintReady": "Kalkan bloklamaya hazır olduğu sürece onu renklendirir.",
+  "nrc.ui.modules.info.tintActive": "Aktif olarak bloklarken kalkanı renklendirir.",
+  "nrc.ui.modules.info.tintRaising": "Kalkanı kaldırdıktan sonra, bloklamaya başlamadan önceki kısa anda renklendirir.",
+  "nrc.ui.modules.info.tintDisabled": "Bir balta darbesi kalkanı devre dışı bıraktığı sürece onu renklendirir.",
+  "nrc.ui.modules.info.fadeOverCooldown": "Bekleme süresi dolarken devre dışı renginden hazır rengine geri geçer."
 }

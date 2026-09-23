@@ -1743,5 +1743,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Casuale dà a ogni oggetto un angolo fisso proprio, Rotazione mantiene quella originale, Fisso li orienta tutti allo stesso modo.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Atterrando, gli oggetti si girano sulla faccia piatta più vicina invece di restare nell'angolo di caduta.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Quanto si inclinano gli oggetti a terra. 90 li stende del tutto, 0 li lascia in piedi.",
-  "nrc.cosmetics.ui.wishlist.browse": "Sfoglia i cosmetici"
+  "nrc.cosmetics.ui.wishlist.browse": "Sfoglia i cosmetici",
+  "nrc.ui.modules.value.shieldStatus": "Stato dello Scudo",
+  "nrc.ui.modules.description.shield_status": "Colora il tuo scudo in base al suo stato, così vedi subito quando è disattivato",
+  "nrc.ui.modules.value.tintReady": "Colora quando pronto",
+  "nrc.ui.modules.value.readyColor": "Colore pronto",
+  "nrc.ui.modules.value.tintActive": "Colora mentre blocchi",
+  "nrc.ui.modules.value.activeColor": "Colore mentre blocchi",
+  "nrc.ui.modules.value.tintRaising": "Colora mentre alzi",
+  "nrc.ui.modules.value.raisingColor": "Colore mentre alzi",
+  "nrc.ui.modules.value.tintDisabled": "Colora quando disattivato",
+  "nrc.ui.modules.value.disabledColor": "Colore disattivato",
+  "nrc.ui.modules.value.fadeOverCooldown": "Sfuma durante il cooldown",
+  "nrc.ui.modules.info.tintReady": "Colora lo scudo finché è pronto a bloccare.",
+  "nrc.ui.modules.info.tintActive": "Colora lo scudo mentre stai bloccando.",
+  "nrc.ui.modules.info.tintRaising": "Colora lo scudo nel breve momento dopo averlo alzato, prima che inizi a bloccare.",
+  "nrc.ui.modules.info.tintDisabled": "Colora lo scudo mentre un colpo d'ascia lo tiene disattivato.",
+  "nrc.ui.modules.info.fadeOverCooldown": "Sfuma dal colore disattivato al colore pronto mentre il cooldown scade."
 }

@@ -1743,5 +1743,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Случайно задаёт каждому предмету свой постоянный угол, Вращение сохраняет обычное вращение, Фиксировано разворачивает все одинаково.",
   "nrc.ui.modules.info.itemPhysicsSettle": "При падении предметы ложатся на ближайшую плоскую сторону, а не остаются под углом падения.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Насколько предметы заваливаются на земле. 90 кладёт их совсем плашмя, 0 оставляет стоймя.",
-  "nrc.cosmetics.ui.wishlist.browse": "Смотреть косметику"
+  "nrc.cosmetics.ui.wishlist.browse": "Смотреть косметику",
+  "nrc.ui.modules.value.shieldStatus": "Статус щита",
+  "nrc.ui.modules.description.shield_status": "Окрашивает щит в зависимости от состояния, чтобы сразу было видно, когда он отключён",
+  "nrc.ui.modules.value.tintReady": "Окрашивать, когда готов",
+  "nrc.ui.modules.value.readyColor": "Цвет готовности",
+  "nrc.ui.modules.value.tintActive": "Окрашивать при блокировании",
+  "nrc.ui.modules.value.activeColor": "Цвет блокирования",
+  "nrc.ui.modules.value.tintRaising": "Окрашивать при поднятии",
+  "nrc.ui.modules.value.raisingColor": "Цвет поднятия",
+  "nrc.ui.modules.value.tintDisabled": "Окрашивать, когда отключён",
+  "nrc.ui.modules.value.disabledColor": "Цвет отключения",
+  "nrc.ui.modules.value.fadeOverCooldown": "Переход во время перезарядки",
+  "nrc.ui.modules.info.tintReady": "Окрашивает щит, пока он готов блокировать.",
+  "nrc.ui.modules.info.tintActive": "Окрашивает щит, пока ты активно блокируешь.",
+  "nrc.ui.modules.info.tintRaising": "Окрашивает щит в короткий момент после поднятия, пока он ещё не начал блокировать.",
+  "nrc.ui.modules.info.tintDisabled": "Окрашивает щит, пока удар топором держит его отключённым.",
+  "nrc.ui.modules.info.fadeOverCooldown": "Плавно переходит от цвета отключения к цвету готовности, пока идёт перезарядка."
 }

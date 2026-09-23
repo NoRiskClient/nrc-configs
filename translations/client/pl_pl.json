@@ -1743,5 +1743,21 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Losowo nadaje każdemu przedmiotowi własny stały kąt, Obrót zachowuje oryginalne obracanie, a Stały ustawia wszystkie tak samo.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Po wylądowaniu przedmioty obracają się na najbliższą płaską stronę zamiast zostawać pod kątem upadku.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Jak mocno przedmioty kładą się na ziemi. 90 kładzie je zupełnie płasko, 0 zostawia je pionowo.",
-  "nrc.cosmetics.ui.wishlist.browse": "Przeglądaj kosmetyki"
+  "nrc.cosmetics.ui.wishlist.browse": "Przeglądaj kosmetyki",
+  "nrc.ui.modules.value.shieldStatus": "Status Tarczy",
+  "nrc.ui.modules.description.shield_status": "Koloruje twoją tarczę według jej stanu, żebyś od razu widział, kiedy jest wyłączona",
+  "nrc.ui.modules.value.tintReady": "Koloruj gdy gotowa",
+  "nrc.ui.modules.value.readyColor": "Kolor gotowości",
+  "nrc.ui.modules.value.tintActive": "Koloruj podczas blokowania",
+  "nrc.ui.modules.value.activeColor": "Kolor blokowania",
+  "nrc.ui.modules.value.tintRaising": "Koloruj podczas unoszenia",
+  "nrc.ui.modules.value.raisingColor": "Kolor unoszenia",
+  "nrc.ui.modules.value.tintDisabled": "Koloruj gdy wyłączona",
+  "nrc.ui.modules.value.disabledColor": "Kolor wyłączenia",
+  "nrc.ui.modules.value.fadeOverCooldown": "Przejście podczas odnowienia",
+  "nrc.ui.modules.info.tintReady": "Koloruje tarczę, dopóki jest gotowa do blokowania.",
+  "nrc.ui.modules.info.tintActive": "Koloruje tarczę, gdy aktywnie blokujesz.",
+  "nrc.ui.modules.info.tintRaising": "Koloruje tarczę w krótkiej chwili po jej uniesieniu, zanim zacznie blokować.",
+  "nrc.ui.modules.info.tintDisabled": "Koloruje tarczę, dopóki cios toporem ją wyłącza.",
+  "nrc.ui.modules.info.fadeOverCooldown": "Przechodzi od koloru wyłączenia z powrotem do koloru gotowości, gdy odnowienie się kończy."
 }
