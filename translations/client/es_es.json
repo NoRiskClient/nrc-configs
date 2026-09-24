@@ -1759,5 +1759,13 @@
   "nrc.ui.modules.info.tintActive": "Colorea el escudo mientras bloqueas activamente.",
   "nrc.ui.modules.info.tintRaising": "Colorea el escudo en el breve momento tras levantarlo, antes de que empiece a bloquear.",
   "nrc.ui.modules.info.tintDisabled": "Colorea el escudo mientras un golpe de hacha lo tiene desactivado.",
-  "nrc.ui.modules.info.fadeOverCooldown": "Pasa del color desactivado al color listo mientras se agota el enfriamiento."
+  "nrc.ui.modules.info.fadeOverCooldown": "Pasa del color desactivado al color listo mientras se agota el enfriamiento.",
+  "nrc.ui.modules.value.hideArmor": "Ocultar Armadura",
+  "nrc.ui.modules.description.hide_armor": "Oculta o atenúa la armadura pieza por pieza en tu jugador o en todos",
+  "nrc.ui.modules.value.scope": "Se aplica a",
+  "nrc.ui.modules.value.helmetOpacity": "Casco",
+  "nrc.ui.modules.value.chestplateOpacity": "Peto",
+  "nrc.ui.modules.value.leggingsOpacity": "Grebas",
+  "nrc.ui.modules.value.bootsOpacity": "Botas",
+  "nrc.ui.modules.info.hideArmorOpacity": "0% oculta la pieza por completo, 100% la muestra normal. Cualquier valor intermedio la hace transparente."
 }

@@ -1759,5 +1759,13 @@
   "nrc.ui.modules.info.tintActive": "Окрашивает щит, пока ты активно блокируешь.",
   "nrc.ui.modules.info.tintRaising": "Окрашивает щит в короткий момент после поднятия, пока он ещё не начал блокировать.",
   "nrc.ui.modules.info.tintDisabled": "Окрашивает щит, пока удар топором держит его отключённым.",
-  "nrc.ui.modules.info.fadeOverCooldown": "Плавно переходит от цвета отключения к цвету готовности, пока идёт перезарядка."
+  "nrc.ui.modules.info.fadeOverCooldown": "Плавно переходит от цвета отключения к цвету готовности, пока идёт перезарядка.",
+  "nrc.ui.modules.value.hideArmor": "Скрыть броню",
+  "nrc.ui.modules.description.hide_armor": "Скрывает или делает прозрачной броню по частям на тебе или на всех",
+  "nrc.ui.modules.value.scope": "Применяется к",
+  "nrc.ui.modules.value.helmetOpacity": "Шлем",
+  "nrc.ui.modules.value.chestplateOpacity": "Нагрудник",
+  "nrc.ui.modules.value.leggingsOpacity": "Поножи",
+  "nrc.ui.modules.value.bootsOpacity": "Ботинки",
+  "nrc.ui.modules.info.hideArmorOpacity": "0% полностью скрывает элемент, 100% показывает его как обычно. Любое значение между делает его прозрачным."
 }

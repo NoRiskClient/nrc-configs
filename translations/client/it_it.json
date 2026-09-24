@@ -1759,5 +1759,13 @@
   "nrc.ui.modules.info.tintActive": "Colora lo scudo mentre stai bloccando.",
   "nrc.ui.modules.info.tintRaising": "Colora lo scudo nel breve momento dopo averlo alzato, prima che inizi a bloccare.",
   "nrc.ui.modules.info.tintDisabled": "Colora lo scudo mentre un colpo d'ascia lo tiene disattivato.",
-  "nrc.ui.modules.info.fadeOverCooldown": "Sfuma dal colore disattivato al colore pronto mentre il cooldown scade."
+  "nrc.ui.modules.info.fadeOverCooldown": "Sfuma dal colore disattivato al colore pronto mentre il cooldown scade.",
+  "nrc.ui.modules.value.hideArmor": "Nascondi Armatura",
+  "nrc.ui.modules.description.hide_armor": "Nasconde o sfuma l'armatura pezzo per pezzo sul tuo giocatore o su tutti",
+  "nrc.ui.modules.value.scope": "Si applica a",
+  "nrc.ui.modules.value.helmetOpacity": "Elmo",
+  "nrc.ui.modules.value.chestplateOpacity": "Corazza",
+  "nrc.ui.modules.value.leggingsOpacity": "Gambali",
+  "nrc.ui.modules.value.bootsOpacity": "Stivali",
+  "nrc.ui.modules.info.hideArmorOpacity": "0% nasconde il pezzo del tutto, 100% lo mostra normalmente. Qualsiasi valore intermedio lo rende trasparente."
 }

@@ -904,5 +904,13 @@
   "nrc.ui.modules.info.tintActive": "Farger skjoldet mens du blokkerer aktivt.",
   "nrc.ui.modules.info.tintRaising": "Farger skjoldet i det korte øyeblikket etter at du løfter det, før det begynner å blokkere.",
   "nrc.ui.modules.info.tintDisabled": "Farger skjoldet så lenge et økseslag har deaktivert det.",
-  "nrc.ui.modules.info.fadeOverCooldown": "Går fra deaktivert-fargen tilbake til klar-fargen mens nedkjølingen løper ut."
+  "nrc.ui.modules.info.fadeOverCooldown": "Går fra deaktivert-fargen tilbake til klar-fargen mens nedkjølingen løper ut.",
+  "nrc.ui.modules.value.hideArmor": "Skjul Rustning",
+  "nrc.ui.modules.description.hide_armor": "Skjuler eller toner ned rustning del for del på din spiller eller på alle",
+  "nrc.ui.modules.value.scope": "Gjelder for",
+  "nrc.ui.modules.value.helmetOpacity": "Hjelm",
+  "nrc.ui.modules.value.chestplateOpacity": "Brystplate",
+  "nrc.ui.modules.value.leggingsOpacity": "Bukser",
+  "nrc.ui.modules.value.bootsOpacity": "Støvler",
+  "nrc.ui.modules.info.hideArmorOpacity": "0 % skjuler delen helt, 100 % viser den normalt. Alt imellom gjør den gjennomsiktig."
 }

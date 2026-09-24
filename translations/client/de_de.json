@@ -1759,5 +1759,13 @@
   "nrc.ui.modules.info.tintActive": "Färbt das Schild, während du aktiv blockst.",
   "nrc.ui.modules.info.tintRaising": "Färbt das Schild im kurzen Moment nach dem Hochheben, bevor es blockt.",
   "nrc.ui.modules.info.tintDisabled": "Färbt das Schild, solange es durch einen Axttreffer deaktiviert ist.",
-  "nrc.ui.modules.info.fadeOverCooldown": "Blendet von der Deaktiviert-Farbe zurück zur Bereit-Farbe, während der Cooldown abläuft."
+  "nrc.ui.modules.info.fadeOverCooldown": "Blendet von der Deaktiviert-Farbe zurück zur Bereit-Farbe, während der Cooldown abläuft.",
+  "nrc.ui.modules.value.hideArmor": "Rüstung ausblenden",
+  "nrc.ui.modules.description.hide_armor": "Blendet Rüstung Stück für Stück aus oder macht sie durchsichtig, bei dir oder bei allen",
+  "nrc.ui.modules.value.scope": "Gilt für",
+  "nrc.ui.modules.value.helmetOpacity": "Helm",
+  "nrc.ui.modules.value.chestplateOpacity": "Brustplatte",
+  "nrc.ui.modules.value.leggingsOpacity": "Hose",
+  "nrc.ui.modules.value.bootsOpacity": "Schuhe",
+  "nrc.ui.modules.info.hideArmorOpacity": "0 % blendet das Teil komplett aus, 100 % zeigt es normal. Alles dazwischen macht es durchsichtig."
 }

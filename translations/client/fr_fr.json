@@ -1759,5 +1759,13 @@
   "nrc.ui.modules.info.tintActive": "Colore le bouclier pendant que tu bloques activement.",
   "nrc.ui.modules.info.tintRaising": "Colore le bouclier pendant le court instant après l'avoir levé, avant qu'il ne bloque.",
   "nrc.ui.modules.info.tintDisabled": "Colore le bouclier tant qu'un coup de hache l'a désactivé.",
-  "nrc.ui.modules.info.fadeOverCooldown": "Passe de la couleur désactivé à la couleur prêt pendant que le délai s'écoule."
+  "nrc.ui.modules.info.fadeOverCooldown": "Passe de la couleur désactivé à la couleur prêt pendant que le délai s'écoule.",
+  "nrc.ui.modules.value.hideArmor": "Masquer l'Armure",
+  "nrc.ui.modules.description.hide_armor": "Masque ou estompe l'armure pièce par pièce sur ton joueur ou sur tout le monde",
+  "nrc.ui.modules.value.scope": "S'applique à",
+  "nrc.ui.modules.value.helmetOpacity": "Casque",
+  "nrc.ui.modules.value.chestplateOpacity": "Plastron",
+  "nrc.ui.modules.value.leggingsOpacity": "Jambières",
+  "nrc.ui.modules.value.bootsOpacity": "Bottes",
+  "nrc.ui.modules.info.hideArmorOpacity": "0 % masque complètement la pièce, 100 % l'affiche normalement. Entre les deux, elle devient transparente."
 }

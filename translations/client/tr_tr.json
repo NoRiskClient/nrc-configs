@@ -1759,5 +1759,13 @@
   "nrc.ui.modules.info.tintActive": "Aktif olarak bloklarken kalkanı renklendirir.",
   "nrc.ui.modules.info.tintRaising": "Kalkanı kaldırdıktan sonra, bloklamaya başlamadan önceki kısa anda renklendirir.",
   "nrc.ui.modules.info.tintDisabled": "Bir balta darbesi kalkanı devre dışı bıraktığı sürece onu renklendirir.",
-  "nrc.ui.modules.info.fadeOverCooldown": "Bekleme süresi dolarken devre dışı renginden hazır rengine geri geçer."
+  "nrc.ui.modules.info.fadeOverCooldown": "Bekleme süresi dolarken devre dışı renginden hazır rengine geri geçer.",
+  "nrc.ui.modules.value.hideArmor": "Zırhı Gizle",
+  "nrc.ui.modules.description.hide_armor": "Zırhı parça parça kendi oyuncunda veya herkeste gizler ya da soldurur",
+  "nrc.ui.modules.value.scope": "Uygulandığı",
+  "nrc.ui.modules.value.helmetOpacity": "Kask",
+  "nrc.ui.modules.value.chestplateOpacity": "Göğüslük",
+  "nrc.ui.modules.value.leggingsOpacity": "Pantolon",
+  "nrc.ui.modules.value.bootsOpacity": "Botlar",
+  "nrc.ui.modules.info.hideArmorOpacity": "%0 parçayı tamamen gizler, %100 normal gösterir. Aradaki her değer onu yarı saydam yapar."
 }
