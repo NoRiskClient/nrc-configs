@@ -1743,5 +1743,15 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Случайно задаёт каждому предмету свой постоянный угол, Вращение сохраняет обычное вращение, Фиксировано разворачивает все одинаково.",
   "nrc.ui.modules.info.itemPhysicsSettle": "При падении предметы ложатся на ближайшую плоскую сторону, а не остаются под углом падения.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Насколько предметы заваливаются на земле. 90 кладёт их совсем плашмя, 0 оставляет стоймя.",
-  "nrc.cosmetics.ui.wishlist.browse": "Смотреть косметику"
+  "nrc.cosmetics.ui.wishlist.browse": "Смотреть косметику",
+  "nrc.ui.modules.info.crosshairProfiles": "Можно настроить три прицела. Клиент сам переключается между ними в зависимости от того, куда ты целишься.",
+  "nrc.ui.modules.crosshair.usage.default": "Показывается, когда ты ни во что не целишься или целишься в блок.",
+  "nrc.ui.modules.crosshair.usage.enemy": "Показывается, когда ты целишься в игрока или враждебного моба.",
+  "nrc.ui.modules.crosshair.usage.friendly": "Показывается, когда ты целишься в животное или другого мирного моба.",
+  "nrc.ui.modules.info.crosshairInverted": "Инвертирует то, что находится за прицелом, чтобы он был виден на любом фоне. Выбранные цвета игнорируются.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Масштабирует индикатор перезарядки атаки под прицелом вместе с ним.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Показывает прицел и от третьего лица (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Цвет плавно переливается всеми цветами радуги.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Даёт точке в центре собственный цвет вместо цвета линий.",
+  "nrc.ui.modules.info.crosshairShareCode": "Копировать сохраняет этот профиль в буфер обмена в виде короткого кода. Вставить загружает полученный код в текущий профиль."
 }

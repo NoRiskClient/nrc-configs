@@ -888,5 +888,15 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Tilfeldig gir hver gjenstand sin egen faste vinkel, Snurr beholder den vanlige rotasjonen, og Fast peker alle likt.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Når gjenstander lander, snur de seg over på den nærmeste flate siden i stedet for å bli liggende i fallvinkelen.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Hvor mye gjenstander velter på bakken. 90 legger dem helt flatt, 0 lar dem stå oppreist.",
-  "nrc.cosmetics.ui.wishlist.browse": "Bla gjennom kosmetikk"
+  "nrc.cosmetics.ui.wishlist.browse": "Bla gjennom kosmetikk",
+  "nrc.ui.modules.info.crosshairProfiles": "Du kan sette opp tre siktepunkter. Klienten bytter automatisk mellom dem ut fra hva du sikter på.",
+  "nrc.ui.modules.crosshair.usage.default": "Vises når du ikke sikter på noe eller sikter på en blokk.",
+  "nrc.ui.modules.crosshair.usage.enemy": "Vises når du sikter på en spiller eller en fiendtlig mob.",
+  "nrc.ui.modules.crosshair.usage.friendly": "Vises når du sikter på et dyr eller en annen fredelig mob.",
+  "nrc.ui.modules.info.crosshairInverted": "Inverterer det som er bak siktepunktet så det synes på enhver bakgrunn. De valgte fargene ignoreres.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Skalerer angrepsnedkjølingsindikatoren under siktepunktet sammen med det.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Viser også siktepunktet i tredjeperson (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Lar fargen gå gjennom regnbuen.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Gir midtpunktet sin egen farge i stedet for strekfargen.",
+  "nrc.ui.modules.info.crosshairShareCode": "Kopier legger denne profilen i utklippstavlen som en kort kode. Lim inn laster en kode du har fått inn i gjeldende profil."
 }

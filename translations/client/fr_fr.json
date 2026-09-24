@@ -1743,5 +1743,15 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Aléatoire donne à chaque objet son propre angle fixe, Rotation garde la rotation d'origine, Fixe les oriente tous pareil.",
   "nrc.ui.modules.info.itemPhysicsSettle": "En atterrissant, les objets basculent sur leur face plate la plus proche au lieu de garder leur angle de chute.",
   "nrc.ui.modules.info.itemPhysicsTilt": "À quel point les objets basculent au sol. 90 les couche complètement, 0 les laisse debout.",
-  "nrc.cosmetics.ui.wishlist.browse": "Parcourir les cosmétiques"
+  "nrc.cosmetics.ui.wishlist.browse": "Parcourir les cosmétiques",
+  "nrc.ui.modules.info.crosshairProfiles": "Tu peux configurer trois viseurs. Le client passe automatiquement de l'un à l'autre selon ce que tu vises.",
+  "nrc.ui.modules.crosshair.usage.default": "Affiché quand tu ne vises rien ou que tu vises un bloc.",
+  "nrc.ui.modules.crosshair.usage.enemy": "Affiché quand tu vises un joueur ou un mob hostile.",
+  "nrc.ui.modules.crosshair.usage.friendly": "Affiché quand tu vises un animal ou un autre mob pacifique.",
+  "nrc.ui.modules.info.crosshairInverted": "Inverse ce qui se trouve derrière le viseur pour qu'il reste visible sur n'importe quel fond. Les couleurs choisies sont ignorées.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Met à l'échelle l'indicateur de recharge d'attaque sous le viseur en même temps que lui.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Affiche aussi le viseur à la troisième personne (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Fait défiler la couleur à travers l'arc-en-ciel.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Donne au point central sa propre couleur au lieu de celle des traits.",
+  "nrc.ui.modules.info.crosshairShareCode": "Copier place ce profil dans le presse-papiers sous forme de code court. Coller charge un code reçu dans le profil actuel."
 }

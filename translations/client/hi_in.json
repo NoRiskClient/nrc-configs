@@ -1743,5 +1743,15 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "रैंडम हर आइटम को अपना एक तय कोण देता है, स्पिन सामान्य घुमाव बनाए रखता है, और फ़िक्स्ड सबको एक ही दिशा में रखता है।",
   "nrc.ui.modules.info.itemPhysicsSettle": "गिरने पर आइटम अपने सबसे नज़दीकी सपाट हिस्से पर पलट जाते हैं, गिरने वाले कोण पर नहीं रहते।",
   "nrc.ui.modules.info.itemPhysicsTilt": "आइटम ज़मीन पर कितना झुकते हैं। 90 उन्हें पूरी तरह सपाट रखता है, 0 उन्हें खड़ा रखता है।",
-  "nrc.cosmetics.ui.wishlist.browse": "कॉस्मेटिक्स देखें"
+  "nrc.cosmetics.ui.wishlist.browse": "कॉस्मेटिक्स देखें",
+  "nrc.ui.modules.info.crosshairProfiles": "आप तीन क्रॉसहेयर सेट कर सकते हैं। आप किस पर निशाना लगा रहे हैं, उसके हिसाब से क्लाइंट अपने आप उनके बीच बदलता है।",
+  "nrc.ui.modules.crosshair.usage.default": "तब दिखता है जब आप किसी चीज़ पर निशाना नहीं लगा रहे हों या किसी ब्लॉक पर निशाना लगा रहे हों।",
+  "nrc.ui.modules.crosshair.usage.enemy": "तब दिखता है जब आप किसी खिलाड़ी या शत्रुतापूर्ण मॉब पर निशाना लगा रहे हों।",
+  "nrc.ui.modules.crosshair.usage.friendly": "तब दिखता है जब आप किसी जानवर या दूसरे शांत मॉब पर निशाना लगा रहे हों।",
+  "nrc.ui.modules.info.crosshairInverted": "क्रॉसहेयर के पीछे की चीज़ों के रंग उलट देता है ताकि यह हर बैकग्राउंड पर दिखे। चुने गए रंग अनदेखे किए जाते हैं।",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "क्रॉसहेयर के नीचे वाले अटैक कूलडाउन इंडिकेटर को भी उसके साथ स्केल करता है।",
+  "nrc.ui.modules.info.crosshairThirdPerson": "थर्ड पर्सन (F5) में भी क्रॉसहेयर दिखाता है।",
+  "nrc.ui.modules.info.crosshairChromatic": "रंग को इंद्रधनुष के रंगों में बदलता रहता है।",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "बीच वाले डॉट को स्ट्रोक के रंग की जगह उसका अपना रंग देता है।",
+  "nrc.ui.modules.info.crosshairShareCode": "कॉपी इस प्रोफ़ाइल को एक छोटे कोड के रूप में क्लिपबोर्ड पर रखता है। पेस्ट मिले हुए कोड को मौजूदा प्रोफ़ाइल में लोड करता है।"
 }

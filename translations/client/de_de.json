@@ -1743,5 +1743,15 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Zufällig gibt jedem Item einen eigenen festen Winkel, Drehen behält die Vanilla-Drehung, Fest richtet alle gleich aus.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Items kippen beim Landen auf ihre nächste flache Seite, statt im Fallwinkel liegen zu bleiben.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Wie weit Items am Boden kippen. 90 legt sie ganz flach, 0 lässt sie aufrecht.",
-  "nrc.cosmetics.ui.wishlist.browse": "Cosmetics durchstöbern"
+  "nrc.cosmetics.ui.wishlist.browse": "Cosmetics durchstöbern",
+  "nrc.ui.modules.info.crosshairProfiles": "Du kannst drei Fadenkreuze einrichten. Der Client wechselt automatisch zwischen ihnen, je nachdem worauf du zielst.",
+  "nrc.ui.modules.crosshair.usage.default": "Wird angezeigt, wenn du auf nichts oder auf einen Block zielst.",
+  "nrc.ui.modules.crosshair.usage.enemy": "Wird angezeigt, wenn du auf einen Spieler oder einen feindlichen Mob zielst.",
+  "nrc.ui.modules.crosshair.usage.friendly": "Wird angezeigt, wenn du auf ein Tier oder einen anderen friedlichen Mob zielst.",
+  "nrc.ui.modules.info.crosshairInverted": "Invertiert alles hinter dem Fadenkreuz, damit es auf jedem Hintergrund sichtbar bleibt. Die gewählten Farben werden ignoriert.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Skaliert die Angriffs-Abklinganzeige unter dem Fadenkreuz mit.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Zeigt das Fadenkreuz auch in der Third-Person-Ansicht (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Lässt die Farbe durch den Regenbogen laufen.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Gibt dem Punkt in der Mitte eine eigene Farbe statt der Strichfarbe.",
+  "nrc.ui.modules.info.crosshairShareCode": "Kopieren legt dieses Profil als kurzen Code in deine Zwischenablage. Einfügen lädt einen erhaltenen Code in das aktuelle Profil."
 }

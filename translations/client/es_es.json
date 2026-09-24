@@ -1743,5 +1743,15 @@
   "nrc.ui.modules.info.itemPhysicsRotation": "Aleatorio da a cada objeto su propio ángulo fijo, Girar mantiene la rotación original y Fijo los orienta todos igual.",
   "nrc.ui.modules.info.itemPhysicsSettle": "Al aterrizar, los objetos se giran sobre su cara plana más cercana en vez de quedarse en el ángulo de caída.",
   "nrc.ui.modules.info.itemPhysicsTilt": "Cuánto se inclinan los objetos en el suelo. 90 los deja totalmente planos, 0 los deja de pie.",
-  "nrc.cosmetics.ui.wishlist.browse": "Explorar cosméticos"
+  "nrc.cosmetics.ui.wishlist.browse": "Explorar cosméticos",
+  "nrc.ui.modules.info.crosshairProfiles": "Puedes configurar tres puntos de mira. El cliente cambia entre ellos automáticamente según a qué apuntes.",
+  "nrc.ui.modules.crosshair.usage.default": "Se muestra cuando no apuntas a nada o apuntas a un bloque.",
+  "nrc.ui.modules.crosshair.usage.enemy": "Se muestra cuando apuntas a un jugador o a un mob hostil.",
+  "nrc.ui.modules.crosshair.usage.friendly": "Se muestra cuando apuntas a un animal u otro mob pacífico.",
+  "nrc.ui.modules.info.crosshairInverted": "Invierte lo que hay detrás del punto de mira para que se vea sobre cualquier fondo. Los colores elegidos se ignoran.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Escala el indicador de recarga de ataque bajo el punto de mira junto con él.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "También muestra el punto de mira en tercera persona (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Hace que el color recorra el arcoíris.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Da al punto central su propio color en lugar del color de los trazos.",
+  "nrc.ui.modules.info.crosshairShareCode": "Copiar guarda este perfil en el portapapeles como un código corto. Pegar carga un código recibido en el perfil actual."
 }
