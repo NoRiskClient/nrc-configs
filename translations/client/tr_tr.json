@@ -1782,5 +1782,13 @@
   "nrc.ui.modules.value.tumble": "Düşerken dön",
   "nrc.ui.modules.value.snapToFace": "İnişte yerleş",
   "nrc.ui.modules.value.rotateSpeed": "Dönüş hızı",
-  "nrc.ui.modules.value.tilt": "Eğim"
+  "nrc.ui.modules.value.tilt": "Eğim",
+  "nrc.ui.modules.info.crosshairProfiles": "Her profil ayrı bir nişangahtır ve istemci kendiliğinden geçiş yapar. Default: hiçbir şeye nişan almıyorsun ya da bir bloğa nişan alıyorsun. Enemy: oyuncular ve düşman moblar. Friendly: hayvanlar ve diğer barışçıl moblar.",
+  "nrc.ui.modules.value.selectedVariant": "Profil",
+  "nrc.ui.modules.info.crosshairInverted": "Nişangahın arkasındakinin renklerini tersine çevirir, böylece her arka planda görünür kalır. Seçilen renkler yok sayılır.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Nişangahın altındaki saldırı bekleme göstergesini de onunla birlikte ölçekler.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Nişangahı üçüncü şahıs görünümünde (F5) de gösterir.",
+  "nrc.ui.modules.info.crosshairChromatic": "Rengi gökkuşağı boyunca döndürür.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Ortadaki noktaya çizgi rengi yerine kendi rengini verir.",
+  "nrc.ui.modules.info.crosshairShareCode": "Kopyala bu profili kısa bir kod olarak panoya koyar. Yapıştır aldığın bir kodu mevcut profile yükler."
 }

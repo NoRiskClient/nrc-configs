@@ -1782,5 +1782,13 @@
   "nrc.ui.modules.value.tumble": "Obracanie w locie",
   "nrc.ui.modules.value.snapToFace": "Osiadanie po lądowaniu",
   "nrc.ui.modules.value.rotateSpeed": "Szybkość obrotu",
-  "nrc.ui.modules.value.tilt": "Nachylenie"
+  "nrc.ui.modules.value.tilt": "Nachylenie",
+  "nrc.ui.modules.info.crosshairProfiles": "Każdy profil to osobny celownik, a klient przełącza je automatycznie. Default: nie celujesz w nic albo celujesz w blok. Enemy: gracze i wrogie moby. Friendly: zwierzęta i inne pokojowe moby.",
+  "nrc.ui.modules.value.selectedVariant": "Profil",
+  "nrc.ui.modules.info.crosshairInverted": "Odwraca kolory tego, co jest za celownikiem, aby był widoczny na każdym tle. Wybrane kolory są ignorowane.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Skaluje wskaźnik odnowienia ataku pod celownikiem razem z nim.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Pokazuje celownik także w widoku z trzeciej osoby (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Zmienia kolor płynnie przez wszystkie kolory tęczy.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Nadaje środkowej kropce własny kolor zamiast koloru linii.",
+  "nrc.ui.modules.info.crosshairShareCode": "Kopiuj zapisuje ten profil w schowku jako krótki kod. Wklej wczytuje otrzymany kod do bieżącego profilu."
 }

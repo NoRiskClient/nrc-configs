@@ -1782,5 +1782,13 @@
   "nrc.ui.modules.value.tumble": "Tournoyer en tombant",
   "nrc.ui.modules.value.snapToFace": "Se poser à l'atterrissage",
   "nrc.ui.modules.value.rotateSpeed": "Vitesse de rotation",
-  "nrc.ui.modules.value.tilt": "Inclinaison"
+  "nrc.ui.modules.value.tilt": "Inclinaison",
+  "nrc.ui.modules.info.crosshairProfiles": "Chaque profil est un viseur à part et le client change automatiquement. Default : tu ne vises rien ou tu vises un bloc. Enemy : joueurs et mobs hostiles. Friendly : animaux et autres mobs pacifiques.",
+  "nrc.ui.modules.value.selectedVariant": "Profil",
+  "nrc.ui.modules.info.crosshairInverted": "Inverse ce qui se trouve derrière le viseur pour qu'il reste visible sur n'importe quel fond. Les couleurs choisies sont ignorées.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Met à l'échelle l'indicateur de recharge d'attaque sous le viseur en même temps que lui.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Affiche aussi le viseur à la troisième personne (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Fait défiler la couleur à travers l'arc-en-ciel.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Donne au point central sa propre couleur au lieu de celle des traits.",
+  "nrc.ui.modules.info.crosshairShareCode": "Copier place ce profil dans le presse-papiers sous forme de code court. Coller charge un code reçu dans le profil actuel."
 }

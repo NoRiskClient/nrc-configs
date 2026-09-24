@@ -927,5 +927,13 @@
   "nrc.ui.modules.value.tumble": "Snurr i fallet",
   "nrc.ui.modules.value.snapToFace": "Sett deg ved landing",
   "nrc.ui.modules.value.rotateSpeed": "Snurrehastighet",
-  "nrc.ui.modules.value.tilt": "Helning"
+  "nrc.ui.modules.value.tilt": "Helning",
+  "nrc.ui.modules.info.crosshairProfiles": "Hver profil er sitt eget siktepunkt, og klienten bytter automatisk. Default: du sikter ikke på noe eller sikter på en blokk. Enemy: spillere og fiendtlige mobs. Friendly: dyr og andre fredelige mobs.",
+  "nrc.ui.modules.value.selectedVariant": "Profil",
+  "nrc.ui.modules.info.crosshairInverted": "Inverterer det som er bak siktepunktet så det synes på enhver bakgrunn. De valgte fargene ignoreres.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Skalerer angrepsnedkjølingsindikatoren under siktepunktet sammen med det.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Viser også siktepunktet i tredjeperson (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Lar fargen gå gjennom regnbuen.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Gir midtpunktet sin egen farge i stedet for strekfargen.",
+  "nrc.ui.modules.info.crosshairShareCode": "Kopier legger denne profilen i utklippstavlen som en kort kode. Lim inn laster en kode du har fått inn i gjeldende profil."
 }

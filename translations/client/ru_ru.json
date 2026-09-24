@@ -1782,5 +1782,13 @@
   "nrc.ui.modules.value.tumble": "Кувырок при падении",
   "nrc.ui.modules.value.snapToFace": "Выравнивать при приземлении",
   "nrc.ui.modules.value.rotateSpeed": "Скорость вращения",
-  "nrc.ui.modules.value.tilt": "Наклон"
+  "nrc.ui.modules.value.tilt": "Наклон",
+  "nrc.ui.modules.info.crosshairProfiles": "Каждый профиль — отдельный прицел, клиент переключает их сам. Default: ты ни во что не целишься или целишься в блок. Enemy: игроки и враждебные мобы. Friendly: животные и другие мирные мобы.",
+  "nrc.ui.modules.value.selectedVariant": "Профиль",
+  "nrc.ui.modules.info.crosshairInverted": "Инвертирует то, что находится за прицелом, чтобы он был виден на любом фоне. Выбранные цвета игнорируются.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Масштабирует индикатор перезарядки атаки под прицелом вместе с ним.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Показывает прицел и от третьего лица (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Цвет плавно переливается всеми цветами радуги.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Даёт точке в центре собственный цвет вместо цвета линий.",
+  "nrc.ui.modules.info.crosshairShareCode": "Копировать сохраняет этот профиль в буфер обмена в виде короткого кода. Вставить загружает полученный код в текущий профиль."
 }
