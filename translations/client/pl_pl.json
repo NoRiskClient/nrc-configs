@@ -1762,10 +1762,16 @@
   "nrc.ui.modules.info.fadeOverCooldown": "Przechodzi od koloru wyłączenia z powrotem do koloru gotowości, gdy odnowienie się kończy.",
   "nrc.ui.modules.value.hideArmor": "Ukryj Zbroję",
   "nrc.ui.modules.description.hide_armor": "Ukrywa lub rozjaśnia zbroję element po elemencie u ciebie albo u wszystkich",
-  "nrc.ui.modules.value.scope": "Dotyczy",
   "nrc.ui.modules.value.helmetOpacity": "Hełm",
   "nrc.ui.modules.value.chestplateOpacity": "Napierśnik",
   "nrc.ui.modules.value.leggingsOpacity": "Nogawice",
   "nrc.ui.modules.value.bootsOpacity": "Buty",
-  "nrc.ui.modules.info.hideArmorOpacity": "0% całkowicie ukrywa element, 100% pokazuje go normalnie. Wartości pośrednie czynią go przezroczystym."
+  "nrc.ui.modules.info.hideArmorOpacity": "0% całkowicie ukrywa element, 100% pokazuje go normalnie, wartości pośrednie czynią go przezroczystym. Przytrzymaj Shift podczas przeciągania, aby przesuwać wszystkie cztery suwaki razem.",
+  "nrc.ui.modules.value.scope": "Dotyczy",
+  "nrc.ui.modules.value.scope.my_own": "Tylko ja",
+  "nrc.ui.modules.value.scope.all": "Wszyscy",
+  "nrc.ui.modules.value.armorOpacityLinked": "Krycie zbroi · Połączone",
+  "nrc.ui.modules.value.scope.friends": "Znajomi",
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Przytrzymaj Shift, by przesuwać wszystkie",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Wszystkie przesuwają się razem"
 }

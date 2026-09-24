@@ -1762,10 +1762,16 @@
   "nrc.ui.modules.info.fadeOverCooldown": "Плавно переходит от цвета отключения к цвету готовности, пока идёт перезарядка.",
   "nrc.ui.modules.value.hideArmor": "Скрыть броню",
   "nrc.ui.modules.description.hide_armor": "Скрывает или делает прозрачной броню по частям на тебе или на всех",
-  "nrc.ui.modules.value.scope": "Применяется к",
   "nrc.ui.modules.value.helmetOpacity": "Шлем",
   "nrc.ui.modules.value.chestplateOpacity": "Нагрудник",
   "nrc.ui.modules.value.leggingsOpacity": "Поножи",
   "nrc.ui.modules.value.bootsOpacity": "Ботинки",
-  "nrc.ui.modules.info.hideArmorOpacity": "0% полностью скрывает элемент, 100% показывает его как обычно. Любое значение между делает его прозрачным."
+  "nrc.ui.modules.info.hideArmorOpacity": "0% полностью скрывает элемент, 100% показывает его как обычно, промежуточные значения делают его прозрачным. Удерживай Shift при перетаскивании, чтобы двигать все четыре ползунка вместе.",
+  "nrc.ui.modules.value.scope": "Применяется к",
+  "nrc.ui.modules.value.scope.my_own": "Только я",
+  "nrc.ui.modules.value.scope.all": "Все",
+  "nrc.ui.modules.value.armorOpacityLinked": "Непрозрачность брони · Связано",
+  "nrc.ui.modules.value.scope.friends": "Друзья",
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Удерживай Shift, чтобы двигать все сразу",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Все двигаются вместе"
 }

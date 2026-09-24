@@ -1762,10 +1762,16 @@
   "nrc.ui.modules.info.fadeOverCooldown": "Passa da cor de desativado de volta para a cor de pronto enquanto a recarga termina.",
   "nrc.ui.modules.value.hideArmor": "Ocultar Armadura",
   "nrc.ui.modules.description.hide_armor": "Oculta ou esbate a armadura peça a peça no teu jogador ou em todos",
-  "nrc.ui.modules.value.scope": "Aplica-se a",
   "nrc.ui.modules.value.helmetOpacity": "Capacete",
   "nrc.ui.modules.value.chestplateOpacity": "Peitoral",
   "nrc.ui.modules.value.leggingsOpacity": "Calças",
   "nrc.ui.modules.value.bootsOpacity": "Botas",
-  "nrc.ui.modules.info.hideArmorOpacity": "0% oculta a peça por completo, 100% mostra-a normalmente. Qualquer valor intermédio torna-a transparente."
+  "nrc.ui.modules.info.hideArmorOpacity": "0% oculta a peça por completo, 100% mostra-a normalmente e qualquer valor intermédio torna-a transparente. Mantém Shift ao arrastar para mover os quatro controlos em conjunto.",
+  "nrc.ui.modules.value.scope": "Aplica-se a",
+  "nrc.ui.modules.value.scope.my_own": "Só eu",
+  "nrc.ui.modules.value.scope.all": "Todos",
+  "nrc.ui.modules.value.armorOpacityLinked": "Opacidade da armadura · Ligada",
+  "nrc.ui.modules.value.scope.friends": "Amigos",
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Mantém Shift para mover todos juntos",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "A mover todos juntos"
 }

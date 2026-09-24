@@ -1762,10 +1762,16 @@
   "nrc.ui.modules.info.fadeOverCooldown": "Blendet von der Deaktiviert-Farbe zurück zur Bereit-Farbe, während der Cooldown abläuft.",
   "nrc.ui.modules.value.hideArmor": "Rüstung ausblenden",
   "nrc.ui.modules.description.hide_armor": "Blendet Rüstung Stück für Stück aus oder macht sie durchsichtig, bei dir oder bei allen",
-  "nrc.ui.modules.value.scope": "Gilt für",
   "nrc.ui.modules.value.helmetOpacity": "Helm",
   "nrc.ui.modules.value.chestplateOpacity": "Brustplatte",
   "nrc.ui.modules.value.leggingsOpacity": "Hose",
   "nrc.ui.modules.value.bootsOpacity": "Schuhe",
-  "nrc.ui.modules.info.hideArmorOpacity": "0 % blendet das Teil komplett aus, 100 % zeigt es normal. Alles dazwischen macht es durchsichtig."
+  "nrc.ui.modules.info.hideArmorOpacity": "0 % blendet das Teil komplett aus, 100 % zeigt es normal, alles dazwischen macht es durchsichtig. Halte Shift beim Ziehen, um alle vier Regler gemeinsam zu bewegen.",
+  "nrc.ui.modules.value.scope": "Gilt für",
+  "nrc.ui.modules.value.scope.my_own": "Nur ich",
+  "nrc.ui.modules.value.scope.all": "Alle",
+  "nrc.ui.modules.value.armorOpacityLinked": "Rüstungs-Deckkraft · Verbunden",
+  "nrc.ui.modules.value.scope.friends": "Freunde",
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Shift halten: alle zusammen bewegen",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Alle bewegen sich zusammen"
 }

@@ -1762,10 +1762,16 @@
   "nrc.ui.modules.info.fadeOverCooldown": "Passe de la couleur désactivé à la couleur prêt pendant que le délai s'écoule.",
   "nrc.ui.modules.value.hideArmor": "Masquer l'Armure",
   "nrc.ui.modules.description.hide_armor": "Masque ou estompe l'armure pièce par pièce sur ton joueur ou sur tout le monde",
-  "nrc.ui.modules.value.scope": "S'applique à",
   "nrc.ui.modules.value.helmetOpacity": "Casque",
   "nrc.ui.modules.value.chestplateOpacity": "Plastron",
   "nrc.ui.modules.value.leggingsOpacity": "Jambières",
   "nrc.ui.modules.value.bootsOpacity": "Bottes",
-  "nrc.ui.modules.info.hideArmorOpacity": "0 % masque complètement la pièce, 100 % l'affiche normalement. Entre les deux, elle devient transparente."
+  "nrc.ui.modules.info.hideArmorOpacity": "0 % masque complètement la pièce, 100 % l'affiche normalement, entre les deux elle devient transparente. Maintiens Maj en glissant pour bouger les quatre curseurs ensemble.",
+  "nrc.ui.modules.value.scope": "S'applique à",
+  "nrc.ui.modules.value.scope.my_own": "Moi seul",
+  "nrc.ui.modules.value.scope.all": "Tout le monde",
+  "nrc.ui.modules.value.armorOpacityLinked": "Opacité de l'armure · Liée",
+  "nrc.ui.modules.value.scope.friends": "Amis",
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Maintiens Maj pour tout bouger ensemble",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Tout bouge ensemble"
 }

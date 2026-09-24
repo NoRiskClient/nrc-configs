@@ -1762,10 +1762,16 @@
   "nrc.ui.modules.info.fadeOverCooldown": "कूलडाउन खत्म होते समय निष्क्रिय रंग से वापस तैयार रंग में बदलता है।",
   "nrc.ui.modules.value.hideArmor": "कवच छिपाएँ",
   "nrc.ui.modules.description.hide_armor": "अपने खिलाड़ी या सभी पर कवच को टुकड़े-टुकड़े करके छिपाएँ या धुंधला करें",
-  "nrc.ui.modules.value.scope": "किस पर लागू",
   "nrc.ui.modules.value.helmetOpacity": "हेलमेट",
   "nrc.ui.modules.value.chestplateOpacity": "चेस्टप्लेट",
   "nrc.ui.modules.value.leggingsOpacity": "लेगिंग्स",
   "nrc.ui.modules.value.bootsOpacity": "बूट्स",
-  "nrc.ui.modules.info.hideArmorOpacity": "0% टुकड़े को पूरी तरह छिपाता है, 100% उसे सामान्य दिखाता है। बीच का कोई भी मान उसे पारदर्शी बनाता है।"
+  "nrc.ui.modules.info.hideArmorOpacity": "0% टुकड़े को पूरी तरह छिपाता है, 100% सामान्य दिखाता है, बीच का कोई भी मान उसे पारदर्शी बनाता है। चारों स्लाइडर एक साथ हिलाने के लिए खींचते समय Shift दबाए रखें।",
+  "nrc.ui.modules.value.scope": "किस पर लागू",
+  "nrc.ui.modules.value.scope.my_own": "सिर्फ़ मैं",
+  "nrc.ui.modules.value.scope.all": "सभी",
+  "nrc.ui.modules.value.armorOpacityLinked": "कवच की अपारदर्शिता · जुड़ा हुआ",
+  "nrc.ui.modules.value.scope.friends": "दोस्त",
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ सबको साथ हिलाने के लिए Shift दबाए रखें",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "सब साथ हिल रहे हैं"
 }

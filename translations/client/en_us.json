@@ -1762,10 +1762,16 @@
   "nrc.ui.modules.info.fadeOverCooldown": "Blends from the disabled color back to the ready color while the cooldown runs out.",
   "nrc.ui.modules.value.hideArmor": "Hide Armor",
   "nrc.ui.modules.description.hide_armor": "Hide or fade armor piece by piece on your own player or on everyone",
-  "nrc.ui.modules.value.scope": "Applies To",
   "nrc.ui.modules.value.helmetOpacity": "Helmet",
   "nrc.ui.modules.value.chestplateOpacity": "Chestplate",
   "nrc.ui.modules.value.leggingsOpacity": "Leggings",
   "nrc.ui.modules.value.bootsOpacity": "Boots",
-  "nrc.ui.modules.info.hideArmorOpacity": "0% hides the piece completely, 100% shows it normally. Anything in between makes it see-through."
+  "nrc.ui.modules.info.hideArmorOpacity": "0% hides the piece completely, 100% shows it normally, anything in between makes it see-through. Hold Shift while dragging to move all four sliders together.",
+  "nrc.ui.modules.value.scope": "Applies To",
+  "nrc.ui.modules.value.scope.my_own": "Only Me",
+  "nrc.ui.modules.value.scope.all": "Everyone",
+  "nrc.ui.modules.value.armorOpacityLinked": "Armor Opacity · Linked",
+  "nrc.ui.modules.value.scope.friends": "Friends",
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Hold Shift to move all together",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Moving all together"
 }
