@@ -1773,5 +1773,14 @@
   "nrc.ui.modules.value.armorOpacityLinked": "Krycie zbroi · Połączone",
   "nrc.ui.modules.value.scope.friends": "Znajomi",
   "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Przytrzymaj Shift, by ustawić wszystkie tak samo",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Wszystkie mają tę samą wartość"
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Wszystkie mają tę samą wartość",
+  "nrc.ui.modules.value.itemPhysics": "Fizyka przedmiotów",
+  "nrc.ui.modules.description.item_physics": "Upuszczone przedmioty leżą płasko na ziemi, obracają się podczas spadania i układają się w równe stosy.",
+  "nrc.ui.modules.value.flatOnGround": "Połóż płasko",
+  "nrc.ui.modules.value.disableBobbing": "Wyłącz unoszenie",
+  "nrc.ui.modules.value.rotationMode": "Obrót",
+  "nrc.ui.modules.value.tumble": "Obracanie w locie",
+  "nrc.ui.modules.value.snapToFace": "Osiadanie po lądowaniu",
+  "nrc.ui.modules.value.rotateSpeed": "Szybkość obrotu",
+  "nrc.ui.modules.value.tilt": "Nachylenie"
 }

@@ -1773,5 +1773,14 @@
   "nrc.ui.modules.value.armorOpacityLinked": "Armor Opacity · Linked",
   "nrc.ui.modules.value.scope.friends": "Friends",
   "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Hold Shift to set all to the same value",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "All set to the same value"
+  "nrc.ui.modules.value.armorOpacityShiftActive": "All set to the same value",
+  "nrc.ui.modules.value.itemPhysics": "Item Physics",
+  "nrc.ui.modules.description.item_physics": "Dropped items lie flat on the ground, tumble while falling and stack neatly.",
+  "nrc.ui.modules.value.flatOnGround": "Lay Flat",
+  "nrc.ui.modules.value.disableBobbing": "Disable Bobbing",
+  "nrc.ui.modules.value.rotationMode": "Rotation",
+  "nrc.ui.modules.value.tumble": "Tumble While Falling",
+  "nrc.ui.modules.value.snapToFace": "Settle On Landing",
+  "nrc.ui.modules.value.rotateSpeed": "Tumble Speed",
+  "nrc.ui.modules.value.tilt": "Tilt"
 }

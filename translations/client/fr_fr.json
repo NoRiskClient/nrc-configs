@@ -1773,5 +1773,14 @@
   "nrc.ui.modules.value.armorOpacityLinked": "Opacité de l'armure · Liée",
   "nrc.ui.modules.value.scope.friends": "Amis",
   "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Maintiens Maj pour tout aligner",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Tous à la même valeur"
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Tous à la même valeur",
+  "nrc.ui.modules.value.itemPhysics": "Physique des objets",
+  "nrc.ui.modules.description.item_physics": "Les objets lâchés reposent à plat au sol, tournoient en tombant et s'empilent proprement.",
+  "nrc.ui.modules.value.flatOnGround": "À plat",
+  "nrc.ui.modules.value.disableBobbing": "Désactiver le flottement",
+  "nrc.ui.modules.value.rotationMode": "Rotation",
+  "nrc.ui.modules.value.tumble": "Tournoyer en tombant",
+  "nrc.ui.modules.value.snapToFace": "Se poser à l'atterrissage",
+  "nrc.ui.modules.value.rotateSpeed": "Vitesse de rotation",
+  "nrc.ui.modules.value.tilt": "Inclinaison"
 }

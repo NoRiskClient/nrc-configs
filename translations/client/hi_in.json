@@ -1773,5 +1773,14 @@
   "nrc.ui.modules.value.armorOpacityLinked": "कवच की अपारदर्शिता · जुड़ा हुआ",
   "nrc.ui.modules.value.scope.friends": "दोस्त",
   "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ सबको एक जैसा करने के लिए Shift दबाएँ",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "सबका मान एक जैसा"
+  "nrc.ui.modules.value.armorOpacityShiftActive": "सबका मान एक जैसा",
+  "nrc.ui.modules.value.itemPhysics": "आइटम फ़िज़िक्स",
+  "nrc.ui.modules.description.item_physics": "गिराए गए आइटम ज़मीन पर सपाट पड़े रहते हैं, गिरते समय घूमते हैं और साफ़-सुथरे ढंग से ढेर बनाते हैं।",
+  "nrc.ui.modules.value.flatOnGround": "सपाट रखें",
+  "nrc.ui.modules.value.disableBobbing": "उछलना बंद करें",
+  "nrc.ui.modules.value.rotationMode": "घुमाव",
+  "nrc.ui.modules.value.tumble": "गिरते समय घूमें",
+  "nrc.ui.modules.value.snapToFace": "उतरने पर टिकें",
+  "nrc.ui.modules.value.rotateSpeed": "घूमने की गति",
+  "nrc.ui.modules.value.tilt": "झुकाव"
 }

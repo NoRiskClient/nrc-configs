@@ -1773,5 +1773,14 @@
   "nrc.ui.modules.value.armorOpacityLinked": "Zırh opaklığı · Bağlı",
   "nrc.ui.modules.value.scope.friends": "Arkadaşlar",
   "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Hepsini eşitlemek için Shift'e bas",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Hepsi aynı değerde"
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Hepsi aynı değerde",
+  "nrc.ui.modules.value.itemPhysics": "Eşya Fiziği",
+  "nrc.ui.modules.description.item_physics": "Atılan eşyalar yerde düz yatar, düşerken döner ve düzgünce üst üste dizilir.",
+  "nrc.ui.modules.value.flatOnGround": "Düz yatır",
+  "nrc.ui.modules.value.disableBobbing": "Sallanmayı kapat",
+  "nrc.ui.modules.value.rotationMode": "Dönüş",
+  "nrc.ui.modules.value.tumble": "Düşerken dön",
+  "nrc.ui.modules.value.snapToFace": "İnişte yerleş",
+  "nrc.ui.modules.value.rotateSpeed": "Dönüş hızı",
+  "nrc.ui.modules.value.tilt": "Eğim"
 }

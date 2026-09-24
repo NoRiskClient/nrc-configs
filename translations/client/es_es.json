@@ -1773,5 +1773,14 @@
   "nrc.ui.modules.value.armorOpacityLinked": "Opacidad de la armadura · Vinculada",
   "nrc.ui.modules.value.scope.friends": "Amigos",
   "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Mantén Shift para igualar todos",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Todos con el mismo valor"
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Todos con el mismo valor",
+  "nrc.ui.modules.value.itemPhysics": "Física de objetos",
+  "nrc.ui.modules.description.item_physics": "Los objetos soltados quedan planos en el suelo, giran al caer y se apilan de forma ordenada.",
+  "nrc.ui.modules.value.flatOnGround": "Tumbar plano",
+  "nrc.ui.modules.value.disableBobbing": "Desactivar flotación",
+  "nrc.ui.modules.value.rotationMode": "Rotación",
+  "nrc.ui.modules.value.tumble": "Girar al caer",
+  "nrc.ui.modules.value.snapToFace": "Asentar al aterrizar",
+  "nrc.ui.modules.value.rotateSpeed": "Velocidad de giro",
+  "nrc.ui.modules.value.tilt": "Inclinación"
 }

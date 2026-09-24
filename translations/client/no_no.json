@@ -918,5 +918,14 @@
   "nrc.ui.modules.value.armorOpacityLinked": "Rustningens dekkevne · Koblet",
   "nrc.ui.modules.value.scope.friends": "Venner",
   "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Hold Shift for å sette alle likt",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Alle får samme verdi"
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Alle får samme verdi",
+  "nrc.ui.modules.value.itemPhysics": "Gjenstandsfysikk",
+  "nrc.ui.modules.description.item_physics": "Slupne gjenstander ligger flatt på bakken, snurrer mens de faller og stables pent.",
+  "nrc.ui.modules.value.flatOnGround": "Legg flatt",
+  "nrc.ui.modules.value.disableBobbing": "Slå av vipping",
+  "nrc.ui.modules.value.rotationMode": "Rotasjon",
+  "nrc.ui.modules.value.tumble": "Snurr i fallet",
+  "nrc.ui.modules.value.snapToFace": "Sett deg ved landing",
+  "nrc.ui.modules.value.rotateSpeed": "Snurrehastighet",
+  "nrc.ui.modules.value.tilt": "Helning"
 }

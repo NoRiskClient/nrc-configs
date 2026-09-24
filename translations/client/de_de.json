@@ -1773,5 +1773,14 @@
   "nrc.ui.modules.value.armorOpacityLinked": "Rüstungs-Deckkraft · Verbunden",
   "nrc.ui.modules.value.scope.friends": "Freunde",
   "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Shift halten: alle gleich setzen",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Alle bekommen denselben Wert"
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Alle bekommen denselben Wert",
+  "nrc.ui.modules.value.itemPhysics": "Item-Physik",
+  "nrc.ui.modules.description.item_physics": "Gedroppte Items liegen flach auf dem Boden, drehen sich im Fall und stapeln sich ordentlich.",
+  "nrc.ui.modules.value.flatOnGround": "Flach hinlegen",
+  "nrc.ui.modules.value.disableBobbing": "Schweben aus",
+  "nrc.ui.modules.value.rotationMode": "Rotation",
+  "nrc.ui.modules.value.tumble": "Drehen im Fall",
+  "nrc.ui.modules.value.snapToFace": "Beim Landen einrasten",
+  "nrc.ui.modules.value.rotateSpeed": "Drehgeschwindigkeit",
+  "nrc.ui.modules.value.tilt": "Neigung"
 }
