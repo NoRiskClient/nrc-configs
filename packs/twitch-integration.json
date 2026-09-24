@@ -330,14 +330,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.5933643-feat-twitch+forge.1.7.10",
+                        "identifier": "26.3.7422714-feat-twitch+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.5933643-feat-twitch+forge.1.8.9",
+                        "identifier": "26.3.7422714-feat-twitch+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -547,7 +547,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.5933643-feat-twitch+fabric.1.21.11",
+                        "identifier": "26.3.7422714-feat-twitch+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -615,7 +615,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.5933643-feat-twitch+fabric.26.2",
+                        "identifier": "26.3.7422714-feat-twitch+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1272,14 +1272,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.5780444-feat-twitch+forge.1.7.10",
+                        "identifier": "26.3.7422714-feat-twitch+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.5780444-feat-twitch+forge.1.8.9",
+                        "identifier": "26.3.7422714-feat-twitch+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1489,7 +1489,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.5780444-feat-twitch+fabric.1.21.11",
+                        "identifier": "26.3.7422714-feat-twitch+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1557,7 +1557,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.5780444-feat-twitch+fabric.26.2",
+                        "identifier": "26.3.7422714-feat-twitch+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1586,14 +1586,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.4686868-feat-twitch+forge.1.7.10",
+                        "identifier": "26.3.7049054-feat-twitch+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.4686868-feat-twitch+forge.1.8.9",
+                        "identifier": "26.3.7049054-feat-twitch+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1803,7 +1803,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.4686868-feat-twitch+fabric.1.21.11",
+                        "identifier": "26.3.7049054-feat-twitch+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1871,7 +1871,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.4686868-feat-twitch+fabric.26.2",
+                        "identifier": "26.3.7049054-feat-twitch+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1900,14 +1900,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.4354550-feat-twitch+forge.1.7.10",
+                        "identifier": "26.3.7049054-feat-twitch+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.4354550-feat-twitch+forge.1.8.9",
+                        "identifier": "26.3.7049054-feat-twitch+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -2117,7 +2117,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.4354550-feat-twitch+fabric.1.21.11",
+                        "identifier": "26.3.7049054-feat-twitch+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -2185,7 +2185,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.4354550-feat-twitch+fabric.26.2",
+                        "identifier": "26.3.7049054-feat-twitch+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2584,7 +2584,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.3.4266764-feat-twitch+fabric.1.21.11",
+                        "identifier": "26.3.7049054-feat-twitch+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -2612,7 +2612,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.3.4266764-feat-twitch+fabric.26.2",
+                        "identifier": "26.3.7049054-feat-twitch+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2641,14 +2641,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.4989418-feat-twitch+forge.1.7.10",
+                        "identifier": "26.3.6852865-feat-twitch+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.4989418-feat-twitch+forge.1.8.9",
+                        "identifier": "26.3.6852865-feat-twitch+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
