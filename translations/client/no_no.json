@@ -911,12 +911,12 @@
   "nrc.ui.modules.value.chestplateOpacity": "Brystplate",
   "nrc.ui.modules.value.leggingsOpacity": "Bukser",
   "nrc.ui.modules.value.bootsOpacity": "Støvler",
-  "nrc.ui.modules.info.hideArmorOpacity": "0 % skjuler delen helt, 100 % viser den normalt, alt imellom gjør den gjennomsiktig. Hold Shift mens du drar for å flytte alle fire glidebrytere sammen.",
+  "nrc.ui.modules.info.hideArmorOpacity": "0 % skjuler delen helt, 100 % viser den normalt, alt imellom gjør den gjennomsiktig. Hold Shift mens du drar for å sette alle fire til samme verdi.",
   "nrc.ui.modules.value.scope": "Gjelder for",
   "nrc.ui.modules.value.scope.my_own": "Bare meg",
   "nrc.ui.modules.value.scope.all": "Alle",
   "nrc.ui.modules.value.armorOpacityLinked": "Rustningens dekkevne · Koblet",
   "nrc.ui.modules.value.scope.friends": "Venner",
-  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Hold Shift for å flytte alle sammen",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Alle flyttes sammen"
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Hold Shift for å sette alle likt",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Alle får samme verdi"
 }

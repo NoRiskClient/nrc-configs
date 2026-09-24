@@ -1766,12 +1766,12 @@
   "nrc.ui.modules.value.chestplateOpacity": "Peto",
   "nrc.ui.modules.value.leggingsOpacity": "Grebas",
   "nrc.ui.modules.value.bootsOpacity": "Botas",
-  "nrc.ui.modules.info.hideArmorOpacity": "0% oculta la pieza por completo, 100% la muestra normal y cualquier valor intermedio la hace transparente. Mantén Shift al arrastrar para mover los cuatro controles a la vez.",
+  "nrc.ui.modules.info.hideArmorOpacity": "0% oculta la pieza por completo, 100% la muestra normal y cualquier valor intermedio la hace transparente. Mantén Shift al arrastrar para poner los cuatro en el mismo valor.",
   "nrc.ui.modules.value.scope": "Se aplica a",
   "nrc.ui.modules.value.scope.my_own": "Solo yo",
   "nrc.ui.modules.value.scope.all": "Todos",
   "nrc.ui.modules.value.armorOpacityLinked": "Opacidad de la armadura · Vinculada",
   "nrc.ui.modules.value.scope.friends": "Amigos",
-  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Mantén Shift para mover todos juntos",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Moviendo todos juntos"
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Mantén Shift para igualar todos",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Todos con el mismo valor"
 }

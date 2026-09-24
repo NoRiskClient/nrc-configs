@@ -1766,12 +1766,12 @@
   "nrc.ui.modules.value.chestplateOpacity": "Göğüslük",
   "nrc.ui.modules.value.leggingsOpacity": "Pantolon",
   "nrc.ui.modules.value.bootsOpacity": "Botlar",
-  "nrc.ui.modules.info.hideArmorOpacity": "%0 parçayı tamamen gizler, %100 normal gösterir, aradaki her değer onu yarı saydam yapar. Dört kaydırıcıyı birlikte hareket ettirmek için sürüklerken Shift'e basılı tut.",
+  "nrc.ui.modules.info.hideArmorOpacity": "%0 parçayı tamamen gizler, %100 normal gösterir, aradaki her değer onu yarı saydam yapar. Dördünü aynı değere getirmek için sürüklerken Shift'e basılı tut.",
   "nrc.ui.modules.value.scope": "Uygulandığı",
   "nrc.ui.modules.value.scope.my_own": "Sadece ben",
   "nrc.ui.modules.value.scope.all": "Herkes",
   "nrc.ui.modules.value.armorOpacityLinked": "Zırh opaklığı · Bağlı",
   "nrc.ui.modules.value.scope.friends": "Arkadaşlar",
-  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Hepsini birlikte taşımak için Shift'e bas",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Hepsi birlikte hareket ediyor"
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Hepsini eşitlemek için Shift'e bas",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Hepsi aynı değerde"
 }

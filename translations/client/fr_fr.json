@@ -1766,12 +1766,12 @@
   "nrc.ui.modules.value.chestplateOpacity": "Plastron",
   "nrc.ui.modules.value.leggingsOpacity": "Jambières",
   "nrc.ui.modules.value.bootsOpacity": "Bottes",
-  "nrc.ui.modules.info.hideArmorOpacity": "0 % masque complètement la pièce, 100 % l'affiche normalement, entre les deux elle devient transparente. Maintiens Maj en glissant pour bouger les quatre curseurs ensemble.",
+  "nrc.ui.modules.info.hideArmorOpacity": "0 % masque complètement la pièce, 100 % l'affiche normalement, entre les deux elle devient transparente. Maintiens Maj en glissant pour mettre les quatre à la même valeur.",
   "nrc.ui.modules.value.scope": "S'applique à",
   "nrc.ui.modules.value.scope.my_own": "Moi seul",
   "nrc.ui.modules.value.scope.all": "Tout le monde",
   "nrc.ui.modules.value.armorOpacityLinked": "Opacité de l'armure · Liée",
   "nrc.ui.modules.value.scope.friends": "Amis",
-  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Maintiens Maj pour tout bouger ensemble",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Tout bouge ensemble"
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Maintiens Maj pour tout aligner",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Tous à la même valeur"
 }

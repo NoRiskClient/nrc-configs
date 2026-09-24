@@ -1766,12 +1766,12 @@
   "nrc.ui.modules.value.chestplateOpacity": "Napierśnik",
   "nrc.ui.modules.value.leggingsOpacity": "Nogawice",
   "nrc.ui.modules.value.bootsOpacity": "Buty",
-  "nrc.ui.modules.info.hideArmorOpacity": "0% całkowicie ukrywa element, 100% pokazuje go normalnie, wartości pośrednie czynią go przezroczystym. Przytrzymaj Shift podczas przeciągania, aby przesuwać wszystkie cztery suwaki razem.",
+  "nrc.ui.modules.info.hideArmorOpacity": "0% całkowicie ukrywa element, 100% pokazuje go normalnie, wartości pośrednie czynią go przezroczystym. Przytrzymaj Shift podczas przeciągania, aby ustawić wszystkie cztery na tę samą wartość.",
   "nrc.ui.modules.value.scope": "Dotyczy",
   "nrc.ui.modules.value.scope.my_own": "Tylko ja",
   "nrc.ui.modules.value.scope.all": "Wszyscy",
   "nrc.ui.modules.value.armorOpacityLinked": "Krycie zbroi · Połączone",
   "nrc.ui.modules.value.scope.friends": "Znajomi",
-  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Przytrzymaj Shift, by przesuwać wszystkie",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Wszystkie przesuwają się razem"
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Przytrzymaj Shift, by ustawić wszystkie tak samo",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Wszystkie mają tę samą wartość"
 }

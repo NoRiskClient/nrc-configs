@@ -1766,12 +1766,12 @@
   "nrc.ui.modules.value.chestplateOpacity": "Corazza",
   "nrc.ui.modules.value.leggingsOpacity": "Gambali",
   "nrc.ui.modules.value.bootsOpacity": "Stivali",
-  "nrc.ui.modules.info.hideArmorOpacity": "0% nasconde il pezzo del tutto, 100% lo mostra normalmente, i valori intermedi lo rendono trasparente. Tieni premuto Shift mentre trascini per muovere insieme tutti e quattro i cursori.",
+  "nrc.ui.modules.info.hideArmorOpacity": "0% nasconde il pezzo del tutto, 100% lo mostra normalmente, i valori intermedi lo rendono trasparente. Tieni premuto Shift mentre trascini per impostare tutti e quattro allo stesso valore.",
   "nrc.ui.modules.value.scope": "Si applica a",
   "nrc.ui.modules.value.scope.my_own": "Solo io",
   "nrc.ui.modules.value.scope.all": "Tutti",
   "nrc.ui.modules.value.armorOpacityLinked": "Opacità dell'armatura · Collegata",
   "nrc.ui.modules.value.scope.friends": "Amici",
-  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Tieni Shift per muoverli tutti insieme",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Si muovono tutti insieme"
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Tieni Shift per uguagliarli tutti",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Tutti allo stesso valore"
 }

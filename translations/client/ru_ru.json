@@ -1766,12 +1766,12 @@
   "nrc.ui.modules.value.chestplateOpacity": "Нагрудник",
   "nrc.ui.modules.value.leggingsOpacity": "Поножи",
   "nrc.ui.modules.value.bootsOpacity": "Ботинки",
-  "nrc.ui.modules.info.hideArmorOpacity": "0% полностью скрывает элемент, 100% показывает его как обычно, промежуточные значения делают его прозрачным. Удерживай Shift при перетаскивании, чтобы двигать все четыре ползунка вместе.",
+  "nrc.ui.modules.info.hideArmorOpacity": "0% полностью скрывает элемент, 100% показывает его как обычно, промежуточные значения делают его прозрачным. Удерживай Shift при перетаскивании, чтобы выставить всем четырём одно значение.",
   "nrc.ui.modules.value.scope": "Применяется к",
   "nrc.ui.modules.value.scope.my_own": "Только я",
   "nrc.ui.modules.value.scope.all": "Все",
   "nrc.ui.modules.value.armorOpacityLinked": "Непрозрачность брони · Связано",
   "nrc.ui.modules.value.scope.friends": "Друзья",
-  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Удерживай Shift, чтобы двигать все сразу",
-  "nrc.ui.modules.value.armorOpacityShiftActive": "Все двигаются вместе"
+  "nrc.ui.modules.value.armorOpacityShiftHint": "⇧ Удерживай Shift, чтобы выровнять все",
+  "nrc.ui.modules.value.armorOpacityShiftActive": "Все с одинаковым значением"
 }
