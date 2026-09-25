@@ -337,7 +337,7 @@
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.7418898-feat-paperdoll+forge.1.8.9",
+                        "identifier": "26.3.7492699-feat-paperdoll+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -564,7 +564,7 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.3.7418898-feat-paperdoll+fabric.26.1",
+                        "identifier": "26.3.7492699-feat-paperdoll+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
@@ -581,7 +581,7 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.3.7418898-feat-paperdoll+fabric.26.1.1",
+                        "identifier": "26.3.7492699-feat-paperdoll+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
