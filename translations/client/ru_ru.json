@@ -1786,7 +1786,6 @@
   "nrc.ui.modules.value.paperdoll": "Paperdoll",
   "nrc.ui.modules.description.paperdoll": "Показывает твоего персонажа как элемент HUD.",
   "nrc.ui.modules.value.showName": "Показывать ник",
-  "nrc.ui.modules.value.nameColor": "Цвет ника",
   "nrc.ui.modules.value.hideWhenIdle": "Скрывать в покое",
   "nrc.ui.modules.value.hidingDelay": "Задержка скрытия (с)",
   "nrc.ui.modules.value.showCosmetics": "Показывать косметику",

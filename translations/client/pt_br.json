@@ -1786,7 +1786,6 @@
   "nrc.ui.modules.value.paperdoll": "Paperdoll",
   "nrc.ui.modules.description.paperdoll": "Mostra seu personagem como um elemento do HUD.",
   "nrc.ui.modules.value.showName": "Mostrar nome",
-  "nrc.ui.modules.value.nameColor": "Cor do nome",
   "nrc.ui.modules.value.hideWhenIdle": "Ocultar parado",
   "nrc.ui.modules.value.hidingDelay": "Atraso para ocultar (s)",
   "nrc.ui.modules.value.showCosmetics": "Mostrar cosméticos",

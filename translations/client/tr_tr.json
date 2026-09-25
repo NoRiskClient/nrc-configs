@@ -1786,7 +1786,6 @@
   "nrc.ui.modules.value.paperdoll": "Paperdoll",
   "nrc.ui.modules.description.paperdoll": "Karakterini bir HUD öğesi olarak gösterir.",
   "nrc.ui.modules.value.showName": "İsmi göster",
-  "nrc.ui.modules.value.nameColor": "İsim rengi",
   "nrc.ui.modules.value.hideWhenIdle": "Dururken gizle",
   "nrc.ui.modules.value.hidingDelay": "Gizleme gecikmesi (sn)",
   "nrc.ui.modules.value.showCosmetics": "Kozmetikleri göster",

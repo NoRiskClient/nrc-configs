@@ -1786,7 +1786,6 @@
   "nrc.ui.modules.value.paperdoll": "पेपरडॉल",
   "nrc.ui.modules.description.paperdoll": "आपके किरदार को HUD एलिमेंट के रूप में दिखाता है।",
   "nrc.ui.modules.value.showName": "नाम दिखाएँ",
-  "nrc.ui.modules.value.nameColor": "नाम का रंग",
   "nrc.ui.modules.value.hideWhenIdle": "रुकने पर छिपाएँ",
   "nrc.ui.modules.value.hidingDelay": "छिपाने में देरी (s)",
   "nrc.ui.modules.value.showCosmetics": "कॉस्मेटिक्स दिखाएँ",
