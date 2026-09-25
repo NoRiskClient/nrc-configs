@@ -1782,5 +1782,18 @@
   "nrc.ui.modules.value.tumble": "Obracanie w locie",
   "nrc.ui.modules.value.snapToFace": "Osiadanie po lądowaniu",
   "nrc.ui.modules.value.rotateSpeed": "Szybkość obrotu",
-  "nrc.ui.modules.value.tilt": "Nachylenie"
+  "nrc.ui.modules.value.tilt": "Nachylenie",
+  "nrc.ui.modules.value.paperdoll": "Paperdoll",
+  "nrc.ui.modules.description.paperdoll": "Pokazuje twoją postać jako element HUD.",
+  "nrc.ui.modules.value.showName": "Pokaż nazwę",
+  "nrc.ui.modules.value.nameColor": "Kolor nazwy",
+  "nrc.ui.modules.value.hideWhenIdle": "Ukryj w bezruchu",
+  "nrc.ui.modules.value.hidingDelay": "Opóźnienie ukrycia (s)",
+  "nrc.ui.modules.value.showCosmetics": "Pokaż kosmetyki",
+  "nrc.ui.modules.value.dollRotation": "Obrót figurki",
+  "nrc.ui.modules.info.paperdollShowName": "Pokazuje twoją nazwę nad figurką.",
+  "nrc.ui.modules.info.paperdollHideWhenIdle": "Ukrywa figurkę, gdy stoisz w miejscu.",
+  "nrc.ui.modules.info.paperdollHidingDelay": "Jak długo figurka pozostaje widoczna po ruchu.",
+  "nrc.ui.modules.info.paperdollShowCosmetics": "Pokazuje lub ukrywa twoje kosmetyki na figurce.",
+  "nrc.ui.modules.info.paperdollDollRotation": "Obraca figurkę w bok o ten kąt."
 }

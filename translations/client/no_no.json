@@ -927,5 +927,18 @@
   "nrc.ui.modules.value.tumble": "Snurr i fallet",
   "nrc.ui.modules.value.snapToFace": "Sett deg ved landing",
   "nrc.ui.modules.value.rotateSpeed": "Snurrehastighet",
-  "nrc.ui.modules.value.tilt": "Helning"
+  "nrc.ui.modules.value.tilt": "Helning",
+  "nrc.ui.modules.value.paperdoll": "Paperdoll",
+  "nrc.ui.modules.description.paperdoll": "Viser figuren din som et HUD-element.",
+  "nrc.ui.modules.value.showName": "Vis navn",
+  "nrc.ui.modules.value.nameColor": "Navnefarge",
+  "nrc.ui.modules.value.hideWhenIdle": "Skjul når du står stille",
+  "nrc.ui.modules.value.hidingDelay": "Skjuleforsinkelse (s)",
+  "nrc.ui.modules.value.showCosmetics": "Vis kosmetikk",
+  "nrc.ui.modules.value.dollRotation": "Figurrotasjon",
+  "nrc.ui.modules.info.paperdollShowName": "Viser navnet ditt over figuren.",
+  "nrc.ui.modules.info.paperdollHideWhenIdle": "Skjuler figuren mens du står stille.",
+  "nrc.ui.modules.info.paperdollHidingDelay": "Hvor lenge figuren er synlig etter at du har beveget deg.",
+  "nrc.ui.modules.info.paperdollShowCosmetics": "Viser eller skjuler kosmetikken din på figuren.",
+  "nrc.ui.modules.info.paperdollDollRotation": "Snur figuren sidelengs med denne vinkelen."
 }

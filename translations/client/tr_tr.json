@@ -1782,5 +1782,18 @@
   "nrc.ui.modules.value.tumble": "Düşerken dön",
   "nrc.ui.modules.value.snapToFace": "İnişte yerleş",
   "nrc.ui.modules.value.rotateSpeed": "Dönüş hızı",
-  "nrc.ui.modules.value.tilt": "Eğim"
+  "nrc.ui.modules.value.tilt": "Eğim",
+  "nrc.ui.modules.value.paperdoll": "Paperdoll",
+  "nrc.ui.modules.description.paperdoll": "Karakterini bir HUD öğesi olarak gösterir.",
+  "nrc.ui.modules.value.showName": "İsmi göster",
+  "nrc.ui.modules.value.nameColor": "İsim rengi",
+  "nrc.ui.modules.value.hideWhenIdle": "Dururken gizle",
+  "nrc.ui.modules.value.hidingDelay": "Gizleme gecikmesi (sn)",
+  "nrc.ui.modules.value.showCosmetics": "Kozmetikleri göster",
+  "nrc.ui.modules.value.dollRotation": "Figür dönüşü",
+  "nrc.ui.modules.info.paperdollShowName": "İsmini figürün üstünde gösterir.",
+  "nrc.ui.modules.info.paperdollHideWhenIdle": "Sen dururken figürü gizler.",
+  "nrc.ui.modules.info.paperdollHidingDelay": "Hareket ettikten sonra figürün ne kadar süre görünür kalacağı.",
+  "nrc.ui.modules.info.paperdollShowCosmetics": "Figür üzerindeki kozmetiklerini gösterir veya gizler.",
+  "nrc.ui.modules.info.paperdollDollRotation": "Figürü bu açı kadar yana döndürür."
 }

@@ -1782,5 +1782,18 @@
   "nrc.ui.modules.value.tumble": "Girar al caer",
   "nrc.ui.modules.value.snapToFace": "Asentar al aterrizar",
   "nrc.ui.modules.value.rotateSpeed": "Velocidad de giro",
-  "nrc.ui.modules.value.tilt": "Inclinación"
+  "nrc.ui.modules.value.tilt": "Inclinación",
+  "nrc.ui.modules.value.paperdoll": "Paperdoll",
+  "nrc.ui.modules.description.paperdoll": "Muestra tu personaje como un elemento del HUD.",
+  "nrc.ui.modules.value.showName": "Mostrar nombre",
+  "nrc.ui.modules.value.nameColor": "Color del nombre",
+  "nrc.ui.modules.value.hideWhenIdle": "Ocultar en reposo",
+  "nrc.ui.modules.value.hidingDelay": "Retraso de ocultación (s)",
+  "nrc.ui.modules.value.showCosmetics": "Mostrar cosméticos",
+  "nrc.ui.modules.value.dollRotation": "Rotación de la figura",
+  "nrc.ui.modules.info.paperdollShowName": "Muestra tu nombre sobre la figura.",
+  "nrc.ui.modules.info.paperdollHideWhenIdle": "Oculta la figura mientras estás quieto.",
+  "nrc.ui.modules.info.paperdollHidingDelay": "Cuánto tiempo sigue visible la figura después de moverte.",
+  "nrc.ui.modules.info.paperdollShowCosmetics": "Muestra u oculta tus cosméticos en la figura.",
+  "nrc.ui.modules.info.paperdollDollRotation": "Gira la figura hacia un lado con este ángulo."
 }

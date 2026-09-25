@@ -1782,5 +1782,18 @@
   "nrc.ui.modules.value.tumble": "Tumble While Falling",
   "nrc.ui.modules.value.snapToFace": "Settle On Landing",
   "nrc.ui.modules.value.rotateSpeed": "Tumble Speed",
-  "nrc.ui.modules.value.tilt": "Tilt"
+  "nrc.ui.modules.value.tilt": "Tilt",
+  "nrc.ui.modules.value.paperdoll": "Paperdoll",
+  "nrc.ui.modules.description.paperdoll": "Shows your character as a HUD element.",
+  "nrc.ui.modules.value.showName": "Show name",
+  "nrc.ui.modules.value.nameColor": "Name color",
+  "nrc.ui.modules.value.hideWhenIdle": "Hide when Idle",
+  "nrc.ui.modules.value.hidingDelay": "Hiding delay (s)",
+  "nrc.ui.modules.value.showCosmetics": "Show cosmetics",
+  "nrc.ui.modules.value.dollRotation": "Doll rotation",
+  "nrc.ui.modules.info.paperdollShowName": "Shows your name above the doll.",
+  "nrc.ui.modules.info.paperdollHideWhenIdle": "Hides the doll while you stand still.",
+  "nrc.ui.modules.info.paperdollHidingDelay": "How long the doll stays visible after you move.",
+  "nrc.ui.modules.info.paperdollShowCosmetics": "Shows or hides your cosmetics on the doll.",
+  "nrc.ui.modules.info.paperdollDollRotation": "Turns the doll sideways by this angle."
 }

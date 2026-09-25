@@ -1782,5 +1782,18 @@
   "nrc.ui.modules.value.tumble": "गिरते समय घूमें",
   "nrc.ui.modules.value.snapToFace": "उतरने पर टिकें",
   "nrc.ui.modules.value.rotateSpeed": "घूमने की गति",
-  "nrc.ui.modules.value.tilt": "झुकाव"
+  "nrc.ui.modules.value.tilt": "झुकाव",
+  "nrc.ui.modules.value.paperdoll": "पेपरडॉल",
+  "nrc.ui.modules.description.paperdoll": "आपके किरदार को HUD एलिमेंट के रूप में दिखाता है।",
+  "nrc.ui.modules.value.showName": "नाम दिखाएँ",
+  "nrc.ui.modules.value.nameColor": "नाम का रंग",
+  "nrc.ui.modules.value.hideWhenIdle": "रुकने पर छिपाएँ",
+  "nrc.ui.modules.value.hidingDelay": "छिपाने में देरी (s)",
+  "nrc.ui.modules.value.showCosmetics": "कॉस्मेटिक्स दिखाएँ",
+  "nrc.ui.modules.value.dollRotation": "डॉल घुमाव",
+  "nrc.ui.modules.info.paperdollShowName": "डॉल के ऊपर आपका नाम दिखाता है।",
+  "nrc.ui.modules.info.paperdollHideWhenIdle": "जब आप खड़े रहते हैं तब डॉल को छिपाता है।",
+  "nrc.ui.modules.info.paperdollHidingDelay": "हिलने के बाद डॉल कितनी देर दिखती रहती है।",
+  "nrc.ui.modules.info.paperdollShowCosmetics": "डॉल पर आपके कॉस्मेटिक्स दिखाता या छिपाता है।",
+  "nrc.ui.modules.info.paperdollDollRotation": "डॉल को इस कोण से बगल की ओर घुमाता है।"
 }

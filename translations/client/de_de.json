@@ -1782,5 +1782,18 @@
   "nrc.ui.modules.value.tumble": "Drehen im Fall",
   "nrc.ui.modules.value.snapToFace": "Beim Landen einrasten",
   "nrc.ui.modules.value.rotateSpeed": "Drehgeschwindigkeit",
-  "nrc.ui.modules.value.tilt": "Neigung"
+  "nrc.ui.modules.value.tilt": "Neigung",
+  "nrc.ui.modules.value.paperdoll": "Paperdoll",
+  "nrc.ui.modules.description.paperdoll": "Zeigt deine Spielfigur als HUD-Element.",
+  "nrc.ui.modules.value.showName": "Namen anzeigen",
+  "nrc.ui.modules.value.nameColor": "Namensfarbe",
+  "nrc.ui.modules.value.hideWhenIdle": "Im Stillstand ausblenden",
+  "nrc.ui.modules.value.hidingDelay": "Ausblende-Verzögerung (s)",
+  "nrc.ui.modules.value.showCosmetics": "Cosmetics anzeigen",
+  "nrc.ui.modules.value.dollRotation": "Figur-Drehung",
+  "nrc.ui.modules.info.paperdollShowName": "Zeigt deinen Namen über der Figur.",
+  "nrc.ui.modules.info.paperdollHideWhenIdle": "Blendet die Figur aus, während du stillstehst.",
+  "nrc.ui.modules.info.paperdollHidingDelay": "Wie lange die Figur sichtbar bleibt, nachdem du dich bewegt hast.",
+  "nrc.ui.modules.info.paperdollShowCosmetics": "Zeigt oder versteckt deine Cosmetics an der Figur.",
+  "nrc.ui.modules.info.paperdollDollRotation": "Dreht die Figur um diesen Winkel zur Seite."
 }

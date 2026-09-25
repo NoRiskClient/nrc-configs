@@ -1782,5 +1782,18 @@
   "nrc.ui.modules.value.tumble": "Tournoyer en tombant",
   "nrc.ui.modules.value.snapToFace": "Se poser à l'atterrissage",
   "nrc.ui.modules.value.rotateSpeed": "Vitesse de rotation",
-  "nrc.ui.modules.value.tilt": "Inclinaison"
+  "nrc.ui.modules.value.tilt": "Inclinaison",
+  "nrc.ui.modules.value.paperdoll": "Paperdoll",
+  "nrc.ui.modules.description.paperdoll": "Affiche ton personnage comme élément du HUD.",
+  "nrc.ui.modules.value.showName": "Afficher le nom",
+  "nrc.ui.modules.value.nameColor": "Couleur du nom",
+  "nrc.ui.modules.value.hideWhenIdle": "Masquer à l'arrêt",
+  "nrc.ui.modules.value.hidingDelay": "Délai de masquage (s)",
+  "nrc.ui.modules.value.showCosmetics": "Afficher les cosmétiques",
+  "nrc.ui.modules.value.dollRotation": "Rotation de la figurine",
+  "nrc.ui.modules.info.paperdollShowName": "Affiche ton nom au-dessus de la figurine.",
+  "nrc.ui.modules.info.paperdollHideWhenIdle": "Masque la figurine tant que tu restes immobile.",
+  "nrc.ui.modules.info.paperdollHidingDelay": "Combien de temps la figurine reste visible après ton dernier mouvement.",
+  "nrc.ui.modules.info.paperdollShowCosmetics": "Affiche ou masque tes cosmétiques sur la figurine.",
+  "nrc.ui.modules.info.paperdollDollRotation": "Tourne la figurine sur le côté selon cet angle."
 }
