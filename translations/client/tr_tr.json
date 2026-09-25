@@ -1806,5 +1806,9 @@
   "nrc.ui.minigames.versus": "vs",
   "nrc.ui.minigames.wants_to_play": "%s oynamak istiyor",
   "nrc.ui.minigames.hold": "tut",
-  "nrc.ui.minigames.next": "sıradaki"
+  "nrc.ui.minigames.next": "sıradaki",
+  "nrc.ui.minigames.paused": "duraklatıldı",
+  "nrc.ui.minigames.resume": "devam et",
+  "nrc.ui.minigames.restart_hint": "tekrar oynamak için enter veya r",
+  "nrc.ui.minigames.resume_hint": "devam etmek için esc"
 }

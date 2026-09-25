@@ -951,5 +951,9 @@
   "nrc.ui.minigames.versus": "mot",
   "nrc.ui.minigames.wants_to_play": "vil spille %s",
   "nrc.ui.minigames.hold": "hold",
-  "nrc.ui.minigames.next": "neste"
+  "nrc.ui.minigames.next": "neste",
+  "nrc.ui.minigames.paused": "pause",
+  "nrc.ui.minigames.resume": "fortsett",
+  "nrc.ui.minigames.restart_hint": "enter eller r for å spille igjen",
+  "nrc.ui.minigames.resume_hint": "esc for å fortsette"
 }

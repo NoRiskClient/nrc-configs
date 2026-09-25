@@ -1806,5 +1806,9 @@
   "nrc.ui.minigames.versus": "बनाम",
   "nrc.ui.minigames.wants_to_play": "%s खेलना चाहता है",
   "nrc.ui.minigames.hold": "होल्ड",
-  "nrc.ui.minigames.next": "अगला"
+  "nrc.ui.minigames.next": "अगला",
+  "nrc.ui.minigames.paused": "रुका हुआ",
+  "nrc.ui.minigames.resume": "जारी रखें",
+  "nrc.ui.minigames.restart_hint": "फिर से खेलने के लिए enter या r",
+  "nrc.ui.minigames.resume_hint": "जारी रखने के लिए esc"
 }

@@ -1806,5 +1806,9 @@
   "nrc.ui.minigames.versus": "vs",
   "nrc.ui.minigames.wants_to_play": "vuole giocare a %s",
   "nrc.ui.minigames.hold": "tieni",
-  "nrc.ui.minigames.next": "prossimo"
+  "nrc.ui.minigames.next": "prossimo",
+  "nrc.ui.minigames.paused": "in pausa",
+  "nrc.ui.minigames.resume": "riprendi",
+  "nrc.ui.minigames.restart_hint": "invio o r per giocare ancora",
+  "nrc.ui.minigames.resume_hint": "esc per riprendere"
 }
