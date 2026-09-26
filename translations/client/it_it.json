@@ -1782,5 +1782,13 @@
   "nrc.ui.modules.value.tumble": "Ruota in caduta",
   "nrc.ui.modules.value.snapToFace": "Assesta all'atterraggio",
   "nrc.ui.modules.value.rotateSpeed": "Velocità di rotazione",
-  "nrc.ui.modules.value.tilt": "Inclinazione"
+  "nrc.ui.modules.value.tilt": "Inclinazione",
+  "nrc.ui.modules.info.crosshairProfiles": "Ogni profilo è un mirino a sé e il client cambia automaticamente. Default: non miri a nulla o miri a un blocco. Enemy: giocatori e mob ostili. Friendly: animali e altri mob pacifici.",
+  "nrc.ui.modules.value.selectedVariant": "Profilo",
+  "nrc.ui.modules.info.crosshairInverted": "Inverte ciò che c'è dietro il mirino così resta visibile su qualsiasi sfondo. I colori scelti vengono ignorati.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Ridimensiona l'indicatore di ricarica dell'attacco sotto il mirino insieme ad esso.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Mostra il mirino anche in terza persona (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Fa scorrere il colore attraverso l'arcobaleno.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Dà al punto centrale un colore proprio invece del colore dei tratti.",
+  "nrc.ui.modules.info.crosshairShareCode": "Copia mette questo profilo negli appunti come codice breve. Incolla carica un codice ricevuto nel profilo attuale."
 }

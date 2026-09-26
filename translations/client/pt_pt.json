@@ -1782,5 +1782,13 @@
   "nrc.ui.modules.value.tumble": "Rodar ao cair",
   "nrc.ui.modules.value.snapToFace": "Assentar ao aterrar",
   "nrc.ui.modules.value.rotateSpeed": "Velocidade de rotação",
-  "nrc.ui.modules.value.tilt": "Inclinação"
+  "nrc.ui.modules.value.tilt": "Inclinação",
+  "nrc.ui.modules.info.crosshairProfiles": "Cada perfil é uma mira própria e o cliente alterna automaticamente. Default: não estás a apontar para nada ou apontas para um bloco. Enemy: jogadores e mobs hostis. Friendly: animais e outros mobs pacíficos.",
+  "nrc.ui.modules.value.selectedVariant": "Perfil",
+  "nrc.ui.modules.info.crosshairInverted": "Inverte o que está atrás da mira para que fique visível em qualquer fundo. As cores escolhidas são ignoradas.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Dimensiona o indicador de recarga de ataque por baixo da mira juntamente com ela.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Também mostra a mira na terceira pessoa (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Faz a cor percorrer o arco-íris.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Dá ao ponto central uma cor própria em vez da cor dos traços.",
+  "nrc.ui.modules.info.crosshairShareCode": "Copiar coloca este perfil na área de transferência como um código curto. Colar carrega um código recebido no perfil atual."
 }

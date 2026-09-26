@@ -1782,5 +1782,13 @@
   "nrc.ui.modules.value.tumble": "Tumble While Falling",
   "nrc.ui.modules.value.snapToFace": "Settle On Landing",
   "nrc.ui.modules.value.rotateSpeed": "Tumble Speed",
-  "nrc.ui.modules.value.tilt": "Tilt"
+  "nrc.ui.modules.value.tilt": "Tilt",
+  "nrc.ui.modules.info.crosshairProfiles": "Each profile is its own crosshair and the client switches automatically. Default: aiming at nothing or at a block. Enemy: players and hostile mobs. Friendly: animals and other peaceful mobs.",
+  "nrc.ui.modules.value.selectedVariant": "Profile",
+  "nrc.ui.modules.info.crosshairInverted": "Inverts whatever is behind the crosshair so it stays visible on any background. The chosen colors are ignored.",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "Scales the attack cooldown indicator under the crosshair together with it.",
+  "nrc.ui.modules.info.crosshairThirdPerson": "Also draws the crosshair in third person (F5).",
+  "nrc.ui.modules.info.crosshairChromatic": "Cycles the color through the rainbow.",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "Gives the center dot its own color instead of the stroke color.",
+  "nrc.ui.modules.info.crosshairShareCode": "Copy puts this profile on your clipboard as a short code. Paste loads a code you received into the current profile."
 }

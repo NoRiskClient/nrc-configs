@@ -1782,5 +1782,13 @@
   "nrc.ui.modules.value.tumble": "गिरते समय घूमें",
   "nrc.ui.modules.value.snapToFace": "उतरने पर टिकें",
   "nrc.ui.modules.value.rotateSpeed": "घूमने की गति",
-  "nrc.ui.modules.value.tilt": "झुकाव"
+  "nrc.ui.modules.value.tilt": "झुकाव",
+  "nrc.ui.modules.info.crosshairProfiles": "हर प्रोफ़ाइल एक अलग क्रॉसहेयर है और क्लाइंट अपने आप बदलता है। Default: जब आप किसी चीज़ पर निशाना नहीं लगा रहे या किसी ब्लॉक पर लगा रहे हों। Enemy: खिलाड़ी और शत्रुतापूर्ण मॉब। Friendly: जानवर और दूसरे शांत मॉब।",
+  "nrc.ui.modules.value.selectedVariant": "प्रोफ़ाइल",
+  "nrc.ui.modules.info.crosshairInverted": "क्रॉसहेयर के पीछे की चीज़ों के रंग उलट देता है ताकि यह हर बैकग्राउंड पर दिखे। चुने गए रंग अनदेखे किए जाते हैं।",
+  "nrc.ui.modules.info.crosshairScaleIndicator": "क्रॉसहेयर के नीचे वाले अटैक कूलडाउन इंडिकेटर को भी उसके साथ स्केल करता है।",
+  "nrc.ui.modules.info.crosshairThirdPerson": "थर्ड पर्सन (F5) में भी क्रॉसहेयर दिखाता है।",
+  "nrc.ui.modules.info.crosshairChromatic": "रंग को इंद्रधनुष के रंगों में बदलता रहता है।",
+  "nrc.ui.modules.info.crosshairDotOwnColor": "बीच वाले डॉट को स्ट्रोक के रंग की जगह उसका अपना रंग देता है।",
+  "nrc.ui.modules.info.crosshairShareCode": "कॉपी इस प्रोफ़ाइल को एक छोटे कोड के रूप में क्लिपबोर्ड पर रखता है। पेस्ट मिले हुए कोड को मौजूदा प्रोफ़ाइल में लोड करता है।"
 }
