@@ -1800,5 +1800,16 @@
   "nrc.ui.modules.info.twitchFollowerGoal": "Yalnızca Twitch kanalında aktif bir takipçi hedefi varken görünür.",
   "nrc.ui.modules.info.twitchSubGoal": "Yalnızca Twitch kanalında aktif bir abone hedefi varken görünür.",
   "nrc.ui.modules.info.twitchStreamQuality": "Auto, çözünürlüğü videonun ekrandaki boyutuna göre seçer. Sabit bir kalite her zaman o çözünürlüğü yükler.",
-  "nrc.ui.modules.info.twitchStreamMode": "Yalnızca ses modunda video gizliyken de ses çalmaya devam eder, örneğin menülerde. Videolu modda yayın ekrandan çıktıktan kısa süre sonra durur."
+  "nrc.ui.modules.info.twitchStreamMode": "Yalnızca ses modunda video gizliyken de ses çalmaya devam eder, örneğin menülerde. Videolu modda yayın ekrandan çıktıktan kısa süre sonra durur.",
+  "nrc.ui.modules.info.twitchStreamer": "Sohbetini okuduğun ve yayınını Stream Player'ın gösterdiği kanal. Oyuncu menüsünden birini izlemek bunu yalnızca geçici olarak değiştirir.",
+  "nrc.ui.modules.info.twitchSendPrefix": "Mesajı sunucu yerine Twitch sohbetine göndermek için bu önekle başlat.",
+  "nrc.ui.modules.info.twitchSevenTv": "Kanalın 7TV emote'larını ve global 7TV emote'larını Twitch sohbetinde gösterir.",
+  "nrc.ui.modules.info.twitchHighlights": "Seni anan mesajları ▶, ilk kez yazanları ✦ ile işaretler ve bir yanıtın kime olduğunu ↳ ile gösterir.",
+  "nrc.ui.modules.info.twitchAutoConnect": "Always sohbete hemen katılır. When Live yalnızca kanal yayındayken katılır ve bağlı bir hesap gerektirir. Off asla kendiliğinden katılmaz.",
+  "nrc.ui.modules.info.twitchHudLayout": "Combined her şeyi tek bir Stats HUD'ında toplar. Separate her hedefe ve sayaca serbestçe yerleştirebileceğin kendi HUD'ını verir.",
+  "nrc.ui.modules.info.twitchOverhead": "Yayın yaparken diğer NoRisk oyuncuları başının üstünde bir Live on Twitch etiketi görür.",
+  "nrc.ui.modules.info.twitchViewerText": "Long sayının arkasına viewers kelimesini ekler, Short yalnızca sayıyı gösterir.",
+  "nrc.ui.modules.info.twitchOverheadVisibility": "Başların üstünde kimin Twitch etiketlerini göreceğin: hiç kimsenin, yalnızca kendininkini, arkadaşlarınınkini veya herkesinkini.",
+  "nrc.ui.modules.info.twitchNotifications": "Kendi kanalındaki takipler, abonelikler, bitler, baskınlar ve kanal puanları için bildirimler ve sesler. Go Live, Live Alerts altında seçtiğin kanallar içindir.",
+  "nrc.ui.modules.info.twitchLiveAlerts": "Takip ettiğin kanalları seç ve biri yayına başlar başlamaz bildirim al."
 }

@@ -945,5 +945,16 @@
   "nrc.ui.modules.info.twitchFollowerGoal": "Vises bare mens et følgermål er aktivt på Twitch-kanalen din.",
   "nrc.ui.modules.info.twitchSubGoal": "Vises bare mens et abonnentmål er aktivt på Twitch-kanalen din.",
   "nrc.ui.modules.info.twitchStreamQuality": "Auto velger oppløsningen etter hvor stor videoen er på skjermen. En fast kvalitet laster alltid inn den oppløsningen.",
-  "nrc.ui.modules.info.twitchStreamMode": "Kun lyd fortsetter å spille mens videoen er skjult, for eksempel i menyer. Med video stopper strømmen kort tid etter at den forsvinner fra skjermen."
+  "nrc.ui.modules.info.twitchStreamMode": "Kun lyd fortsetter å spille mens videoen er skjult, for eksempel i menyer. Med video stopper strømmen kort tid etter at den forsvinner fra skjermen.",
+  "nrc.ui.modules.info.twitchStreamer": "Kanalen du leser chatten til og som Stream Player viser strømmen til. Ser du på noen fra spillermenyen, byttes den bare midlertidig.",
+  "nrc.ui.modules.info.twitchSendPrefix": "Start en melding med dette prefikset for å sende den til Twitch-chatten i stedet for serveren.",
+  "nrc.ui.modules.info.twitchSevenTv": "Viser kanalens 7TV-emotes og de globale 7TV-emotene i Twitch-chatten.",
+  "nrc.ui.modules.info.twitchHighlights": "Merker meldinger som nevner deg med ▶ og førstegangsskribenter med ✦, og viser med ↳ hvem et svar gjelder.",
+  "nrc.ui.modules.info.twitchAutoConnect": "Always blir med i chatten med en gang. When Live blir bare med mens kanalen er live og krever en koblet konto. Off blir aldri med av seg selv.",
+  "nrc.ui.modules.info.twitchHudLayout": "Combined samler alt i én Stats-HUD. Separate gir hvert mål og hver teller sin egen HUD som du kan plassere fritt.",
+  "nrc.ui.modules.info.twitchOverhead": "Mens du strømmer, ser andre NoRisk-spillere et Live on Twitch-merke over hodet ditt.",
+  "nrc.ui.modules.info.twitchViewerText": "Long legger til ordet viewers etter tallet, Short viser bare tallet.",
+  "nrc.ui.modules.info.twitchOverheadVisibility": "Hvem sine Twitch-merker du ser over hodene: ingen, bare ditt eget, vennene dine sine eller alles.",
+  "nrc.ui.modules.info.twitchNotifications": "Varsler og lyder for follows, subs, bits, raids og kanalpoeng på din egen kanal. Go Live gjelder kanalene du velger under Live Alerts.",
+  "nrc.ui.modules.info.twitchLiveAlerts": "Velg kanaler du følger, og få et varsel så snart en av dem går live."
 }

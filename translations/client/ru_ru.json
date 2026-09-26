@@ -1800,5 +1800,16 @@
   "nrc.ui.modules.info.twitchFollowerGoal": "Показывается, только пока на твоём канале Twitch активна цель по фолловерам.",
   "nrc.ui.modules.info.twitchSubGoal": "Показывается, только пока на твоём канале Twitch активна цель по подпискам.",
   "nrc.ui.modules.info.twitchStreamQuality": "Auto подбирает разрешение под размер видео на экране. Фиксированное качество всегда загружает именно это разрешение.",
-  "nrc.ui.modules.info.twitchStreamMode": "В режиме «только звук» звук продолжает играть, пока видео скрыто, например в меню. С видео стрим останавливается вскоре после того, как пропадает с экрана."
+  "nrc.ui.modules.info.twitchStreamMode": "В режиме «только звук» звук продолжает играть, пока видео скрыто, например в меню. С видео стрим останавливается вскоре после того, как пропадает с экрана.",
+  "nrc.ui.modules.info.twitchStreamer": "Канал, чат которого ты читаешь и стрим которого показывает Stream Player. Просмотр кого-то через меню игрока меняет его лишь временно.",
+  "nrc.ui.modules.info.twitchSendPrefix": "Начни сообщение с этого префикса, чтобы отправить его в чат Twitch, а не на сервер.",
+  "nrc.ui.modules.info.twitchSevenTv": "Показывает 7TV-эмоуты канала и глобальные 7TV-эмоуты в чате Twitch.",
+  "nrc.ui.modules.info.twitchHighlights": "Отмечает ▶ сообщения с упоминанием тебя, ✦ тех, кто пишет впервые, и показывает ↳, кому адресован ответ.",
+  "nrc.ui.modules.info.twitchAutoConnect": "Always сразу подключается к чату. When Live подключается, только пока канал в эфире, и требует привязанный аккаунт. Off никогда не подключается сам.",
+  "nrc.ui.modules.info.twitchHudLayout": "Combined собирает всё в один HUD Stats. Separate даёт каждой цели и счётчику свой HUD, который можно свободно разместить.",
+  "nrc.ui.modules.info.twitchOverhead": "Пока ты стримишь, другие игроки NoRisk видят над твоей головой метку Live on Twitch.",
+  "nrc.ui.modules.info.twitchViewerText": "Long добавляет слово viewers после числа, Short показывает только число.",
+  "nrc.ui.modules.info.twitchOverheadVisibility": "Чьи метки Twitch ты видишь над головами: ничьи, только свою, своих друзей или всех.",
+  "nrc.ui.modules.info.twitchNotifications": "Уведомления и звуки для фолловов, сабов, битсов, рейдов и баллов канала на твоём канале. Go Live относится к каналам, выбранным в Live Alerts.",
+  "nrc.ui.modules.info.twitchLiveAlerts": "Выбери каналы, на которые ты подписан, и получай уведомление, как только один из них выйдет в эфир."
 }

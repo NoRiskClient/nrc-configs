@@ -1800,5 +1800,16 @@
   "nrc.ui.modules.info.twitchFollowerGoal": "Erscheint nur, solange auf deinem Twitch-Kanal ein Follower-Ziel aktiv ist.",
   "nrc.ui.modules.info.twitchSubGoal": "Erscheint nur, solange auf deinem Twitch-Kanal ein Sub-Ziel aktiv ist.",
   "nrc.ui.modules.info.twitchStreamQuality": "Auto wählt die Auflösung passend zur Größe des Videos auf dem Bildschirm. Eine feste Qualität lädt immer genau diese Auflösung.",
-  "nrc.ui.modules.info.twitchStreamMode": "Nur Audio läuft weiter, während das Video ausgeblendet ist, etwa in Menüs. Mit Video stoppt der Stream kurz nachdem er vom Bildschirm verschwindet."
+  "nrc.ui.modules.info.twitchStreamMode": "Nur Audio läuft weiter, während das Video ausgeblendet ist, etwa in Menüs. Mit Video stoppt der Stream kurz nachdem er vom Bildschirm verschwindet.",
+  "nrc.ui.modules.info.twitchStreamer": "Der Kanal, dessen Chat du liest und dessen Stream der Stream Player zeigt. Schaust du jemanden über das Spielermenü, wird er nur vorübergehend getauscht.",
+  "nrc.ui.modules.info.twitchSendPrefix": "Beginnt eine Chatnachricht mit diesem Präfix, geht sie in den Twitch-Chat statt an den Server.",
+  "nrc.ui.modules.info.twitchSevenTv": "Zeigt die 7TV-Emotes des Kanals und die globalen 7TV-Emotes im Twitch-Chat.",
+  "nrc.ui.modules.info.twitchHighlights": "Markiert Nachrichten, die dich erwähnen, mit ▶ und Erstschreiber mit ✦ und zeigt mit ↳, wem eine Antwort gilt.",
+  "nrc.ui.modules.info.twitchAutoConnect": "Always tritt dem Chat sofort bei. When Live nur, solange der Kanal live ist, und braucht einen verknüpften Account. Off tritt nie von selbst bei.",
+  "nrc.ui.modules.info.twitchHudLayout": "Combined packt alles in ein Stats-HUD. Separate gibt jedem Ziel und Zähler ein eigenes HUD, das du frei platzieren kannst.",
+  "nrc.ui.modules.info.twitchOverhead": "Während du streamst, sehen andere NoRisk-Spieler über deinem Kopf ein Live-on-Twitch-Schild.",
+  "nrc.ui.modules.info.twitchViewerText": "Long schreibt viewers hinter die Zahl, Short zeigt nur die Zahl.",
+  "nrc.ui.modules.info.twitchOverheadVisibility": "Wessen Twitch-Schilder du über Köpfen siehst: niemandes, nur dein eigenes, das deiner Freunde oder das aller.",
+  "nrc.ui.modules.info.twitchNotifications": "Toasts und Sounds für Follows, Subs, Bits, Raids und Kanalpunkte auf deinem eigenen Kanal. Go Live gilt für die Kanäle, die du unter Live Alerts auswählst.",
+  "nrc.ui.modules.info.twitchLiveAlerts": "Wähle Kanäle, denen du folgst, und bekomme einen Toast, sobald einer davon live geht."
 }

@@ -1800,5 +1800,16 @@
   "nrc.ui.modules.info.twitchFollowerGoal": "यह केवल तब दिखता है जब आपके Twitch चैनल पर कोई फ़ॉलोअर लक्ष्य सक्रिय हो।",
   "nrc.ui.modules.info.twitchSubGoal": "यह केवल तब दिखता है जब आपके Twitch चैनल पर कोई सब्सक्राइबर लक्ष्य सक्रिय हो।",
   "nrc.ui.modules.info.twitchStreamQuality": "Auto स्क्रीन पर वीडियो के आकार के अनुसार रिज़ॉल्यूशन चुनता है। तय गुणवत्ता हमेशा वही रिज़ॉल्यूशन लोड करती है।",
-  "nrc.ui.modules.info.twitchStreamMode": "केवल ऑडियो मोड में वीडियो छिपे होने पर भी आवाज़ चलती रहती है, जैसे मेनू में। वीडियो के साथ, स्ट्रीम स्क्रीन से हटने के कुछ ही देर बाद रुक जाती है।"
+  "nrc.ui.modules.info.twitchStreamMode": "केवल ऑडियो मोड में वीडियो छिपे होने पर भी आवाज़ चलती रहती है, जैसे मेनू में। वीडियो के साथ, स्ट्रीम स्क्रीन से हटने के कुछ ही देर बाद रुक जाती है।",
+  "nrc.ui.modules.info.twitchStreamer": "वह चैनल जिसकी चैट आप पढ़ते हैं और जिसकी स्ट्रीम Stream Player दिखाता है। प्लेयर मेनू से किसी को देखने पर यह केवल कुछ समय के लिए बदलता है।",
+  "nrc.ui.modules.info.twitchSendPrefix": "मैसेज को सर्वर के बजाय Twitch चैट में भेजने के लिए उसे इस प्रीफ़िक्स से शुरू करें।",
+  "nrc.ui.modules.info.twitchSevenTv": "Twitch चैट में चैनल के 7TV इमोट और ग्लोबल 7TV इमोट दिखाता है।",
+  "nrc.ui.modules.info.twitchHighlights": "आपको मेंशन करने वाले मैसेज को ▶ से और पहली बार लिखने वालों को ✦ से मार्क करता है, और ↳ से दिखाता है कि जवाब किसके लिए है।",
+  "nrc.ui.modules.info.twitchAutoConnect": "Always तुरंत चैट से जुड़ता है। When Live केवल तब जुड़ता है जब चैनल लाइव हो, और इसके लिए लिंक किया हुआ अकाउंट चाहिए। Off कभी अपने आप नहीं जुड़ता।",
+  "nrc.ui.modules.info.twitchHudLayout": "Combined सब कुछ एक Stats HUD में दिखाता है। Separate हर लक्ष्य और काउंटर को अपना HUD देता है, जिसे आप कहीं भी रख सकते हैं।",
+  "nrc.ui.modules.info.twitchOverhead": "जब आप स्ट्रीम करते हैं, तो दूसरे NoRisk खिलाड़ियों को आपके सिर के ऊपर Live on Twitch टैग दिखता है।",
+  "nrc.ui.modules.info.twitchViewerText": "Long संख्या के बाद viewers शब्द जोड़ता है, Short केवल संख्या दिखाता है।",
+  "nrc.ui.modules.info.twitchOverheadVisibility": "सिर के ऊपर किसके Twitch टैग आपको दिखें: किसी के नहीं, केवल आपका, आपके दोस्तों के या सबके।",
+  "nrc.ui.modules.info.twitchNotifications": "आपके अपने चैनल पर फ़ॉलो, सब, बिट्स, रेड और चैनल पॉइंट्स के लिए नोटिफ़िकेशन और साउंड। Go Live उन चैनलों के लिए है जिन्हें आप Live Alerts में चुनते हैं।",
+  "nrc.ui.modules.info.twitchLiveAlerts": "जिन चैनलों को आप फ़ॉलो करते हैं उन्हें चुनें और उनमें से कोई लाइव होते ही नोटिफ़िकेशन पाएँ।"
 }

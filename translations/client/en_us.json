@@ -1800,5 +1800,16 @@
   "nrc.ui.modules.info.twitchFollowerGoal": "Only appears while a follower goal is active on your Twitch channel.",
   "nrc.ui.modules.info.twitchSubGoal": "Only appears while a sub goal is active on your Twitch channel.",
   "nrc.ui.modules.info.twitchStreamQuality": "Auto picks the resolution that fits the size of the video on screen. A fixed quality always loads that resolution.",
-  "nrc.ui.modules.info.twitchStreamMode": "Audio only keeps playing while the video is hidden, for example in menus. With video the stream stops shortly after it leaves the screen."
+  "nrc.ui.modules.info.twitchStreamMode": "Audio only keeps playing while the video is hidden, for example in menus. With video the stream stops shortly after it leaves the screen.",
+  "nrc.ui.modules.info.twitchStreamer": "The channel whose chat you read and whose stream the Stream Player shows. Watching someone from the player menu only swaps it temporarily.",
+  "nrc.ui.modules.info.twitchSendPrefix": "Start a chat message with this prefix to send it to the Twitch chat instead of the server.",
+  "nrc.ui.modules.info.twitchSevenTv": "Shows the channel's 7TV emotes and the global 7TV emotes in the Twitch chat.",
+  "nrc.ui.modules.info.twitchHighlights": "Marks messages that mention you with ▶ and first-time chatters with ✦, and shows who a reply is for with ↳.",
+  "nrc.ui.modules.info.twitchAutoConnect": "Always joins the chat right away. When Live only joins while the channel is live and needs a linked account. Off never joins on its own.",
+  "nrc.ui.modules.info.twitchHudLayout": "Combined puts everything into one Stats HUD. Separate gives every goal and counter its own HUD that you can place freely.",
+  "nrc.ui.modules.info.twitchOverhead": "While you stream, other NoRisk players see a Live on Twitch tag above your head.",
+  "nrc.ui.modules.info.twitchViewerText": "Long adds the word viewers after the count, Short only shows the number.",
+  "nrc.ui.modules.info.twitchOverheadVisibility": "Whose Twitch tags you see above heads: nobody, only your own, your friends or everyone.",
+  "nrc.ui.modules.info.twitchNotifications": "Toasts and sounds for follows, subs, bits, raids and channel points on your own channel. Go Live is for the channels you pick under Live Alerts.",
+  "nrc.ui.modules.info.twitchLiveAlerts": "Pick channels you follow and get a toast as soon as one of them goes live."
 }

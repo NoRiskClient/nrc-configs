@@ -1800,5 +1800,16 @@
   "nrc.ui.modules.info.twitchFollowerGoal": "Só aparece enquanto houver um objetivo de seguidores ativo no teu canal da Twitch.",
   "nrc.ui.modules.info.twitchSubGoal": "Só aparece enquanto houver um objetivo de subscritores ativo no teu canal da Twitch.",
   "nrc.ui.modules.info.twitchStreamQuality": "Auto escolhe a resolução de acordo com o tamanho do vídeo no ecrã. Uma qualidade fixa carrega sempre essa resolução.",
-  "nrc.ui.modules.info.twitchStreamMode": "Só áudio continua a tocar enquanto o vídeo está oculto, por exemplo nos menus. Com vídeo, a stream para pouco depois de sair do ecrã."
+  "nrc.ui.modules.info.twitchStreamMode": "Só áudio continua a tocar enquanto o vídeo está oculto, por exemplo nos menus. Com vídeo, a stream para pouco depois de sair do ecrã.",
+  "nrc.ui.modules.info.twitchStreamer": "O canal cujo chat lês e cuja transmissão o Stream Player mostra. Ver alguém a partir do menu do jogador só o troca temporariamente.",
+  "nrc.ui.modules.info.twitchSendPrefix": "Começa uma mensagem com este prefixo para a enviares para o chat da Twitch em vez do servidor.",
+  "nrc.ui.modules.info.twitchSevenTv": "Mostra os emotes 7TV do canal e os emotes 7TV globais no chat da Twitch.",
+  "nrc.ui.modules.info.twitchHighlights": "Marca com ▶ as mensagens que te mencionam e com ✦ quem escreve pela primeira vez, e mostra com ↳ a quem se dirige uma resposta.",
+  "nrc.ui.modules.info.twitchAutoConnect": "Always entra no chat de imediato. When Live só entra enquanto o canal está em direto e precisa de uma conta associada. Off nunca entra sozinho.",
+  "nrc.ui.modules.info.twitchHudLayout": "Combined junta tudo num único HUD de Stats. Separate dá a cada objetivo e contador o seu próprio HUD, que podes posicionar livremente.",
+  "nrc.ui.modules.info.twitchOverhead": "Enquanto transmites, outros jogadores do NoRisk veem uma etiqueta Live on Twitch por cima da tua cabeça.",
+  "nrc.ui.modules.info.twitchViewerText": "Long acrescenta a palavra viewers depois do número, Short mostra só o número.",
+  "nrc.ui.modules.info.twitchOverheadVisibility": "De quem vês as etiquetas da Twitch por cima das cabeças: de ninguém, só a tua, a dos teus amigos ou a de todos.",
+  "nrc.ui.modules.info.twitchNotifications": "Notificações e sons para follows, subs, bits, raids e pontos do canal no teu próprio canal. Go Live aplica-se aos canais escolhidos em Live Alerts.",
+  "nrc.ui.modules.info.twitchLiveAlerts": "Escolhe canais que segues e recebe uma notificação assim que um deles entrar em direto."
 }
