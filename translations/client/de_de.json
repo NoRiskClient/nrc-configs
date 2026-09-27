@@ -1782,5 +1782,6 @@
   "nrc.ui.modules.value.tumble": "Drehen im Fall",
   "nrc.ui.modules.value.snapToFace": "Beim Landen einrasten",
   "nrc.ui.modules.value.rotateSpeed": "Drehgeschwindigkeit",
-  "nrc.ui.modules.value.tilt": "Neigung"
+  "nrc.ui.modules.value.tilt": "Neigung",
+  "nrc.exclusive.reason.discord_boost.hint": "Verknüpfe deinen Discord-Account, um Boost-Belohnungen zu erhalten."
 }

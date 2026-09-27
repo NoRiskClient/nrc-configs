@@ -1782,5 +1782,6 @@
   "nrc.ui.modules.value.tumble": "Кувырок при падении",
   "nrc.ui.modules.value.snapToFace": "Выравнивать при приземлении",
   "nrc.ui.modules.value.rotateSpeed": "Скорость вращения",
-  "nrc.ui.modules.value.tilt": "Наклон"
+  "nrc.ui.modules.value.tilt": "Наклон",
+  "nrc.exclusive.reason.discord_boost.hint": "Привяжи свой аккаунт Discord, чтобы получать награды за буст."
 }

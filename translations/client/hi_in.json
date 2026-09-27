@@ -1782,5 +1782,6 @@
   "nrc.ui.modules.value.tumble": "गिरते समय घूमें",
   "nrc.ui.modules.value.snapToFace": "उतरने पर टिकें",
   "nrc.ui.modules.value.rotateSpeed": "घूमने की गति",
-  "nrc.ui.modules.value.tilt": "झुकाव"
+  "nrc.ui.modules.value.tilt": "झुकाव",
+  "nrc.exclusive.reason.discord_boost.hint": "बूस्ट रिवॉर्ड पाने के लिए अपना Discord अकाउंट लिंक करें।"
 }

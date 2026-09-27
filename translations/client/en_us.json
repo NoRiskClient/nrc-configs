@@ -1782,5 +1782,6 @@
   "nrc.ui.modules.value.tumble": "Tumble While Falling",
   "nrc.ui.modules.value.snapToFace": "Settle On Landing",
   "nrc.ui.modules.value.rotateSpeed": "Tumble Speed",
-  "nrc.ui.modules.value.tilt": "Tilt"
+  "nrc.ui.modules.value.tilt": "Tilt",
+  "nrc.exclusive.reason.discord_boost.hint": "Link your Discord account to receive boost rewards."
 }

@@ -927,5 +927,7 @@
   "nrc.ui.modules.value.tumble": "Snurr i fallet",
   "nrc.ui.modules.value.snapToFace": "Sett deg ved landing",
   "nrc.ui.modules.value.rotateSpeed": "Snurrehastighet",
-  "nrc.ui.modules.value.tilt": "Helning"
+  "nrc.ui.modules.value.tilt": "Helning",
+  "nrc.exclusive.reason.discord_boost": "Boost Discord-serveren vår!",
+  "nrc.exclusive.reason.discord_boost.hint": "Koble til Discord-kontoen din for å få boost-belønninger."
 }

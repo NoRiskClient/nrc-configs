@@ -1782,5 +1782,6 @@
   "nrc.ui.modules.value.tumble": "Girar ao cair",
   "nrc.ui.modules.value.snapToFace": "Assentar ao pousar",
   "nrc.ui.modules.value.rotateSpeed": "Velocidade de giro",
-  "nrc.ui.modules.value.tilt": "Inclinação"
+  "nrc.ui.modules.value.tilt": "Inclinação",
+  "nrc.exclusive.reason.discord_boost.hint": "Vincule sua conta do Discord para receber as recompensas de boost."
 }

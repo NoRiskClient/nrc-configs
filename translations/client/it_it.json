@@ -1782,5 +1782,6 @@
   "nrc.ui.modules.value.tumble": "Ruota in caduta",
   "nrc.ui.modules.value.snapToFace": "Assesta all'atterraggio",
   "nrc.ui.modules.value.rotateSpeed": "Velocità di rotazione",
-  "nrc.ui.modules.value.tilt": "Inclinazione"
+  "nrc.ui.modules.value.tilt": "Inclinazione",
+  "nrc.exclusive.reason.discord_boost.hint": "Collega il tuo account Discord per ricevere le ricompense del boost."
 }

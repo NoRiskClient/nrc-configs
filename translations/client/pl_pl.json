@@ -1782,5 +1782,6 @@
   "nrc.ui.modules.value.tumble": "Obracanie w locie",
   "nrc.ui.modules.value.snapToFace": "Osiadanie po lądowaniu",
   "nrc.ui.modules.value.rotateSpeed": "Szybkość obrotu",
-  "nrc.ui.modules.value.tilt": "Nachylenie"
+  "nrc.ui.modules.value.tilt": "Nachylenie",
+  "nrc.exclusive.reason.discord_boost.hint": "Połącz swoje konto Discord, aby otrzymać nagrody za boost."
 }

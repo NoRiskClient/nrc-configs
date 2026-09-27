@@ -1782,5 +1782,6 @@
   "nrc.ui.modules.value.tumble": "Tournoyer en tombant",
   "nrc.ui.modules.value.snapToFace": "Se poser à l'atterrissage",
   "nrc.ui.modules.value.rotateSpeed": "Vitesse de rotation",
-  "nrc.ui.modules.value.tilt": "Inclinaison"
+  "nrc.ui.modules.value.tilt": "Inclinaison",
+  "nrc.exclusive.reason.discord_boost.hint": "Associe ton compte Discord pour recevoir les récompenses de boost."
 }
