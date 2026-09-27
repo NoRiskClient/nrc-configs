@@ -1732,6 +1732,7 @@
   "nrc.cosmetics.ui.wishlist.loading": "Загрузка списка желаемого...",
   "nrc.cosmetics.ui.wishlist.failed": "Не удалось загрузить список желаемого :(",
   "nrc.cosmetics.ui.wishlist.empty": "В списке желаемого пока пусто",
+  "nrc.cosmetics.ui.wishlist.empty.hint": "Отмечай предметы в магазине закладкой, чтобы собрать их здесь. Друзья видят твой список желаний в профиле и могут подарить что-нибудь из него.",
   "nrc.cosmetics.ui.wishlist.unavailable": "Этих предметов больше нет",
   "nrc.cosmetics.ui.wishlist.toast.title": "Список желаемого",
   "nrc.cosmetics.ui.wishlist.toast.added": "Добавлено в список желаемого!",

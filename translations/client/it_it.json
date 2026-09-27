@@ -1732,6 +1732,7 @@
   "nrc.cosmetics.ui.wishlist.loading": "Caricamento della lista dei desideri...",
   "nrc.cosmetics.ui.wishlist.failed": "Impossibile caricare la lista dei desideri :(",
   "nrc.cosmetics.ui.wishlist.empty": "Non c'è ancora nulla nella lista dei desideri",
+  "nrc.cosmetics.ui.wishlist.empty.hint": "Segna gli oggetti del negozio con il segnalibro per raccoglierli qui. Gli amici vedono la tua lista dei desideri sul tuo profilo e possono regalarti qualcosa.",
   "nrc.cosmetics.ui.wishlist.unavailable": "Questi oggetti non sono più disponibili",
   "nrc.cosmetics.ui.wishlist.toast.title": "Lista dei desideri",
   "nrc.cosmetics.ui.wishlist.toast.added": "Aggiunto alla tua lista dei desideri!",

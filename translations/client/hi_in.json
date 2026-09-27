@@ -1732,6 +1732,7 @@
   "nrc.cosmetics.ui.wishlist.loading": "इच्छा-सूची लोड हो रही है...",
   "nrc.cosmetics.ui.wishlist.failed": "इच्छा-सूची लोड नहीं हो सकी :(",
   "nrc.cosmetics.ui.wishlist.empty": "इच्छा-सूची में अभी कुछ नहीं है",
+  "nrc.cosmetics.ui.wishlist.empty.hint": "दुकान के आइटम को बुकमार्क से चिह्नित करें ताकि वे यहाँ इकट्ठा हों। दोस्त आपकी प्रोफ़ाइल पर आपकी विशलिस्ट देख सकते हैं और उसमें से आपको कुछ उपहार दे सकते हैं।",
   "nrc.cosmetics.ui.wishlist.unavailable": "ये आइटम अब उपलब्ध नहीं हैं",
   "nrc.cosmetics.ui.wishlist.toast.title": "इच्छा-सूची",
   "nrc.cosmetics.ui.wishlist.toast.added": "आपकी इच्छा-सूची में जोड़ा गया!",

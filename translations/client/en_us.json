@@ -1732,6 +1732,7 @@
   "nrc.cosmetics.ui.wishlist.loading": "Loading wishlist...",
   "nrc.cosmetics.ui.wishlist.failed": "Could not load the wishlist :(",
   "nrc.cosmetics.ui.wishlist.empty": "Nothing on the wishlist yet",
+  "nrc.cosmetics.ui.wishlist.empty.hint": "Mark shop items with the bookmark to collect them here. Friends can see your wishlist on your profile and gift you something from it.",
   "nrc.cosmetics.ui.wishlist.unavailable": "These items are no longer available",
   "nrc.cosmetics.ui.wishlist.toast.title": "Wishlist",
   "nrc.cosmetics.ui.wishlist.toast.added": "Added to your wishlist!",

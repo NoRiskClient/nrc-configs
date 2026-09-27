@@ -1732,6 +1732,7 @@
   "nrc.cosmetics.ui.wishlist.loading": "Wczytywanie listy życzeń...",
   "nrc.cosmetics.ui.wishlist.failed": "Nie udało się wczytać listy życzeń :(",
   "nrc.cosmetics.ui.wishlist.empty": "Na liście życzeń nic jeszcze nie ma",
+  "nrc.cosmetics.ui.wishlist.empty.hint": "Oznaczaj przedmioty ze sklepu zakładką, aby zbierać je tutaj. Znajomi widzą twoją listę życzeń w profilu i mogą ci coś z niej podarować.",
   "nrc.cosmetics.ui.wishlist.unavailable": "Tych przedmiotów już nie ma",
   "nrc.cosmetics.ui.wishlist.toast.title": "Lista życzeń",
   "nrc.cosmetics.ui.wishlist.toast.added": "Dodano do twojej listy życzeń!",

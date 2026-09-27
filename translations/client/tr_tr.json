@@ -1732,6 +1732,7 @@
   "nrc.cosmetics.ui.wishlist.loading": "İstek listesi yükleniyor...",
   "nrc.cosmetics.ui.wishlist.failed": "İstek listesi yüklenemedi :(",
   "nrc.cosmetics.ui.wishlist.empty": "İstek listesinde henüz bir şey yok",
+  "nrc.cosmetics.ui.wishlist.empty.hint": "Mağaza öğelerini yer imiyle işaretleyerek burada topla. Arkadaşların istek listeni profilinde görebilir ve sana ondan bir şey hediye edebilir.",
   "nrc.cosmetics.ui.wishlist.unavailable": "Bu eşyalar artık mevcut değil",
   "nrc.cosmetics.ui.wishlist.toast.title": "İstek listesi",
   "nrc.cosmetics.ui.wishlist.toast.added": "İstek listene eklendi!",

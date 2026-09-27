@@ -877,6 +877,7 @@
   "nrc.cosmetics.ui.wishlist.loading": "Laster ønskelisten...",
   "nrc.cosmetics.ui.wishlist.failed": "Kunne ikke laste ønskelisten :(",
   "nrc.cosmetics.ui.wishlist.empty": "Ingenting på ønskelisten ennå",
+  "nrc.cosmetics.ui.wishlist.empty.hint": "Merk butikkgjenstander med bokmerket for å samle dem her. Venner ser ønskelisten din på profilen din og kan gi deg noe fra den.",
   "nrc.cosmetics.ui.wishlist.unavailable": "Disse gjenstandene er ikke tilgjengelige lenger",
   "nrc.cosmetics.ui.wishlist.toast.title": "Ønskeliste",
   "nrc.cosmetics.ui.wishlist.toast.added": "Lagt til i ønskelisten din!",
