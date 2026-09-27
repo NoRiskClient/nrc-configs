@@ -1740,6 +1740,7 @@
   "nrc.ui.shop.filter.wishlist": "İstek listesi",
   "nrc.cosmetics.ui.gift.toast.title": "Hediye",
   "nrc.cosmetics.ui.gift.toast.received": "%s aldın!",
+  "nrc.cosmetics.ui.gift.for": "%s için hediye",
   "nrc.cosmetics.ui.gift.message": "Mesaj (isteğe bağlı)",
   "nrc.cosmetics.ui.gift.anonymous": "Anonim olarak hediye et",
   "nrc.cosmetics.ui.gift.sent": "%s, %s adlı oyuncuya hediye edildi",

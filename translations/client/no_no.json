@@ -885,6 +885,7 @@
   "nrc.ui.shop.filter.wishlist": "Ønskeliste",
   "nrc.cosmetics.ui.gift.toast.title": "Gave",
   "nrc.cosmetics.ui.gift.toast.received": "Du fikk %s!",
+  "nrc.cosmetics.ui.gift.for": "Gave til %s",
   "nrc.cosmetics.ui.gift.message": "Melding (valgfritt)",
   "nrc.cosmetics.ui.gift.anonymous": "Gi anonymt",
   "nrc.cosmetics.ui.gift.sent": "Ga %s til %s",

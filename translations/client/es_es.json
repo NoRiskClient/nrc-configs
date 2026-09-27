@@ -1740,6 +1740,7 @@
   "nrc.ui.shop.filter.wishlist": "Lista de deseos",
   "nrc.cosmetics.ui.gift.toast.title": "Regalo",
   "nrc.cosmetics.ui.gift.toast.received": "¡Has recibido %s!",
+  "nrc.cosmetics.ui.gift.for": "Regalo para %s",
   "nrc.cosmetics.ui.gift.message": "Mensaje (opcional)",
   "nrc.cosmetics.ui.gift.anonymous": "Regalar de forma anónima",
   "nrc.cosmetics.ui.gift.sent": "Has regalado %s a %s",

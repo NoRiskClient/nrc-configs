@@ -1740,6 +1740,7 @@
   "nrc.ui.shop.filter.wishlist": "Список желаемого",
   "nrc.cosmetics.ui.gift.toast.title": "Подарок",
   "nrc.cosmetics.ui.gift.toast.received": "Вы получили %s!",
+  "nrc.cosmetics.ui.gift.for": "Подарок для %s",
   "nrc.cosmetics.ui.gift.message": "Сообщение (необязательно)",
   "nrc.cosmetics.ui.gift.anonymous": "Подарить анонимно",
   "nrc.cosmetics.ui.gift.sent": "Вы подарили %s игроку %s",
