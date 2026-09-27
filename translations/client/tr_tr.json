@@ -1794,5 +1794,7 @@
   "nrc.ui.modules.info.paperdollHideWhenIdle": "Sen dururken figürü gizler.",
   "nrc.ui.modules.info.paperdollHidingDelay": "Hareket ettikten sonra figürün ne kadar süre görünür kalacağı.",
   "nrc.ui.modules.info.paperdollShowCosmetics": "Figür üzerindeki kozmetiklerini gösterir veya gizler.",
-  "nrc.ui.modules.info.paperdollDollRotation": "Figürü bu açı kadar yana döndürür."
+  "nrc.ui.modules.info.paperdollDollRotation": "Figürü bu açı kadar yana döndürür.",
+  "nrc.ui.modules.value.allowOverflow": "Taşmaya izin ver",
+  "nrc.ui.modules.info.paperdollAllowOverflow": "Figürün ve kozmetiklerinin kesilmek yerine HUD kutusunun kenarından taşmasına izin verir."
 }

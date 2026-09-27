@@ -1794,5 +1794,7 @@
   "nrc.ui.modules.info.paperdollHideWhenIdle": "Masque la figurine tant que tu restes immobile.",
   "nrc.ui.modules.info.paperdollHidingDelay": "Combien de temps la figurine reste visible après ton dernier mouvement.",
   "nrc.ui.modules.info.paperdollShowCosmetics": "Affiche ou masque tes cosmétiques sur la figurine.",
-  "nrc.ui.modules.info.paperdollDollRotation": "Tourne la figurine sur le côté selon cet angle."
+  "nrc.ui.modules.info.paperdollDollRotation": "Tourne la figurine sur le côté selon cet angle.",
+  "nrc.ui.modules.value.allowOverflow": "Autoriser le débordement",
+  "nrc.ui.modules.info.paperdollAllowOverflow": "Laisse la figurine et ses cosmétiques dépasser du cadre du HUD au lieu de les couper."
 }

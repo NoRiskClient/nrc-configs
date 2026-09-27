@@ -1794,5 +1794,7 @@
   "nrc.ui.modules.info.paperdollHideWhenIdle": "Oculta la figura mientras estás quieto.",
   "nrc.ui.modules.info.paperdollHidingDelay": "Cuánto tiempo sigue visible la figura después de moverte.",
   "nrc.ui.modules.info.paperdollShowCosmetics": "Muestra u oculta tus cosméticos en la figura.",
-  "nrc.ui.modules.info.paperdollDollRotation": "Gira la figura hacia un lado con este ángulo."
+  "nrc.ui.modules.info.paperdollDollRotation": "Gira la figura hacia un lado con este ángulo.",
+  "nrc.ui.modules.value.allowOverflow": "Permitir desbordamiento",
+  "nrc.ui.modules.info.paperdollAllowOverflow": "Deja que la figura y sus cosméticos sobresalgan del borde del HUD en lugar de recortarlos."
 }

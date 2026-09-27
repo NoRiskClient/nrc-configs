@@ -1794,5 +1794,7 @@
   "nrc.ui.modules.info.paperdollHideWhenIdle": "Ukrywa figurkę, gdy stoisz w miejscu.",
   "nrc.ui.modules.info.paperdollHidingDelay": "Jak długo figurka pozostaje widoczna po ruchu.",
   "nrc.ui.modules.info.paperdollShowCosmetics": "Pokazuje lub ukrywa twoje kosmetyki na figurce.",
-  "nrc.ui.modules.info.paperdollDollRotation": "Obraca figurkę w bok o ten kąt."
+  "nrc.ui.modules.info.paperdollDollRotation": "Obraca figurkę w bok o ten kąt.",
+  "nrc.ui.modules.value.allowOverflow": "Zezwól na wychodzenie poza ramkę",
+  "nrc.ui.modules.info.paperdollAllowOverflow": "Pozwala figurce i jej kosmetykom wystawać poza krawędź ramki HUD zamiast je przycinać."
 }

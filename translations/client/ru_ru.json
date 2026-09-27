@@ -1794,5 +1794,7 @@
   "nrc.ui.modules.info.paperdollHideWhenIdle": "Скрывает фигурку, пока ты стоишь на месте.",
   "nrc.ui.modules.info.paperdollHidingDelay": "Сколько фигурка остаётся видимой после движения.",
   "nrc.ui.modules.info.paperdollShowCosmetics": "Показывает или скрывает твою косметику на фигурке.",
-  "nrc.ui.modules.info.paperdollDollRotation": "Поворачивает фигурку вбок на этот угол."
+  "nrc.ui.modules.info.paperdollDollRotation": "Поворачивает фигурку вбок на этот угол.",
+  "nrc.ui.modules.value.allowOverflow": "Разрешить выход за рамки",
+  "nrc.ui.modules.info.paperdollAllowOverflow": "Позволяет фигурке и её косметике выходить за край рамки HUD, а не обрезаться."
 }

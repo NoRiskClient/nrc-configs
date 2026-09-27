@@ -1794,5 +1794,7 @@
   "nrc.ui.modules.info.paperdollHideWhenIdle": "Hides the doll while you stand still.",
   "nrc.ui.modules.info.paperdollHidingDelay": "How long the doll stays visible after you move.",
   "nrc.ui.modules.info.paperdollShowCosmetics": "Shows or hides your cosmetics on the doll.",
-  "nrc.ui.modules.info.paperdollDollRotation": "Turns the doll sideways by this angle."
+  "nrc.ui.modules.info.paperdollDollRotation": "Turns the doll sideways by this angle.",
+  "nrc.ui.modules.value.allowOverflow": "Allow Overflow",
+  "nrc.ui.modules.info.paperdollAllowOverflow": "Lets the doll and its cosmetics reach past the edge of the HUD box instead of being cut off."
 }

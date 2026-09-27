@@ -939,5 +939,7 @@
   "nrc.ui.modules.info.paperdollHideWhenIdle": "Skjuler figuren mens du står stille.",
   "nrc.ui.modules.info.paperdollHidingDelay": "Hvor lenge figuren er synlig etter at du har beveget deg.",
   "nrc.ui.modules.info.paperdollShowCosmetics": "Viser eller skjuler kosmetikken din på figuren.",
-  "nrc.ui.modules.info.paperdollDollRotation": "Snur figuren sidelengs med denne vinkelen."
+  "nrc.ui.modules.info.paperdollDollRotation": "Snur figuren sidelengs med denne vinkelen.",
+  "nrc.ui.modules.value.allowOverflow": "Tillat overflyt",
+  "nrc.ui.modules.info.paperdollAllowOverflow": "Lar figuren og kosmetikken stikke utenfor kanten av HUD-boksen i stedet for å kuttes av."
 }

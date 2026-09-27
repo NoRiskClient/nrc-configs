@@ -1794,5 +1794,7 @@
   "nrc.ui.modules.info.paperdollHideWhenIdle": "जब आप खड़े रहते हैं तब डॉल को छिपाता है।",
   "nrc.ui.modules.info.paperdollHidingDelay": "हिलने के बाद डॉल कितनी देर दिखती रहती है।",
   "nrc.ui.modules.info.paperdollShowCosmetics": "डॉल पर आपके कॉस्मेटिक्स दिखाता या छिपाता है।",
-  "nrc.ui.modules.info.paperdollDollRotation": "डॉल को इस कोण से बगल की ओर घुमाता है।"
+  "nrc.ui.modules.info.paperdollDollRotation": "डॉल को इस कोण से बगल की ओर घुमाता है।",
+  "nrc.ui.modules.value.allowOverflow": "ओवरफ़्लो की अनुमति दें",
+  "nrc.ui.modules.info.paperdollAllowOverflow": "डॉल और उसके कॉस्मेटिक्स को काटने के बजाय HUD बॉक्स के किनारे से बाहर निकलने देता है।"
 }
