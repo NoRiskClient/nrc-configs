@@ -1790,5 +1790,9 @@
   "nrc.ui.modules.info.crosshairThirdPerson": "Also draws the crosshair in third person (F5).",
   "nrc.ui.modules.info.crosshairChromatic": "Cycles the color through the rainbow.",
   "nrc.ui.modules.info.crosshairDotOwnColor": "Gives the center dot its own color instead of the stroke color.",
-  "nrc.ui.modules.info.crosshairShareCode": "Copy puts this profile on your clipboard as a short code. Paste loads a code you received into the current profile."
+  "nrc.ui.modules.info.crosshairShareCode": "Copy puts this profile on your clipboard as a short code. Paste loads a code you received into the current profile.",
+  "nrc.ui.modules.value.chromatic": "Chromatic",
+  "nrc.ui.modules.value.dotOwnColor": "Own Color",
+  "nrc.ui.modules.value.dotChromatic": "Chromatic",
+  "nrc.ui.modules.value.dotOutline": "Outline"
 }

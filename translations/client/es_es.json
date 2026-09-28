@@ -1790,5 +1790,9 @@
   "nrc.ui.modules.info.crosshairThirdPerson": "También muestra el punto de mira en tercera persona (F5).",
   "nrc.ui.modules.info.crosshairChromatic": "Hace que el color recorra el arcoíris.",
   "nrc.ui.modules.info.crosshairDotOwnColor": "Da al punto central su propio color en lugar del color de los trazos.",
-  "nrc.ui.modules.info.crosshairShareCode": "Copiar guarda este perfil en el portapapeles como un código corto. Pegar carga un código recibido en el perfil actual."
+  "nrc.ui.modules.info.crosshairShareCode": "Copiar guarda este perfil en el portapapeles como un código corto. Pegar carga un código recibido en el perfil actual.",
+  "nrc.ui.modules.value.chromatic": "Cromático",
+  "nrc.ui.modules.value.dotOwnColor": "Color propio",
+  "nrc.ui.modules.value.dotChromatic": "Cromático",
+  "nrc.ui.modules.value.dotOutline": "Contorno"
 }

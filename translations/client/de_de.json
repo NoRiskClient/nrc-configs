@@ -1790,5 +1790,9 @@
   "nrc.ui.modules.info.crosshairThirdPerson": "Zeigt das Fadenkreuz auch in der Third-Person-Ansicht (F5).",
   "nrc.ui.modules.info.crosshairChromatic": "Lässt die Farbe durch den Regenbogen laufen.",
   "nrc.ui.modules.info.crosshairDotOwnColor": "Gibt dem Punkt in der Mitte eine eigene Farbe statt der Strichfarbe.",
-  "nrc.ui.modules.info.crosshairShareCode": "Kopieren legt dieses Profil als kurzen Code in deine Zwischenablage. Einfügen lädt einen erhaltenen Code in das aktuelle Profil."
+  "nrc.ui.modules.info.crosshairShareCode": "Kopieren legt dieses Profil als kurzen Code in deine Zwischenablage. Einfügen lädt einen erhaltenen Code in das aktuelle Profil.",
+  "nrc.ui.modules.value.chromatic": "Chromatisch",
+  "nrc.ui.modules.value.dotOwnColor": "Eigene Farbe",
+  "nrc.ui.modules.value.dotChromatic": "Chromatisch",
+  "nrc.ui.modules.value.dotOutline": "Umriss"
 }

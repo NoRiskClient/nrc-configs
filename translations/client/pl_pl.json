@@ -1790,5 +1790,9 @@
   "nrc.ui.modules.info.crosshairThirdPerson": "Pokazuje celownik także w widoku z trzeciej osoby (F5).",
   "nrc.ui.modules.info.crosshairChromatic": "Zmienia kolor płynnie przez wszystkie kolory tęczy.",
   "nrc.ui.modules.info.crosshairDotOwnColor": "Nadaje środkowej kropce własny kolor zamiast koloru linii.",
-  "nrc.ui.modules.info.crosshairShareCode": "Kopiuj zapisuje ten profil w schowku jako krótki kod. Wklej wczytuje otrzymany kod do bieżącego profilu."
+  "nrc.ui.modules.info.crosshairShareCode": "Kopiuj zapisuje ten profil w schowku jako krótki kod. Wklej wczytuje otrzymany kod do bieżącego profilu.",
+  "nrc.ui.modules.value.chromatic": "Chromatyczny",
+  "nrc.ui.modules.value.dotOwnColor": "Własny kolor",
+  "nrc.ui.modules.value.dotChromatic": "Chromatyczny",
+  "nrc.ui.modules.value.dotOutline": "Obrys"
 }

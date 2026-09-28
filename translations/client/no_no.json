@@ -935,5 +935,9 @@
   "nrc.ui.modules.info.crosshairThirdPerson": "Viser også siktepunktet i tredjeperson (F5).",
   "nrc.ui.modules.info.crosshairChromatic": "Lar fargen gå gjennom regnbuen.",
   "nrc.ui.modules.info.crosshairDotOwnColor": "Gir midtpunktet sin egen farge i stedet for strekfargen.",
-  "nrc.ui.modules.info.crosshairShareCode": "Kopier legger denne profilen i utklippstavlen som en kort kode. Lim inn laster en kode du har fått inn i gjeldende profil."
+  "nrc.ui.modules.info.crosshairShareCode": "Kopier legger denne profilen i utklippstavlen som en kort kode. Lim inn laster en kode du har fått inn i gjeldende profil.",
+  "nrc.ui.modules.value.chromatic": "Kromatisk",
+  "nrc.ui.modules.value.dotOwnColor": "Egen farge",
+  "nrc.ui.modules.value.dotChromatic": "Kromatisk",
+  "nrc.ui.modules.value.dotOutline": "Kontur"
 }

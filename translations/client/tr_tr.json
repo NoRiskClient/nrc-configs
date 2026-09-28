@@ -1790,5 +1790,9 @@
   "nrc.ui.modules.info.crosshairThirdPerson": "Nişangahı üçüncü şahıs görünümünde (F5) de gösterir.",
   "nrc.ui.modules.info.crosshairChromatic": "Rengi gökkuşağı boyunca döndürür.",
   "nrc.ui.modules.info.crosshairDotOwnColor": "Ortadaki noktaya çizgi rengi yerine kendi rengini verir.",
-  "nrc.ui.modules.info.crosshairShareCode": "Kopyala bu profili kısa bir kod olarak panoya koyar. Yapıştır aldığın bir kodu mevcut profile yükler."
+  "nrc.ui.modules.info.crosshairShareCode": "Kopyala bu profili kısa bir kod olarak panoya koyar. Yapıştır aldığın bir kodu mevcut profile yükler.",
+  "nrc.ui.modules.value.chromatic": "Kromatik",
+  "nrc.ui.modules.value.dotOwnColor": "Kendi rengi",
+  "nrc.ui.modules.value.dotChromatic": "Kromatik",
+  "nrc.ui.modules.value.dotOutline": "Çerçeve"
 }

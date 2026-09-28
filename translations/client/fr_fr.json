@@ -1790,5 +1790,9 @@
   "nrc.ui.modules.info.crosshairThirdPerson": "Affiche aussi le viseur à la troisième personne (F5).",
   "nrc.ui.modules.info.crosshairChromatic": "Fait défiler la couleur à travers l'arc-en-ciel.",
   "nrc.ui.modules.info.crosshairDotOwnColor": "Donne au point central sa propre couleur au lieu de celle des traits.",
-  "nrc.ui.modules.info.crosshairShareCode": "Copier place ce profil dans le presse-papiers sous forme de code court. Coller charge un code reçu dans le profil actuel."
+  "nrc.ui.modules.info.crosshairShareCode": "Copier place ce profil dans le presse-papiers sous forme de code court. Coller charge un code reçu dans le profil actuel.",
+  "nrc.ui.modules.value.chromatic": "Chromatique",
+  "nrc.ui.modules.value.dotOwnColor": "Couleur propre",
+  "nrc.ui.modules.value.dotChromatic": "Chromatique",
+  "nrc.ui.modules.value.dotOutline": "Contour"
 }

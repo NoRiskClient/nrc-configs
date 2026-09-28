@@ -1790,5 +1790,9 @@
   "nrc.ui.modules.info.crosshairThirdPerson": "Mostra il mirino anche in terza persona (F5).",
   "nrc.ui.modules.info.crosshairChromatic": "Fa scorrere il colore attraverso l'arcobaleno.",
   "nrc.ui.modules.info.crosshairDotOwnColor": "Dà al punto centrale un colore proprio invece del colore dei tratti.",
-  "nrc.ui.modules.info.crosshairShareCode": "Copia mette questo profilo negli appunti come codice breve. Incolla carica un codice ricevuto nel profilo attuale."
+  "nrc.ui.modules.info.crosshairShareCode": "Copia mette questo profilo negli appunti come codice breve. Incolla carica un codice ricevuto nel profilo attuale.",
+  "nrc.ui.modules.value.chromatic": "Cromatico",
+  "nrc.ui.modules.value.dotOwnColor": "Colore proprio",
+  "nrc.ui.modules.value.dotChromatic": "Cromatico",
+  "nrc.ui.modules.value.dotOutline": "Contorno"
 }

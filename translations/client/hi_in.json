@@ -1790,5 +1790,9 @@
   "nrc.ui.modules.info.crosshairThirdPerson": "थर्ड पर्सन (F5) में भी क्रॉसहेयर दिखाता है।",
   "nrc.ui.modules.info.crosshairChromatic": "रंग को इंद्रधनुष के रंगों में बदलता रहता है।",
   "nrc.ui.modules.info.crosshairDotOwnColor": "बीच वाले डॉट को स्ट्रोक के रंग की जगह उसका अपना रंग देता है।",
-  "nrc.ui.modules.info.crosshairShareCode": "कॉपी इस प्रोफ़ाइल को एक छोटे कोड के रूप में क्लिपबोर्ड पर रखता है। पेस्ट मिले हुए कोड को मौजूदा प्रोफ़ाइल में लोड करता है।"
+  "nrc.ui.modules.info.crosshairShareCode": "कॉपी इस प्रोफ़ाइल को एक छोटे कोड के रूप में क्लिपबोर्ड पर रखता है। पेस्ट मिले हुए कोड को मौजूदा प्रोफ़ाइल में लोड करता है।",
+  "nrc.ui.modules.value.chromatic": "क्रोमैटिक",
+  "nrc.ui.modules.value.dotOwnColor": "अपना रंग",
+  "nrc.ui.modules.value.dotChromatic": "क्रोमैटिक",
+  "nrc.ui.modules.value.dotOutline": "रूपरेखा"
 }

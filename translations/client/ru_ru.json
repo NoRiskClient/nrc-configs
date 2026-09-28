@@ -1790,5 +1790,9 @@
   "nrc.ui.modules.info.crosshairThirdPerson": "Показывает прицел и от третьего лица (F5).",
   "nrc.ui.modules.info.crosshairChromatic": "Цвет плавно переливается всеми цветами радуги.",
   "nrc.ui.modules.info.crosshairDotOwnColor": "Даёт точке в центре собственный цвет вместо цвета линий.",
-  "nrc.ui.modules.info.crosshairShareCode": "Копировать сохраняет этот профиль в буфер обмена в виде короткого кода. Вставить загружает полученный код в текущий профиль."
+  "nrc.ui.modules.info.crosshairShareCode": "Копировать сохраняет этот профиль в буфер обмена в виде короткого кода. Вставить загружает полученный код в текущий профиль.",
+  "nrc.ui.modules.value.chromatic": "Хроматический",
+  "nrc.ui.modules.value.dotOwnColor": "Свой цвет",
+  "nrc.ui.modules.value.dotChromatic": "Хроматический",
+  "nrc.ui.modules.value.dotOutline": "Контур"
 }
