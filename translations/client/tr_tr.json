@@ -1943,5 +1943,13 @@
   "nrc.twitch.stream.nowPlayingMuted": "► %s (sessiz)",
   "nrc.twitch.chat.watching": "%s izleniyor",
   "nrc.twitch.chat.reconnecting": "%s bağlantısı koptu — yeniden bağlanılıyor",
-  "nrc.twitch.chat.left": "%s kanalından ayrıldın"
+  "nrc.twitch.chat.left": "%s kanalından ayrıldın",
+  "nrc.twitch.chat.modes": "Sohbet modu: %s",
+  "nrc.twitch.chat.modesOff": "Sohbet modu: normal",
+  "nrc.twitch.chat.mode.subsOnly": "yalnızca aboneler",
+  "nrc.twitch.chat.mode.emoteOnly": "yalnızca ifadeler",
+  "nrc.twitch.chat.mode.followers": "yalnızca takipçiler",
+  "nrc.twitch.chat.mode.followersFor": "yalnızca takipçiler (%s dk)",
+  "nrc.twitch.chat.mode.slow": "yavaş %s sn",
+  "nrc.twitch.chat.mode.unique": "benzersiz mesajlar"
 }

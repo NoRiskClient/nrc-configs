@@ -1943,5 +1943,13 @@
   "nrc.twitch.stream.nowPlayingMuted": "► %s (म्यूट)",
   "nrc.twitch.chat.watching": "%s देख रहे हैं",
   "nrc.twitch.chat.reconnecting": "%s से कनेक्शन टूट गया — फिर से जोड़ रहे हैं",
-  "nrc.twitch.chat.left": "%s छोड़ दिया"
+  "nrc.twitch.chat.left": "%s छोड़ दिया",
+  "nrc.twitch.chat.modes": "चैट मोड: %s",
+  "nrc.twitch.chat.modesOff": "चैट मोड: सामान्य",
+  "nrc.twitch.chat.mode.subsOnly": "केवल सब्सक्राइबर",
+  "nrc.twitch.chat.mode.emoteOnly": "केवल इमोट्स",
+  "nrc.twitch.chat.mode.followers": "केवल फ़ॉलोअर्स",
+  "nrc.twitch.chat.mode.followersFor": "केवल फ़ॉलोअर्स (%s मिनट)",
+  "nrc.twitch.chat.mode.slow": "धीमा %s सेकंड",
+  "nrc.twitch.chat.mode.unique": "अनूठे संदेश"
 }

@@ -1943,5 +1943,13 @@
   "nrc.twitch.stream.nowPlayingMuted": "► %s (звук выключен)",
   "nrc.twitch.chat.watching": "Смотришь %s",
   "nrc.twitch.chat.reconnecting": "Соединение с %s потеряно — переподключение",
-  "nrc.twitch.chat.left": "Ты вышел из %s"
+  "nrc.twitch.chat.left": "Ты вышел из %s",
+  "nrc.twitch.chat.modes": "Режим чата: %s",
+  "nrc.twitch.chat.modesOff": "Режим чата: обычный",
+  "nrc.twitch.chat.mode.subsOnly": "только подписчики",
+  "nrc.twitch.chat.mode.emoteOnly": "только эмоуты",
+  "nrc.twitch.chat.mode.followers": "только фолловеры",
+  "nrc.twitch.chat.mode.followersFor": "только фолловеры (%s мин)",
+  "nrc.twitch.chat.mode.slow": "медленный %s с",
+  "nrc.twitch.chat.mode.unique": "уникальные сообщения"
 }

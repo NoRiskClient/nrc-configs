@@ -1943,5 +1943,13 @@
   "nrc.twitch.stream.nowPlayingMuted": "► %s (wyciszono)",
   "nrc.twitch.chat.watching": "Oglądasz %s",
   "nrc.twitch.chat.reconnecting": "Utracono połączenie z %s — ponowne łączenie",
-  "nrc.twitch.chat.left": "Opuszczono %s"
+  "nrc.twitch.chat.left": "Opuszczono %s",
+  "nrc.twitch.chat.modes": "Tryb czatu: %s",
+  "nrc.twitch.chat.modesOff": "Tryb czatu: normalny",
+  "nrc.twitch.chat.mode.subsOnly": "tylko subskrybenci",
+  "nrc.twitch.chat.mode.emoteOnly": "tylko emotki",
+  "nrc.twitch.chat.mode.followers": "tylko obserwujący",
+  "nrc.twitch.chat.mode.followersFor": "tylko obserwujący (%s min)",
+  "nrc.twitch.chat.mode.slow": "wolny %s s",
+  "nrc.twitch.chat.mode.unique": "unikalne wiadomości"
 }

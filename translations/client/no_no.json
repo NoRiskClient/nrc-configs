@@ -1089,5 +1089,13 @@
   "nrc.twitch.stream.nowPlayingMuted": "► %s (dempet)",
   "nrc.twitch.chat.watching": "Ser på %s",
   "nrc.twitch.chat.reconnecting": "Mistet forbindelsen til %s — kobler til på nytt",
-  "nrc.twitch.chat.left": "Forlot %s"
+  "nrc.twitch.chat.left": "Forlot %s",
+  "nrc.twitch.chat.modes": "Chatmodus: %s",
+  "nrc.twitch.chat.modesOff": "Chatmodus: normal",
+  "nrc.twitch.chat.mode.subsOnly": "kun abonnenter",
+  "nrc.twitch.chat.mode.emoteOnly": "kun emotes",
+  "nrc.twitch.chat.mode.followers": "kun følgere",
+  "nrc.twitch.chat.mode.followersFor": "kun følgere (%s min)",
+  "nrc.twitch.chat.mode.slow": "sakte %s s",
+  "nrc.twitch.chat.mode.unique": "unike meldinger"
 }
