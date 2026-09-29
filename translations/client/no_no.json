@@ -955,5 +955,14 @@
   "nrc.ui.minigames.paused": "pause",
   "nrc.ui.minigames.resume": "fortsett",
   "nrc.ui.minigames.restart_hint": "enter eller r for å spille igjen",
-  "nrc.ui.minigames.resume_hint": "esc for å fortsette"
+  "nrc.ui.minigames.resume_hint": "esc for å fortsette",
+  "nrc.ui.minigames.connection_lost": "tilkobling tapt",
+  "nrc.ui.minigames.computer": "Datamaskin",
+  "nrc.ui.minigames.player": "Spiller",
+  "nrc.ui.minigames.title": "Minispill",
+  "nrc.ui.minigames.dev_mode": "Utviklermodus",
+  "nrc.ui.minigames.god_mode": "Gudemodus",
+  "nrc.ui.minigames.opponent_left": "motstanderen forlot",
+  "nrc.ui.minigames.rematch": "revansj",
+  "nrc.ui.minigames.rematch_sent": "revansj forespurt"
 }

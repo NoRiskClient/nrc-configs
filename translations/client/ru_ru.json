@@ -1810,5 +1810,14 @@
   "nrc.ui.minigames.paused": "пауза",
   "nrc.ui.minigames.resume": "продолжить",
   "nrc.ui.minigames.restart_hint": "enter или r — играть снова",
-  "nrc.ui.minigames.resume_hint": "esc — продолжить"
+  "nrc.ui.minigames.resume_hint": "esc — продолжить",
+  "nrc.ui.minigames.connection_lost": "соединение потеряно",
+  "nrc.ui.minigames.computer": "Компьютер",
+  "nrc.ui.minigames.player": "Игрок",
+  "nrc.ui.minigames.title": "Мини-игры",
+  "nrc.ui.minigames.dev_mode": "Режим разработчика",
+  "nrc.ui.minigames.god_mode": "Режим бога",
+  "nrc.ui.minigames.opponent_left": "соперник вышел",
+  "nrc.ui.minigames.rematch": "реванш",
+  "nrc.ui.minigames.rematch_sent": "реванш запрошен"
 }

@@ -1810,5 +1810,14 @@
   "nrc.ui.minigames.paused": "pauza",
   "nrc.ui.minigames.resume": "wznów",
   "nrc.ui.minigames.restart_hint": "enter lub r, aby zagrać ponownie",
-  "nrc.ui.minigames.resume_hint": "esc, aby wznowić"
+  "nrc.ui.minigames.resume_hint": "esc, aby wznowić",
+  "nrc.ui.minigames.connection_lost": "utracono połączenie",
+  "nrc.ui.minigames.computer": "Komputer",
+  "nrc.ui.minigames.player": "Gracz",
+  "nrc.ui.minigames.title": "Minigry",
+  "nrc.ui.minigames.dev_mode": "Tryb deweloperski",
+  "nrc.ui.minigames.god_mode": "Tryb boga",
+  "nrc.ui.minigames.opponent_left": "przeciwnik wyszedł",
+  "nrc.ui.minigames.rematch": "rewanż",
+  "nrc.ui.minigames.rematch_sent": "wysłano prośbę o rewanż"
 }

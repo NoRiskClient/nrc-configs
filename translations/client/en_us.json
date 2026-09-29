@@ -1810,5 +1810,14 @@
   "nrc.ui.minigames.paused": "paused",
   "nrc.ui.minigames.resume": "resume",
   "nrc.ui.minigames.restart_hint": "enter or r to play again",
-  "nrc.ui.minigames.resume_hint": "esc to resume"
+  "nrc.ui.minigames.resume_hint": "esc to resume",
+  "nrc.ui.minigames.connection_lost": "connection lost",
+  "nrc.ui.minigames.computer": "Computer",
+  "nrc.ui.minigames.player": "Player",
+  "nrc.ui.minigames.title": "Minigames",
+  "nrc.ui.minigames.dev_mode": "Dev Mode",
+  "nrc.ui.minigames.god_mode": "God Mode",
+  "nrc.ui.minigames.opponent_left": "opponent left",
+  "nrc.ui.minigames.rematch": "rematch",
+  "nrc.ui.minigames.rematch_sent": "rematch requested"
 }

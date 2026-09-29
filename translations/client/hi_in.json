@@ -1810,5 +1810,14 @@
   "nrc.ui.minigames.paused": "रुका हुआ",
   "nrc.ui.minigames.resume": "जारी रखें",
   "nrc.ui.minigames.restart_hint": "फिर से खेलने के लिए enter या r",
-  "nrc.ui.minigames.resume_hint": "जारी रखने के लिए esc"
+  "nrc.ui.minigames.resume_hint": "जारी रखने के लिए esc",
+  "nrc.ui.minigames.connection_lost": "कनेक्शन टूट गया",
+  "nrc.ui.minigames.computer": "कंप्यूटर",
+  "nrc.ui.minigames.player": "खिलाड़ी",
+  "nrc.ui.minigames.title": "मिनीगेम्स",
+  "nrc.ui.minigames.dev_mode": "डेव मोड",
+  "nrc.ui.minigames.god_mode": "गॉड मोड",
+  "nrc.ui.minigames.opponent_left": "प्रतिद्वंद्वी चला गया",
+  "nrc.ui.minigames.rematch": "रीमैच",
+  "nrc.ui.minigames.rematch_sent": "रीमैच का अनुरोध भेजा"
 }

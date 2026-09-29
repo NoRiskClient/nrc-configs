@@ -1810,5 +1810,14 @@
   "nrc.ui.minigames.paused": "duraklatıldı",
   "nrc.ui.minigames.resume": "devam et",
   "nrc.ui.minigames.restart_hint": "tekrar oynamak için enter veya r",
-  "nrc.ui.minigames.resume_hint": "devam etmek için esc"
+  "nrc.ui.minigames.resume_hint": "devam etmek için esc",
+  "nrc.ui.minigames.connection_lost": "bağlantı koptu",
+  "nrc.ui.minigames.computer": "Bilgisayar",
+  "nrc.ui.minigames.player": "Oyuncu",
+  "nrc.ui.minigames.title": "Mini oyunlar",
+  "nrc.ui.minigames.dev_mode": "Geliştirici modu",
+  "nrc.ui.minigames.god_mode": "Tanrı modu",
+  "nrc.ui.minigames.opponent_left": "rakip ayrıldı",
+  "nrc.ui.minigames.rematch": "rövanş",
+  "nrc.ui.minigames.rematch_sent": "rövanş istendi"
 }
