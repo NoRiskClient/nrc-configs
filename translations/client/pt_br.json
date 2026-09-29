@@ -1955,5 +1955,19 @@
   "nrc.twitch.chat.mode.followers": "apenas seguidores",
   "nrc.twitch.chat.mode.followersFor": "apenas seguidores (%s min)",
   "nrc.twitch.chat.mode.slow": "lento %s s",
-  "nrc.twitch.chat.mode.unique": "mensagens únicas"
+  "nrc.twitch.chat.mode.unique": "mensagens únicas",
+  "nrc.ui.modules.value.paperdoll": "Paperdoll",
+  "nrc.ui.modules.description.paperdoll": "Mostra seu personagem como um elemento do HUD.",
+  "nrc.ui.modules.value.showName": "Mostrar nome",
+  "nrc.ui.modules.value.hideWhenIdle": "Ocultar parado",
+  "nrc.ui.modules.value.hidingDelay": "Atraso para ocultar (s)",
+  "nrc.ui.modules.value.showCosmetics": "Mostrar cosméticos",
+  "nrc.ui.modules.value.dollRotation": "Rotação do boneco",
+  "nrc.ui.modules.info.paperdollShowName": "Mostra seu nome acima do boneco.",
+  "nrc.ui.modules.info.paperdollHideWhenIdle": "Oculta o boneco enquanto você fica parado.",
+  "nrc.ui.modules.info.paperdollHidingDelay": "Por quanto tempo o boneco continua visível depois que você se move.",
+  "nrc.ui.modules.info.paperdollShowCosmetics": "Mostra ou oculta seus cosméticos no boneco.",
+  "nrc.ui.modules.info.paperdollDollRotation": "Gira o boneco para o lado por este ângulo.",
+  "nrc.ui.modules.value.allowOverflow": "Permitir transbordar",
+  "nrc.ui.modules.info.paperdollAllowOverflow": "Deixa o boneco e seus cosméticos passarem da borda do HUD em vez de serem cortados."
 }

@@ -1101,5 +1101,19 @@
   "nrc.twitch.chat.mode.followers": "kun følgere",
   "nrc.twitch.chat.mode.followersFor": "kun følgere (%s min)",
   "nrc.twitch.chat.mode.slow": "sakte %s s",
-  "nrc.twitch.chat.mode.unique": "unike meldinger"
+  "nrc.twitch.chat.mode.unique": "unike meldinger",
+  "nrc.ui.modules.value.paperdoll": "Paperdoll",
+  "nrc.ui.modules.description.paperdoll": "Viser figuren din som et HUD-element.",
+  "nrc.ui.modules.value.showName": "Vis navn",
+  "nrc.ui.modules.value.hideWhenIdle": "Skjul når du står stille",
+  "nrc.ui.modules.value.hidingDelay": "Skjuleforsinkelse (s)",
+  "nrc.ui.modules.value.showCosmetics": "Vis kosmetikk",
+  "nrc.ui.modules.value.dollRotation": "Figurrotasjon",
+  "nrc.ui.modules.info.paperdollShowName": "Viser navnet ditt over figuren.",
+  "nrc.ui.modules.info.paperdollHideWhenIdle": "Skjuler figuren mens du står stille.",
+  "nrc.ui.modules.info.paperdollHidingDelay": "Hvor lenge figuren er synlig etter at du har beveget deg.",
+  "nrc.ui.modules.info.paperdollShowCosmetics": "Viser eller skjuler kosmetikken din på figuren.",
+  "nrc.ui.modules.info.paperdollDollRotation": "Snur figuren sidelengs med denne vinkelen.",
+  "nrc.ui.modules.value.allowOverflow": "Tillat overflyt",
+  "nrc.ui.modules.info.paperdollAllowOverflow": "Lar figuren og kosmetikken stikke utenfor kanten av HUD-boksen i stedet for å kuttes av."
 }
