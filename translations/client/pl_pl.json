@@ -2122,5 +2122,21 @@
   "nrc.ui.minigames.no_invitation": "brak otwartego zaproszenia",
   "nrc.friends.wheel.action.play_game": "Zagraj w minigrę",
   "nrc.ui.minigames.play_with": "Zagraj z %s",
-  "nrc.ui.minigames.choose_game": "wybierz grę"
+  "nrc.ui.minigames.choose_game": "wybierz grę",
+  "nrc.ui.modules.description.direction_hud": "Pasek kompasu pokazujący twój kierunek, waypointy i pingi",
+  "nrc.ui.modules.value.compassWidth": "Szerokość",
+  "nrc.ui.modules.value.fieldOfView": "Pole Widzenia",
+  "nrc.ui.modules.value.showIntercardinals": "Kierunki Pośrednie",
+  "nrc.ui.modules.value.showTicks": "Podziałka",
+  "nrc.ui.modules.value.showTickDegrees": "Wartości Stopni",
+  "nrc.ui.modules.value.showHeading": "Kurs",
+  "nrc.ui.modules.value.headingDetails": "Znak Stopnia i Kierunek",
+  "nrc.ui.modules.value.fadeEdges": "Zanikanie Krawędzi",
+  "nrc.ui.modules.value.needlePosition": "Pozycja Wskazówki",
+  "nrc.ui.modules.value.headingPosition": "Pozycja Kursu",
+  "nrc.ui.modules.value.markerPosition": "Pozycja Znaczników",
+  "nrc.ui.modules.value.showWaypoints": "Pokaż Waypointy",
+  "nrc.ui.modules.value.showPings": "Pokaż Pingi",
+  "nrc.ui.modules.value.focusDetails": "Szczegóły na Środku",
+  "nrc.ui.modules.value.pinOffscreenMarkers": "Przypnij Znaczniki Poza Ekranem"
 }

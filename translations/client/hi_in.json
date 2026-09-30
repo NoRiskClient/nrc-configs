@@ -2122,5 +2122,21 @@
   "nrc.ui.minigames.no_invitation": "कोई खुला निमंत्रण नहीं",
   "nrc.friends.wheel.action.play_game": "मिनीगेम खेलें",
   "nrc.ui.minigames.play_with": "%s के साथ खेलें",
-  "nrc.ui.minigames.choose_game": "एक गेम चुनें"
+  "nrc.ui.minigames.choose_game": "एक गेम चुनें",
+  "nrc.ui.modules.description.direction_hud": "कंपास बार जो आपकी दिशा, वेपॉइंट और पिंग दिखाता है",
+  "nrc.ui.modules.value.compassWidth": "चौड़ाई",
+  "nrc.ui.modules.value.fieldOfView": "दृश्य क्षेत्र",
+  "nrc.ui.modules.value.showIntercardinals": "उप-दिशाएं",
+  "nrc.ui.modules.value.showTicks": "टिक मार्क",
+  "nrc.ui.modules.value.showTickDegrees": "डिग्री संख्याएं",
+  "nrc.ui.modules.value.showHeading": "दिशा कोण",
+  "nrc.ui.modules.value.headingDetails": "डिग्री चिह्न और दिशा",
+  "nrc.ui.modules.value.fadeEdges": "किनारे फीके करें",
+  "nrc.ui.modules.value.needlePosition": "सुई की स्थिति",
+  "nrc.ui.modules.value.headingPosition": "दिशा कोण की स्थिति",
+  "nrc.ui.modules.value.markerPosition": "मार्कर की स्थिति",
+  "nrc.ui.modules.value.showWaypoints": "वेपॉइंट दिखाएं",
+  "nrc.ui.modules.value.showPings": "पिंग दिखाएं",
+  "nrc.ui.modules.value.focusDetails": "फोकस पर विवरण",
+  "nrc.ui.modules.value.pinOffscreenMarkers": "स्क्रीन से बाहर के मार्कर पिन करें"
 }

@@ -1268,5 +1268,21 @@
   "nrc.ui.minigames.no_invitation": "ingen åpen invitasjon",
   "nrc.friends.wheel.action.play_game": "Spill et minispill",
   "nrc.ui.minigames.play_with": "Spill med %s",
-  "nrc.ui.minigames.choose_game": "velg et spill"
+  "nrc.ui.minigames.choose_game": "velg et spill",
+  "nrc.ui.modules.description.direction_hud": "Kompasslinje som viser retningen din, veipunkter og pinger",
+  "nrc.ui.modules.value.compassWidth": "Bredde",
+  "nrc.ui.modules.value.fieldOfView": "Synsfelt",
+  "nrc.ui.modules.value.showIntercardinals": "Mellomretninger",
+  "nrc.ui.modules.value.showTicks": "Merkestreker",
+  "nrc.ui.modules.value.showTickDegrees": "Gradtall",
+  "nrc.ui.modules.value.showHeading": "Kurs",
+  "nrc.ui.modules.value.headingDetails": "Gradtegn og retning",
+  "nrc.ui.modules.value.fadeEdges": "Ton ut kantene",
+  "nrc.ui.modules.value.needlePosition": "Nålposisjon",
+  "nrc.ui.modules.value.headingPosition": "Kursposisjon",
+  "nrc.ui.modules.value.markerPosition": "Markørposisjon",
+  "nrc.ui.modules.value.showWaypoints": "Vis veipunkter",
+  "nrc.ui.modules.value.showPings": "Vis pinger",
+  "nrc.ui.modules.value.focusDetails": "Detaljer ved fokus",
+  "nrc.ui.modules.value.pinOffscreenMarkers": "Fest markører utenfor skjermen"
 }

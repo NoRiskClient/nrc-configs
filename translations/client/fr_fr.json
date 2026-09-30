@@ -2122,5 +2122,21 @@
   "nrc.ui.minigames.no_invitation": "aucune invitation en attente",
   "nrc.friends.wheel.action.play_game": "Jouer à un mini-jeu",
   "nrc.ui.minigames.play_with": "Jouer avec %s",
-  "nrc.ui.minigames.choose_game": "choisis un jeu"
+  "nrc.ui.minigames.choose_game": "choisis un jeu",
+  "nrc.ui.modules.description.direction_hud": "Barre de boussole affichant ta direction, tes waypoints et les pings",
+  "nrc.ui.modules.value.compassWidth": "Largeur",
+  "nrc.ui.modules.value.fieldOfView": "Champ de Vision",
+  "nrc.ui.modules.value.showIntercardinals": "Directions Intermédiaires",
+  "nrc.ui.modules.value.showTicks": "Graduations",
+  "nrc.ui.modules.value.showTickDegrees": "Valeurs en Degrés",
+  "nrc.ui.modules.value.showHeading": "Cap",
+  "nrc.ui.modules.value.headingDetails": "Symbole de Degré et Direction",
+  "nrc.ui.modules.value.fadeEdges": "Fondu des Bords",
+  "nrc.ui.modules.value.needlePosition": "Position de l'Aiguille",
+  "nrc.ui.modules.value.headingPosition": "Position du Cap",
+  "nrc.ui.modules.value.markerPosition": "Position des Marqueurs",
+  "nrc.ui.modules.value.showWaypoints": "Afficher les Waypoints",
+  "nrc.ui.modules.value.showPings": "Afficher les Pings",
+  "nrc.ui.modules.value.focusDetails": "Détails au Centre",
+  "nrc.ui.modules.value.pinOffscreenMarkers": "Épingler les Marqueurs Hors Champ"
 }
