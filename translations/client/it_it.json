@@ -1821,5 +1821,7 @@
   "nrc.ui.minigames.rematch": "rivincita",
   "nrc.ui.minigames.rematch_sent": "rivincita richiesta",
   "nrc.ui.minigames.accept": "accetta",
-  "nrc.ui.minigames.no_invitation": "nessun invito aperto"
+  "nrc.ui.minigames.no_invitation": "nessun invito aperto",
+  "nrc.friends.wheel.action.flappybird": "Flappy Bird",
+  "nrc.friends.wheel.action.2048": "2048"
 }

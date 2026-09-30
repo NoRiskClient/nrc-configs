@@ -1821,5 +1821,7 @@
   "nrc.ui.minigames.rematch": "revanche",
   "nrc.ui.minigames.rematch_sent": "revanche solicitada",
   "nrc.ui.minigames.accept": "aceitar",
-  "nrc.ui.minigames.no_invitation": "nenhum convite pendente"
+  "nrc.ui.minigames.no_invitation": "nenhum convite pendente",
+  "nrc.friends.wheel.action.flappybird": "Flappy Bird",
+  "nrc.friends.wheel.action.2048": "2048"
 }

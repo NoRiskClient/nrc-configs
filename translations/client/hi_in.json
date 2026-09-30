@@ -1821,5 +1821,7 @@
   "nrc.ui.minigames.rematch": "रीमैच",
   "nrc.ui.minigames.rematch_sent": "रीमैच का अनुरोध भेजा",
   "nrc.ui.minigames.accept": "स्वीकार करें",
-  "nrc.ui.minigames.no_invitation": "कोई खुला निमंत्रण नहीं"
+  "nrc.ui.minigames.no_invitation": "कोई खुला निमंत्रण नहीं",
+  "nrc.friends.wheel.action.flappybird": "Flappy Bird",
+  "nrc.friends.wheel.action.2048": "2048"
 }

@@ -1821,5 +1821,7 @@
   "nrc.ui.minigames.rematch": "rövanş",
   "nrc.ui.minigames.rematch_sent": "rövanş istendi",
   "nrc.ui.minigames.accept": "kabul et",
-  "nrc.ui.minigames.no_invitation": "açık davet yok"
+  "nrc.ui.minigames.no_invitation": "açık davet yok",
+  "nrc.friends.wheel.action.flappybird": "Flappy Bird",
+  "nrc.friends.wheel.action.2048": "2048"
 }

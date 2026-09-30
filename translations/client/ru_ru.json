@@ -1821,5 +1821,7 @@
   "nrc.ui.minigames.rematch": "реванш",
   "nrc.ui.minigames.rematch_sent": "реванш запрошен",
   "nrc.ui.minigames.accept": "принять",
-  "nrc.ui.minigames.no_invitation": "нет открытых приглашений"
+  "nrc.ui.minigames.no_invitation": "нет открытых приглашений",
+  "nrc.friends.wheel.action.flappybird": "Flappy Bird",
+  "nrc.friends.wheel.action.2048": "2048"
 }

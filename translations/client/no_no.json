@@ -966,5 +966,7 @@
   "nrc.ui.minigames.rematch": "revansj",
   "nrc.ui.minigames.rematch_sent": "revansj forespurt",
   "nrc.ui.minigames.accept": "godta",
-  "nrc.ui.minigames.no_invitation": "ingen åpen invitasjon"
+  "nrc.ui.minigames.no_invitation": "ingen åpen invitasjon",
+  "nrc.friends.wheel.action.flappybird": "Flappy Bird",
+  "nrc.friends.wheel.action.2048": "2048"
 }
