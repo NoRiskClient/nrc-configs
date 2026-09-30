@@ -1819,5 +1819,7 @@
   "nrc.ui.minigames.god_mode": "गॉड मोड",
   "nrc.ui.minigames.opponent_left": "प्रतिद्वंद्वी चला गया",
   "nrc.ui.minigames.rematch": "रीमैच",
-  "nrc.ui.minigames.rematch_sent": "रीमैच का अनुरोध भेजा"
+  "nrc.ui.minigames.rematch_sent": "रीमैच का अनुरोध भेजा",
+  "nrc.ui.minigames.accept": "स्वीकार करें",
+  "nrc.ui.minigames.no_invitation": "कोई खुला निमंत्रण नहीं"
 }

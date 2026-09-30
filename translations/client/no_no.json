@@ -964,5 +964,7 @@
   "nrc.ui.minigames.god_mode": "Gudemodus",
   "nrc.ui.minigames.opponent_left": "motstanderen forlot",
   "nrc.ui.minigames.rematch": "revansj",
-  "nrc.ui.minigames.rematch_sent": "revansj forespurt"
+  "nrc.ui.minigames.rematch_sent": "revansj forespurt",
+  "nrc.ui.minigames.accept": "godta",
+  "nrc.ui.minigames.no_invitation": "ingen åpen invitasjon"
 }

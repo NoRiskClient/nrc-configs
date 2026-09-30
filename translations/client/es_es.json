@@ -1819,5 +1819,7 @@
   "nrc.ui.minigames.god_mode": "Modo dios",
   "nrc.ui.minigames.opponent_left": "el rival se fue",
   "nrc.ui.minigames.rematch": "revancha",
-  "nrc.ui.minigames.rematch_sent": "revancha solicitada"
+  "nrc.ui.minigames.rematch_sent": "revancha solicitada",
+  "nrc.ui.minigames.accept": "aceptar",
+  "nrc.ui.minigames.no_invitation": "no hay invitaciones pendientes"
 }

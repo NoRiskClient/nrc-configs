@@ -1819,5 +1819,7 @@
   "nrc.ui.minigames.god_mode": "God Mode",
   "nrc.ui.minigames.opponent_left": "opponent left",
   "nrc.ui.minigames.rematch": "rematch",
-  "nrc.ui.minigames.rematch_sent": "rematch requested"
+  "nrc.ui.minigames.rematch_sent": "rematch requested",
+  "nrc.ui.minigames.accept": "accept",
+  "nrc.ui.minigames.no_invitation": "no open invitation"
 }

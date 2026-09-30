@@ -1819,5 +1819,7 @@
   "nrc.ui.minigames.god_mode": "Tryb boga",
   "nrc.ui.minigames.opponent_left": "przeciwnik wyszedł",
   "nrc.ui.minigames.rematch": "rewanż",
-  "nrc.ui.minigames.rematch_sent": "wysłano prośbę o rewanż"
+  "nrc.ui.minigames.rematch_sent": "wysłano prośbę o rewanż",
+  "nrc.ui.minigames.accept": "akceptuj",
+  "nrc.ui.minigames.no_invitation": "brak otwartego zaproszenia"
 }

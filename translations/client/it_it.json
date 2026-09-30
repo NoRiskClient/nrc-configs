@@ -1819,5 +1819,7 @@
   "nrc.ui.minigames.god_mode": "Modalità dio",
   "nrc.ui.minigames.opponent_left": "avversario uscito",
   "nrc.ui.minigames.rematch": "rivincita",
-  "nrc.ui.minigames.rematch_sent": "rivincita richiesta"
+  "nrc.ui.minigames.rematch_sent": "rivincita richiesta",
+  "nrc.ui.minigames.accept": "accetta",
+  "nrc.ui.minigames.no_invitation": "nessun invito aperto"
 }

@@ -1819,5 +1819,7 @@
   "nrc.ui.minigames.god_mode": "Mode dieu",
   "nrc.ui.minigames.opponent_left": "adversaire parti",
   "nrc.ui.minigames.rematch": "revanche",
-  "nrc.ui.minigames.rematch_sent": "revanche demandée"
+  "nrc.ui.minigames.rematch_sent": "revanche demandée",
+  "nrc.ui.minigames.accept": "accepter",
+  "nrc.ui.minigames.no_invitation": "aucune invitation en attente"
 }

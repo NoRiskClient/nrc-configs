@@ -1819,5 +1819,7 @@
   "nrc.ui.minigames.god_mode": "Godmode",
   "nrc.ui.minigames.opponent_left": "gegner hat verlassen",
   "nrc.ui.minigames.rematch": "revanche",
-  "nrc.ui.minigames.rematch_sent": "revanche angefragt"
+  "nrc.ui.minigames.rematch_sent": "revanche angefragt",
+  "nrc.ui.minigames.accept": "annehmen",
+  "nrc.ui.minigames.no_invitation": "keine offene einladung"
 }

@@ -1819,5 +1819,7 @@
   "nrc.ui.minigames.god_mode": "Tanrı modu",
   "nrc.ui.minigames.opponent_left": "rakip ayrıldı",
   "nrc.ui.minigames.rematch": "rövanş",
-  "nrc.ui.minigames.rematch_sent": "rövanş istendi"
+  "nrc.ui.minigames.rematch_sent": "rövanş istendi",
+  "nrc.ui.minigames.accept": "kabul et",
+  "nrc.ui.minigames.no_invitation": "açık davet yok"
 }

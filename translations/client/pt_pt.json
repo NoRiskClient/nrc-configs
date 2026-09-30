@@ -1819,5 +1819,7 @@
   "nrc.ui.minigames.god_mode": "Modo deus",
   "nrc.ui.minigames.opponent_left": "adversário saiu",
   "nrc.ui.minigames.rematch": "desforra",
-  "nrc.ui.minigames.rematch_sent": "desforra pedida"
+  "nrc.ui.minigames.rematch_sent": "desforra pedida",
+  "nrc.ui.minigames.accept": "aceitar",
+  "nrc.ui.minigames.no_invitation": "nenhum convite pendente"
 }

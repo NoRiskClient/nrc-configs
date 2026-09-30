@@ -1819,5 +1819,7 @@
   "nrc.ui.minigames.god_mode": "Режим бога",
   "nrc.ui.minigames.opponent_left": "соперник вышел",
   "nrc.ui.minigames.rematch": "реванш",
-  "nrc.ui.minigames.rematch_sent": "реванш запрошен"
+  "nrc.ui.minigames.rematch_sent": "реванш запрошен",
+  "nrc.ui.minigames.accept": "принять",
+  "nrc.ui.minigames.no_invitation": "нет открытых приглашений"
 }
