@@ -1785,6 +1785,7 @@
   "nrc.splitchat.filter.group.more": "Więcej opcji",
   "nrc.splitchat.filter.more.count": "(włączone: %s)",
   "nrc.splitchat.sound.none": "Bez dźwięku",
+  "nrc.splitchat.filter.preview.count_hidden": "Ukryte z ostatnich %2$s wiadomości: %1$s",
   "nrc.ui.modules.description.chat_highlights": "Koloruje ważne wiadomości na czacie i gra dźwięk, np. gdy ktoś napisze twój nick",
   "nrc.chathighlights.intro": "Wybierz wiadomości do pokolorowania albo do powiadomienia, np. gdy ktoś napisze twój nick. Działa z Split Chat i bez",
   "nrc.chathighlights.enabled": "Chat Highlights włączone",

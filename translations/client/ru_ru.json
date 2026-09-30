@@ -1785,6 +1785,7 @@
   "nrc.splitchat.filter.group.more": "Ещё настройки",
   "nrc.splitchat.filter.more.count": "(вкл.: %s)",
   "nrc.splitchat.sound.none": "Без звука",
+  "nrc.splitchat.filter.preview.count_hidden": "Скрыто было бы %s из последних %s сообщений:",
   "nrc.ui.modules.description.chat_highlights": "Красит важные сообщения в чате и играет звук, например когда кто-то пишет твой ник",
   "nrc.chathighlights.intro": "Выбери сообщения, которые нужно покрасить или о которых сообщить, например когда кто-то пишет твой ник. Работает с Split Chat и без него",
   "nrc.chathighlights.enabled": "Chat Highlights вкл.",

@@ -1785,6 +1785,7 @@
   "nrc.splitchat.filter.group.more": "Daha fazla seçenek",
   "nrc.splitchat.filter.more.count": "(%s açık)",
   "nrc.splitchat.sound.none": "Ses yok",
+  "nrc.splitchat.filter.preview.count_hidden": "Son %2$s mesajından %1$s tanesi gizlenirdi:",
   "nrc.ui.modules.description.chat_highlights": "Önemli sohbet mesajlarını boyar ve ses çalar, örneğin biri adını yazdığında",
   "nrc.chathighlights.intro": "Boyanacak veya seni uyaracak mesajları seç, örneğin biri adını yazdığında. Split Chat ile de, onsuz da çalışır",
   "nrc.chathighlights.enabled": "Chat Highlights açık",

@@ -1785,6 +1785,7 @@
   "nrc.splitchat.filter.group.more": "Más opciones",
   "nrc.splitchat.filter.more.count": "(%s activas)",
   "nrc.splitchat.sound.none": "Sin sonido",
+  "nrc.splitchat.filter.preview.count_hidden": "%s de tus últimos %s mensajes se ocultarían:",
   "nrc.ui.modules.description.chat_highlights": "Colorea los mensajes que te importan y suena algo, como cuando alguien escribe tu nombre",
   "nrc.chathighlights.intro": "Elige mensajes para colorear o para avisarte, como cuando alguien escribe tu nombre. Funciona con y sin Split Chat",
   "nrc.chathighlights.enabled": "Chat Highlights activado",

@@ -1785,6 +1785,7 @@
   "nrc.splitchat.filter.group.more": "Mehr Optionen",
   "nrc.splitchat.filter.more.count": "(%s an)",
   "nrc.splitchat.sound.none": "Kein Sound",
+  "nrc.splitchat.filter.preview.count_hidden": "%s von deinen letzten %s Nachrichten würden versteckt:",
   "nrc.ui.modules.description.chat_highlights": "Färbt wichtige Chat-Nachrichten ein und spielt einen Sound, zum Beispiel wenn jemand deinen Namen schreibt",
   "nrc.chathighlights.intro": "Such dir Nachrichten aus, die eingefärbt werden oder dich anpingen, zum Beispiel wenn jemand deinen Namen schreibt. Klappt mit und ohne Split Chat",
   "nrc.chathighlights.enabled": "Chat Highlights an",

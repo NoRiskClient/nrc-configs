@@ -938,6 +938,7 @@
   "nrc.splitchat.filter.group.more": "Flere valg",
   "nrc.splitchat.filter.more.count": "(%s på)",
   "nrc.splitchat.sound.none": "Ingen lyd",
+  "nrc.splitchat.filter.preview.count_hidden": "%s av de siste %s meldingene dine ville blitt skjult:",
   "nrc.ui.modules.description.chat_highlights": "Farger viktige chatmeldinger og spiller en lyd, for eksempel når noen skriver navnet ditt",
   "nrc.chathighlights.intro": "Velg meldinger som skal farges eller varsle deg, for eksempel når noen skriver navnet ditt. Virker med og uten Split Chat",
   "nrc.chathighlights.enabled": "Chat Highlights på",
