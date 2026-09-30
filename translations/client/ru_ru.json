@@ -2122,5 +2122,21 @@
   "nrc.ui.minigames.no_invitation": "нет открытых приглашений",
   "nrc.friends.wheel.action.play_game": "Сыграть в мини-игру",
   "nrc.ui.minigames.play_with": "Играть с %s",
-  "nrc.ui.minigames.choose_game": "выбери игру"
+  "nrc.ui.minigames.choose_game": "выбери игру",
+  "nrc.ui.modules.description.direction_hud": "Полоса компаса с твоим направлением, waypoint'ами и пингами",
+  "nrc.ui.modules.value.compassWidth": "Ширина",
+  "nrc.ui.modules.value.fieldOfView": "Поле Зрения",
+  "nrc.ui.modules.value.showIntercardinals": "Промежуточные Направления",
+  "nrc.ui.modules.value.showTicks": "Деления",
+  "nrc.ui.modules.value.showTickDegrees": "Значения Градусов",
+  "nrc.ui.modules.value.showHeading": "Курс",
+  "nrc.ui.modules.value.headingDetails": "Знак Градуса и Направление",
+  "nrc.ui.modules.value.fadeEdges": "Затухание Краёв",
+  "nrc.ui.modules.value.needlePosition": "Позиция Стрелки",
+  "nrc.ui.modules.value.headingPosition": "Позиция Курса",
+  "nrc.ui.modules.value.markerPosition": "Позиция Маркеров",
+  "nrc.ui.modules.value.showWaypoints": "Показать Waypoint'ы",
+  "nrc.ui.modules.value.showPings": "Показать Пинги",
+  "nrc.ui.modules.value.focusDetails": "Детали в Центре",
+  "nrc.ui.modules.value.pinOffscreenMarkers": "Закреплять Маркеры за Экраном"
 }
