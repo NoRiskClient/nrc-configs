@@ -2138,5 +2138,18 @@
   "nrc.ui.modules.value.showWaypoints": "Wegpunkte anzeigen",
   "nrc.ui.modules.value.showPings": "Pings anzeigen",
   "nrc.ui.modules.value.focusDetails": "Details bei Fokus",
-  "nrc.ui.modules.value.pinOffscreenMarkers": "Marker am Rand halten"
+  "nrc.ui.modules.value.pinOffscreenMarkers": "Marker am Rand halten",
+  "nrc.ui.modules.description.tab_editor": "Passe die Tabliste an: umschalten statt halten, Teile ausblenden, Freunde und Party-Mitglieder hervorheben und Ping als Zahl anzeigen",
+  "nrc.ui.modules.value.toggleTab": "Tab umschalten",
+  "nrc.ui.modules.value.disableHeader": "Header ausblenden",
+  "nrc.ui.modules.value.disableFooter": "Footer ausblenden",
+  "nrc.ui.modules.value.disablePlayerHead": "Spielerköpfe ausblenden",
+  "nrc.ui.modules.value.nameShadow": "Namensschatten",
+  "nrc.ui.modules.value.moveSelfToTop": "Dich selbst oben anzeigen",
+  "nrc.ui.modules.value.highlightFriends": "Freunde hervorheben",
+  "nrc.ui.modules.value.friendsBackgroundColor": "Hintergrundfarbe Freunde",
+  "nrc.ui.modules.value.highlightPartyMembers": "NoRisk-Party-Mitglieder hervorheben",
+  "nrc.ui.modules.value.partyBackgroundColor": "Hintergrundfarbe Party",
+  "nrc.ui.modules.value.hidePing": "Ping ausblenden",
+  "nrc.ui.modules.value.showPingAsNumber": "Ping als Zahl anzeigen"
 }

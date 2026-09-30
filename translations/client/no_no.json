@@ -1284,5 +1284,18 @@
   "nrc.ui.modules.value.showWaypoints": "Vis veipunkter",
   "nrc.ui.modules.value.showPings": "Vis pinger",
   "nrc.ui.modules.value.focusDetails": "Detaljer ved fokus",
-  "nrc.ui.modules.value.pinOffscreenMarkers": "Fest markører utenfor skjermen"
+  "nrc.ui.modules.value.pinOffscreenMarkers": "Fest markører utenfor skjermen",
+  "nrc.ui.modules.description.tab_editor": "Tilpass tablisten: veksle den, skjul deler av den, uthev venner og partymedlemmer og vis ping som tall",
+  "nrc.ui.modules.value.toggleTab": "Veksle tab",
+  "nrc.ui.modules.value.disableHeader": "Skjul topptekst",
+  "nrc.ui.modules.value.disableFooter": "Skjul bunntekst",
+  "nrc.ui.modules.value.disablePlayerHead": "Skjul spillerhoder",
+  "nrc.ui.modules.value.nameShadow": "Navneskygge",
+  "nrc.ui.modules.value.moveSelfToTop": "Vis deg selv øverst",
+  "nrc.ui.modules.value.highlightFriends": "Uthev venner",
+  "nrc.ui.modules.value.friendsBackgroundColor": "Bakgrunnsfarge for venner",
+  "nrc.ui.modules.value.highlightPartyMembers": "Uthev NoRisk-partymedlemmer",
+  "nrc.ui.modules.value.partyBackgroundColor": "Bakgrunnsfarge for party",
+  "nrc.ui.modules.value.hidePing": "Skjul ping",
+  "nrc.ui.modules.value.showPingAsNumber": "Vis ping som tall"
 }

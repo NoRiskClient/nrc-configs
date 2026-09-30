@@ -2138,5 +2138,18 @@
   "nrc.ui.modules.value.showWaypoints": "Показать Waypoint'ы",
   "nrc.ui.modules.value.showPings": "Показать Пинги",
   "nrc.ui.modules.value.focusDetails": "Детали в Центре",
-  "nrc.ui.modules.value.pinOffscreenMarkers": "Закреплять Маркеры за Экраном"
+  "nrc.ui.modules.value.pinOffscreenMarkers": "Закреплять Маркеры за Экраном",
+  "nrc.ui.modules.description.tab_editor": "Настрой таб: переключай его, скрывай части, выделяй друзей и участников пати и показывай пинг числом",
+  "nrc.ui.modules.value.toggleTab": "Переключать Таб",
+  "nrc.ui.modules.value.disableHeader": "Отключить Заголовок",
+  "nrc.ui.modules.value.disableFooter": "Отключить Нижний Текст",
+  "nrc.ui.modules.value.disablePlayerHead": "Отключить Головы Игроков",
+  "nrc.ui.modules.value.nameShadow": "Тень Ников",
+  "nrc.ui.modules.value.moveSelfToTop": "Себя Наверх",
+  "nrc.ui.modules.value.highlightFriends": "Выделять Друзей",
+  "nrc.ui.modules.value.friendsBackgroundColor": "Цвет Фона Друзей",
+  "nrc.ui.modules.value.highlightPartyMembers": "Выделять Участников Пати NoRisk",
+  "nrc.ui.modules.value.partyBackgroundColor": "Цвет Фона Пати",
+  "nrc.ui.modules.value.hidePing": "Скрыть Пинг",
+  "nrc.ui.modules.value.showPingAsNumber": "Показывать Пинг Числом"
 }

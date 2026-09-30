@@ -2138,5 +2138,18 @@
   "nrc.ui.modules.value.showWaypoints": "Mostrar Waypoints",
   "nrc.ui.modules.value.showPings": "Mostrar Pings",
   "nrc.ui.modules.value.focusDetails": "Detalles al Centrar",
-  "nrc.ui.modules.value.pinOffscreenMarkers": "Fijar Marcadores Fuera de Vista"
+  "nrc.ui.modules.value.pinOffscreenMarkers": "Fijar Marcadores Fuera de Vista",
+  "nrc.ui.modules.description.tab_editor": "Personaliza la lista del tab: altérnala, oculta partes, resalta amigos y miembros de la party y muestra el ping como número",
+  "nrc.ui.modules.value.toggleTab": "Alternar Tab",
+  "nrc.ui.modules.value.disableHeader": "Desactivar Encabezado",
+  "nrc.ui.modules.value.disableFooter": "Desactivar Pie",
+  "nrc.ui.modules.value.disablePlayerHead": "Desactivar Cabezas",
+  "nrc.ui.modules.value.nameShadow": "Sombra del Nombre",
+  "nrc.ui.modules.value.moveSelfToTop": "Mostrarte Arriba",
+  "nrc.ui.modules.value.highlightFriends": "Resaltar Amigos",
+  "nrc.ui.modules.value.friendsBackgroundColor": "Color de Fondo de Amigos",
+  "nrc.ui.modules.value.highlightPartyMembers": "Resaltar Miembros de la Party de NoRisk",
+  "nrc.ui.modules.value.partyBackgroundColor": "Color de Fondo de la Party",
+  "nrc.ui.modules.value.hidePing": "Ocultar Ping",
+  "nrc.ui.modules.value.showPingAsNumber": "Mostrar Ping como Número"
 }

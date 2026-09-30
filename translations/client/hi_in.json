@@ -2138,5 +2138,18 @@
   "nrc.ui.modules.value.showWaypoints": "वेपॉइंट दिखाएं",
   "nrc.ui.modules.value.showPings": "पिंग दिखाएं",
   "nrc.ui.modules.value.focusDetails": "फोकस पर विवरण",
-  "nrc.ui.modules.value.pinOffscreenMarkers": "स्क्रीन से बाहर के मार्कर पिन करें"
+  "nrc.ui.modules.value.pinOffscreenMarkers": "स्क्रीन से बाहर के मार्कर पिन करें",
+  "nrc.ui.modules.description.tab_editor": "टैब लिस्ट को अपने हिसाब से बदलें: उसे टॉगल करें, हिस्से छुपाएं, दोस्तों और पार्टी सदस्यों को हाइलाइट करें और पिंग को संख्या में दिखाएं",
+  "nrc.ui.modules.value.toggleTab": "टैब टॉगल करें",
+  "nrc.ui.modules.value.disableHeader": "हेडर बंद करें",
+  "nrc.ui.modules.value.disableFooter": "फ़ुटर बंद करें",
+  "nrc.ui.modules.value.disablePlayerHead": "प्लेयर हेड बंद करें",
+  "nrc.ui.modules.value.nameShadow": "नाम की छाया",
+  "nrc.ui.modules.value.moveSelfToTop": "खुद को सबसे ऊपर रखें",
+  "nrc.ui.modules.value.highlightFriends": "दोस्तों को हाइलाइट करें",
+  "nrc.ui.modules.value.friendsBackgroundColor": "दोस्तों का पृष्ठभूमि रंग",
+  "nrc.ui.modules.value.highlightPartyMembers": "NoRisk पार्टी सदस्यों को हाइलाइट करें",
+  "nrc.ui.modules.value.partyBackgroundColor": "पार्टी का पृष्ठभूमि रंग",
+  "nrc.ui.modules.value.hidePing": "पिंग छुपाएं",
+  "nrc.ui.modules.value.showPingAsNumber": "पिंग को संख्या में दिखाएं"
 }
