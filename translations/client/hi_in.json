@@ -1822,6 +1822,7 @@
   "nrc.ui.minigames.rematch_sent": "रीमैच का अनुरोध भेजा",
   "nrc.ui.minigames.accept": "स्वीकार करें",
   "nrc.ui.minigames.no_invitation": "कोई खुला निमंत्रण नहीं",
-  "nrc.friends.wheel.action.flappybird": "Flappy Bird",
-  "nrc.friends.wheel.action.2048": "2048"
+  "nrc.friends.wheel.action.play_game": "मिनीगेम खेलें",
+  "nrc.ui.minigames.play_with": "%s के साथ खेलें",
+  "nrc.ui.minigames.choose_game": "एक गेम चुनें"
 }

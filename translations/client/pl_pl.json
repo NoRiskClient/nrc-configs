@@ -1822,6 +1822,7 @@
   "nrc.ui.minigames.rematch_sent": "wysłano prośbę o rewanż",
   "nrc.ui.minigames.accept": "akceptuj",
   "nrc.ui.minigames.no_invitation": "brak otwartego zaproszenia",
-  "nrc.friends.wheel.action.flappybird": "Flappy Bird",
-  "nrc.friends.wheel.action.2048": "2048"
+  "nrc.friends.wheel.action.play_game": "Zagraj w minigrę",
+  "nrc.ui.minigames.play_with": "Zagraj z %s",
+  "nrc.ui.minigames.choose_game": "wybierz grę"
 }

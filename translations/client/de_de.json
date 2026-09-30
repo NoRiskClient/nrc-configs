@@ -1822,6 +1822,7 @@
   "nrc.ui.minigames.rematch_sent": "revanche angefragt",
   "nrc.ui.minigames.accept": "annehmen",
   "nrc.ui.minigames.no_invitation": "keine offene einladung",
-  "nrc.friends.wheel.action.flappybird": "Flappy Bird",
-  "nrc.friends.wheel.action.2048": "2048"
+  "nrc.friends.wheel.action.play_game": "Minispiel spielen",
+  "nrc.ui.minigames.play_with": "Mit %s spielen",
+  "nrc.ui.minigames.choose_game": "wähle ein spiel"
 }
