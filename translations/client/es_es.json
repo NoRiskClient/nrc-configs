@@ -2122,5 +2122,18 @@
   "nrc.ui.minigames.no_invitation": "no hay invitaciones pendientes",
   "nrc.friends.wheel.action.play_game": "Jugar un minijuego",
   "nrc.ui.minigames.play_with": "Jugar con %s",
-  "nrc.ui.minigames.choose_game": "elige un juego"
+  "nrc.ui.minigames.choose_game": "elige un juego",
+  "nrc.ui.modules.description.tab_editor": "Personaliza la lista del tab: altérnala, oculta partes, resalta amigos y miembros de la party y muestra el ping como número",
+  "nrc.ui.modules.value.toggleTab": "Alternar Tab",
+  "nrc.ui.modules.value.disableHeader": "Desactivar Encabezado",
+  "nrc.ui.modules.value.disableFooter": "Desactivar Pie",
+  "nrc.ui.modules.value.disablePlayerHead": "Desactivar Cabezas",
+  "nrc.ui.modules.value.nameShadow": "Sombra del Nombre",
+  "nrc.ui.modules.value.moveSelfToTop": "Mostrarte Arriba",
+  "nrc.ui.modules.value.highlightFriends": "Resaltar Amigos",
+  "nrc.ui.modules.value.friendsBackgroundColor": "Color de Fondo de Amigos",
+  "nrc.ui.modules.value.highlightPartyMembers": "Resaltar Miembros de la Party de NoRisk",
+  "nrc.ui.modules.value.partyBackgroundColor": "Color de Fondo de la Party",
+  "nrc.ui.modules.value.hidePing": "Ocultar Ping",
+  "nrc.ui.modules.value.showPingAsNumber": "Mostrar Ping como Número"
 }

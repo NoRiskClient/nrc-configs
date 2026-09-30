@@ -1268,5 +1268,18 @@
   "nrc.ui.minigames.no_invitation": "ingen åpen invitasjon",
   "nrc.friends.wheel.action.play_game": "Spill et minispill",
   "nrc.ui.minigames.play_with": "Spill med %s",
-  "nrc.ui.minigames.choose_game": "velg et spill"
+  "nrc.ui.minigames.choose_game": "velg et spill",
+  "nrc.ui.modules.description.tab_editor": "Tilpass tablisten: veksle den, skjul deler av den, uthev venner og partymedlemmer og vis ping som tall",
+  "nrc.ui.modules.value.toggleTab": "Veksle tab",
+  "nrc.ui.modules.value.disableHeader": "Skjul topptekst",
+  "nrc.ui.modules.value.disableFooter": "Skjul bunntekst",
+  "nrc.ui.modules.value.disablePlayerHead": "Skjul spillerhoder",
+  "nrc.ui.modules.value.nameShadow": "Navneskygge",
+  "nrc.ui.modules.value.moveSelfToTop": "Vis deg selv øverst",
+  "nrc.ui.modules.value.highlightFriends": "Uthev venner",
+  "nrc.ui.modules.value.friendsBackgroundColor": "Bakgrunnsfarge for venner",
+  "nrc.ui.modules.value.highlightPartyMembers": "Uthev NoRisk-partymedlemmer",
+  "nrc.ui.modules.value.partyBackgroundColor": "Bakgrunnsfarge for party",
+  "nrc.ui.modules.value.hidePing": "Skjul ping",
+  "nrc.ui.modules.value.showPingAsNumber": "Vis ping som tall"
 }

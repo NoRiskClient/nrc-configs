@@ -2122,5 +2122,18 @@
   "nrc.ui.minigames.no_invitation": "no open invitation",
   "nrc.friends.wheel.action.play_game": "Play a game",
   "nrc.ui.minigames.play_with": "Play with %s",
-  "nrc.ui.minigames.choose_game": "choose a game"
+  "nrc.ui.minigames.choose_game": "choose a game",
+  "nrc.ui.modules.description.tab_editor": "Customize the tab list: toggle it, hide parts of it, highlight friends and party members and show ping as a number",
+  "nrc.ui.modules.value.toggleTab": "Toggle Tab",
+  "nrc.ui.modules.value.disableHeader": "Disable Header",
+  "nrc.ui.modules.value.disableFooter": "Disable Footer",
+  "nrc.ui.modules.value.disablePlayerHead": "Disable Player Head",
+  "nrc.ui.modules.value.nameShadow": "Name Shadow",
+  "nrc.ui.modules.value.moveSelfToTop": "Move Self To Top",
+  "nrc.ui.modules.value.highlightFriends": "Highlight Friends",
+  "nrc.ui.modules.value.friendsBackgroundColor": "Friends Background Color",
+  "nrc.ui.modules.value.highlightPartyMembers": "Highlight NoRisk Party Members",
+  "nrc.ui.modules.value.partyBackgroundColor": "Party Background Color",
+  "nrc.ui.modules.value.hidePing": "Hide Ping",
+  "nrc.ui.modules.value.showPingAsNumber": "Show Ping As Number"
 }

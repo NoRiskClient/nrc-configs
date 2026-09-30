@@ -2122,5 +2122,18 @@
   "nrc.ui.minigames.no_invitation": "aucune invitation en attente",
   "nrc.friends.wheel.action.play_game": "Jouer à un mini-jeu",
   "nrc.ui.minigames.play_with": "Jouer avec %s",
-  "nrc.ui.minigames.choose_game": "choisis un jeu"
+  "nrc.ui.minigames.choose_game": "choisis un jeu",
+  "nrc.ui.modules.description.tab_editor": "Personnalise la liste du tab : bascule-la, masque des éléments, surligne tes amis et les membres de ta party et affiche le ping en nombre",
+  "nrc.ui.modules.value.toggleTab": "Basculer le Tab",
+  "nrc.ui.modules.value.disableHeader": "Désactiver l'En-tête",
+  "nrc.ui.modules.value.disableFooter": "Désactiver le Pied de page",
+  "nrc.ui.modules.value.disablePlayerHead": "Désactiver les Têtes",
+  "nrc.ui.modules.value.nameShadow": "Ombre des Noms",
+  "nrc.ui.modules.value.moveSelfToTop": "Se Placer en Haut",
+  "nrc.ui.modules.value.highlightFriends": "Surligner les Amis",
+  "nrc.ui.modules.value.friendsBackgroundColor": "Couleur de Fond des Amis",
+  "nrc.ui.modules.value.highlightPartyMembers": "Surligner les Membres de la Party NoRisk",
+  "nrc.ui.modules.value.partyBackgroundColor": "Couleur de Fond de la Party",
+  "nrc.ui.modules.value.hidePing": "Masquer le Ping",
+  "nrc.ui.modules.value.showPingAsNumber": "Afficher le Ping en Nombre"
 }

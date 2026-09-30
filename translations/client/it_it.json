@@ -2122,5 +2122,18 @@
   "nrc.ui.minigames.no_invitation": "nessun invito aperto",
   "nrc.friends.wheel.action.play_game": "Gioca a un minigioco",
   "nrc.ui.minigames.play_with": "Gioca con %s",
-  "nrc.ui.minigames.choose_game": "scegli un gioco"
+  "nrc.ui.minigames.choose_game": "scegli un gioco",
+  "nrc.ui.modules.description.tab_editor": "Personalizza la lista del tab: attivala con un tasto, nascondine delle parti, evidenzia amici e membri del party e mostra il ping come numero",
+  "nrc.ui.modules.value.toggleTab": "Alterna Tab",
+  "nrc.ui.modules.value.disableHeader": "Disattiva Intestazione",
+  "nrc.ui.modules.value.disableFooter": "Disattiva Piè di Pagina",
+  "nrc.ui.modules.value.disablePlayerHead": "Disattiva Teste Giocatori",
+  "nrc.ui.modules.value.nameShadow": "Ombra del Nome",
+  "nrc.ui.modules.value.moveSelfToTop": "Mostrati in Cima",
+  "nrc.ui.modules.value.highlightFriends": "Evidenzia Amici",
+  "nrc.ui.modules.value.friendsBackgroundColor": "Colore Sfondo Amici",
+  "nrc.ui.modules.value.highlightPartyMembers": "Evidenzia Membri del Party NoRisk",
+  "nrc.ui.modules.value.partyBackgroundColor": "Colore Sfondo Party",
+  "nrc.ui.modules.value.hidePing": "Nascondi Ping",
+  "nrc.ui.modules.value.showPingAsNumber": "Mostra Ping come Numero"
 }

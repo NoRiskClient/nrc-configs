@@ -2122,5 +2122,18 @@
   "nrc.ui.minigames.no_invitation": "açık davet yok",
   "nrc.friends.wheel.action.play_game": "Mini oyun oyna",
   "nrc.ui.minigames.play_with": "%s ile oyna",
-  "nrc.ui.minigames.choose_game": "bir oyun seç"
+  "nrc.ui.minigames.choose_game": "bir oyun seç",
+  "nrc.ui.modules.description.tab_editor": "Tab listesini özelleştir: aç/kapat, bazı kısımlarını gizle, arkadaşlarını ve parti üyelerini vurgula ve pingi sayı olarak göster",
+  "nrc.ui.modules.value.toggleTab": "Tab'ı Aç/Kapat",
+  "nrc.ui.modules.value.disableHeader": "Başlığı Kapat",
+  "nrc.ui.modules.value.disableFooter": "Alt Bilgiyi Kapat",
+  "nrc.ui.modules.value.disablePlayerHead": "Oyuncu Kafalarını Kapat",
+  "nrc.ui.modules.value.nameShadow": "İsim Gölgesi",
+  "nrc.ui.modules.value.moveSelfToTop": "Kendini En Üste Taşı",
+  "nrc.ui.modules.value.highlightFriends": "Arkadaşları Vurgula",
+  "nrc.ui.modules.value.friendsBackgroundColor": "Arkadaş Arka Plan Rengi",
+  "nrc.ui.modules.value.highlightPartyMembers": "NoRisk Parti Üyelerini Vurgula",
+  "nrc.ui.modules.value.partyBackgroundColor": "Parti Arka Plan Rengi",
+  "nrc.ui.modules.value.hidePing": "Pingi Gizle",
+  "nrc.ui.modules.value.showPingAsNumber": "Pingi Sayı Olarak Göster"
 }
