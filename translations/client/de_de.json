@@ -2131,5 +2131,6 @@
   "nrc.inventory.key": "Taste",
   "nrc.inventory.visibility.always": "Immer",
   "nrc.inventory.visibility.hold_key": "Taste halten",
-  "nrc.ui.modules.description.confirm_disconnect": "Verlangt einen zweiten Klick, bevor du die Verbindung trennst oder zum Titelbildschirm zurückkehrst"
+  "nrc.ui.modules.description.confirm_disconnect": "Verlangt einen zweiten Klick, bevor du die Verbindung trennst oder zum Titelbildschirm zurückkehrst",
+  "nrc.ui.modules.confirm_disconnect.confirm": "Zum Bestätigen erneut klicken"
 }

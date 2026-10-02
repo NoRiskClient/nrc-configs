@@ -2131,5 +2131,6 @@
   "nrc.inventory.key": "Клавиша",
   "nrc.inventory.visibility.always": "Всегда",
   "nrc.inventory.visibility.hold_key": "Удерживать",
-  "nrc.ui.modules.description.confirm_disconnect": "Требует повторного нажатия перед отключением или выходом в главное меню"
+  "nrc.ui.modules.description.confirm_disconnect": "Требует повторного нажатия перед отключением или выходом в главное меню",
+  "nrc.ui.modules.confirm_disconnect.confirm": "Нажми ещё раз, чтобы подтвердить"
 }

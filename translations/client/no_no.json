@@ -1277,5 +1277,6 @@
   "nrc.inventory.key": "Tast",
   "nrc.inventory.visibility.always": "Alltid",
   "nrc.inventory.visibility.hold_key": "Hold tast",
-  "nrc.ui.modules.description.confirm_disconnect": "Krever et ekstra klikk før du kobler fra eller går tilbake til tittelskjermen"
+  "nrc.ui.modules.description.confirm_disconnect": "Krever et ekstra klikk før du kobler fra eller går tilbake til tittelskjermen",
+  "nrc.ui.modules.confirm_disconnect.confirm": "Klikk igjen for å bekrefte"
 }

@@ -2131,5 +2131,6 @@
   "nrc.inventory.key": "Key",
   "nrc.inventory.visibility.always": "Always",
   "nrc.inventory.visibility.hold_key": "Hold Key",
-  "nrc.ui.modules.description.confirm_disconnect": "Asks for a second click before you disconnect or quit to the title screen"
+  "nrc.ui.modules.description.confirm_disconnect": "Asks for a second click before you disconnect or quit to the title screen",
+  "nrc.ui.modules.confirm_disconnect.confirm": "Click again to confirm"
 }

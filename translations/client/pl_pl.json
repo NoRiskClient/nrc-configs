@@ -2131,5 +2131,6 @@
   "nrc.inventory.key": "Klawisz",
   "nrc.inventory.visibility.always": "Zawsze",
   "nrc.inventory.visibility.hold_key": "Przytrzymaj",
-  "nrc.ui.modules.description.confirm_disconnect": "Wymaga drugiego kliknięcia przed rozłączeniem lub wyjściem do ekranu tytułowego"
+  "nrc.ui.modules.description.confirm_disconnect": "Wymaga drugiego kliknięcia przed rozłączeniem lub wyjściem do ekranu tytułowego",
+  "nrc.ui.modules.confirm_disconnect.confirm": "Kliknij ponownie, aby potwierdzić"
 }
