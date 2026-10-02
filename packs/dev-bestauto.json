@@ -624,7 +624,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.91004-dev-bestauto+fabric.26.2",
+                        "identifier": "26.4.95989-dev-bestauto+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -641,7 +641,7 @@
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "26.4.91004-dev-bestauto+fabric.26.3",
+                        "identifier": "26.4.95989-dev-bestauto+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
