@@ -1,5 +1,5 @@
 {
-    "displayName": "NoRiskClient Standalone",
+    "displayName": "NoRiskClient Standalone (Nightly)",
     "description": "The full NoRiskClient as a single standalone mod, built from the dev-nrc-mini branch. Every module, every feature, every HUD in one jar. Bump the identifiers in this file when newer dev-nrc-mini builds land.",
     "inheritsFrom": null,
     "excludeMods": null,
