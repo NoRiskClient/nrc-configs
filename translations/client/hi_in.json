@@ -2131,5 +2131,6 @@
   "nrc.inventory.key": "कुंजी",
   "nrc.inventory.visibility.always": "हमेशा",
   "nrc.inventory.visibility.hold_key": "कुंजी दबाए रखें",
-  "nrc.ui.modules.description.confirm_disconnect": "डिस्कनेक्ट करने या टाइटल स्क्रीन पर जाने से पहले दूसरा क्लिक मांगता है"
+  "nrc.ui.modules.description.confirm_disconnect": "डिस्कनेक्ट करने या टाइटल स्क्रीन पर जाने से पहले दूसरा क्लिक मांगता है",
+  "nrc.ui.modules.confirm_disconnect.confirm": "पुष्टि करने के लिए फिर से क्लिक करें"
 }

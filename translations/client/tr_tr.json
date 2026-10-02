@@ -2131,5 +2131,6 @@
   "nrc.inventory.key": "Tuş",
   "nrc.inventory.visibility.always": "Her Zaman",
   "nrc.inventory.visibility.hold_key": "Tuşu Basılı Tut",
-  "nrc.ui.modules.description.confirm_disconnect": "Bağlantıyı kesmeden veya başlık ekranına dönmeden önce ikinci bir tıklama ister"
+  "nrc.ui.modules.description.confirm_disconnect": "Bağlantıyı kesmeden veya başlık ekranına dönmeden önce ikinci bir tıklama ister",
+  "nrc.ui.modules.confirm_disconnect.confirm": "Onaylamak için tekrar tıkla"
 }

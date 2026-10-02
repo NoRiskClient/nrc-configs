@@ -2131,5 +2131,6 @@
   "nrc.inventory.key": "Tecla",
   "nrc.inventory.visibility.always": "Sempre",
   "nrc.inventory.visibility.hold_key": "Manter tecla",
-  "nrc.ui.modules.description.confirm_disconnect": "Pede um segundo clique antes de te desligares ou voltares ao ecrã de título"
+  "nrc.ui.modules.description.confirm_disconnect": "Pede um segundo clique antes de te desligares ou voltares ao ecrã de título",
+  "nrc.ui.modules.confirm_disconnect.confirm": "Clica novamente para confirmar"
 }
