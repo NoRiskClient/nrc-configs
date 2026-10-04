@@ -1309,7 +1309,8 @@
   "nrc.chat.history.title": "Longer History",
   "nrc.chat.history.description": "Keep more messages to scroll back to",
   "nrc.chat.history.limit": "Messages",
-  "nrc.chat.history.keep": "Keep When Leaving",
+  "nrc.chat.keep_chat.title": "Keep When Leaving",
+  "nrc.chat.keep_chat.description": "Chatten din blir værende når du forlater en verden eller server",
   "nrc.chat.search.title": "Search",
   "nrc.chat.search.description": "Find any message in your chat",
   "nrc.chat.search.shortcut": "Shortcut",
@@ -1426,5 +1427,10 @@
   "nrc.chat.wizard.add": "Add",
   "nrc.chat.sound.pick": "Pick a sound",
   "nrc.chat.find.placeholder": "Search...",
-  "nrc.chat.find.empty": "Nothing found"
+  "nrc.chat.find.empty": "Nothing found",
+  "nrc.ui.modules.value.reset": "Tilbakestill",
+  "nrc.ui.modules.reset.hint": "Velg hva som skal tilbakestilles",
+  "nrc.ui.modules.reset.select_all": "Velg alle",
+  "nrc.ui.modules.reset.unselect_all": "Fjern alle",
+  "nrc.ui.modules.reset.other": "Alt annet (dine egne oppføringer og HUD-oppsett)"
 }
