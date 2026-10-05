@@ -912,6 +912,8 @@
   "nrc.update.available.title": "Oppdatering tilgjengelig",
   "nrc.update.available.description": "NoRisk Client %1$s er tilgjengelig. Din versjon: %2$s.",
   "nrc.update.available.action": "Godta for å åpne nedlastingssiden.",
+  "nrc.update.staged.title": "Oppdatering klar",
+  "nrc.update.staged.description": "NoRisk Client %1$s er lastet ned og installeres når du lukker spillet.",
   "nrc.ui.modules.description.light_level": "Viser lysnivået på blokker i nærheten så du kan oppdage og hindre at mobs spawner.",
   "nrc.ui.modules.value.scanRange": "Skanneradius",
   "nrc.ui.modules.value.onlySpawnable": "Bare spawnbare",

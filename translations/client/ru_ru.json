@@ -1763,6 +1763,8 @@
   "nrc.update.available.title": "Доступно обновление",
   "nrc.update.available.description": "NoRisk Client %1$s уже доступен. Ваша версия: %2$s.",
   "nrc.update.available.action": "Подтвердите, чтобы открыть страницу загрузок.",
+  "nrc.update.staged.title": "Обновление готово",
+  "nrc.update.staged.description": "NoRisk Client %1$s загружен и будет установлен после закрытия игры.",
   "nrc.ui.modules.description.light_level": "Показывает уровень света соседних блоков, чтобы вы могли находить и предотвращать спавн мобов.",
   "nrc.ui.modules.description.twitch_integration": "Подключи аккаунт Twitch для чата, оповещений, счётчика зрителей и плеера стрима",
   "nrc.ui.modules.description.twitch_stream": "Смотри трансляцию прямо в игре",

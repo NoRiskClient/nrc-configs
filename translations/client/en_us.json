@@ -1763,6 +1763,8 @@
   "nrc.update.available.title": "Update Available",
   "nrc.update.available.description": "NoRisk Client %1$s is available. Your version: %2$s.",
   "nrc.update.available.action": "Accept to open the downloads page.",
+  "nrc.update.staged.title": "Update Ready",
+  "nrc.update.staged.description": "NoRisk Client %1$s has been downloaded and is installed when you close the game.",
   "nrc.ui.modules.description.light_level": "Shows the light level of nearby blocks so you can spot and prevent mob spawns.",
   "nrc.ui.modules.description.twitch_integration": "Connect your Twitch account for chat, alerts, viewer counts and the stream player",
   "nrc.ui.modules.description.twitch_stream": "Watch a live stream right inside the game",

@@ -1763,6 +1763,8 @@
   "nrc.update.available.title": "Mise à jour disponible",
   "nrc.update.available.description": "NoRisk Client %1$s est disponible. Votre version : %2$s.",
   "nrc.update.available.action": "Acceptez pour ouvrir la page de téléchargement.",
+  "nrc.update.staged.title": "Mise à jour prête",
+  "nrc.update.staged.description": "NoRisk Client %1$s a été téléchargé et sera installé à la fermeture du jeu.",
   "nrc.ui.modules.description.light_level": "Affiche le niveau de lumière des blocs proches pour repérer et empêcher l'apparition des monstres.",
   "nrc.ui.modules.description.twitch_integration": "Connecte ton compte Twitch pour le chat, les alertes, les spectateurs et le lecteur de stream",
   "nrc.ui.modules.description.twitch_stream": "Regarde un live directement dans le jeu",

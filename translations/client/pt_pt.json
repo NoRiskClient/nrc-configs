@@ -1763,6 +1763,8 @@
   "nrc.update.available.title": "Atualização disponível",
   "nrc.update.available.description": "NoRisk Client %1$s está disponível. A sua versão: %2$s.",
   "nrc.update.available.action": "Aceite para abrir a página de transferências.",
+  "nrc.update.staged.title": "Atualização pronta",
+  "nrc.update.staged.description": "NoRisk Client %1$s foi transferido e será instalado quando fechar o jogo.",
   "nrc.ui.modules.description.light_level": "Mostra o nível de luz dos blocos próximos para detetares e impedires o aparecimento de mobs.",
   "nrc.ui.modules.description.twitch_integration": "Liga a tua conta Twitch para chat, alertas, espectadores e o leitor de stream",
   "nrc.ui.modules.description.twitch_stream": "Vê uma stream em direto dentro do jogo",

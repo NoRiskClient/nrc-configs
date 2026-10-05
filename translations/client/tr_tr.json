@@ -1763,6 +1763,8 @@
   "nrc.update.available.title": "Güncelleme mevcut",
   "nrc.update.available.description": "NoRisk Client %1$s yayınlandı. Sürümünüz: %2$s.",
   "nrc.update.available.action": "İndirme sayfasını açmak için onaylayın.",
+  "nrc.update.staged.title": "Güncelleme hazır",
+  "nrc.update.staged.description": "NoRisk Client %1$s indirildi ve oyunu kapattığınızda yüklenecek.",
   "nrc.ui.modules.description.light_level": "Yakındaki blokların ışık seviyesini gösterir, böylece mob doğuşlarını görüp engelleyebilirsin.",
   "nrc.ui.modules.description.twitch_integration": "Sohbet, bildirimler, izleyici sayısı ve yayın oynatıcısı için Twitch hesabını bağla",
   "nrc.ui.modules.description.twitch_stream": "Canlı yayını doğrudan oyun içinde izle",
