@@ -2287,5 +2287,7 @@
   "nrc.chat.wizard.add": "Add",
   "nrc.chat.sound.pick": "Pick a sound",
   "nrc.chat.find.placeholder": "Search...",
-  "nrc.chat.find.empty": "Nothing found"
+  "nrc.chat.find.empty": "Nothing found",
+  "nrc.ui.modules.value.ownShieldOnly": "Bouclier personnel uniquement",
+  "nrc.ui.modules.info.ownShieldOnly": "Colore uniquement ton propre bouclier. Sans cette option, les boucliers des autres joueurs affichent aussi leur état."
 }

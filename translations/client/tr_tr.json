@@ -2287,5 +2287,7 @@
   "nrc.chat.wizard.add": "Add",
   "nrc.chat.sound.pick": "Pick a sound",
   "nrc.chat.find.placeholder": "Search...",
-  "nrc.chat.find.empty": "Nothing found"
+  "nrc.chat.find.empty": "Nothing found",
+  "nrc.ui.modules.value.ownShieldOnly": "Sadece kendi kalkanım",
+  "nrc.ui.modules.info.ownShieldOnly": "Sadece kendi kalkanını renklendirir. Bu olmadan diğer oyuncuların kalkanları da durumlarını gösterir."
 }

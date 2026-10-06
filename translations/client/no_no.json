@@ -1434,5 +1434,7 @@
   "nrc.ui.modules.reset.hint": "Velg hva som skal tilbakestilles",
   "nrc.ui.modules.reset.select_all": "Velg alle",
   "nrc.ui.modules.reset.unselect_all": "Fjern alle",
-  "nrc.ui.modules.reset.other": "Alt annet (dine egne oppføringer og HUD-oppsett)"
+  "nrc.ui.modules.reset.other": "Alt annet (dine egne oppføringer og HUD-oppsett)",
+  "nrc.ui.modules.value.ownShieldOnly": "Bare eget skjold",
+  "nrc.ui.modules.info.ownShieldOnly": "Farger bare ditt eget skjold. Uten dette viser også andre spilleres skjold tilstanden sin."
 }

@@ -2287,5 +2287,7 @@
   "nrc.chat.wizard.add": "Add",
   "nrc.chat.sound.pick": "Pick a sound",
   "nrc.chat.find.placeholder": "Search...",
-  "nrc.chat.find.empty": "Nothing found"
+  "nrc.chat.find.empty": "Nothing found",
+  "nrc.ui.modules.value.ownShieldOnly": "Apenas o próprio escudo",
+  "nrc.ui.modules.info.ownShieldOnly": "Colore apenas o seu escudo. Sem isso, os escudos de outros jogadores também mostram seu estado."
 }

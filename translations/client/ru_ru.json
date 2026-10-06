@@ -2287,5 +2287,7 @@
   "nrc.chat.wizard.add": "Add",
   "nrc.chat.sound.pick": "Pick a sound",
   "nrc.chat.find.placeholder": "Search...",
-  "nrc.chat.find.empty": "Nothing found"
+  "nrc.chat.find.empty": "Nothing found",
+  "nrc.ui.modules.value.ownShieldOnly": "Только свой щит",
+  "nrc.ui.modules.info.ownShieldOnly": "Окрашивает только твой щит. Без этой опции щиты других игроков тоже показывают своё состояние."
 }

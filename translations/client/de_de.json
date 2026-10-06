@@ -2287,5 +2287,7 @@
   "nrc.chat.wizard.add": "Hinzufügen",
   "nrc.chat.sound.pick": "Sound wählen",
   "nrc.chat.find.placeholder": "Suchen...",
-  "nrc.chat.find.empty": "Nichts gefunden"
+  "nrc.chat.find.empty": "Nichts gefunden",
+  "nrc.ui.modules.value.ownShieldOnly": "Nur eigenes Schild",
+  "nrc.ui.modules.info.ownShieldOnly": "Färbt nur dein eigenes Schild. Ohne diese Option zeigen auch die Schilde anderer Spieler ihren Zustand."
 }

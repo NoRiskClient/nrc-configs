@@ -2287,5 +2287,7 @@
   "nrc.chat.wizard.add": "Add",
   "nrc.chat.sound.pick": "Pick a sound",
   "nrc.chat.find.placeholder": "Search...",
-  "nrc.chat.find.empty": "Nothing found"
+  "nrc.chat.find.empty": "Nothing found",
+  "nrc.ui.modules.value.ownShieldOnly": "केवल अपनी ढाल",
+  "nrc.ui.modules.info.ownShieldOnly": "केवल आपकी अपनी ढाल को रंगता है। इसके बिना अन्य खिलाड़ियों की ढालें भी अपनी स्थिति दिखाती हैं।"
 }
