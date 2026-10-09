@@ -5897,7 +5897,6 @@
         }
     ],
     "assets": [
-        "norisk-prod",
         "norisk-dev"
     ],
     "isExperimental": false,
