@@ -184,6 +184,7 @@
   "nrc.cosmetics.skin.toast.local_only": "स्किन स्थानीय रूप से लागू (प्रीमियम खाते के बिना दूसरे नहीं देख पाएंगे)",
   "nrc.cosmetics.skin.toast.change_failed": "स्किन बदलने में विफल",
   "nrc.cosmetics.skin.toast.activate_failed": "स्किन सक्रिय करने में विफल",
+  "nrc.cosmetics.skin.toast.delete_failed": "स्किन हटाने में विफल",
   "nrc.cosmetics.outfit.toast.created": "आउटफ़िट बनाया गया",
   "nrc.cosmetics.outfit.dialog.delete_title": "आउटफ़िट हटाएं",
   "nrc.cosmetics.outfit.edit_title": "आउटफ़िट संपादित करें",

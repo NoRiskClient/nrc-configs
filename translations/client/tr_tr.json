@@ -184,6 +184,7 @@
   "nrc.cosmetics.skin.toast.local_only": "Kaplama yerel olarak uygulandı (premium hesap olmadan başkaları göremez)",
   "nrc.cosmetics.skin.toast.change_failed": "Kaplama değiştirilemedi",
   "nrc.cosmetics.skin.toast.activate_failed": "Kaplama etkinleştirilemedi",
+  "nrc.cosmetics.skin.toast.delete_failed": "Kaplama silinemedi",
   "nrc.cosmetics.outfit.toast.created": "Kıyafet Oluşturuldu",
   "nrc.cosmetics.outfit.dialog.delete_title": "Kıyafeti Sil",
   "nrc.cosmetics.outfit.edit_title": "Kıyafeti Düzenle",

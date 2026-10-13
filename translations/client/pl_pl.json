@@ -184,6 +184,7 @@
   "nrc.cosmetics.skin.toast.local_only": "Skórka zastosowana lokalnie (inni jej nie zobaczą bez konta premium)",
   "nrc.cosmetics.skin.toast.change_failed": "Nie udało się zmienić skina",
   "nrc.cosmetics.skin.toast.activate_failed": "Nie udało się aktywować skina",
+  "nrc.cosmetics.skin.toast.delete_failed": "Nie udało się usunąć skina",
   "nrc.cosmetics.outfit.toast.created": "Utworzono Strój",
   "nrc.cosmetics.outfit.dialog.delete_title": "Usuń Strój",
   "nrc.cosmetics.outfit.edit_title": "Edytuj Strój",

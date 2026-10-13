@@ -184,6 +184,7 @@
   "nrc.cosmetics.skin.toast.local_only": "Skin aplicada localmente (otros no la verán sin una cuenta premium)",
   "nrc.cosmetics.skin.toast.change_failed": "Error al cambiar la skin",
   "nrc.cosmetics.skin.toast.activate_failed": "Error al activar la skin",
+  "nrc.cosmetics.skin.toast.delete_failed": "Error al eliminar la skin",
   "nrc.cosmetics.outfit.toast.created": "Conjunto Creado",
   "nrc.cosmetics.outfit.dialog.delete_title": "Eliminar Conjunto",
   "nrc.cosmetics.outfit.edit_title": "Editar Conjunto",

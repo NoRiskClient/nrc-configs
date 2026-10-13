@@ -184,6 +184,7 @@
   "nrc.cosmetics.skin.toast.local_only": "Skin applied locally (others won't see it without a premium account)",
   "nrc.cosmetics.skin.toast.change_failed": "Failed to change skin",
   "nrc.cosmetics.skin.toast.activate_failed": "Failed to activate skin",
+  "nrc.cosmetics.skin.toast.delete_failed": "Failed to delete skin",
   "nrc.cosmetics.outfit.toast.created": "Outfit Created",
   "nrc.cosmetics.outfit.dialog.delete_title": "Delete Outfit",
   "nrc.cosmetics.outfit.edit_title": "Edit Outfit",
