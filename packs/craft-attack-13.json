@@ -574,7 +574,7 @@
             "compatibility": {
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.919349-working+fabric.1.21.10",
+                        "identifier": "26.4.1014353-working+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
@@ -612,7 +612,7 @@
             "compatibility": {
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.919349-working+fabric.1.21.10",
+                        "identifier": "26.4.1014353-working+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
@@ -631,7 +631,7 @@
             "compatibility": {
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.897670-working+fabric.1.21.10",
+                        "identifier": "26.4.1005924-working+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
@@ -726,7 +726,7 @@
             "compatibility": {
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.897670-working+fabric.1.21.10",
+                        "identifier": "26.4.1010284-working+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
