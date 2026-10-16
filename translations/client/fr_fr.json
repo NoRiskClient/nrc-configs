@@ -140,7 +140,7 @@
   "nrc.cosmetics.enum.skinaddoption.username": "Depuis Utilisateur",
   "nrc.cosmetics.ui.add_skins": "＋ AJOUTER UNE SKIN",
   "nrc.cosmetics.ui.checkout": "Valider",
-  "nrc.cosmetics.ui.store.pay_with": "Payer avec",
+  "nrc.cosmetics.ui.store.or_pay": "ou payer %s",
   "nrc.cosmetics.ui.store.supports_code": "soutient %s",
   "nrc.cosmetics.ui.store.check_browser": "Regarde ton navigateur ! (%s)",
   "nrc.cosmetics.ui.store.reopen": "Clique ici si le navigateur ne s'est pas ouvert",

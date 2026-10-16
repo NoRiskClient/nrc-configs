@@ -140,7 +140,7 @@
   "nrc.cosmetics.enum.skinaddoption.username": "उपयोगकर्ता से",
   "nrc.cosmetics.ui.add_skins": "＋ स्किन जोड़ें",
   "nrc.cosmetics.ui.checkout": "चेकआउट",
-  "nrc.cosmetics.ui.store.pay_with": "इससे भुगतान करें",
+  "nrc.cosmetics.ui.store.or_pay": "या %s चुकाएँ",
   "nrc.cosmetics.ui.store.supports_code": "%s का समर्थन",
   "nrc.cosmetics.ui.store.check_browser": "अपना ब्राउज़र देखें! (%s)",
   "nrc.cosmetics.ui.store.reopen": "अगर ब्राउज़र नहीं खुला तो यहाँ क्लिक करें",

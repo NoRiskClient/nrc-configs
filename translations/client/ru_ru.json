@@ -140,7 +140,7 @@
   "nrc.cosmetics.enum.skinaddoption.username": "От Пользователя",
   "nrc.cosmetics.ui.add_skins": "＋ ДОБАВИТЬ СКИН",
   "nrc.cosmetics.ui.checkout": "Оформить",
-  "nrc.cosmetics.ui.store.pay_with": "Оплатить с помощью",
+  "nrc.cosmetics.ui.store.or_pay": "или заплатить %s",
   "nrc.cosmetics.ui.store.supports_code": "поддерживает %s",
   "nrc.cosmetics.ui.store.check_browser": "Проверь свой браузер! (%s)",
   "nrc.cosmetics.ui.store.reopen": "Нажми сюда, если браузер не открылся",

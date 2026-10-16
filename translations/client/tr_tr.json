@@ -140,7 +140,7 @@
   "nrc.cosmetics.enum.skinaddoption.username": "Kullanıcıdan",
   "nrc.cosmetics.ui.add_skins": "＋ KAPLAMA EKLE",
   "nrc.cosmetics.ui.checkout": "Tamamla",
-  "nrc.cosmetics.ui.store.pay_with": "Ödeme yöntemi",
+  "nrc.cosmetics.ui.store.or_pay": "veya %s öde",
   "nrc.cosmetics.ui.store.supports_code": "%s destekleniyor",
   "nrc.cosmetics.ui.store.check_browser": "Tarayıcını kontrol et! (%s)",
   "nrc.cosmetics.ui.store.reopen": "Tarayıcı açılmadıysa buraya tıkla",
