@@ -82,7 +82,7 @@
   "nrc.cosmetics.enum.skinaddoption.username": "😊 BRUKER",
   "nrc.cosmetics.ui.add_skins": "＋ LEGG TIL SKIN",
   "nrc.cosmetics.ui.cancel": "AVBRYT",
-  "nrc.cosmetics.ui.store.pay_with_money": "BETAL MED PENGER",
+  "nrc.cosmetics.ui.store.pay_with": "Betal med",
   "nrc.cosmetics.ui.store.supports_code": "støtter %s",
   "nrc.cosmetics.ui.store.check_browser": "Sjekk nettleseren din! (%s)",
   "nrc.cosmetics.ui.store.reopen": "Klikk her hvis nettleseren ikke åpnet seg",
