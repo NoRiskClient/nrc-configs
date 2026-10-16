@@ -1809,6 +1809,8 @@
   "nrc.cosmetics.ui.owned.toast.removed_multiple": "%s Cosmetics entfernt",
   "nrc.cosmetics.ui.coins.toast.title": "Shop",
   "nrc.cosmetics.ui.coins.toast.purchased": "%s Coins gekauft!",
+  "nrc.cosmetics.ui.assets.toast.title": "Cosmetics",
+  "nrc.cosmetics.ui.assets.toast.updating": "Cosmetics werden aktualisiert…",
   "nrc.cosmetics.ui.cape.toast.title": "Cosmetics",
   "nrc.cosmetics.ui.cape.toast.equipped": "Viel Spaß mit deinem Cape!",
   "nrc.cosmetics.ui.cape.toast.unequipped": "Cape abgelegt",
