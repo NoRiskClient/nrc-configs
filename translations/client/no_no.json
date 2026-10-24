@@ -561,6 +561,7 @@
   "nrc.moderation.cosmetics.report.error.no_additional_nametag": "Denne spilleren har ingen navneskilt å rapportere.",
   "nrc.moderation.report.error.already_reported": "Du har allerede rapportert dette.",
   "nrc.moderation.report.error.cooldown": "Vent litt før du rapporterer igjen.",
+  "nrc.moderation.report.error.voicechat_not_connected": "Talechat-rapporter fungerer bare når både du og den rapporterte spilleren er koblet til talechatten i NoRisk Client.",
   "nrc.core.error.user_not_found": "Bruker ikke funnet.",
   "nrc.core.advent_calendar.unknown_item": "Ukjent adventskalender-gjenstand.",
   "nrc.core.error.advent_calender.cant_claim_future_day": "Du kan ikke åpne en fremtidig dag ennå.",
@@ -1488,5 +1489,6 @@
   "nrc.ui.modules.description.low_fire": "Senker ild-overlegget så det dekker mindre av skjermen",
   "nrc.ui.modules.description.old_animations": "Henter tilbake de klassiske 1.7-animasjonene som block hitting og den gamle snikingen",
   "nrc.ui.modules.description.side_shield": "Flytter skjoldet til siden så det dekker mindre av synet",
-  "nrc.ui.modules.description.tips": "Viser nyttige tips på lasteskjermen"
+  "nrc.ui.modules.description.tips": "Viser nyttige tips på lasteskjermen",
+  "nrc.voicechat.group.left_foreign": "Du forlot talechat-gruppen din fordi denne serveren bruker sin egen talechat."
 }
