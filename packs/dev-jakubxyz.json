@@ -16,309 +16,309 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.12.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.16.5",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.16.5",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.18.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.18.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.19.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.19.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.19.4",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.19.4",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.20.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.20.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.4",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.4",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.4",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.5",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.5",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.5",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.7",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.7",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.7",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.8",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.8",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.8",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.9",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.9",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.9",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.10",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.10",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.10",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.11",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.11",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.26.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.26.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.26.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.26.1.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.26.1.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.26.1.1",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.26.1.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.26.1.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.26.1.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.26.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.26.2",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.26.3",
+                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -337,309 +337,309 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.12.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.16.5",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.16.5",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.18.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.18.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.19.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.19.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.19.4",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.19.4",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.20.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.20.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.4",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.4",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.4",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.5",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.5",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.5",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.7",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.7",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.7",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.8",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.8",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.8",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.9",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.9",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.9",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.10",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.10",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.10",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.11",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.11",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.26.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.26.1.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.1.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.1.1",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.26.1.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.1.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.1.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.2",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "26.4.834251-feat-multiemoteshop+fabric.26.3",
+                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -658,309 +658,309 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.753050-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.753050-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.12.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.16.5",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.16.5",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.18.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.18.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.19.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.19.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.19.4",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.19.4",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.20.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.20.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.4",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.4",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.4",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.5",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.5",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.5",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.7",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.7",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.7",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.8",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.8",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.8",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.9",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.9",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.9",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+fabric.1.21.10",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.10",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.10",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.753050-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.1.21.11",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.1.21.11",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.4.753050-feat-multiemoteshop+fabric.26.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.26.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.26.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.4.753050-feat-multiemoteshop+fabric.26.1.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.26.1.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.26.1.1",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.4.753050-feat-multiemoteshop+fabric.26.1.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.26.1.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.26.1.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.753050-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+forge.26.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.454389-feat-multiemoteshop+neoforge.26.2",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "26.4.753050-feat-multiemoteshop+fabric.26.3",
+                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -979,309 +979,309 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.1015274-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.1015274-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.12.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.16.5",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.16.5",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.18.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.18.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.19.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.19.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.19.4",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.19.4",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.20.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.20.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.4",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.4",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.4",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.5",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.5",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.5",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.7",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.7",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.7",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.8",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.8",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.8",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.9",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.9",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.9",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.10",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.10",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.10",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.1015274-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.11",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.11",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.4.1015274-feat-multiemoteshop+fabric.26.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.4.1015274-feat-multiemoteshop+fabric.26.1.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.1.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.1.1",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.4.1015274-feat-multiemoteshop+fabric.26.1.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.1.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.1.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.1015274-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.2",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "26.4.1015274-feat-multiemoteshop+fabric.26.3",
+                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -1300,309 +1300,309 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.1192906-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.1192906-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.12.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.16.5",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.16.5",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.18.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.18.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.19.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.19.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.19.4",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.19.4",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.20.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.20.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.4",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.4",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.4",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.5",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.5",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.5",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.7",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.7",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.7",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.8",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.8",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.8",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.9",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.9",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.9",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+fabric.1.21.10",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.10",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.10",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.1192906-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.1.21.11",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.1.21.11",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.4.1192906-feat-multiemoteshop+fabric.26.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.4.1192906-feat-multiemoteshop+fabric.26.1.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.1.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.1.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.4.1192906-feat-multiemoteshop+fabric.26.1.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.1.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.1.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.1192906-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+forge.26.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.452662-feat-multiemoteshop+neoforge.26.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "26.4.1192906-feat-multiemoteshop+fabric.26.3",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -1621,309 +1621,309 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.12.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.16.5",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.16.5",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.18.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.18.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.19.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.19.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.19.4",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.19.4",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.20.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.20.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.4",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.4",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.4",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.5",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.5",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.5",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.7",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.7",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.7",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.8",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.8",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.8",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.9",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.9",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.9",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.10",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.10",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.10",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.11",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.11",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.26.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.26.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.26.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.26.1.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.26.1.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.26.1.1",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.26.1.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.26.1.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.26.1.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.26.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.26.2",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.26.3",
+                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -2584,309 +2584,309 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.555441-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.555441-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.12.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.16.5",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.16.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.16.5",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.16.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.18.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.18.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.18.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.18.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.19.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.19.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.19.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.19.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.19.4",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.19.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.19.4",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.19.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.20.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.20.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.20.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.20.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.4",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.4",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.4",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.4",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.5",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.5",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.5",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.5",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.7",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.7",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.7",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.8",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.8",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.8",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.8",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.9",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.9",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.9",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.9",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.10",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.10",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.10",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.10",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.555441-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.21.11",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.21.11",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.1.21.11",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.4.555441-feat-multiemoteshop+fabric.26.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.26.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.26.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.26.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.4.555441-feat-multiemoteshop+fabric.26.1.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.26.1.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.26.1.1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.26.1.1",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.4.555441-feat-multiemoteshop+fabric.26.1.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.26.1.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.26.1.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.26.1.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.555441-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.26.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+neoforge.26.2",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "26.4.555441-feat-multiemoteshop+fabric.26.3",
+                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -2905,108 +2905,108 @@
             "compatibility": {
                 "1.21": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.1.21",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.1.21",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.1.21.1",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.1.21.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.1.21.4",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.1.21.4",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.1.21.5",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.1.21.5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.7": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.1.21.7",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.1.21.7",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.1.21.8",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.1.21.8",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.1.21.9",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.1.21.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.1.21.10",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.1.21.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.26.1",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.26.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.26.1.1",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.26.1.1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.26.1.2",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+forge.26.2",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+forge.26.2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+neoforge.26.2",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+neoforge.26.2",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.26.3",
+                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
@@ -3025,21 +3025,21 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.3.6852865-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1573633-feat-multiemoteshop+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.3.6852865-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1573633-feat-multiemoteshop+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.12.2": {
                     "forge": {
-                        "identifier": "26.3.6852865-feat-multiemoteshop+forge.1.12.2",
+                        "identifier": "26.4.1573633-feat-multiemoteshop+forge.1.12.2",
                         "filename": null,
                         "source": null
                     }
@@ -3099,7 +3099,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "u1OEbNKx",
+                        "identifier": "SMxNOGZ6",
                         "filename": null,
                         "source": null
                     }
@@ -3141,12 +3141,12 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "NFkjnzWE",
+                        "identifier": "rkdTcxoT",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "ylHOo4fY",
+                        "identifier": "sC6wj32u",
                         "filename": null,
                         "source": null
                     }
@@ -3167,19 +3167,19 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "eRJU33Hp",
+                        "identifier": "tZQ3jqnf",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "3QgJXuSK",
+                        "identifier": "xJZxADzI",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "5dWEDeL4",
+                        "identifier": "DmnNKsfS",
                         "filename": null,
                         "source": null
                     }
@@ -3204,126 +3204,126 @@
             "compatibility": {
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "ViT4gucI",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "2i87JpYj",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "2i87JpYj",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "Pd0xrHCw",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "eRRZzGMc",
+                        "identifier": "SKW1BTL3",
                         "filename": null,
                         "source": null
                     }
@@ -3369,7 +3369,7 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "L6LGItxd",
+                        "identifier": "rvI2dfzR",
                         "filename": null,
                         "source": null
                     }
@@ -3383,7 +3383,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "yGAe1owa",
+                        "identifier": "Mys3P7lK",
                         "filename": null,
                         "source": null
                     }
@@ -3425,42 +3425,42 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "i5tSkVBH",
+                        "identifier": "6qAuTtLR",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "fm7UYECV",
+                        "identifier": "3dM0X6ou",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "fm7UYECV",
+                        "identifier": "3dM0X6ou",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "fm7UYECV",
+                        "identifier": "3dM0X6ou",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "vodPC30d",
+                        "identifier": "ewUK83HI",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "bNnaTiuM",
+                        "identifier": "LEklt8GT",
                         "filename": null,
                         "source": null
                     }
@@ -3499,28 +3499,28 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "Us8JqrP9",
+                        "identifier": "iwYUrQJO",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "yHztKxR5",
+                        "identifier": "aLnBqxFW",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "yHztKxR5",
+                        "identifier": "aLnBqxFW",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "CFJfGS8F",
+                        "identifier": "gF6yVXr9",
                         "filename": null,
                         "source": null
                     }
@@ -3534,81 +3534,81 @@
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "iNldtLH8",
+                        "identifier": "zihthChu",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.9": {
                     "fabric": {
-                        "identifier": "ntac1Na0",
+                        "identifier": "9hztj0xA",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "ntac1Na0",
+                        "identifier": "9hztj0xA",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "QwkfUKSj",
+                        "identifier": "4EwhsTu7",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "4srycLDJ",
+                        "identifier": "jaBvDEKq",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "lRuSLf0Y",
+                        "identifier": "xOA9hbpf",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "KibcXkbk",
+                        "identifier": "adbrNJLm",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "lRuSLf0Y",
+                        "identifier": "xOA9hbpf",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "KibcXkbk",
+                        "identifier": "adbrNJLm",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "lRuSLf0Y",
+                        "identifier": "xOA9hbpf",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "KibcXkbk",
+                        "identifier": "adbrNJLm",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "FQU5HWsp",
+                        "identifier": "pMWERcSu",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "TuU2J6Rb",
+                        "identifier": "4C8Vb9ab",
                         "filename": null,
                         "source": null
                     }
@@ -3675,14 +3675,14 @@
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "kMMyJFc8",
+                        "identifier": "LGtO8vUL",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "QFXoqZHC",
+                        "identifier": "xSrd3qsM",
                         "filename": null,
                         "source": null
                     }
@@ -3696,28 +3696,28 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "xcyXBGgI",
+                        "identifier": "yllJFBpU",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "hLb4spl6",
+                        "identifier": "U6ZIDmEu",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "ldvBBWG2",
+                        "identifier": "SgQA6LuS",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "fa1r3lFt",
+                        "identifier": "VVD4cOzt",
                         "filename": null,
                         "source": null
                     }
@@ -3731,54 +3731,54 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "zwBaFdjH",
+                        "identifier": "1EFDjmh5",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "Dx3xsUER",
+                        "identifier": "CTabrwB1",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "vOXBj8Y3",
+                        "identifier": "w1sp8Uel",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "NaRJu6ah",
+                        "identifier": "VhQ51u7a",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "NaRJu6ah",
+                        "identifier": "VhQ51u7a",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "NaRJu6ah",
+                        "identifier": "VhQ51u7a",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "iiF6U3Ne",
+                        "identifier": "uXe0pIaz",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "YuGJTeFm",
+                        "identifier": "X1g3VhTx",
                         "filename": null,
                         "source": null
                     }
@@ -3985,7 +3985,7 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "XQJtuOTA",
+                        "identifier": "N08Z8wog",
                         "filename": null,
                         "source": null
                     }
@@ -4039,40 +4039,40 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "W0ZXKJy9",
+                        "identifier": "Oqq8TOAV",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "kHXOBNih",
+                        "identifier": "Oqq8TOAV",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "v2xoRvRP",
+                        "identifier": "Oqq8TOAV",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "x1OEDMlF",
+                        "identifier": "f7vZ0VWU",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "QeEyF9xT",
+                        "identifier": "J9CowDXK",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "WXHRsMRl",
+                        "identifier": "xS0Q8LSi",
                         "filename": null,
                         "source": null
                     }
@@ -4262,7 +4262,7 @@
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "eZ3xIIuk",
+                        "identifier": "fg2uyxOW",
                         "filename": null,
                         "source": null
                     }
@@ -4301,31 +4301,31 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "3wkuUDPy",
+                        "identifier": "MI90wAbW",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "y4J2jK6V",
+                        "identifier": "wUYbHzXF",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "BvOuEhk4",
+                        "identifier": "5M4T2FfG",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "y4J2jK6V",
+                        "identifier": "wUYbHzXF",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "BvOuEhk4",
+                        "identifier": "5M4T2FfG",
                         "filename": null,
                         "source": null
                     }
@@ -4404,55 +4404,55 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "iltBrlre",
+                        "identifier": "PX8FzP3c",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "CZM2HQL9",
+                        "identifier": "3pwnQv9b",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "iltBrlre",
+                        "identifier": "PX8FzP3c",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "CZM2HQL9",
+                        "identifier": "3pwnQv9b",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "iltBrlre",
+                        "identifier": "PX8FzP3c",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "CZM2HQL9",
+                        "identifier": "3pwnQv9b",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "RwGECWCy",
+                        "identifier": "D5oVCouK",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "7UWWz2eS",
+                        "identifier": "dKLDGs8Q",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "zL2UEFXS",
+                        "identifier": "t7vAlfgO",
                         "filename": null,
                         "source": null
                     }
@@ -4493,36 +4493,36 @@
             "compatibility": {
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "LoJ6GIcH",
+                        "identifier": "4cPSgvFX",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "Zjm5ADhZ",
+                        "identifier": "oYfyjdA6",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "cfXjj5aV",
+                        "identifier": "HowlWR8H",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "ACIbBYr0",
+                        "identifier": "LUasbCD1",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "V96AQ2RW",
+                        "identifier": "Ij93aQEk",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "5WQTKBEm",
+                        "identifier": "uLGZpAgJ",
                         "filename": null,
                         "source": null
                     }
@@ -4536,19 +4536,19 @@
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "MI9jEz1C",
+                        "identifier": "u5T0ji6n",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "gX3p2yfw",
+                        "identifier": "S11m0QIb",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "CFP1TPw9",
+                        "identifier": "VS5X7jZd",
                         "filename": null,
                         "source": null
                     },
@@ -4558,75 +4558,75 @@
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "6rT2RWh6",
+                        "identifier": "2s7zUspF",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "CFP1TPw9",
+                        "identifier": "VS5X7jZd",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "jHtn7ggs",
+                        "identifier": "4LuAeiNl",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "6rT2RWh6",
+                        "identifier": "2s7zUspF",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "YwYfjceF",
+                        "identifier": "8kxVjTds",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "kRKpfCjr",
+                        "identifier": "BAw5BJ3a",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "X8DjpRxa",
+                        "identifier": "7QFY0pjz",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "jzaYOv4E",
+                        "identifier": "dI1XjreF",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "AGDN06ku",
+                        "identifier": "G7DKf2Ru",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "PRDVRBTP",
+                        "identifier": "XZ06VfS0",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "1HOt4aTH",
+                        "identifier": "CR71OhWv",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "3j0vmXMJ",
+                        "identifier": "oLqrO9Jf",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "6CU7XdBd",
+                        "identifier": "mADzRVrP",
                         "filename": null,
                         "source": null
                     }
@@ -4650,109 +4650,109 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "TMVvGaid",
+                        "identifier": "9074luJy",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "vKsZMub4",
+                        "identifier": "M3egKVvT",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "o1hp3ErD",
+                        "identifier": "Vn6nTunQ",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "ukcC8F72",
+                        "identifier": "CN53keBo",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "DvXA8xGI",
+                        "identifier": "ljFLo76d",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "jBq31Wd2",
+                        "identifier": "k7nBzwiA",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "gVPjsMto",
+                        "identifier": "Z8DASI8B",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "EIJjXFz2",
+                        "identifier": "b7lNKIlY",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "gUDcbbGj",
+                        "identifier": "rVZ2FMgU",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "gVPjsMto",
+                        "identifier": "Z8DASI8B",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "EIJjXFz2",
+                        "identifier": "b7lNKIlY",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "gUDcbbGj",
+                        "identifier": "rVZ2FMgU",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "gVPjsMto",
+                        "identifier": "Z8DASI8B",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "EIJjXFz2",
+                        "identifier": "b7lNKIlY",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "gUDcbbGj",
+                        "identifier": "rVZ2FMgU",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "bvaEHE2T",
+                        "identifier": "DKSq5wO6",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "X15tDlx0",
+                        "identifier": "7l8Vp7GH",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "Wjf3OgxA",
+                        "identifier": "VzbpJP1i",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "3fRw6NfP",
+                        "identifier": "OLnMVWXy",
                         "filename": null,
                         "source": null
                     }
@@ -4805,14 +4805,14 @@
                 },
                 "1.21": {
                     "fabric": {
-                        "identifier": "v6Xx3fbU",
+                        "identifier": "6lgOkclV",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "v6Xx3fbU",
+                        "identifier": "6lgOkclV",
                         "filename": null,
                         "source": null
                     }
@@ -4854,42 +4854,42 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "Tyk71iSw",
+                        "identifier": "cLkYaVuL",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "jvjwXH6l",
+                        "identifier": "ZJ6YTrMY",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "jvjwXH6l",
+                        "identifier": "ZJ6YTrMY",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "jvjwXH6l",
+                        "identifier": "ZJ6YTrMY",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "dTGuPZ91",
+                        "identifier": "iRo7AZXf",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "lcxkZSq6",
+                        "identifier": "kyy7dbrZ",
                         "filename": null,
                         "source": null
                     }
@@ -4914,7 +4914,7 @@
                 },
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "8I3s7vjK",
+                        "identifier": "wUw92r4S",
                         "filename": null,
                         "source": null
                     },
@@ -4926,48 +4926,48 @@
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "tygVzY9j",
+                        "identifier": "5keTx0ev",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "NGQkqrJT",
+                        "identifier": "w4syYkDY",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "r81Z876i",
+                        "identifier": "kKWrBAh4",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "vQ4DDeUO",
+                        "identifier": "P0AC5JtJ",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "e01TJzQD",
+                        "identifier": "5ejz1V7y",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "YRwWgm01",
+                        "identifier": "DAtqcLPX",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "V0AEyC8i",
+                        "identifier": "JzJIXHNT",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "egmtcJdf",
+                        "identifier": "6NG8MGVh",
                         "filename": null,
                         "source": null
                     }
@@ -4991,68 +4991,68 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "U0nPT3LQ",
+                        "identifier": "U5tvqtlF",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "iZDnRxN8",
+                        "identifier": "iy1HJPtp",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "lWa5oHuK",
+                        "identifier": "GJTnQGfe",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "a4UNNzsi",
+                        "identifier": "9zhJxYDW",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "Vex6z6sV",
+                        "identifier": "ovd3nOpC",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "fS2Npqrb",
+                        "identifier": "VRi82jks",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "jt9MQsNZ",
+                        "identifier": "GFuozvM0",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "FVSFKRL6",
+                        "identifier": "rj2kMHkx",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "r54tPxKy",
+                        "identifier": "f8bVMOSN",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "HiK4aCzy",
+                        "identifier": "IAhQJSZq",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "ujtDwvV8",
+                        "identifier": "zgtyLfEf",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "ElNNxgxg",
+                        "identifier": "lLEmudTt",
                         "filename": null,
                         "source": null
                     }
@@ -5071,64 +5071,64 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "epUMFHmN",
+                        "identifier": "5xP3oAho",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "2xvJ692E",
+                        "identifier": "wJgAMVfj",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "d8KGxZKi",
+                        "identifier": "kb9wvkBK",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "ntxaPFv3",
+                        "identifier": "DsBJ7HB2",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "zBVYZ7CM",
+                        "identifier": "Ql7SiR3b",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "8kxiY3G1",
+                        "identifier": "hIowUmVK",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "8kxiY3G1",
+                        "identifier": "hIowUmVK",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "8kxiY3G1",
+                        "identifier": "hIowUmVK",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "rJYtiDew",
+                        "identifier": "w5Ondgft",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "G8BCRxv5",
+                        "identifier": "gjM2TO0L",
                         "filename": null,
                         "source": null
                     }
@@ -5294,36 +5294,36 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "ZkGgdpPY",
+                        "identifier": "l7gept3U",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "5mdIRt7O",
+                        "identifier": "qRw46R3o",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "ZkGgdpPY",
+                        "identifier": "l7gept3U",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "5mdIRt7O",
+                        "identifier": "qRw46R3o",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "usQ3Kyvp",
+                        "identifier": "fbcCAoFL",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "UpVdxQTS",
+                        "identifier": "GOy0hzGT",
                         "filename": null,
                         "source": null
                     }
@@ -5348,55 +5348,55 @@
             "compatibility": {
                 "1.16.5": {
                     "fabric": {
-                        "identifier": "jvaGau1Z",
+                        "identifier": "tfo0ZtjV",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.18.2": {
                     "fabric": {
-                        "identifier": "dHzMeLL6",
+                        "identifier": "MyFnxEQH",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "VWbixAai",
+                        "identifier": "52jTbDBc",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.2": {
                     "fabric": {
-                        "identifier": "Y8EJ8KbP",
+                        "identifier": "H3V3VWZC",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "4BjohH69",
+                        "identifier": "RwoX5yQH",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.19.4": {
                     "fabric": {
-                        "identifier": "H57nyfXA",
+                        "identifier": "bfDg1kRT",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "OzQo4VDs",
+                        "identifier": "705L8k9X",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.20.1": {
                     "fabric": {
-                        "identifier": "aoyyskwv",
+                        "identifier": "hlPN4g5v",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "mCQ4kOlm",
+                        "identifier": "gVLFQd36",
                         "filename": null,
                         "source": null
                     }
@@ -5420,68 +5420,68 @@
                 },
                 "1.21.1": {
                     "fabric": {
-                        "identifier": "XX9BrlJW",
+                        "identifier": "NuT1fOdy",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "9iowzrcA",
+                        "identifier": "Z27vHo2n",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "uuX7ce0R",
+                        "identifier": "A5I6bbOi",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.4": {
                     "fabric": {
-                        "identifier": "EcKyPvJR",
+                        "identifier": "8tvyvn5R",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "5ph4dYAq",
+                        "identifier": "UulOeDqj",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "vjiRyyU7",
+                        "identifier": "LxJbV10P",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.5": {
                     "fabric": {
-                        "identifier": "pF7bXBvC",
+                        "identifier": "orFkeZCU",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "EtAwk7tz",
+                        "identifier": "aidDAxtB",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "AiKpCoAk",
+                        "identifier": "if8icWRX",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.8": {
                     "fabric": {
-                        "identifier": "TJiebQCb",
+                        "identifier": "IpeXKdtK",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "5n1WqGqt",
+                        "identifier": "ILHO4Ngc",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "C8nMaFFH",
+                        "identifier": "EAumMyCF",
                         "filename": null,
                         "source": null
                     }
@@ -5505,64 +5505,64 @@
                 },
                 "1.21.10": {
                     "fabric": {
-                        "identifier": "XbBsWRV9",
+                        "identifier": "1yhIWF62",
                         "filename": null,
                         "source": null
                     },
                     "forge": {
-                        "identifier": "nSfJXW5u",
+                        "identifier": "cEAumk0z",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "U1F8UD8y",
+                        "identifier": "Aq95HQmd",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "lGSZdVwH",
+                        "identifier": "NR0hCf95",
                         "filename": null,
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "aurAWvjX",
+                        "identifier": "yrBYJaFD",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "K4cdp1K2",
+                        "identifier": "TQ8147bZ",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "K4cdp1K2",
+                        "identifier": "TQ8147bZ",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "K4cdp1K2",
+                        "identifier": "TQ8147bZ",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "cp2elfPy",
+                        "identifier": "qADFZPJi",
                         "filename": null,
                         "source": null
                     }
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "btMqe7fQ",
+                        "identifier": "HzJI5xeL",
                         "filename": null,
                         "source": null
                     }
@@ -5640,7 +5640,7 @@
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "kztxpjAA",
+                        "identifier": "uAKA6Laj",
                         "filename": null,
                         "source": null
                     }
@@ -5652,7 +5652,7 @@
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "kztxpjAA",
+                        "identifier": "uAKA6Laj",
                         "filename": null,
                         "source": null
                     }
@@ -5664,7 +5664,7 @@
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "x1HG4UDz",
+                        "identifier": "6OIEi4xY",
                         "filename": null,
                         "source": null
                     }
@@ -5676,7 +5676,7 @@
                         "source": null
                     },
                     "neoforge": {
-                        "identifier": "P8sTsYtJ",
+                        "identifier": "kjMWOJAF",
                         "filename": null,
                         "source": null
                     }
@@ -5719,7 +5719,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "pvcLnrm0",
+                        "identifier": "59ti1rvg",
                         "filename": null,
                         "source": null
                     },
@@ -5731,7 +5731,7 @@
                 },
                 "26.1": {
                     "fabric": {
-                        "identifier": "HwaLJe3v",
+                        "identifier": "zLlqqiTA",
                         "filename": null,
                         "source": null
                     },
@@ -5743,7 +5743,7 @@
                 },
                 "26.1.1": {
                     "fabric": {
-                        "identifier": "HwaLJe3v",
+                        "identifier": "zLlqqiTA",
                         "filename": null,
                         "source": null
                     },
@@ -5755,7 +5755,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "HwaLJe3v",
+                        "identifier": "zLlqqiTA",
                         "filename": null,
                         "source": null
                     },
@@ -5788,6 +5788,7 @@
         }
     ],
     "assets": [
+        "norisk-prod",
         "norisk-dev"
     ],
     "isExperimental": false,
@@ -5806,8 +5807,8 @@
         "additional_paths": []
     },
     "listing": {
-        "category": "intern",
-        "weight": 0,
-        "hidden": true
+        "category": "testing",
+        "weight": 20,
+        "hidden": false
     }
 }
