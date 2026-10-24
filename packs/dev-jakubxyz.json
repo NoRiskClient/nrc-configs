@@ -18,14 +18,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1767528-dev-jakubxyz+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.1767528-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1767528-dev-jakubxyz+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -235,7 +235,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1767528-dev-jakubxyz+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -303,7 +303,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.1767528-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1767528-dev-jakubxyz+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -339,14 +339,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1962927-dev-jakubxyz+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.1764572-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1962927-dev-jakubxyz+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -556,7 +556,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1962927-dev-jakubxyz+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -624,7 +624,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.1764572-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1962927-dev-jakubxyz+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -660,14 +660,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.2060078-dev-jakubxyz+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.2060078-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.2060078-dev-jakubxyz+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -877,7 +877,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.2060078-dev-jakubxyz+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -945,7 +945,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.2060078-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.2060078-dev-jakubxyz+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -981,14 +981,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1686989-dev-jakubxyz+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.1686989-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1686989-dev-jakubxyz+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1198,7 +1198,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1686989-dev-jakubxyz+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1266,7 +1266,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.1686989-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1686989-dev-jakubxyz+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1302,14 +1302,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1842585-dev-jakubxyz+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.1842585-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1842585-dev-jakubxyz+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1519,7 +1519,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1842585-dev-jakubxyz+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1587,7 +1587,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.1842585-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1842585-dev-jakubxyz+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1623,14 +1623,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1962927-dev-jakubxyz+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.1767193-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1962927-dev-jakubxyz+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1840,7 +1840,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1962927-dev-jakubxyz+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1908,7 +1908,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.1767193-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1962927-dev-jakubxyz+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1944,14 +1944,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.2064890-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.2066787-dev-jakubxyz+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.2064890-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.2066787-dev-jakubxyz+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -2161,7 +2161,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.2064890-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.2066787-dev-jakubxyz+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -2229,7 +2229,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.2064890-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.2066787-dev-jakubxyz+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2265,14 +2265,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.396147-dev-jakubxyz+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.396147-dev-jakubxyz+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -2482,7 +2482,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.396147-dev-jakubxyz+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -2550,7 +2550,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.396147-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.396147-dev-jakubxyz+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2586,14 +2586,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.394827-dev-jakubxyz+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.394827-dev-jakubxyz+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -2803,7 +2803,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.394827-dev-jakubxyz+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -2871,7 +2871,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.394827-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.394827-dev-jakubxyz+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2963,7 +2963,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.1.21.11",
+                        "identifier": "26.4.1758326-dev-jakubxyz+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -2991,7 +2991,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.1758326-feat-multiemoteshop+fabric.26.2",
+                        "identifier": "26.4.1758326-dev-jakubxyz+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -3027,14 +3027,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.1573633-feat-multiemoteshop+forge.1.7.10",
+                        "identifier": "26.4.1573633-dev-jakubxyz+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.1573633-feat-multiemoteshop+forge.1.8.9",
+                        "identifier": "26.4.1573633-dev-jakubxyz+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
