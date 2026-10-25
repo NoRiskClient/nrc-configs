@@ -184,6 +184,7 @@
   "nrc.cosmetics.ui.choose_variant": "ESCOLHER VARIANTE",
   "nrc.cosmetics.ui.texture_preview_title": "VARIANTES DE TEXTURA",
   "nrc.cosmetics.ui.creator_code": "CÓDIGO DE CRIADOR",
+  "nrc.cosmetics.ui.creator_code.locked": "O teu código %1$s continua por mais %2$s dias. Depois podes escolher um novo.",
   "nrc.cosmetics.ui.code_label": "CÓDIGO:",
   "nrc.cosmetics.ui.support_a_creator": "Apoia Um Criador",
   "nrc.cosmetics.ui.exclusive": "EXCLUSIVO",

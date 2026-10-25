@@ -184,6 +184,7 @@
   "nrc.cosmetics.ui.choose_variant": "वैरिएंट चुनें",
   "nrc.cosmetics.ui.texture_preview_title": "टेक्सचर वैरिएंट",
   "nrc.cosmetics.ui.creator_code": "क्रिएटर कोड",
+  "nrc.cosmetics.ui.creator_code.locked": "आपका कोड %1$s अभी %2$s दिन और रहेगा। उसके बाद आप नया चुन सकते हैं।",
   "nrc.cosmetics.ui.code_label": "कोड:",
   "nrc.cosmetics.ui.support_a_creator": "एक क्रिएटर का समर्थन करें",
   "nrc.cosmetics.ui.exclusive": "विशेष",

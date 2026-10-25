@@ -1488,5 +1488,6 @@
   "nrc.ui.modules.description.low_fire": "Senker ild-overlegget så det dekker mindre av skjermen",
   "nrc.ui.modules.description.old_animations": "Henter tilbake de klassiske 1.7-animasjonene som block hitting og den gamle snikingen",
   "nrc.ui.modules.description.side_shield": "Flytter skjoldet til siden så det dekker mindre av synet",
-  "nrc.ui.modules.description.tips": "Viser nyttige tips på lasteskjermen"
+  "nrc.ui.modules.description.tips": "Viser nyttige tips på lasteskjermen",
+  "nrc.cosmetics.ui.creator_code.locked": "Koden din %1$s gjelder i %2$s dager til. Etter det kan du velge en ny."
 }

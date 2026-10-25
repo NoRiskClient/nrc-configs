@@ -184,6 +184,7 @@
   "nrc.cosmetics.ui.choose_variant": "ВЫБРАТЬ ВАРИАНТ",
   "nrc.cosmetics.ui.texture_preview_title": "ВАРИАНТЫ ТЕКСТУР",
   "nrc.cosmetics.ui.creator_code": "КОД СОЗДАТЕЛЯ",
+  "nrc.cosmetics.ui.creator_code.locked": "Твой код %1$s действует ещё %2$s дн. После этого можно выбрать новый.",
   "nrc.cosmetics.ui.code_label": "КОД:",
   "nrc.cosmetics.ui.support_a_creator": "Поддержи Создателя",
   "nrc.cosmetics.ui.exclusive": "ЭКСКЛЮЗИВ",

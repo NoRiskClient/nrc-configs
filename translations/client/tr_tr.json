@@ -184,6 +184,7 @@
   "nrc.cosmetics.ui.choose_variant": "VARYANT SEÇ",
   "nrc.cosmetics.ui.texture_preview_title": "DOKU VARYANTLARI",
   "nrc.cosmetics.ui.creator_code": "YARATICI KODU",
+  "nrc.cosmetics.ui.creator_code.locked": "Kodun %1$s %2$s gün daha geçerli. Sonrasında yeni bir kod seçebilirsin.",
   "nrc.cosmetics.ui.code_label": "KOD:",
   "nrc.cosmetics.ui.support_a_creator": "Bir Yaratıcıyı Destekle",
   "nrc.cosmetics.ui.exclusive": "ÖZEL",
