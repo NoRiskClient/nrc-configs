@@ -1039,6 +1039,8 @@
   "nrc.ui.emote.filter.duo_off": "Все Эмоции",
   "nrc.ui.emote.filter.duo_on": "MultiEmote",
   "nrc.ui.emote.duo": "Дуэт",
+  "nrc.ui.emote.duo.tooltip.title": "Дуо-эмоция",
+  "nrc.ui.emote.duo.tooltip.description": "Используй её рядом с другими игроками. Они могут присоединиться одной клавишей.",
   "nrc.ui.minigames.spectate": "Наблюдать",
   "nrc.minigames.error.empty_slots": "Ошибка: Пустые Слоты Мини-игр",
   "creatorcode.icon.required_text": "Требуется для отображения",

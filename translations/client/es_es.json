@@ -1039,6 +1039,8 @@
   "nrc.ui.emote.filter.duo_off": "Todos los Emotes",
   "nrc.ui.emote.filter.duo_on": "MultiEmote",
   "nrc.ui.emote.duo": "Dúo",
+  "nrc.ui.emote.duo.tooltip.title": "Emote dúo",
+  "nrc.ui.emote.duo.tooltip.description": "Úsalo junto a otros jugadores. Pueden unirse con solo pulsar una tecla.",
   "nrc.ui.minigames.spectate": "Espectar",
   "nrc.minigames.error.empty_slots": "Error: Plazas de Minijuego Vacías",
   "creatorcode.icon.required_text": "Requerido para mostrar",

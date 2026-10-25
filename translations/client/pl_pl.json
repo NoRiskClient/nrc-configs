@@ -1039,6 +1039,8 @@
   "nrc.ui.emote.filter.duo_off": "Wszystkie Emotki",
   "nrc.ui.emote.filter.duo_on": "MultiEmote",
   "nrc.ui.emote.duo": "Duo",
+  "nrc.ui.emote.duo.tooltip.title": "Emotka duo",
+  "nrc.ui.emote.duo.tooltip.description": "Użyj jej obok innych graczy. Mogą dołączyć jednym przyciskiem.",
   "nrc.ui.minigames.spectate": "Obserwuj",
   "nrc.minigames.error.empty_slots": "Błąd: Puste Sloty Minigier",
   "creatorcode.icon.required_text": "Wymagane do wyświetlenia",

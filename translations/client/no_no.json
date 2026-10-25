@@ -1493,5 +1493,7 @@
   "nrc.voicechat.group.left_foreign": "Denne serveren har sin egen talechat, så du forlot NoRisk-talegruppen din",
   "nrc.voicechat.group.search": "Søk etter grupper eller spillere",
   "nrc.voicechat.denied": "NoRisk-talechat er ikke tilgjengelig: %s",
-  "nrc.voicechat.denied.incompatible": "Simple Voice Chat-versjonen din (%s) støttes ikke av NoRisk-talechat. Oppdater den"
+  "nrc.voicechat.denied.incompatible": "Simple Voice Chat-versjonen din (%s) støttes ikke av NoRisk-talechat. Oppdater den",
+  "nrc.ui.emote.duo.tooltip.title": "Duo-emote",
+  "nrc.ui.emote.duo.tooltip.description": "Spill den ved siden av andre spillere. De kan bli med med ett tastetrykk."
 }

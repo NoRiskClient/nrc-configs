@@ -1039,6 +1039,8 @@
   "nrc.ui.emote.filter.duo_off": "Tüm Emoteler",
   "nrc.ui.emote.filter.duo_on": "MultiEmote",
   "nrc.ui.emote.duo": "Düet",
+  "nrc.ui.emote.duo.tooltip.title": "Düo ifadesi",
+  "nrc.ui.emote.duo.tooltip.description": "Diğer oyuncuların yanında oynat. Tek tuşla katılabilirler.",
   "nrc.ui.minigames.spectate": "İzle",
   "nrc.minigames.error.empty_slots": "Hata: Boş Mini Oyun Yerleri",
   "creatorcode.icon.required_text": "Görüntülemek için gerekli",

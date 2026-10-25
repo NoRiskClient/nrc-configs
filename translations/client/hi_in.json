@@ -1039,6 +1039,8 @@
   "nrc.ui.emote.filter.duo_off": "सभी इमोट",
   "nrc.ui.emote.filter.duo_on": "MultiEmote",
   "nrc.ui.emote.duo": "डुओ",
+  "nrc.ui.emote.duo.tooltip.title": "डुओ इमोट",
+  "nrc.ui.emote.duo.tooltip.description": "इसे दूसरे खिलाड़ियों के पास चलाओ। वे एक बटन दबाकर साथ जुड़ सकते हैं।",
   "nrc.ui.minigames.spectate": "देखें",
   "nrc.minigames.error.empty_slots": "त्रुटि: खाली मिनीगेम स्लॉट",
   "creatorcode.icon.required_text": "दिखाने के लिए आवश्यक",
