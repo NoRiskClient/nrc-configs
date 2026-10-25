@@ -576,6 +576,7 @@
   "nrc.voicechat.unmute.successful": "Das Entstummen war erfolgreich",
   "nrc.voicechat.mute.error": "Ein Fehler ist beim Stummschalten aufgetreten. Bitte versuche es erneut",
   "nrc.voicechat.group.left_foreign": "Dieser Server hat einen eigenen Voicechat, deshalb hast du deine NoRisk-Voice-Gruppe verlassen",
+  "nrc.voicechat.group.search": "Gruppen oder Spieler suchen",
   "nrc.voicechat.denied": "NoRisk-Voicechat ist nicht verfügbar: %s",
   "nrc.voicechat.denied.incompatible": "Deine Simple-Voice-Chat-Version (%s) wird vom NoRisk-Voicechat nicht unterstützt. Bitte aktualisiere sie",
   "greev.eu.title": "GreevMc Deutsch",

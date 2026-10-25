@@ -1489,5 +1489,9 @@
   "nrc.ui.modules.description.old_animations": "Henter tilbake de klassiske 1.7-animasjonene som block hitting og den gamle snikingen",
   "nrc.ui.modules.description.side_shield": "Flytter skjoldet til siden så det dekker mindre av synet",
   "nrc.ui.modules.description.tips": "Viser nyttige tips på lasteskjermen",
-  "nrc.cosmetics.ui.creator_code.locked": "Koden din %1$s gjelder i %2$s dager til. Etter det kan du velge en ny."
+  "nrc.cosmetics.ui.creator_code.locked": "Koden din %1$s gjelder i %2$s dager til. Etter det kan du velge en ny.",
+  "nrc.voicechat.group.left_foreign": "Denne serveren har sin egen talechat, så du forlot NoRisk-talegruppen din",
+  "nrc.voicechat.group.search": "Søk etter grupper eller spillere",
+  "nrc.voicechat.denied": "NoRisk-talechat er ikke tilgjengelig: %s",
+  "nrc.voicechat.denied.incompatible": "Simple Voice Chat-versjonen din (%s) støttes ikke av NoRisk-talechat. Oppdater den"
 }

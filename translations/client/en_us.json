@@ -576,6 +576,7 @@
   "nrc.voicechat.unmute.successful": "Unmute was successful",
   "nrc.voicechat.mute.error": "An error occurred while muting. Please try again",
   "nrc.voicechat.group.left_foreign": "This server has its own voice chat, so you left your NoRisk voice group",
+  "nrc.voicechat.group.search": "Search groups or players",
   "nrc.voicechat.denied": "NoRisk voice chat is unavailable: %s",
   "nrc.voicechat.denied.incompatible": "Your Simple Voice Chat version (%s) is not supported by NoRisk voice chat. Please update it",
   "greev.eu.title": "GreevMc English",
