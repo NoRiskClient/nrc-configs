@@ -1367,6 +1367,7 @@
   "nrc.friends.errors.invite_request_cooldown": "Tekrar istek göndermeden önce %s saniye bekle.",
   "nrc.friends.errors.no_friendship": "Bu oyuncuyla arkadaş değilsiniz.",
   "nrc.friends.errors.user_not_found": "Kullanıcı bulunamadı.",
+  "nrc.player.not_found": "Kullanıcı bulunamadı.",
   "norisk.friends.error.max_friend_size": "Arkadaş limiti doldu (%s).",
   "norisk.friends.error.max_incoming_size_other": "Bu oyuncunun gelen istek limiti dolu.",
   "norisk.friends.error.max_outgoing_size": "Çok fazla bekleyen arkadaşlık isteğin var.",

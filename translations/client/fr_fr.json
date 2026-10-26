@@ -1367,6 +1367,7 @@
   "nrc.friends.errors.invite_request_cooldown": "Veuillez attendre %s secondes avant de renvoyer une demande.",
   "nrc.friends.errors.no_friendship": "Vous n'êtes pas ami avec ce joueur.",
   "nrc.friends.errors.user_not_found": "Utilisateur introuvable.",
+  "nrc.player.not_found": "Utilisateur introuvable.",
   "norisk.friends.error.max_friend_size": "Limite d'amis atteinte (%s).",
   "norisk.friends.error.max_incoming_size_other": "La limite de demandes reçues de ce joueur est atteinte.",
   "norisk.friends.error.max_outgoing_size": "Vous avez trop de demandes d'amis en attente.",

@@ -1367,6 +1367,7 @@
   "nrc.friends.errors.invite_request_cooldown": "Please wait %s seconds before requesting again.",
   "nrc.friends.errors.no_friendship": "You are not friends with this player.",
   "nrc.friends.errors.user_not_found": "User not found.",
+  "nrc.player.not_found": "User not found.",
   "norisk.friends.error.max_friend_size": "Friend limit reached (%s).",
   "norisk.friends.error.max_incoming_size_other": "This player's incoming request limit is full.",
   "norisk.friends.error.max_outgoing_size": "You have too many pending friend requests.",

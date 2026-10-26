@@ -1367,6 +1367,7 @@
   "nrc.friends.errors.invite_request_cooldown": "Aguarde %s segundos antes de solicitar novamente.",
   "nrc.friends.errors.no_friendship": "Você não é amigo deste jogador.",
   "nrc.friends.errors.user_not_found": "Usuário não encontrado.",
+  "nrc.player.not_found": "Usuário não encontrado.",
   "norisk.friends.error.max_friend_size": "Limite de amigos atingido (%s).",
   "norisk.friends.error.max_incoming_size_other": "O limite de solicitações recebidas deste jogador está cheio.",
   "norisk.friends.error.max_outgoing_size": "Você tem muitos pedidos de amizade pendentes.",

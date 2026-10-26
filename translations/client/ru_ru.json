@@ -1367,6 +1367,7 @@
   "nrc.friends.errors.invite_request_cooldown": "Подождите %s секунд перед повторной отправкой запроса.",
   "nrc.friends.errors.no_friendship": "Вы не являетесь другом этого игрока.",
   "nrc.friends.errors.user_not_found": "Пользователь не найден.",
+  "nrc.player.not_found": "Пользователь не найден.",
   "norisk.friends.error.max_friend_size": "Достигнут лимит друзей (%s).",
   "norisk.friends.error.max_incoming_size_other": "Лимит входящих запросов этого игрока заполнен.",
   "norisk.friends.error.max_outgoing_size": "У вас слишком много ожидающих заявок в друзья.",

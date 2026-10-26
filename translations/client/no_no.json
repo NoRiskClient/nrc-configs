@@ -502,6 +502,7 @@
   "nrc.friends.errors.invite_request_cooldown": "Vent %s sekunder før du sender forespørsel igjen.",
   "nrc.friends.errors.no_friendship": "Du er ikke venner med denne spilleren.",
   "nrc.friends.errors.user_not_found": "Bruker ikke funnet.",
+  "nrc.player.not_found": "Bruker ikke funnet.",
   "norisk.friends.error.max_friend_size": "Vennelistegrensen er nådd (%s).",
   "norisk.friends.error.max_incoming_size_other": "Denne spillerens grense for innkommende forespørsler er full.",
   "norisk.friends.error.max_outgoing_size": "Du har for mange utestående venneforespørsler.",

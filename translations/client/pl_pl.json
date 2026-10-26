@@ -1367,6 +1367,7 @@
   "nrc.friends.errors.invite_request_cooldown": "Poczekaj %s sekund przed kolejnym wysłaniem prośby.",
   "nrc.friends.errors.no_friendship": "Nie jesteś znajomym tego gracza.",
   "nrc.friends.errors.user_not_found": "Nie znaleziono użytkownika.",
+  "nrc.player.not_found": "Nie znaleziono użytkownika.",
   "norisk.friends.error.max_friend_size": "Osiągnięto limit znajomych (%s).",
   "norisk.friends.error.max_incoming_size_other": "Limit przychodzących próśb tego gracza jest pełny.",
   "norisk.friends.error.max_outgoing_size": "Masz zbyt wiele oczekujących zaproszeń do znajomych.",
