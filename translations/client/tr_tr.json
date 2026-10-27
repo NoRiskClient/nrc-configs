@@ -64,6 +64,7 @@
   "mcreal.command.opening_screen": "McReal ekranı açılıyor...",
   "mcreal.command.mode_activated": "McReal modu etkin! Ekran görüntüsü için F2'ye bas.",
   "mcreal.picture.activated": "[McReal] Etkin! McReal'ini yüklemek için F2'ye bas.",
+  "mcreal.disabled": "McReal devre dışı. McReal modülünden (Sağ Shift) etkinleştir.",
   "mcreal.picture.region_changed": "Bölge %s olarak değişti",
   "mcreal.picture.current_time": "Mevcut McReal Zamanı: %s",
   "mcreal.picture.post_time": "Paylaşma Zamanı: %s",

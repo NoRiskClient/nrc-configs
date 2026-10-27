@@ -64,6 +64,7 @@
   "mcreal.command.opening_screen": "Otwieranie ekranu McReal...",
   "mcreal.command.mode_activated": "Tryb McReal aktywny! Naciśnij F2, aby zrobić zrzut.",
   "mcreal.picture.activated": "[McReal] Aktywowano! Naciśnij F2, aby wysłać swój McReal.",
+  "mcreal.disabled": "McReal jest wyłączony. Włącz go w module McReal (prawy Shift).",
   "mcreal.picture.region_changed": "Zmieniono region na %s",
   "mcreal.picture.current_time": "Aktualny Czas McReal: %s",
   "mcreal.picture.post_time": "Czas Publikacji: %s",

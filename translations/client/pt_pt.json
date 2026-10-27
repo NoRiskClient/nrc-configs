@@ -64,6 +64,7 @@
   "mcreal.command.opening_screen": "A abrir o ecrã do McReal...",
   "mcreal.command.mode_activated": "Modo McReal ativado! Prime F2 para capturar.",
   "mcreal.picture.activated": "[McReal] Ativado! Prime F2 para enviares o teu McReal.",
+  "mcreal.disabled": "O McReal está desativado. Ativa-o no módulo McReal (Shift direito).",
   "mcreal.picture.region_changed": "Região alterada para %s",
   "mcreal.picture.current_time": "Hora Atual do McReal: %s",
   "mcreal.picture.post_time": "Hora da Publicação: %s",

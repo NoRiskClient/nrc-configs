@@ -43,6 +43,7 @@
   "mcreal.upload.show_others": "[Vis andre]",
   "mcreal.upload.success": "McReal har blitt lastet opp",
   "mcreal.picture.activated": "[McReal] Aktivert! Trykk F2 for å laste opp din McReal.",
+  "mcreal.disabled": "McReal er deaktivert. Slå det på i McReal-modulen (høyre Shift).",
   "mcreal.profile.loading": "Laster ...",
   "mcreal.profile.pin.added": "McReal festet til profilen din",
   "mcreal.profile.pin.removed": "Festing fjernet",

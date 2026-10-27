@@ -64,6 +64,7 @@
   "mcreal.command.opening_screen": "Apertura schermata McReal...",
   "mcreal.command.mode_activated": "Modalità McReal attivata! Premi F2 per catturare.",
   "mcreal.picture.activated": "[McReal] Attivato! Premi F2 per caricare il tuo McReal.",
+  "mcreal.disabled": "McReal è disattivato. Attivalo nel modulo McReal (Shift destro).",
   "mcreal.picture.region_changed": "Regione cambiata in %s",
   "mcreal.picture.current_time": "Ora Attuale del McReal: %s",
   "mcreal.picture.post_time": "Ora di Pubblicazione: %s",

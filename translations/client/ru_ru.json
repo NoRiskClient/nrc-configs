@@ -64,6 +64,7 @@
   "mcreal.command.opening_screen": "Открытие экрана McReal...",
   "mcreal.command.mode_activated": "Режим McReal активирован! Нажми F2 для скриншота.",
   "mcreal.picture.activated": "[McReal] Активирован! Нажми F2, чтобы загрузить свой McReal.",
+  "mcreal.disabled": "McReal отключён. Включи его в модуле McReal (правый Shift).",
   "mcreal.picture.region_changed": "Регион изменён на %s",
   "mcreal.picture.current_time": "Текущее Время McReal: %s",
   "mcreal.picture.post_time": "Время Публикации: %s",
