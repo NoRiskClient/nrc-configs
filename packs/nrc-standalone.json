@@ -332,7 +332,7 @@
     "loaderPolicy": {
         "default": {
             "fabric": {
-                "version": "0.19.5",
+                "version": "0.20.1",
                 "min": null,
                 "strategy": null
             }
