@@ -1839,6 +1839,7 @@
   "nrc.cosmetics.ui.gift.sent": "%s, %s adlı oyuncuya hediye edildi",
   "nrc.cosmetics.ui.gift.toast.received_from": "%s sana %s hediye etti!",
   "nrc.cosmetics.ui.gift.toast.received_anonymous": "Birisi sana %s hediye etti!",
+  "nrc.cosmetics.ui.gift.toast.sent": "%1$s adlı oyuncuya hediye teslim edildi: %2$s",
   "nrc.cosmetics.ui.owned.toast.title": "Kozmetikler",
   "nrc.cosmetics.ui.owned.toast.added": "Kozmetik eklendi: %s",
   "nrc.cosmetics.ui.owned.toast.added_multiple": "%s kozmetik eklendi",

@@ -965,6 +965,7 @@
   "nrc.cosmetics.ui.gift.sent": "Ga %s til %s",
   "nrc.cosmetics.ui.gift.toast.received_from": "%s ga deg %s!",
   "nrc.cosmetics.ui.gift.toast.received_anonymous": "Noen ga deg %s!",
+  "nrc.cosmetics.ui.gift.toast.sent": "Gave levert til %1$s: %2$s",
   "nrc.cosmetics.ui.owned.toast.title": "Kosmetikk",
   "nrc.cosmetics.ui.owned.toast.added": "Kosmetikk lagt til: %s",
   "nrc.cosmetics.ui.owned.toast.added_multiple": "%s kosmetikk lagt til",

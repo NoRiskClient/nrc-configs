@@ -1839,6 +1839,7 @@
   "nrc.cosmetics.ui.gift.sent": "%2$s को %1$s उपहार में दिया",
   "nrc.cosmetics.ui.gift.toast.received_from": "%s ने आपको %s उपहार में दिया!",
   "nrc.cosmetics.ui.gift.toast.received_anonymous": "किसी ने आपको %s उपहार में दिया!",
+  "nrc.cosmetics.ui.gift.toast.sent": "%1$s को उपहार पहुँचाया गया: %2$s",
   "nrc.cosmetics.ui.owned.toast.title": "कॉस्मेटिक्स",
   "nrc.cosmetics.ui.owned.toast.added": "कॉस्मेटिक जोड़ा गया: %s",
   "nrc.cosmetics.ui.owned.toast.added_multiple": "%s कॉस्मेटिक्स जोड़े गए",

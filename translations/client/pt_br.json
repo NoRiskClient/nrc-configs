@@ -1839,6 +1839,7 @@
   "nrc.cosmetics.ui.gift.sent": "Você presenteou %2$s com %1$s",
   "nrc.cosmetics.ui.gift.toast.received_from": "%s te presenteou com %s!",
   "nrc.cosmetics.ui.gift.toast.received_anonymous": "Alguém te presenteou com %s!",
+  "nrc.cosmetics.ui.gift.toast.sent": "Presente entregue para %1$s: %2$s",
   "nrc.cosmetics.ui.owned.toast.title": "Cosméticos",
   "nrc.cosmetics.ui.owned.toast.added": "Cosmético adicionado: %s",
   "nrc.cosmetics.ui.owned.toast.added_multiple": "%s cosméticos adicionados",

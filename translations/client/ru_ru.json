@@ -1839,6 +1839,7 @@
   "nrc.cosmetics.ui.gift.sent": "Вы подарили %s игроку %s",
   "nrc.cosmetics.ui.gift.toast.received_from": "%s подарил(а) вам %s!",
   "nrc.cosmetics.ui.gift.toast.received_anonymous": "Кто-то подарил вам %s!",
+  "nrc.cosmetics.ui.gift.toast.sent": "Подарок доставлен %1$s: %2$s",
   "nrc.cosmetics.ui.owned.toast.title": "Косметика",
   "nrc.cosmetics.ui.owned.toast.added": "Косметика добавлена: %s",
   "nrc.cosmetics.ui.owned.toast.added_multiple": "Добавлено косметики: %s",
