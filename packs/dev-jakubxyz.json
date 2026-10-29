@@ -18,14 +18,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.2291349-feat-buddy-petting+forge.1.7.10",
+                        "identifier": "26.4.2285995-feat-buddy-petting+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.2291349-feat-buddy-petting+forge.1.8.9",
+                        "identifier": "26.4.2285995-feat-buddy-petting+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -235,7 +235,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.2291349-feat-buddy-petting+fabric.1.21.11",
+                        "identifier": "26.4.2285995-feat-buddy-petting+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -303,7 +303,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.2291349-feat-buddy-petting+fabric.26.2",
+                        "identifier": "26.4.2285995-feat-buddy-petting+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -339,14 +339,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+forge.1.7.10",
+                        "identifier": "26.4.2273035-feat-buddy-petting+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+forge.1.8.9",
+                        "identifier": "26.4.2273035-feat-buddy-petting+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -556,7 +556,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+fabric.1.21.11",
+                        "identifier": "26.4.2273035-feat-buddy-petting+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -624,7 +624,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+fabric.26.2",
+                        "identifier": "26.4.2273035-feat-buddy-petting+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -660,14 +660,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.2254116-feat-buddy-petting+forge.1.7.10",
+                        "identifier": "26.4.2361745-feat-buddy-petting+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.2254116-feat-buddy-petting+forge.1.8.9",
+                        "identifier": "26.4.2361745-feat-buddy-petting+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -877,7 +877,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.2254116-feat-buddy-petting+fabric.1.21.11",
+                        "identifier": "26.4.2361745-feat-buddy-petting+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -945,7 +945,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.2254116-feat-buddy-petting+fabric.26.2",
+                        "identifier": "26.4.2361745-feat-buddy-petting+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1302,14 +1302,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.2235221-feat-buddy-petting+forge.1.7.10",
+                        "identifier": "26.4.2300160-feat-buddy-petting+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.2235221-feat-buddy-petting+forge.1.8.9",
+                        "identifier": "26.4.2300160-feat-buddy-petting+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1519,7 +1519,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.2235221-feat-buddy-petting+fabric.1.21.11",
+                        "identifier": "26.4.2300160-feat-buddy-petting+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1587,7 +1587,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.2235221-feat-buddy-petting+fabric.26.2",
+                        "identifier": "26.4.2300160-feat-buddy-petting+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1623,14 +1623,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.2234024-feat-buddy-petting+forge.1.7.10",
+                        "identifier": "26.4.2285995-feat-buddy-petting+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.2234024-feat-buddy-petting+forge.1.8.9",
+                        "identifier": "26.4.2285995-feat-buddy-petting+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -1840,7 +1840,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.2234024-feat-buddy-petting+fabric.1.21.11",
+                        "identifier": "26.4.2285995-feat-buddy-petting+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -1908,7 +1908,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.2234024-feat-buddy-petting+fabric.26.2",
+                        "identifier": "26.4.2285995-feat-buddy-petting+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -1944,14 +1944,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+forge.1.7.10",
+                        "identifier": "26.4.2416014-feat-buddy-petting+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+forge.1.8.9",
+                        "identifier": "26.4.2416014-feat-buddy-petting+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -2161,7 +2161,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+fabric.1.21.11",
+                        "identifier": "26.4.2416014-feat-buddy-petting+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -2229,7 +2229,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+fabric.26.2",
+                        "identifier": "26.4.2416014-feat-buddy-petting+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2265,14 +2265,14 @@
             "compatibility": {
                 "1.7.10": {
                     "forge": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+forge.1.7.10",
+                        "identifier": "26.4.2304820-feat-buddy-petting+forge.1.7.10",
                         "filename": null,
                         "source": null
                     }
                 },
                 "1.8.9": {
                     "forge": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+forge.1.8.9",
+                        "identifier": "26.4.2304820-feat-buddy-petting+forge.1.8.9",
                         "filename": null,
                         "source": null
                     }
@@ -2482,7 +2482,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+fabric.1.21.11",
+                        "identifier": "26.4.2304820-feat-buddy-petting+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     },
@@ -2550,7 +2550,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.2232741-feat-buddy-petting+fabric.26.2",
+                        "identifier": "26.4.2304820-feat-buddy-petting+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -2963,7 +2963,7 @@
                 },
                 "1.21.11": {
                     "fabric": {
-                        "identifier": "26.4.2236381-feat-buddy-petting+fabric.1.21.11",
+                        "identifier": "26.4.2286001-feat-buddy-petting+fabric.1.21.11",
                         "filename": null,
                         "source": null
                     }
@@ -2991,7 +2991,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.2236381-feat-buddy-petting+fabric.26.2",
+                        "identifier": "26.4.2286001-feat-buddy-petting+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
