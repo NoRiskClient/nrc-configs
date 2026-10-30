@@ -149,6 +149,8 @@
   "nrc.cosmetics.ui.store.leftover_coins.title": "Coins",
   "nrc.cosmetics.ui.store.leftover_coins.body": "Coins werden ab sofort nicht mehr verkauft. Deine %s Coins bleiben gültig: Gib sie im Shop aus oder tausche sie auf unserem Discord gegen einen NRC-Gutschein.",
   "nrc.cosmetics.ui.store.leftover_coins.spendable": "Coins werden ab sofort nicht mehr verkauft, bezahlt wird jetzt direkt. Deine %s Coins bleiben gültig: Gib sie im Shop aus oder tausche sie auf unserem Discord gegen einen NRC-Gutschein.",
+  "nrc.cosmetics.ui.store.leftover_coins.credit.body": "Coins werden ab sofort nicht mehr verkauft. Deine %s Coins bleiben gültig: Gib sie im Shop aus oder tausche sie hier gegen Guthaben.",
+  "nrc.cosmetics.ui.store.leftover_coins.credit.spendable": "Coins werden ab sofort nicht mehr verkauft, bezahlt wird jetzt direkt. Deine %s Coins bleiben gültig: Gib sie im Shop aus oder tausche sie hier gegen Guthaben.",
   "nrc.cosmetics.ui.store.check_browser": "Schau in deinen Browser! (%s)",
   "nrc.cosmetics.ui.store.reopen": "Hier klicken, falls sich kein Browser geöffnet hat",
   "nrc.cosmetics.ui.store.not_completed": "Die Zahlung wurde nicht abgeschlossen.",

@@ -149,6 +149,8 @@
   "nrc.cosmetics.ui.store.leftover_coins.title": "Coins",
   "nrc.cosmetics.ui.store.leftover_coins.body": "Coins अब नहीं बेचे जाते। आपके %s coins मान्य रहेंगे: उन्हें शॉप में खर्च करें या हमारे Discord पर NRC वाउचर से बदलें।",
   "nrc.cosmetics.ui.store.leftover_coins.spendable": "Coins अब नहीं बेचे जाते, अब से सब कुछ सीधे भुगतान से होता है। आपके %s coins मान्य रहेंगे: उन्हें शॉप में खर्च करें या हमारे Discord पर NRC वाउचर से बदलें।",
+  "nrc.cosmetics.ui.store.leftover_coins.credit.body": "Coins अब नहीं बेचे जाते। आपके %s coins मान्य रहेंगे: उन्हें शॉप में खर्च करें या यहीं स्टोर क्रेडिट में बदलें।",
+  "nrc.cosmetics.ui.store.leftover_coins.credit.spendable": "Coins अब नहीं बेचे जाते, अब से सब कुछ सीधे भुगतान से होता है। आपके %s coins मान्य रहेंगे: उन्हें शॉप में खर्च करें या यहीं स्टोर क्रेडिट में बदलें।",
   "nrc.cosmetics.ui.store.check_browser": "अपना ब्राउज़र देखें! (%s)",
   "nrc.cosmetics.ui.store.reopen": "अगर ब्राउज़र नहीं खुला तो यहाँ क्लिक करें",
   "nrc.cosmetics.ui.store.not_completed": "भुगतान पूरा नहीं हुआ।",
