@@ -1653,6 +1653,8 @@
   "nrc.splitchat.window.settings.title": "%s — Настройки",
   "nrc.splitchat.window.name": "Название окна",
   "nrc.splitchat.window.align_right": "Выравнивать текст по правому краю",
+  "nrc.splitchat.window.locked": "Закрепить окно",
+  "nrc.splitchat.window.locked.tooltip": "Вкл.: окно нельзя случайно сдвинуть или изменить его размер. Замок на панели вкладок делает то же самое",
   "nrc.splitchat.window.name.tooltip": "Окно — это блок чата на вашем экране. Каждая его вкладка хранит свои сообщения.",
   "nrc.splitchat.window.background": "Фон",
   "nrc.splitchat.window.corners": "Скруглённые углы",

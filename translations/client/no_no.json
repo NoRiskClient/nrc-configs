@@ -777,6 +777,8 @@
   "nrc.splitchat.window.settings.title": "%s — Innstillinger",
   "nrc.splitchat.window.name": "Vindusnavn",
   "nrc.splitchat.window.align_right": "Høyrejuster tekst",
+  "nrc.splitchat.window.locked": "Lås vindu",
+  "nrc.splitchat.window.locked.tooltip": "På: vinduet kan ikke flyttes eller endre størrelse ved et uhell. Låsen i fanelinjen gjør det samme",
   "nrc.splitchat.window.name.tooltip": "Et vindu er en chatteboks på skjermen din. Hver fane holder på sine egne meldinger.",
   "nrc.splitchat.window.background": "Bakgrunn",
   "nrc.splitchat.window.corners": "Avrundede hjørner",

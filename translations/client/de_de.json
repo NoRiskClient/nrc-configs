@@ -1653,6 +1653,8 @@
   "nrc.splitchat.window.settings.title": "%s — Einstellungen",
   "nrc.splitchat.window.name": "Fenstername",
   "nrc.splitchat.window.align_right": "Text rechtsbündig",
+  "nrc.splitchat.window.locked": "Fenster sperren",
+  "nrc.splitchat.window.locked.tooltip": "An: Das Fenster lässt sich nicht mehr aus Versehen verschieben oder in der Größe ändern. Das Schloss in der Tab-Leiste macht dasselbe",
   "nrc.splitchat.window.name.tooltip": "Ein Fenster ist eine Chatbox auf deinem Bildschirm. Jeder seiner Tabs hat seine eigenen Nachrichten.",
   "nrc.splitchat.window.background": "Hintergrund",
   "nrc.splitchat.window.corners": "Abgerundete Ecken",

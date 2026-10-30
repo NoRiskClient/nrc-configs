@@ -1653,6 +1653,8 @@
   "nrc.splitchat.window.settings.title": "%s — Ustawienia",
   "nrc.splitchat.window.name": "Nazwa okna",
   "nrc.splitchat.window.align_right": "Wyrównaj tekst do prawej",
+  "nrc.splitchat.window.locked": "Zablokuj okno",
+  "nrc.splitchat.window.locked.tooltip": "Wł.: okna nie da się już przypadkiem przesunąć ani zmienić jego rozmiaru. Kłódka na pasku kart robi to samo",
   "nrc.splitchat.window.name.tooltip": "Okno to ramka czatu na twoim ekranie. Każda jego karta trzyma własne wiadomości.",
   "nrc.splitchat.window.background": "Tło",
   "nrc.splitchat.window.corners": "Zaokrąglone rogi",

@@ -1653,6 +1653,8 @@
   "nrc.splitchat.window.settings.title": "%s — Ayarlar",
   "nrc.splitchat.window.name": "Pencere adı",
   "nrc.splitchat.window.align_right": "Metni sağa hizala",
+  "nrc.splitchat.window.locked": "Pencereyi kilitle",
+  "nrc.splitchat.window.locked.tooltip": "Açık: pencere yanlışlıkla taşınamaz veya yeniden boyutlandırılamaz. Sekme çubuğundaki kilit de aynısını yapar",
   "nrc.splitchat.window.name.tooltip": "Pencere, ekranındaki bir sohbet kutusudur. Her sekmesi kendi mesajlarını tutar.",
   "nrc.splitchat.window.background": "Arka plan",
   "nrc.splitchat.window.corners": "Yuvarlatılmış köşeler",

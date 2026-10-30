@@ -1653,6 +1653,8 @@
   "nrc.splitchat.window.settings.title": "%s — Settings",
   "nrc.splitchat.window.name": "Window name",
   "nrc.splitchat.window.align_right": "Align text right",
+  "nrc.splitchat.window.locked": "Lock window",
+  "nrc.splitchat.window.locked.tooltip": "On: the window can't be moved or resized by accident. The lock button in its tab bar does the same",
   "nrc.splitchat.window.name.tooltip": "A window is a chat box on your screen. Each of its tabs keeps its own messages.",
   "nrc.splitchat.window.background": "Background",
   "nrc.splitchat.window.corners": "Rounded corners",

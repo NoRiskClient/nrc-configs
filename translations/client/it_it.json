@@ -1653,6 +1653,8 @@
   "nrc.splitchat.window.settings.title": "%s — Impostazioni",
   "nrc.splitchat.window.name": "Nome della finestra",
   "nrc.splitchat.window.align_right": "Allinea il testo a destra",
+  "nrc.splitchat.window.locked": "Blocca finestra",
+  "nrc.splitchat.window.locked.tooltip": "Attivo: la finestra non può più essere spostata o ridimensionata per sbaglio. Il lucchetto nella barra delle schede fa lo stesso",
   "nrc.splitchat.window.name.tooltip": "Una finestra è un riquadro di chat sul tuo schermo. Ogni sua scheda conserva i propri messaggi.",
   "nrc.splitchat.window.background": "Sfondo",
   "nrc.splitchat.window.corners": "Angoli arrotondati",

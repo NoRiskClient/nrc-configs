@@ -1653,6 +1653,8 @@
   "nrc.splitchat.window.settings.title": "%s — Ajustes",
   "nrc.splitchat.window.name": "Nombre de la ventana",
   "nrc.splitchat.window.align_right": "Alinear texto a la derecha",
+  "nrc.splitchat.window.locked": "Bloquear ventana",
+  "nrc.splitchat.window.locked.tooltip": "Activado: la ventana ya no se puede mover ni cambiar de tamaño por accidente. El candado en su barra de pestañas hace lo mismo",
   "nrc.splitchat.window.name.tooltip": "Una ventana es un cuadro de chat en tu pantalla. Cada una de sus pestañas guarda sus propios mensajes.",
   "nrc.splitchat.window.background": "Fondo",
   "nrc.splitchat.window.corners": "Esquinas redondeadas",

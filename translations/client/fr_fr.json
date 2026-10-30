@@ -1653,6 +1653,8 @@
   "nrc.splitchat.window.settings.title": "%s — Paramètres",
   "nrc.splitchat.window.name": "Nom de la fenêtre",
   "nrc.splitchat.window.align_right": "Aligner le texte à droite",
+  "nrc.splitchat.window.locked": "Verrouiller la fenêtre",
+  "nrc.splitchat.window.locked.tooltip": "Activé : la fenêtre ne peut plus être déplacée ou redimensionnée par erreur. Le cadenas dans sa barre d'onglets fait la même chose",
   "nrc.splitchat.window.name.tooltip": "Une fenêtre est une boîte de chat sur ton écran. Chacun de ses onglets garde ses propres messages.",
   "nrc.splitchat.window.background": "Arrière-plan",
   "nrc.splitchat.window.corners": "Coins arrondis",

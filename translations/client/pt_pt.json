@@ -1653,6 +1653,8 @@
   "nrc.splitchat.window.settings.title": "%s — Configurações",
   "nrc.splitchat.window.name": "Nome da janela",
   "nrc.splitchat.window.align_right": "Alinhar texto à direita",
+  "nrc.splitchat.window.locked": "Bloquear janela",
+  "nrc.splitchat.window.locked.tooltip": "Ligado: a janela já não pode ser movida ou redimensionada por engano. O cadeado na barra de separadores faz o mesmo",
   "nrc.splitchat.window.name.tooltip": "Uma janela é uma caixa de chat no teu ecrã. Cada um dos seus separadores guarda as próprias mensagens.",
   "nrc.splitchat.window.background": "Fundo",
   "nrc.splitchat.window.corners": "Cantos arredondados",

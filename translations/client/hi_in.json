@@ -1653,6 +1653,8 @@
   "nrc.splitchat.window.settings.title": "%s — सेटिंग्स",
   "nrc.splitchat.window.name": "विंडो का नाम",
   "nrc.splitchat.window.align_right": "टेक्स्ट दाईं ओर संरेखित करें",
+  "nrc.splitchat.window.locked": "विंडो लॉक करें",
+  "nrc.splitchat.window.locked.tooltip": "चालू: विंडो गलती से हिलाई या उसका आकार बदला नहीं जा सकता। टैब बार में ताले का बटन भी यही करता है",
   "nrc.splitchat.window.name.tooltip": "विंडो आपकी स्क्रीन पर एक चैट बॉक्स है। इसका हर टैब अपने संदेश रखता है।",
   "nrc.splitchat.window.background": "पृष्ठभूमि",
   "nrc.splitchat.window.corners": "गोल कोने",
