@@ -149,6 +149,8 @@
   "nrc.cosmetics.ui.store.leftover_coins.title": "Coins",
   "nrc.cosmetics.ui.store.leftover_coins.body": "Les coins ne sont plus vendus. Tes %s coins restent valables : dépense-les dans la boutique ou échange-les contre un bon NRC sur notre Discord.",
   "nrc.cosmetics.ui.store.leftover_coins.spendable": "Les coins ne sont plus vendus, tout se paie désormais directement. Tes %s coins restent valables : dépense-les dans la boutique ou échange-les contre un bon NRC sur notre Discord.",
+  "nrc.cosmetics.ui.store.leftover_coins.credit.body": "Les coins ne sont plus vendus. Tes %s coins restent valables : dépense-les dans la boutique ou convertis-les ici en crédit.",
+  "nrc.cosmetics.ui.store.leftover_coins.credit.spendable": "Les coins ne sont plus vendus, tout se paie désormais directement. Tes %s coins restent valables : dépense-les dans la boutique ou convertis-les ici en crédit.",
   "nrc.cosmetics.ui.store.check_browser": "Regarde ton navigateur ! (%s)",
   "nrc.cosmetics.ui.store.reopen": "Clique ici si le navigateur ne s'est pas ouvert",
   "nrc.cosmetics.ui.store.not_completed": "Le paiement n'a pas été finalisé.",

@@ -91,6 +91,8 @@
   "nrc.cosmetics.ui.store.leftover_coins.title": "Coins",
   "nrc.cosmetics.ui.store.leftover_coins.body": "Coins selges ikke lenger. Dine %s coins er fortsatt gyldige: bruk dem i butikken eller bytt dem i en NRC-kupong på Discorden vår.",
   "nrc.cosmetics.ui.store.leftover_coins.spendable": "Coins selges ikke lenger, fra nå av betales alt direkte. Dine %s coins er fortsatt gyldige: bruk dem i butikken eller bytt dem i en NRC-kupong på Discorden vår.",
+  "nrc.cosmetics.ui.store.leftover_coins.credit.body": "Coins selges ikke lenger. Dine %s coins er fortsatt gyldige: bruk dem i butikken eller gjør dem om til butikkreditt her.",
+  "nrc.cosmetics.ui.store.leftover_coins.credit.spendable": "Coins selges ikke lenger, fra nå av betales alt direkte. Dine %s coins er fortsatt gyldige: bruk dem i butikken eller gjør dem om til butikkreditt her.",
   "nrc.cosmetics.ui.store.check_browser": "Sjekk nettleseren din! (%s)",
   "nrc.cosmetics.ui.store.reopen": "Klikk her hvis nettleseren ikke åpnet seg",
   "nrc.cosmetics.ui.store.not_completed": "Betalingen ble ikke fullført.",
