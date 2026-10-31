@@ -1600,5 +1600,16 @@
   "nrc.ui.minigames.leaderboard.empty": "ingen oppføringer ennå",
   "nrc.ui.minigames.leaderboard.error": "kunne ikke laste topplisten",
   "nrc.ui.minigames.leaderboard.page": "side %s",
-  "nrc.ui.minigames.invite_success": "%1$s har blitt invitert til %2$s!"
+  "nrc.ui.minigames.invite_success": "%1$s har blitt invitert til %2$s!",
+  "nrc.ui.minigames.duel.not_found": "fant ikke spilleren",
+  "nrc.ui.minigames.leaderboard.yours": "din beste",
+  "nrc.ui.minigames.chess.resigned": "ga opp",
+  "nrc.ui.minigames.chess.agreed_draw": "remis avtalt",
+  "nrc.ui.minigames.chess.draw_offered": "%s tilbyr remis",
+  "nrc.ui.minigames.chess.draw_sent": "remis tilbudt",
+  "nrc.ui.minigames.chess.draw_declined": "remis avslått",
+  "nrc.ui.minigames.chess.resign": "gi opp",
+  "nrc.ui.minigames.chess.resign_confirm": "vil du virkelig gi opp?",
+  "nrc.ui.minigames.chess.offer_draw": "tilby remis",
+  "nrc.ui.minigames.chess.accept_draw": "godta remis"
 }

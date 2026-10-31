@@ -2445,5 +2445,16 @@
   "nrc.ui.minigames.leaderboard.loading": "a carregar…",
   "nrc.ui.minigames.leaderboard.empty": "ainda sem entradas",
   "nrc.ui.minigames.leaderboard.error": "não foi possível carregar a classificação",
-  "nrc.ui.minigames.leaderboard.page": "página %s"
+  "nrc.ui.minigames.leaderboard.page": "página %s",
+  "nrc.ui.minigames.duel.not_found": "jogador não encontrado",
+  "nrc.ui.minigames.leaderboard.yours": "o teu recorde",
+  "nrc.ui.minigames.chess.resigned": "desistiu",
+  "nrc.ui.minigames.chess.agreed_draw": "empate acordado",
+  "nrc.ui.minigames.chess.draw_offered": "%s propõe empate",
+  "nrc.ui.minigames.chess.draw_sent": "empate proposto",
+  "nrc.ui.minigames.chess.draw_declined": "empate recusado",
+  "nrc.ui.minigames.chess.resign": "desistir",
+  "nrc.ui.minigames.chess.resign_confirm": "desistir mesmo?",
+  "nrc.ui.minigames.chess.offer_draw": "propor empate",
+  "nrc.ui.minigames.chess.accept_draw": "aceitar empate"
 }

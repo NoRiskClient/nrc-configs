@@ -2445,5 +2445,16 @@
   "nrc.ui.minigames.leaderboard.loading": "caricamento…",
   "nrc.ui.minigames.leaderboard.empty": "ancora nessuna voce",
   "nrc.ui.minigames.leaderboard.error": "impossibile caricare la classifica",
-  "nrc.ui.minigames.leaderboard.page": "pagina %s"
+  "nrc.ui.minigames.leaderboard.page": "pagina %s",
+  "nrc.ui.minigames.duel.not_found": "giocatore non trovato",
+  "nrc.ui.minigames.leaderboard.yours": "il tuo record",
+  "nrc.ui.minigames.chess.resigned": "abbandono",
+  "nrc.ui.minigames.chess.agreed_draw": "patta concordata",
+  "nrc.ui.minigames.chess.draw_offered": "%s offre la patta",
+  "nrc.ui.minigames.chess.draw_sent": "patta offerta",
+  "nrc.ui.minigames.chess.draw_declined": "patta rifiutata",
+  "nrc.ui.minigames.chess.resign": "abbandona",
+  "nrc.ui.minigames.chess.resign_confirm": "abbandonare davvero?",
+  "nrc.ui.minigames.chess.offer_draw": "offri patta",
+  "nrc.ui.minigames.chess.accept_draw": "accetta patta"
 }
