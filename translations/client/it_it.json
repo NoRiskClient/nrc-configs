@@ -840,6 +840,7 @@
   "nrc.ui.label.waypoint_new_set": "Lista",
   "nrc.ui.label.waypoint_count": "%s waypoint",
   "nrc.ui.label.waypoint_set_active": "attiva",
+  "nrc.ui.label.waypoint_foreign_file_info": "Questo file è nella tua cartella dei waypoint di NoRisk, ma non appartiene a nessuna dimensione, ad esempio un file condiviso da un amico. I suoi waypoint appaiono nel mondo solo dopo averlo usato come lista.",
   "nrc.autotext.label.key_binds": "Scorciatoie",
   "nrc.autotext.button.add": "Aggiungi",
   "nrc.autotext.empty.title": "Nessuna scorciatoia ancora",

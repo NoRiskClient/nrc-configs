@@ -840,6 +840,7 @@
   "nrc.ui.label.waypoint_new_set": "Liste",
   "nrc.ui.label.waypoint_count": "%s Wegpunkte",
   "nrc.ui.label.waypoint_set_active": "aktiv",
+  "nrc.ui.label.waypoint_foreign_file_info": "Diese Datei liegt in deinem NoRisk-Wegpunktordner, gehört aber zu keiner Dimension, zum Beispiel eine Datei, die dir ein Freund geschickt hat. Ihre Wegpunkte erscheinen erst in der Welt, wenn du sie als Liste übernimmst.",
   "nrc.autotext.label.key_binds": "Tastenbelegung",
   "nrc.autotext.button.add": "Hinzufügen",
   "nrc.autotext.empty.title": "Noch keine Tastenbelegungen",

@@ -840,6 +840,7 @@
   "nrc.ui.label.waypoint_new_set": "Liste",
   "nrc.ui.label.waypoint_count": "%s waypoint",
   "nrc.ui.label.waypoint_set_active": "aktif",
+  "nrc.ui.label.waypoint_foreign_file_info": "Bu dosya NoRisk waypoint klasöründe duruyor ama hiçbir boyuta ait değil, örneğin bir arkadaşının paylaştığı bir dosya. Waypoint'leri, onu liste olarak kullandığında dünyada görünür.",
   "nrc.autotext.label.key_binds": "Kısayollar",
   "nrc.autotext.button.add": "Ekle",
   "nrc.autotext.empty.title": "Henüz kısayol yok",

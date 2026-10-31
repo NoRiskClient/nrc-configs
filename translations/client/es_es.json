@@ -840,6 +840,7 @@
   "nrc.ui.label.waypoint_new_set": "Lista",
   "nrc.ui.label.waypoint_count": "%s waypoints",
   "nrc.ui.label.waypoint_set_active": "activa",
+  "nrc.ui.label.waypoint_foreign_file_info": "Este archivo está en tu carpeta de waypoints de NoRisk, pero no pertenece a ninguna dimensión, por ejemplo un archivo que te compartió un amigo. Sus waypoints solo aparecen en el mundo cuando lo usas como lista.",
   "nrc.autotext.label.key_binds": "Atajos",
   "nrc.autotext.button.add": "Añadir",
   "nrc.autotext.empty.title": "Aún no hay atajos",

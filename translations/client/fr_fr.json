@@ -840,6 +840,7 @@
   "nrc.ui.label.waypoint_new_set": "Liste",
   "nrc.ui.label.waypoint_count": "%s waypoints",
   "nrc.ui.label.waypoint_set_active": "active",
+  "nrc.ui.label.waypoint_foreign_file_info": "Ce fichier se trouve dans ton dossier de waypoints NoRisk, mais n'appartient à aucune dimension, par exemple un fichier partagé par un ami. Ses waypoints n'apparaissent dans le monde qu'une fois utilisé comme liste.",
   "nrc.autotext.label.key_binds": "Raccourcis",
   "nrc.autotext.button.add": "Ajouter",
   "nrc.autotext.empty.title": "Aucun raccourci pour l'instant",

@@ -840,6 +840,7 @@
   "nrc.ui.label.waypoint_new_set": "List",
   "nrc.ui.label.waypoint_count": "%s waypoints",
   "nrc.ui.label.waypoint_set_active": "active",
+  "nrc.ui.label.waypoint_foreign_file_info": "This file is in your NoRisk waypoint folder but doesn't belong to a dimension, for example a file a friend shared with you. Its waypoints only show up in the world once you use it as a list.",
   "nrc.autotext.label.key_binds": "Key Binds",
   "nrc.autotext.button.add": "Add",
   "nrc.autotext.empty.title": "No keybinds yet",

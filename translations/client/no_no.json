@@ -840,6 +840,7 @@
   "nrc.ui.label.waypoint_new_set": "Liste",
   "nrc.ui.label.waypoint_count": "%s veipunkter",
   "nrc.ui.label.waypoint_set_active": "aktiv",
+  "nrc.ui.label.waypoint_foreign_file_info": "Denne filen ligger i NoRisk-veipunktmappen din, men hører ikke til noen dimensjon, for eksempel en fil en venn har delt med deg. Veipunktene vises først i verden når du bruker den som liste.",
   "nrc.splitchat.menu.new_tab": "Ny fane",
   "nrc.splitchat.menu.new_window": "Nytt vindu",
   "nrc.splitchat.menu.delete_tab": "Slett fane",

@@ -840,6 +840,7 @@
   "nrc.ui.label.waypoint_new_set": "Список",
   "nrc.ui.label.waypoint_count": "Waypoint'ов: %s",
   "nrc.ui.label.waypoint_set_active": "активен",
+  "nrc.ui.label.waypoint_foreign_file_info": "Этот файл лежит в твоей папке waypoint'ов NoRisk, но не относится ни к одному измерению, например файл, которым поделился друг. Его waypoint'ы появятся в мире, только когда ты используешь его как список.",
   "nrc.autotext.label.key_binds": "Горячие клавиши",
   "nrc.autotext.button.add": "Добавить",
   "nrc.autotext.empty.title": "Пока нет горячих клавиш",

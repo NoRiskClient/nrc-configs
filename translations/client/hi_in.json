@@ -840,6 +840,7 @@
   "nrc.ui.label.waypoint_new_set": "सूची",
   "nrc.ui.label.waypoint_count": "%s वेपॉइंट",
   "nrc.ui.label.waypoint_set_active": "सक्रिय",
+  "nrc.ui.label.waypoint_foreign_file_info": "यह फ़ाइल आपके NoRisk वेपॉइंट फ़ोल्डर में है, लेकिन किसी डायमेंशन की नहीं है, जैसे किसी दोस्त की भेजी हुई फ़ाइल। इसके वेपॉइंट दुनिया में तभी दिखते हैं जब आप इसे सूची के रूप में उपयोग करते हैं।",
   "nrc.autotext.label.key_binds": "कीबाइंड",
   "nrc.autotext.button.add": "जोड़ें",
   "nrc.autotext.empty.title": "अभी कोई कीबाइंड नहीं",
