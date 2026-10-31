@@ -1162,7 +1162,7 @@
   "key.category.nrc-ui.category.norisk.general": "NoRiskClient Internal Controls",
   "key.emotes.key": "Emote Wheel",
   "key.zoom.zoomKey": "Zoom",
-  "shop.temporary-item.tooltip.info": "Only %1$s of free usage left. Purchase now and save %1$s%",
+  "shop.temporary-item.tooltip.info": "Only %1$s of free usage left. Purchase now and save %2$s%%",
   "shop.label.used-discounts": "Verwendete Rabatte:",
   "shop.label.final-price": "Endpreis",
   "nrc.ui.modules.value.tiktokMode": "TikTok Modus",

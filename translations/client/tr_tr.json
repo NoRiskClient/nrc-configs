@@ -1162,7 +1162,7 @@
   "key.category.nrc-ui.category.norisk.general": "NoRiskClient Dahili Kontroller",
   "key.emotes.key": "Emote Çarkı",
   "key.zoom.zoomKey": "Zoom",
-  "shop.temporary-item.tooltip.info": "Sadece %1$s ücretsiz kullanım kaldı. Şimdi satın al ve %1$s%% tasarruf et",
+  "shop.temporary-item.tooltip.info": "Sadece %1$s ücretsiz kullanım kaldı. Şimdi satın al ve %2$s%% tasarruf et",
   "shop.label.used-discounts": "Kullanılan İndirimler:",
   "shop.label.final-price": "Son Fiyat",
   "nrc.ui.modules.value.tiktokMode": "TikTok Modu",

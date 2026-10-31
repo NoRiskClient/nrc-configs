@@ -1162,7 +1162,7 @@
   "key.category.nrc-ui.category.norisk.general": "NoRiskClient आंतरिक नियंत्रण",
   "key.emotes.key": "Emote व्हील",
   "key.zoom.zoomKey": "ज़ूम",
-  "shop.temporary-item.tooltip.info": "केवल %1$s मुफ़्त उपयोग बचा है। अभी खरीदें और %1$s%% बचाएं",
+  "shop.temporary-item.tooltip.info": "केवल %1$s मुफ़्त उपयोग बचा है। अभी खरीदें और %2$s%% बचाएं",
   "shop.label.used-discounts": "उपयोग की गई छूट:",
   "shop.label.final-price": "अंतिम मूल्य",
   "nrc.ui.modules.value.tiktokMode": "TikTok मोड",
