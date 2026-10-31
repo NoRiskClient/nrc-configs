@@ -156,6 +156,7 @@
   "nrc.cosmetics.ui.store.reopen": "Haz clic aquí si el navegador no se abrió",
   "nrc.cosmetics.ui.store.not_completed": "El pago no se completó.",
   "nrc.cosmetics.ui.store.coupons.balance": "Tu saldo: %s",
+  "nrc.cosmetics.ui.store.coupons.reserved": "%s está reservado para una compra pendiente. Si no pagas, vuelve en un máximo de %s min.",
   "nrc.cosmetics.ui.store.coupons.offer": "Tus %s coins equivalen a %s.",
   "nrc.cosmetics.ui.store.coupons.convert": "Canjear",
   "nrc.cosmetics.ui.store.coupons.converted": "%s de saldo añadido",

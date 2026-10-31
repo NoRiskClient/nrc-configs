@@ -156,6 +156,7 @@
   "nrc.cosmetics.ui.store.reopen": "Hier klicken, falls sich kein Browser geöffnet hat",
   "nrc.cosmetics.ui.store.not_completed": "Die Zahlung wurde nicht abgeschlossen.",
   "nrc.cosmetics.ui.store.coupons.balance": "Dein Guthaben: %s",
+  "nrc.cosmetics.ui.store.coupons.reserved": "%s sind für einen offenen Checkout reserviert. Bezahlst du nicht, ist es spätestens in %s Min. wieder frei.",
   "nrc.cosmetics.ui.store.coupons.offer": "Deine %s Coins ergeben %s.",
   "nrc.cosmetics.ui.store.coupons.convert": "Umtauschen",
   "nrc.cosmetics.ui.store.coupons.converted": "%s Guthaben gutgeschrieben",

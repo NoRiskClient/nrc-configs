@@ -98,6 +98,7 @@
   "nrc.cosmetics.ui.store.reopen": "Klikk her hvis nettleseren ikke åpnet seg",
   "nrc.cosmetics.ui.store.not_completed": "Betalingen ble ikke fullført.",
   "nrc.cosmetics.ui.store.coupons.balance": "Din kreditt: %s",
+  "nrc.cosmetics.ui.store.coupons.reserved": "%s er reservert for et åpent kjøp. Betaler du ikke, får du det tilbake innen %s min.",
   "nrc.cosmetics.ui.store.coupons.offer": "Dine %s coins er verdt %s.",
   "nrc.cosmetics.ui.store.coupons.convert": "Bytt",
   "nrc.cosmetics.ui.store.coupons.converted": "%s kreditt lagt til",

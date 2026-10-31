@@ -156,6 +156,7 @@
   "nrc.cosmetics.ui.store.reopen": "Нажми сюда, если браузер не открылся",
   "nrc.cosmetics.ui.store.not_completed": "Оплата не была завершена.",
   "nrc.cosmetics.ui.store.coupons.balance": "Твой баланс: %s",
+  "nrc.cosmetics.ui.store.coupons.reserved": "%s зарезервировано для неоплаченного заказа. Если не оплатишь, вернётся не позже чем через %s мин.",
   "nrc.cosmetics.ui.store.coupons.offer": "Твои %s coins стоят %s.",
   "nrc.cosmetics.ui.store.coupons.convert": "Обменять",
   "nrc.cosmetics.ui.store.coupons.converted": "Зачислено %s на баланс",

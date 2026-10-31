@@ -156,6 +156,7 @@
   "nrc.cosmetics.ui.store.reopen": "Tarayıcı açılmadıysa buraya tıkla",
   "nrc.cosmetics.ui.store.not_completed": "Ödeme tamamlanmadı.",
   "nrc.cosmetics.ui.store.coupons.balance": "Bakiyen: %s",
+  "nrc.cosmetics.ui.store.coupons.reserved": "%s açık bir ödeme için ayrıldı. Ödemezsen en geç %s dk içinde geri gelir.",
   "nrc.cosmetics.ui.store.coupons.offer": "%s coin'in %s değerinde.",
   "nrc.cosmetics.ui.store.coupons.convert": "Çevir",
   "nrc.cosmetics.ui.store.coupons.converted": "%s bakiye eklendi",

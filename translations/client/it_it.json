@@ -156,6 +156,7 @@
   "nrc.cosmetics.ui.store.reopen": "Clicca qui se il browser non si è aperto",
   "nrc.cosmetics.ui.store.not_completed": "Il pagamento non è stato completato.",
   "nrc.cosmetics.ui.store.coupons.balance": "Il tuo credito: %s",
+  "nrc.cosmetics.ui.store.coupons.reserved": "%s è riservato per un pagamento in sospeso. Se non paghi, torna disponibile entro %s min.",
   "nrc.cosmetics.ui.store.coupons.offer": "I tuoi %s coins valgono %s.",
   "nrc.cosmetics.ui.store.coupons.convert": "Scambia",
   "nrc.cosmetics.ui.store.coupons.converted": "%s di credito aggiunto",
