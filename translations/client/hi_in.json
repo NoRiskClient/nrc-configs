@@ -156,6 +156,7 @@
   "nrc.cosmetics.ui.store.reopen": "अगर ब्राउज़र नहीं खुला तो यहाँ क्लिक करें",
   "nrc.cosmetics.ui.store.not_completed": "भुगतान पूरा नहीं हुआ।",
   "nrc.cosmetics.ui.store.coupons.balance": "आपका क्रेडिट: %s",
+  "nrc.cosmetics.ui.store.coupons.reserved": "%s एक अधूरे checkout के लिए आरक्षित है। अगर आप भुगतान नहीं करते, तो यह अधिकतम %s मिनट में वापस मिल जाएगा।",
   "nrc.cosmetics.ui.store.coupons.offer": "आपके %s coins की कीमत %s है।",
   "nrc.cosmetics.ui.store.coupons.convert": "बदलें",
   "nrc.cosmetics.ui.store.coupons.converted": "%s क्रेडिट जोड़ा गया",

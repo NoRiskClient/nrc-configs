@@ -156,6 +156,7 @@
   "nrc.cosmetics.ui.store.reopen": "Kliknij tutaj, jeśli przeglądarka się nie otworzyła",
   "nrc.cosmetics.ui.store.not_completed": "Płatność nie została zakończona.",
   "nrc.cosmetics.ui.store.coupons.balance": "Twoje saldo: %s",
+  "nrc.cosmetics.ui.store.coupons.reserved": "%s jest zarezerwowane dla otwartej płatności. Jeśli nie zapłacisz, wróci najpóźniej za %s min.",
   "nrc.cosmetics.ui.store.coupons.offer": "Twoje %s coins są warte %s.",
   "nrc.cosmetics.ui.store.coupons.convert": "Wymień",
   "nrc.cosmetics.ui.store.coupons.converted": "Dodano %s salda",
