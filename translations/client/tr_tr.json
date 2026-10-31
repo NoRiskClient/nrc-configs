@@ -963,6 +963,7 @@
   "nrc.friends.wheel.action.watch_stream": "Yayını İzle",
   "nrc.friends.wheel.action.watch_stream_ingame": "Yayını Oyun İçinde İzle",
   "nrc.ui.minigames.invite_success": "%1$s, %2$s için başarıyla davet edildi!",
+  "nrc.ui.minigames.finish_current_game": "Önce mevcut oyununu bitir",
   "nrc.ui.minigames.invitation_received": "%1$s kullanıcısından %2$s için davet aldın!",
   "nrc.cosmetics.additional_name_tag.update.success": "Nametag başarıyla güncellendi!",
   "gui.xaero_deathpoint": "Son Ölüm",

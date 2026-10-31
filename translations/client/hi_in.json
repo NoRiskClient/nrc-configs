@@ -963,6 +963,7 @@
   "nrc.friends.wheel.action.watch_stream": "स्ट्रीम देखें",
   "nrc.friends.wheel.action.watch_stream_ingame": "गेम में स्ट्रीम देखें",
   "nrc.ui.minigames.invite_success": "%1$s को सफलतापूर्वक %2$s में आमंत्रित किया गया!",
+  "nrc.ui.minigames.finish_current_game": "पहले अपना मौजूदा गेम पूरा करो",
   "nrc.ui.minigames.invitation_received": "आपको %1$s से %2$s के लिए आमंत्रण मिला!",
   "nrc.cosmetics.additional_name_tag.update.success": "नेमटैग सफलतापूर्वक अपडेट हुआ!",
   "gui.xaero_deathpoint": "अंतिम मृत्यु",

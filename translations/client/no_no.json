@@ -1601,6 +1601,7 @@
   "nrc.ui.minigames.leaderboard.error": "kunne ikke laste topplisten",
   "nrc.ui.minigames.leaderboard.page": "side %s",
   "nrc.ui.minigames.invite_success": "%1$s har blitt invitert til %2$s!",
+  "nrc.ui.minigames.finish_current_game": "Fullfør det nåværende spillet ditt først",
   "nrc.ui.minigames.duel.not_found": "fant ikke spilleren",
   "nrc.ui.minigames.leaderboard.yours": "din beste",
   "nrc.ui.minigames.chess.resigned": "ga opp",

@@ -963,6 +963,7 @@
   "nrc.friends.wheel.action.watch_stream": "Voir le Stream",
   "nrc.friends.wheel.action.watch_stream_ingame": "Voir le Stream En Jeu",
   "nrc.ui.minigames.invite_success": "%1$s a été invité avec succès à %2$s !",
+  "nrc.ui.minigames.finish_current_game": "Termine d'abord ta partie en cours",
   "nrc.ui.minigames.invitation_received": "Tu as reçu une invitation de %1$s pour %2$s !",
   "nrc.cosmetics.additional_name_tag.update.success": "Nametag mise à jour avec succès !",
   "gui.xaero_deathpoint": "Dernière Mort",
