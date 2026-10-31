@@ -2456,5 +2456,6 @@
   "nrc.ui.minigames.chess.resign": "poddaj się",
   "nrc.ui.minigames.chess.resign_confirm": "na pewno się poddać?",
   "nrc.ui.minigames.chess.offer_draw": "zaproponuj remis",
-  "nrc.ui.minigames.chess.accept_draw": "przyjmij remis"
+  "nrc.ui.minigames.chess.accept_draw": "przyjmij remis",
+  "nrc.ui.minigames.leaderboard.best_time": "najlepszy czas"
 }

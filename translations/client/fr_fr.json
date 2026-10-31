@@ -2456,5 +2456,6 @@
   "nrc.ui.minigames.chess.resign": "abandonner",
   "nrc.ui.minigames.chess.resign_confirm": "vraiment abandonner ?",
   "nrc.ui.minigames.chess.offer_draw": "proposer la nulle",
-  "nrc.ui.minigames.chess.accept_draw": "accepter la nulle"
+  "nrc.ui.minigames.chess.accept_draw": "accepter la nulle",
+  "nrc.ui.minigames.leaderboard.best_time": "meilleur temps"
 }

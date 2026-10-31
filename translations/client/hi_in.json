@@ -2456,5 +2456,6 @@
   "nrc.ui.minigames.chess.resign": "हार मानें",
   "nrc.ui.minigames.chess.resign_confirm": "सच में हार मानें?",
   "nrc.ui.minigames.chess.offer_draw": "ड्रॉ की पेशकश करें",
-  "nrc.ui.minigames.chess.accept_draw": "ड्रॉ स्वीकार करें"
+  "nrc.ui.minigames.chess.accept_draw": "ड्रॉ स्वीकार करें",
+  "nrc.ui.minigames.leaderboard.best_time": "सबसे अच्छा समय"
 }

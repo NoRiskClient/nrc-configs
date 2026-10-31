@@ -2456,5 +2456,6 @@
   "nrc.ui.minigames.chess.resign": "desistir",
   "nrc.ui.minigames.chess.resign_confirm": "desistir mesmo?",
   "nrc.ui.minigames.chess.offer_draw": "propor empate",
-  "nrc.ui.minigames.chess.accept_draw": "aceitar empate"
+  "nrc.ui.minigames.chess.accept_draw": "aceitar empate",
+  "nrc.ui.minigames.leaderboard.best_time": "melhor tempo"
 }
