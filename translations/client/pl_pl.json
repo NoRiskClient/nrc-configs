@@ -2222,6 +2222,8 @@
   "nrc.inventory.item_changes.description": "Pokazuje przedmioty, które podnosisz lub tracisz",
   "nrc.inventory.cursor.title": "Kursor",
   "nrc.inventory.cursor.description": "Utrzymuje kursor w miejscu między menu skrzyń",
+  "nrc.inventory.centered.title": "Wyśrodkowany",
+  "nrc.inventory.centered.description": "Utrzymuje ekwipunek na środku, nawet gdy księga receptur jest otwarta",
   "nrc.inventory.lock_slots.title": "Blokowanie slotów",
   "nrc.inventory.lock_slots.description": "Naciśnij klawisz blokady na slocie, aby przedmiot został na miejscu",
   "nrc.inventory.disabled_hint": "Włącz, aby zmienić opcje",

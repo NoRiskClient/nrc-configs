@@ -2222,6 +2222,8 @@
   "nrc.inventory.item_changes.description": "Affiche les objets que tu ramasses ou perds",
   "nrc.inventory.cursor.title": "Curseur",
   "nrc.inventory.cursor.description": "Garde ton curseur en place entre les menus de coffres",
+  "nrc.inventory.centered.title": "Centré",
+  "nrc.inventory.centered.description": "Garde ton inventaire au centre même quand le livre de recettes est ouvert",
   "nrc.inventory.lock_slots.title": "Verrouiller des emplacements",
   "nrc.inventory.lock_slots.description": "Appuie sur la touche de verrouillage sur un emplacement pour que son objet ne bouge plus",
   "nrc.inventory.disabled_hint": "Active-le pour modifier ses options",

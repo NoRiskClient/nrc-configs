@@ -2222,6 +2222,8 @@
   "nrc.inventory.item_changes.description": "Показывает подобранные и потерянные предметы",
   "nrc.inventory.cursor.title": "Курсор",
   "nrc.inventory.cursor.description": "Сохраняет позицию курсора между меню сундуков",
+  "nrc.inventory.centered.title": "По центру",
+  "nrc.inventory.centered.description": "Держит инвентарь по центру, даже когда открыта книга рецептов",
   "nrc.inventory.lock_slots.title": "Блокировка слотов",
   "nrc.inventory.lock_slots.description": "Нажми клавишу блокировки на слоте, чтобы предмет оставался на месте",
   "nrc.inventory.disabled_hint": "Включи, чтобы изменить настройки",

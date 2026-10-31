@@ -2222,6 +2222,8 @@
   "nrc.inventory.item_changes.description": "दिखाता है कि आपने कौन से आइटम उठाए या खोए",
   "nrc.inventory.cursor.title": "कर्सर",
   "nrc.inventory.cursor.description": "चेस्ट मेनू के बीच आपका कर्सर अपनी जगह पर रखता है",
+  "nrc.inventory.centered.title": "बीच में",
+  "nrc.inventory.centered.description": "रेसिपी बुक खुली होने पर भी आपकी इन्वेंटरी को बीच में रखता है",
   "nrc.inventory.lock_slots.title": "स्लॉट लॉक करें",
   "nrc.inventory.lock_slots.description": "किसी स्लॉट पर लॉक कुंजी दबाएं ताकि उसका आइटम अपनी जगह रहे",
   "nrc.inventory.disabled_hint": "इसके विकल्प बदलने के लिए इसे चालू करें",

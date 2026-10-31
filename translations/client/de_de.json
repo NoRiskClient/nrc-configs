@@ -2224,6 +2224,8 @@
   "nrc.inventory.item_changes.description": "Zeigt, welche Items du einsammelst oder verlierst",
   "nrc.inventory.cursor.title": "Cursor",
   "nrc.inventory.cursor.description": "Hält deinen Cursor zwischen Kistenmenüs an Ort und Stelle",
+  "nrc.inventory.centered.title": "Zentriert",
+  "nrc.inventory.centered.description": "Hält dein Inventar in der Mitte, auch wenn das Rezeptbuch offen ist",
   "nrc.inventory.lock_slots.title": "Slots sperren",
   "nrc.inventory.lock_slots.description": "Drück die Sperrtaste auf einem Slot, damit sein Item bleibt, wo es ist",
   "nrc.inventory.disabled_hint": "Schalte es ein, um die Optionen zu ändern",

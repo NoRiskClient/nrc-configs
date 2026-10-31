@@ -2222,6 +2222,8 @@
   "nrc.inventory.item_changes.description": "Muestra los objetos que recoges o pierdes",
   "nrc.inventory.cursor.title": "Cursor",
   "nrc.inventory.cursor.description": "Mantiene tu cursor en su sitio entre menús de cofres",
+  "nrc.inventory.centered.title": "Centrado",
+  "nrc.inventory.centered.description": "Mantiene tu inventario en el centro aunque el libro de recetas esté abierto",
   "nrc.inventory.lock_slots.title": "Bloquear casillas",
   "nrc.inventory.lock_slots.description": "Pulsa la tecla de bloqueo sobre una casilla para que su objeto no se mueva",
   "nrc.inventory.disabled_hint": "Actívalo para cambiar sus opciones",

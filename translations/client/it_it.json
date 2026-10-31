@@ -2222,6 +2222,8 @@
   "nrc.inventory.item_changes.description": "Mostra gli oggetti che raccogli o perdi",
   "nrc.inventory.cursor.title": "Cursore",
   "nrc.inventory.cursor.description": "Tiene fermo il cursore tra i menu delle casse",
+  "nrc.inventory.centered.title": "Centrato",
+  "nrc.inventory.centered.description": "Tiene l'inventario al centro anche con il ricettario aperto",
   "nrc.inventory.lock_slots.title": "Blocca slot",
   "nrc.inventory.lock_slots.description": "Premi il tasto di blocco su uno slot perché il suo oggetto resti al suo posto",
   "nrc.inventory.disabled_hint": "Attivalo per cambiarne le opzioni",

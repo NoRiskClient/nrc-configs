@@ -1347,6 +1347,8 @@
   "nrc.inventory.item_changes.description": "Viser gjenstandene du plukker opp eller mister",
   "nrc.inventory.cursor.title": "Markør",
   "nrc.inventory.cursor.description": "Holder markøren på plass mellom kistemenyer",
+  "nrc.inventory.centered.title": "Sentrert",
+  "nrc.inventory.centered.description": "Holder inventaret i midten også når oppskriftsboken er åpen",
   "nrc.inventory.lock_slots.title": "Lås plasser",
   "nrc.inventory.lock_slots.description": "Trykk låsetasten på en plass så gjenstanden blir liggende",
   "nrc.inventory.disabled_hint": "Slå den på for å endre innstillingene",

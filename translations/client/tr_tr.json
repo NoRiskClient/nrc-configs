@@ -2222,6 +2222,8 @@
   "nrc.inventory.item_changes.description": "Topladığın veya kaybettiğin eşyaları gösterir",
   "nrc.inventory.cursor.title": "İmleç",
   "nrc.inventory.cursor.description": "Sandık menüleri arasında imlecini yerinde tutar",
+  "nrc.inventory.centered.title": "Ortalanmış",
+  "nrc.inventory.centered.description": "Tarif kitabı açıkken bile envanterini ortada tutar",
   "nrc.inventory.lock_slots.title": "Slot kilitleme",
   "nrc.inventory.lock_slots.description": "Bir slotta kilit tuşuna bas, eşya yerinde kalsın",
   "nrc.inventory.disabled_hint": "Ayarlarını değiştirmek için aç",

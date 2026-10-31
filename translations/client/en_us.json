@@ -2224,6 +2224,8 @@
   "nrc.inventory.item_changes.description": "Shows the items you pick up or lose",
   "nrc.inventory.cursor.title": "Cursor",
   "nrc.inventory.cursor.description": "Keeps your cursor in place between chest menus",
+  "nrc.inventory.centered.title": "Centered",
+  "nrc.inventory.centered.description": "Keeps your inventory in the middle when the recipe book is open",
   "nrc.inventory.lock_slots.title": "Lock Slots",
   "nrc.inventory.lock_slots.description": "Press the lock key on a slot so its item stays put",
   "nrc.inventory.disabled_hint": "Turn it on to change its options",
