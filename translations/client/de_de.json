@@ -1946,6 +1946,7 @@
   "nrc.cosmetics.buddy.access.everyone": "Alle dürfen streicheln",
   "nrc.cosmetics.buddy.access.friends": "Freunde dürfen streicheln",
   "nrc.cosmetics.buddy.access.only_me": "Nur ich darf streicheln",
+  "nrc.cosmetics.buddy.interaction.pet": "Streicheln",
   "nrc.ui.modules.value.showBar": "Balken anzeigen",
   "nrc.ui.modules.value.barMinWidth": "Min. Balkenbreite",
   "nrc.ui.modules.value.barHeight": "Balkenhöhe",

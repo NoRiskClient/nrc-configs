@@ -1944,6 +1944,7 @@
   "nrc.cosmetics.buddy.access.everyone": "Każdy może głaskać",
   "nrc.cosmetics.buddy.access.friends": "Znajomi mogą głaskać",
   "nrc.cosmetics.buddy.access.only_me": "Tylko ja mogę głaskać",
+  "nrc.cosmetics.buddy.interaction.pet": "Pogłaszcz",
   "nrc.ui.modules.value.showBar": "Pokaż pasek",
   "nrc.ui.modules.value.barMinWidth": "Min. szerokość paska",
   "nrc.ui.modules.value.barHeight": "Wysokość paska",

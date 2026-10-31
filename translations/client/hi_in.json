@@ -1944,6 +1944,7 @@
   "nrc.cosmetics.buddy.access.everyone": "सब सहला सकते हैं",
   "nrc.cosmetics.buddy.access.friends": "दोस्त सहला सकते हैं",
   "nrc.cosmetics.buddy.access.only_me": "सिर्फ़ मैं सहला सकता हूँ",
+  "nrc.cosmetics.buddy.interaction.pet": "सहलाना",
   "nrc.ui.modules.value.showBar": "बार दिखाएँ",
   "nrc.ui.modules.value.barMinWidth": "बार की न्यूनतम चौड़ाई",
   "nrc.ui.modules.value.barHeight": "बार की ऊँचाई",

@@ -1944,6 +1944,7 @@
   "nrc.cosmetics.buddy.access.everyone": "Todos pueden acariciar",
   "nrc.cosmetics.buddy.access.friends": "Amigos pueden acariciar",
   "nrc.cosmetics.buddy.access.only_me": "Solo yo puedo acariciar",
+  "nrc.cosmetics.buddy.interaction.pet": "Acariciar",
   "nrc.ui.modules.value.showBar": "Mostrar barra",
   "nrc.ui.modules.value.barMinWidth": "Ancho mínimo de barra",
   "nrc.ui.modules.value.barHeight": "Altura de barra",

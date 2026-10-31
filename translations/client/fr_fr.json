@@ -1944,6 +1944,7 @@
   "nrc.cosmetics.buddy.access.everyone": "Tout le monde peut caresser",
   "nrc.cosmetics.buddy.access.friends": "Les amis peuvent caresser",
   "nrc.cosmetics.buddy.access.only_me": "Moi seul peux caresser",
+  "nrc.cosmetics.buddy.interaction.pet": "Caresser",
   "nrc.ui.modules.value.showBar": "Afficher la barre",
   "nrc.ui.modules.value.barMinWidth": "Largeur min. de la barre",
   "nrc.ui.modules.value.barHeight": "Hauteur de la barre",

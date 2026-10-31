@@ -1946,6 +1946,7 @@
   "nrc.cosmetics.buddy.access.everyone": "Everyone can pet",
   "nrc.cosmetics.buddy.access.friends": "Friends can pet",
   "nrc.cosmetics.buddy.access.only_me": "Only I can pet",
+  "nrc.cosmetics.buddy.interaction.pet": "Pet",
   "nrc.ui.modules.value.showBar": "Show Bar",
   "nrc.ui.modules.value.barMinWidth": "Min Bar Width",
   "nrc.ui.modules.value.barHeight": "Bar Height",

@@ -1944,6 +1944,7 @@
   "nrc.cosmetics.buddy.access.everyone": "Herkes sevebilir",
   "nrc.cosmetics.buddy.access.friends": "Arkadaşlar sevebilir",
   "nrc.cosmetics.buddy.access.only_me": "Sadece ben sevebilirim",
+  "nrc.cosmetics.buddy.interaction.pet": "Sev",
   "nrc.ui.modules.value.showBar": "Çubuğu göster",
   "nrc.ui.modules.value.barMinWidth": "Min. çubuk genişliği",
   "nrc.ui.modules.value.barHeight": "Çubuk yüksekliği",

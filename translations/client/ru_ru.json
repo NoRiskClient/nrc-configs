@@ -1944,6 +1944,7 @@
   "nrc.cosmetics.buddy.access.everyone": "Гладить могут все",
   "nrc.cosmetics.buddy.access.friends": "Гладить могут друзья",
   "nrc.cosmetics.buddy.access.only_me": "Гладить могу только я",
+  "nrc.cosmetics.buddy.interaction.pet": "Погладить",
   "nrc.ui.modules.value.showBar": "Показывать полосу",
   "nrc.ui.modules.value.barMinWidth": "Мин. ширина полосы",
   "nrc.ui.modules.value.barHeight": "Высота полосы",
