@@ -843,6 +843,8 @@
   "nrc.ui.label.waypoint_shown_here": "%s içinde dünyada gösteriliyor",
   "nrc.ui.label.waypoint_shown_converted": "%s içinde dönüştürülmüş koordinatlarla dünyada gösteriliyor (%s)",
   "nrc.ui.label.waypoint_empty_hint": "Buraya eklemek için tıkla",
+  "nrc.ui.label.waypoints_shown": "Waypoint'ler gösteriliyor",
+  "nrc.ui.label.waypoints_hidden": "Waypoint'ler gizlendi",
   "nrc.ui.label.waypoint_import": "İçe aktar",
   "nrc.ui.label.waypoint_import_title": "Waypoint'leri içe aktar",
   "nrc.ui.label.waypoint_import_xaero": "Bu dünya için Xaero's Minimap'te bulundu:",

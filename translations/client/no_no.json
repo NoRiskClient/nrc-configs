@@ -843,6 +843,8 @@
   "nrc.ui.label.waypoint_shown_here": "Vises i verden i %s",
   "nrc.ui.label.waypoint_shown_converted": "Vises i verden i %s med omregnede koordinater (%s)",
   "nrc.ui.label.waypoint_empty_hint": "Klikk for å legge til et her",
+  "nrc.ui.label.waypoints_shown": "Veipunkter vises",
+  "nrc.ui.label.waypoints_hidden": "Veipunkter skjult",
   "nrc.ui.label.waypoint_import": "Importer",
   "nrc.ui.label.waypoint_import_title": "Importer veipunkter",
   "nrc.ui.label.waypoint_import_xaero": "Funnet i Xaero's Minimap for denne verdenen:",

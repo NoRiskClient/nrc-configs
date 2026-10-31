@@ -843,6 +843,8 @@
   "nrc.ui.label.waypoint_shown_here": "%s में दुनिया में दिखाया जाता है",
   "nrc.ui.label.waypoint_shown_converted": "%s में बदले हुए निर्देशांकों के साथ दुनिया में दिखाया जाता है (%s)",
   "nrc.ui.label.waypoint_empty_hint": "यहाँ एक जोड़ने के लिए क्लिक करें",
+  "nrc.ui.label.waypoints_shown": "वेपॉइंट दिखाए गए",
+  "nrc.ui.label.waypoints_hidden": "वेपॉइंट छिपाए गए",
   "nrc.ui.label.waypoint_import": "इम्पोर्ट",
   "nrc.ui.label.waypoint_import_title": "वेपॉइंट इम्पोर्ट करें",
   "nrc.ui.label.waypoint_import_xaero": "इस दुनिया के लिए Xaero's Minimap में मिले:",

@@ -843,6 +843,8 @@
   "nrc.ui.label.waypoint_shown_here": "Отображается в мире: %s",
   "nrc.ui.label.waypoint_shown_converted": "Отображается в мире: %s, координаты пересчитаны (%s)",
   "nrc.ui.label.waypoint_empty_hint": "Нажми, чтобы добавить сюда новый",
+  "nrc.ui.label.waypoints_shown": "Waypoint'ы показаны",
+  "nrc.ui.label.waypoints_hidden": "Waypoint'ы скрыты",
   "nrc.ui.label.waypoint_import": "Импорт",
   "nrc.ui.label.waypoint_import_title": "Импорт waypoint'ов",
   "nrc.ui.label.waypoint_import_xaero": "Найдено в Xaero's Minimap для этого мира:",
