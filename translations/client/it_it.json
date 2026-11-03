@@ -488,6 +488,8 @@
   "nrc.ui.modules.value.showHelmet": "Mostra Elmo",
   "nrc.ui.modules.value.showInF3": "Mostra in F3",
   "nrc.ui.modules.value.showInTab": "Mostra nella Tablist",
+  "nrc.ui.modules.value.hiddenIncompatiblePacks": "Pack nascosti: %s",
+  "nrc.ui.modules.value.hiddenIncompatiblePacksHint": "Incompatibili, clicca qui",
   "nrc.ui.modules.value.showIpAddress": "Mostra IP",
   "nrc.ui.modules.value.showItemDamage": "Mostra Danno Oggetto",
   "nrc.ui.modules.value.showLeggings": "Mostra Gambali",

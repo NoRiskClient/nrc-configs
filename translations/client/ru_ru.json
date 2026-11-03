@@ -488,6 +488,8 @@
   "nrc.ui.modules.value.showHelmet": "Показать Шлем",
   "nrc.ui.modules.value.showInF3": "Показать в F3",
   "nrc.ui.modules.value.showInTab": "Показать в Таблице",
+  "nrc.ui.modules.value.hiddenIncompatiblePacks": "Скрытые паки: %s",
+  "nrc.ui.modules.value.hiddenIncompatiblePacksHint": "Несовместимы, нажмите для показа",
   "nrc.ui.modules.value.showIpAddress": "Показать IP",
   "nrc.ui.modules.value.showItemDamage": "Показать Урон Предмета",
   "nrc.ui.modules.value.showLeggings": "Показать Поножи",

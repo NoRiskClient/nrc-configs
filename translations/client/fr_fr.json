@@ -488,6 +488,8 @@
   "nrc.ui.modules.value.showHelmet": "Afficher le Casque",
   "nrc.ui.modules.value.showInF3": "Afficher dans F3",
   "nrc.ui.modules.value.showInTab": "Afficher dans la Tablist",
+  "nrc.ui.modules.value.hiddenIncompatiblePacks": "Packs masqués : %s",
+  "nrc.ui.modules.value.hiddenIncompatiblePacksHint": "Incompatibles, clic pour voir",
   "nrc.ui.modules.value.showIpAddress": "Afficher l'IP",
   "nrc.ui.modules.value.showItemDamage": "Afficher les Dégâts de l'Objet",
   "nrc.ui.modules.value.showLeggings": "Afficher le Pantalon",

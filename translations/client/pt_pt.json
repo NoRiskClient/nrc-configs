@@ -488,6 +488,8 @@
   "nrc.ui.modules.value.showHelmet": "Mostrar Capacete",
   "nrc.ui.modules.value.showInF3": "Mostrar no F3",
   "nrc.ui.modules.value.showInTab": "Mostrar na Lista Tab",
+  "nrc.ui.modules.value.hiddenIncompatiblePacks": "Pacotes ocultos: %s",
+  "nrc.ui.modules.value.hiddenIncompatiblePacksHint": "Incompatíveis, clica para ver",
   "nrc.ui.modules.value.showIpAddress": "Mostrar IP",
   "nrc.ui.modules.value.showItemDamage": "Mostrar Dano do Item",
   "nrc.ui.modules.value.showLeggings": "Mostrar Calças",

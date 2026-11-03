@@ -488,6 +488,8 @@
   "nrc.ui.modules.value.showHelmet": "Pokaż Hełm",
   "nrc.ui.modules.value.showInF3": "Pokaż w F3",
   "nrc.ui.modules.value.showInTab": "Pokaż na Liście Tab",
+  "nrc.ui.modules.value.hiddenIncompatiblePacks": "Ukryte paczki: %s",
+  "nrc.ui.modules.value.hiddenIncompatiblePacksHint": "Niezgodne, kliknij, aby pokazać",
   "nrc.ui.modules.value.showIpAddress": "Pokaż IP",
   "nrc.ui.modules.value.showItemDamage": "Pokaż Obrażenia Przedmiotu",
   "nrc.ui.modules.value.showLeggings": "Pokaż Spodnie",

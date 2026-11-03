@@ -1,6 +1,8 @@
 {
   "nrc.serverstyling.advert.motd": "Premium Minecraft-hosting\nUten abonnement • DDoS-beskyttelse • Online med en gang",
   "nrc.serverstyling.advert.openWebsite": "Åpne nettside",
+  "nrc.ui.modules.value.hiddenIncompatiblePacks": "Skjulte pakker: %s",
+  "nrc.ui.modules.value.hiddenIncompatiblePacksHint": "Inkompatible, klikk for å vise",
   "mcreal.activated": "Last opp en McReal ved å trykke F2!",
   "mcreal.browse.button.load_more": "Last inn mer",
   "mcreal.browse.button.reply": "Svar",

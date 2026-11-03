@@ -488,6 +488,8 @@
   "nrc.ui.modules.value.showHelmet": "Kaskı Göster",
   "nrc.ui.modules.value.showInF3": "F3'te Göster",
   "nrc.ui.modules.value.showInTab": "Tab Listesinde Göster",
+  "nrc.ui.modules.value.hiddenIncompatiblePacks": "Gizli paketler: %s",
+  "nrc.ui.modules.value.hiddenIncompatiblePacksHint": "Uyumsuz, görmek için tıkla",
   "nrc.ui.modules.value.showIpAddress": "IP Göster",
   "nrc.ui.modules.value.showItemDamage": "Eşya Hasarını Göster",
   "nrc.ui.modules.value.showLeggings": "Pantolonu Göster",

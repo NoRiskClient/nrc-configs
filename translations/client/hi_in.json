@@ -488,6 +488,8 @@
   "nrc.ui.modules.value.showHelmet": "हेलमेट दिखाएं",
   "nrc.ui.modules.value.showInF3": "F3 में दिखाएं",
   "nrc.ui.modules.value.showInTab": "टैबलिस्ट में दिखाएं",
+  "nrc.ui.modules.value.hiddenIncompatiblePacks": "छिपे हुए पैक: %s",
+  "nrc.ui.modules.value.hiddenIncompatiblePacksHint": "असंगत, देखने के लिए क्लिक करें",
   "nrc.ui.modules.value.showIpAddress": "IP दिखाएं",
   "nrc.ui.modules.value.showItemDamage": "वस्तु क्षति दिखाएं",
   "nrc.ui.modules.value.showLeggings": "लेगिंग्स दिखाएं",
