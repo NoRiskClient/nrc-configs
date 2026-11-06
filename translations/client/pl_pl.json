@@ -692,7 +692,7 @@
   "nrc.ui.modules.value.hideBossBar": "Ukryj pasek bossa",
   "nrc.ui.modules.value.showText": "Tekst",
   "nrc.ui.modules.value.healthBar": "Pasek zdrowia",
-  "nrc.ui.modules.value.horizontalAlignment": "Wyrównanie poziome",
+  "nrc.ui.modules.value.textAlignment": "Wyrównanie tekstu",
   "nrc.ui.modules.description.boss_bar": "Przesuwaj i dostosuj pasek bossa: tekst, pasek zdrowia i wyrównanie, albo ukryj go całkowicie.",
   "nrc.ui.modules.value.showTime": "Pokaż czas",
   "nrc.ui.modules.value.hideVanillaPotionStatus": "Ukryj status mikstur vanilla",

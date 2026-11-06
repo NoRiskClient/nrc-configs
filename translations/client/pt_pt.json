@@ -692,7 +692,7 @@
   "nrc.ui.modules.value.hideBossBar": "Ocultar barra do boss",
   "nrc.ui.modules.value.showText": "Texto",
   "nrc.ui.modules.value.healthBar": "Barra de vida",
-  "nrc.ui.modules.value.horizontalAlignment": "Alinhamento horizontal",
+  "nrc.ui.modules.value.textAlignment": "Alinhamento do texto",
   "nrc.ui.modules.description.boss_bar": "Move e personaliza a barra do boss: texto, barra de vida e alinhamento, ou esconde-a por completo.",
   "nrc.ui.modules.value.showTime": "Mostrar tempo",
   "nrc.ui.modules.value.hideVanillaPotionStatus": "Ocultar estado de poção vanilla",

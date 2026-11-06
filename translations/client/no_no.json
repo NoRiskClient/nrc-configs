@@ -304,7 +304,7 @@
   "nrc.ui.modules.value.hideBossBar": "Skjul bossbaren",
   "nrc.ui.modules.value.showText": "Tekst",
   "nrc.ui.modules.value.healthBar": "Helsebar",
-  "nrc.ui.modules.value.horizontalAlignment": "Horisontal justering",
+  "nrc.ui.modules.value.textAlignment": "Tekstjustering",
   "nrc.ui.modules.description.boss_bar": "Flytt og tilpass bossbaren: tekst, helsebar og justering, eller skjul den helt.",
   "nrc.ui.modules.value.hideIncompatibles": "Skjul inkompatible",
   "nrc.ui.modules.value.hidePumpkinOverlay": "Skjul gresskaroverlegg",

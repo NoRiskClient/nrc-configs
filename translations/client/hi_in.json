@@ -692,7 +692,7 @@
   "nrc.ui.modules.value.hideBossBar": "बॉस बार छुपाएं",
   "nrc.ui.modules.value.showText": "टेक्स्ट",
   "nrc.ui.modules.value.healthBar": "हेल्थ बार",
-  "nrc.ui.modules.value.horizontalAlignment": "क्षैतिज संरेखण",
+  "nrc.ui.modules.value.textAlignment": "टेक्स्ट संरेखण",
   "nrc.ui.modules.description.boss_bar": "बॉस बार को हिलाएँ और सजाएँ: टेक्स्ट, हेल्थ बार और संरेखण, या उसे पूरी तरह छुपाएँ।",
   "nrc.ui.modules.value.showTime": "समय दिखाएं",
   "nrc.ui.modules.value.hideVanillaPotionStatus": "वनीला पोशन स्थिति छुपाएं",

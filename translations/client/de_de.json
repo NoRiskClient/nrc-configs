@@ -692,7 +692,7 @@
   "nrc.ui.modules.value.hideBossBar": "Bossleiste verstecken",
   "nrc.ui.modules.value.showText": "Text",
   "nrc.ui.modules.value.healthBar": "Lebensbalken",
-  "nrc.ui.modules.value.horizontalAlignment": "Horizontale Ausrichtung",
+  "nrc.ui.modules.value.textAlignment": "Textausrichtung",
   "nrc.ui.modules.description.boss_bar": "Verschiebe und gestalte die Bossleiste: Text, Lebensbalken und Ausrichtung, oder verstecke sie ganz.",
   "nrc.ui.modules.value.showTime": "Zeit anzeigen",
   "nrc.ui.modules.value.hideVanillaPotionStatus": "Normale Effektanzeige verstecken",
