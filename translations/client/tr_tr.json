@@ -1967,6 +1967,7 @@
   "nrc.cosmetics.errors.twitch_status_not_set": "Yayın etiketin şu anda gösterilmiyor.",
   "nrc.cosmetics.errors.twitch_unavailable": "Twitch'e şu anda ulaşılamıyor. Lütfen daha sonra tekrar dene.",
   "nrc.cosmetics.buddy.interact_prompt": "[%s] %s ile etkileşime geç",
+  "nrc.cosmetics.buddy.no_room": "%s için yeterli alan yok",
   "nrc.cosmetics.buddy.access.everyone": "Herkes sevebilir",
   "nrc.cosmetics.buddy.access.friends": "Arkadaşlar sevebilir",
   "nrc.cosmetics.buddy.access.only_me": "Sadece ben sevebilirim",

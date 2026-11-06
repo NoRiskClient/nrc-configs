@@ -1969,6 +1969,7 @@
   "nrc.cosmetics.errors.twitch_status_not_set": "Your stream tag is not shown right now.",
   "nrc.cosmetics.errors.twitch_unavailable": "Twitch cannot be reached right now. Please try again later.",
   "nrc.cosmetics.buddy.interact_prompt": "[%s] Interact with %s",
+  "nrc.cosmetics.buddy.no_room": "Not enough room for %s",
   "nrc.cosmetics.buddy.access.everyone": "Everyone can pet",
   "nrc.cosmetics.buddy.access.friends": "Friends can pet",
   "nrc.cosmetics.buddy.access.only_me": "Only I can pet",

@@ -1967,6 +1967,7 @@
   "nrc.cosmetics.errors.twitch_status_not_set": "Il tuo tag di live al momento non è visibile.",
   "nrc.cosmetics.errors.twitch_unavailable": "Twitch non è raggiungibile al momento. Riprova più tardi.",
   "nrc.cosmetics.buddy.interact_prompt": "[%s] Interagisci con %s",
+  "nrc.cosmetics.buddy.no_room": "Spazio insufficiente per %s",
   "nrc.cosmetics.buddy.access.everyone": "Tutti possono accarezzare",
   "nrc.cosmetics.buddy.access.friends": "Gli amici possono accarezzare",
   "nrc.cosmetics.buddy.access.only_me": "Solo io posso accarezzare",

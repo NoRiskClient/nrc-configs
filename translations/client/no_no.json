@@ -1554,6 +1554,7 @@
   "nrc.cosmetics.ui.partners.code_active": "Kode aktiv",
   "nrc.cosmetics.ui.partners.use_code": "Bruk kode",
   "nrc.cosmetics.buddy.interact_prompt": "[%s] Samhandle med %s",
+  "nrc.cosmetics.buddy.no_room": "Ikke nok plass til %s",
   "nrc.cosmetics.buddy.access.everyone": "Alle kan klappe",
   "nrc.cosmetics.buddy.access.friends": "Venner kan klappe",
   "nrc.cosmetics.buddy.access.only_me": "Bare jeg kan klappe",

@@ -1967,6 +1967,7 @@
   "nrc.cosmetics.errors.twitch_status_not_set": "Twój znacznik transmisji nie jest teraz wyświetlany.",
   "nrc.cosmetics.errors.twitch_unavailable": "Twitch jest teraz niedostępny. Spróbuj ponownie później.",
   "nrc.cosmetics.buddy.interact_prompt": "[%s] Wejdź w interakcję z %s",
+  "nrc.cosmetics.buddy.no_room": "Za mało miejsca dla %s",
   "nrc.cosmetics.buddy.access.everyone": "Każdy może głaskać",
   "nrc.cosmetics.buddy.access.friends": "Znajomi mogą głaskać",
   "nrc.cosmetics.buddy.access.only_me": "Tylko ja mogę głaskać",

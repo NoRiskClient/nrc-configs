@@ -1967,6 +1967,7 @@
   "nrc.cosmetics.errors.twitch_status_not_set": "Tu etiqueta de directo no se muestra ahora mismo.",
   "nrc.cosmetics.errors.twitch_unavailable": "No se puede conectar con Twitch ahora mismo. Inténtalo más tarde.",
   "nrc.cosmetics.buddy.interact_prompt": "[%s] Interactuar con %s",
+  "nrc.cosmetics.buddy.no_room": "No hay espacio suficiente para %s",
   "nrc.cosmetics.buddy.access.everyone": "Todos pueden acariciar",
   "nrc.cosmetics.buddy.access.friends": "Amigos pueden acariciar",
   "nrc.cosmetics.buddy.access.only_me": "Solo yo puedo acariciar",

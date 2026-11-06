@@ -1967,6 +1967,7 @@
   "nrc.cosmetics.errors.twitch_status_not_set": "A tua tag de live não está a ser mostrada neste momento.",
   "nrc.cosmetics.errors.twitch_unavailable": "Não é possível aceder à Twitch neste momento. Tenta novamente mais tarde.",
   "nrc.cosmetics.buddy.interact_prompt": "[%s] Interagir com %s",
+  "nrc.cosmetics.buddy.no_room": "Sem espaço suficiente para %s",
   "nrc.cosmetics.buddy.access.everyone": "Todos podem fazer festas",
   "nrc.cosmetics.buddy.access.friends": "Amigos podem fazer festas",
   "nrc.cosmetics.buddy.access.only_me": "Só eu posso fazer festas",

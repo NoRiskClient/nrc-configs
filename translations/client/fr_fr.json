@@ -1967,6 +1967,7 @@
   "nrc.cosmetics.errors.twitch_status_not_set": "Ton tag de stream n'est pas affiché en ce moment.",
   "nrc.cosmetics.errors.twitch_unavailable": "Twitch est injoignable pour le moment. Réessaie plus tard.",
   "nrc.cosmetics.buddy.interact_prompt": "[%s] Interagir avec %s",
+  "nrc.cosmetics.buddy.no_room": "Pas assez de place pour %s",
   "nrc.cosmetics.buddy.access.everyone": "Tout le monde peut caresser",
   "nrc.cosmetics.buddy.access.friends": "Les amis peuvent caresser",
   "nrc.cosmetics.buddy.access.only_me": "Moi seul peux caresser",

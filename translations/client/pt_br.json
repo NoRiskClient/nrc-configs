@@ -1967,6 +1967,7 @@
   "nrc.cosmetics.errors.twitch_status_not_set": "Sua tag de live não está sendo exibida agora.",
   "nrc.cosmetics.errors.twitch_unavailable": "Não foi possível acessar a Twitch agora. Tente novamente mais tarde.",
   "nrc.cosmetics.buddy.interact_prompt": "[%s] Interagir com %s",
+  "nrc.cosmetics.buddy.no_room": "Sem espaço suficiente para %s",
   "nrc.cosmetics.buddy.access.everyone": "Todos podem fazer carinho",
   "nrc.cosmetics.buddy.access.friends": "Amigos podem fazer carinho",
   "nrc.cosmetics.buddy.access.only_me": "Só eu posso fazer carinho",
