@@ -689,6 +689,7 @@
   "nrc.ui.modules.values.fontShadow": "Textschatten",
   "nrc.ui.modules.value.showNumbers": "Zahlen Anzeigen",
   "nrc.ui.modules.value.hideScoreboard": "Scoreboard verstecken",
+  "nrc.ui.modules.value.hideBossBar": "Bossleiste verstecken",
   "nrc.ui.modules.value.showTime": "Zeit anzeigen",
   "nrc.ui.modules.value.hideVanillaPotionStatus": "Normale Effektanzeige verstecken",
   "nrc.ui.modules.value.drawSprite": "Background zeigen",

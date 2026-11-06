@@ -689,6 +689,7 @@
   "nrc.ui.modules.values.fontShadow": "Cień czcionki",
   "nrc.ui.modules.value.showNumbers": "Pokaż liczby",
   "nrc.ui.modules.value.hideScoreboard": "Ukryj tablicę wyników",
+  "nrc.ui.modules.value.hideBossBar": "Ukryj pasek bossa",
   "nrc.ui.modules.value.showTime": "Pokaż czas",
   "nrc.ui.modules.value.hideVanillaPotionStatus": "Ukryj status mikstur vanilla",
   "nrc.ui.modules.value.drawSprite": "Pokaż tło",

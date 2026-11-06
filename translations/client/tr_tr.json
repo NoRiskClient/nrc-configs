@@ -689,6 +689,7 @@
   "nrc.ui.modules.values.fontShadow": "Yazı tipi gölgesi",
   "nrc.ui.modules.value.showNumbers": "Sayıları göster",
   "nrc.ui.modules.value.hideScoreboard": "Skor tablosunu gizle",
+  "nrc.ui.modules.value.hideBossBar": "Boss çubuğunu gizle",
   "nrc.ui.modules.value.showTime": "Zamanı göster",
   "nrc.ui.modules.value.hideVanillaPotionStatus": "Vanilla iksir durumunu gizle",
   "nrc.ui.modules.value.drawSprite": "Arka planı göster",

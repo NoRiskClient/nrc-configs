@@ -689,6 +689,7 @@
   "nrc.ui.modules.values.fontShadow": "फ़ॉन्ट छाया",
   "nrc.ui.modules.value.showNumbers": "संख्याएं दिखाएं",
   "nrc.ui.modules.value.hideScoreboard": "स्कोरबोर्ड छुपाएं",
+  "nrc.ui.modules.value.hideBossBar": "बॉस बार छुपाएं",
   "nrc.ui.modules.value.showTime": "समय दिखाएं",
   "nrc.ui.modules.value.hideVanillaPotionStatus": "वनीला पोशन स्थिति छुपाएं",
   "nrc.ui.modules.value.drawSprite": "पृष्ठभूमि दिखाएं",

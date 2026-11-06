@@ -689,6 +689,7 @@
   "nrc.ui.modules.values.fontShadow": "Ombre de la police",
   "nrc.ui.modules.value.showNumbers": "Afficher les nombres",
   "nrc.ui.modules.value.hideScoreboard": "Masquer le tableau de score",
+  "nrc.ui.modules.value.hideBossBar": "Masquer la barre de boss",
   "nrc.ui.modules.value.showTime": "Afficher le temps",
   "nrc.ui.modules.value.hideVanillaPotionStatus": "Masquer le statut de potion vanilla",
   "nrc.ui.modules.value.drawSprite": "Afficher le fond",

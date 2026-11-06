@@ -301,6 +301,7 @@
   "nrc.ui.modules.value.friendNotifications": "Meldinger fra venner",
   "nrc.ui.modules.value.gap": "Avstand",
   "nrc.ui.modules.value.hideChat": "Gjem chatten",
+  "nrc.ui.modules.value.hideBossBar": "Skjul bosslinjen",
   "nrc.ui.modules.value.hideIncompatibles": "Skjul inkompatible",
   "nrc.ui.modules.value.hidePumpkinOverlay": "Skjul gresskaroverlegg",
   "nrc.ui.modules.value.historyLimit": "Grensen for historie",

@@ -689,6 +689,7 @@
   "nrc.ui.modules.values.fontShadow": "Тень шрифта",
   "nrc.ui.modules.value.showNumbers": "Показать цифры",
   "nrc.ui.modules.value.hideScoreboard": "Скрыть табло",
+  "nrc.ui.modules.value.hideBossBar": "Скрыть полосу босса",
   "nrc.ui.modules.value.showTime": "Показать время",
   "nrc.ui.modules.value.hideVanillaPotionStatus": "Скрыть ванильный статус зелий",
   "nrc.ui.modules.value.drawSprite": "Показать фон",
