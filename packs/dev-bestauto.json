@@ -649,6 +649,74 @@
             }
         },
         {
+            "id": "nrc-ui",
+            "displayName": "nrc-ui",
+            "source": {
+                "type": "maven",
+                "repositoryRef": "noriskproduction",
+                "groupId": "gg.norisk",
+                "artifactId": "nrc-ui"
+            },
+            "compatibility": {
+                "1.7.10": {
+                    "forge": {
+                        "identifier": "26.4.3334368-dev-bestauto+forge.1.7.10",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.8.9": {
+                    "forge": {
+                        "identifier": "26.4.3334368-dev-bestauto+forge.1.8.9",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "1.21.11": {
+                    "fabric": {
+                        "identifier": "26.4.3334368-dev-bestauto+fabric.1.21.11",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1": {
+                    "fabric": {
+                        "identifier": "26.4.3334368-dev-bestauto+fabric.26.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.1": {
+                    "fabric": {
+                        "identifier": "26.4.3334368-dev-bestauto+fabric.26.1.1",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.1.2": {
+                    "fabric": {
+                        "identifier": "26.4.3334368-dev-bestauto+fabric.26.1.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.2": {
+                    "fabric": {
+                        "identifier": "26.4.3334368-dev-bestauto+fabric.26.2",
+                        "filename": null,
+                        "source": null
+                    }
+                },
+                "26.3": {
+                    "fabric": {
+                        "identifier": "26.4.3334368-dev-bestauto+fabric.26.3",
+                        "filename": null,
+                        "source": null
+                    }
+                }
+            }
+        },
+        {
             "id": "nrc-owolib",
             "displayName": "nrc-owolib",
             "source": {
