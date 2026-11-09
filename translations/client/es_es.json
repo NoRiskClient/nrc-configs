@@ -309,6 +309,8 @@
   "nrc.cosmetics.ui.tooltip.add_favorite_emote": "Añadir a la rueda de Emotes",
   "nrc.cosmetics.ui.tooltip.remove_favorite_emote": "Quitar de la rueda de Emotes",
   "nrc.cosmetics.ui.undo": "Deshacer",
+  "nrc.cosmetics.ui.tint.original": "Original",
+  "nrc.cosmetics.ui.tint.color": "Color",
   "nrc.cosmetics.ui.outfit_created": "%s fue creado",
   "nrc.cosmetics.ui.toast.successful_purchase": "¡Compra realizada! ¡Diviértete! :)",
   "nrc.cosmetics.ui.toast.successful_gift": "¡Regalo enviado con éxito! :)",

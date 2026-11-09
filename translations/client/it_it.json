@@ -309,6 +309,8 @@
   "nrc.cosmetics.ui.tooltip.add_favorite_emote": "Aggiungi alla ruota Emote",
   "nrc.cosmetics.ui.tooltip.remove_favorite_emote": "Rimuovi dalla ruota Emote",
   "nrc.cosmetics.ui.undo": "Annulla",
+  "nrc.cosmetics.ui.tint.original": "Originale",
+  "nrc.cosmetics.ui.tint.color": "Colore",
   "nrc.cosmetics.ui.outfit_created": "%s è stato creato",
   "nrc.cosmetics.ui.toast.successful_purchase": "Acquisto riuscito! Divertiti! :)",
   "nrc.cosmetics.ui.toast.successful_gift": "Regalo inviato con successo! :)",

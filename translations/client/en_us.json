@@ -309,6 +309,8 @@
   "nrc.cosmetics.ui.tooltip.add_favorite_emote": "Add to Emote wheel",
   "nrc.cosmetics.ui.tooltip.remove_favorite_emote": "Remove from Emote wheel",
   "nrc.cosmetics.ui.undo": "Undo",
+  "nrc.cosmetics.ui.tint.original": "Original",
+  "nrc.cosmetics.ui.tint.color": "Color",
   "nrc.cosmetics.ui.outfit_created": "%s was created",
   "nrc.cosmetics.ui.toast.successful_purchase": "Successful purchase! Have fun! :)",
   "nrc.cosmetics.ui.toast.successful_gift": "Successfully gifted! :)",
