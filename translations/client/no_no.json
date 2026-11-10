@@ -185,6 +185,7 @@
   "nrc.cosmetics.ui.gift.enter_username": "Skriv inn mottakerens brukernavn",
   "nrc.cosmetics.ui.rename_outfit": "✎ ENDRE NAVN PÅ ANTREKK",
   "nrc.cosmetics.ui.save": "SPARE",
+  "nrc.cosmetics.ui.tint.slot": "FARGE %s",
   "nrc.cosmetics.ui.choose_variant": "VELG VARIANT",
   "nrc.cosmetics.ui.texture_preview_title": "TEKSTURVARIANTER",
   "nrc.cosmetics.skin.current": "Nåværende Skin",

@@ -248,6 +248,7 @@
   "nrc.cosmetics.ui.rename_outfit": "✎ RENOMMER LA TENUE",
   "nrc.cosmetics.ui.save": "SAUVEGARDER",
   "nrc.cosmetics.ui.save_and_use": "SAUVEGARDER & UTILISER",
+  "nrc.cosmetics.ui.tint.slot": "COULEUR %s",
   "nrc.cosmetics.ui.choose_variant": "CHOISIR UNE VARIANTE",
   "nrc.cosmetics.ui.texture_preview_title": "VARIANTES DE TEXTURE",
   "nrc.cosmetics.ui.creator_code": "CODE CRÉATEUR",

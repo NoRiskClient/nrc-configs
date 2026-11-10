@@ -248,6 +248,7 @@
   "nrc.cosmetics.ui.rename_outfit": "✎ RINOMINA OUTFIT",
   "nrc.cosmetics.ui.save": "SALVA",
   "nrc.cosmetics.ui.save_and_use": "SALVA & USA",
+  "nrc.cosmetics.ui.tint.slot": "COLORE %s",
   "nrc.cosmetics.ui.choose_variant": "SCEGLI VARIANTE",
   "nrc.cosmetics.ui.texture_preview_title": "VARIANTI TEXTURE",
   "nrc.cosmetics.ui.creator_code": "CODICE CREATOR",

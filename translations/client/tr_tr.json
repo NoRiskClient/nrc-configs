@@ -248,6 +248,7 @@
   "nrc.cosmetics.ui.rename_outfit": "✎ KIYAFETİ YENİDEN ADLANDIR",
   "nrc.cosmetics.ui.save": "KAYDET",
   "nrc.cosmetics.ui.save_and_use": "KAYDET VE KULLAN",
+  "nrc.cosmetics.ui.tint.slot": "RENK %s",
   "nrc.cosmetics.ui.choose_variant": "VARYANT SEÇ",
   "nrc.cosmetics.ui.texture_preview_title": "DOKU VARYANTLARI",
   "nrc.cosmetics.ui.creator_code": "YARATICI KODU",

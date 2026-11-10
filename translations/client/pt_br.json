@@ -248,6 +248,7 @@
   "nrc.cosmetics.ui.rename_outfit": "✎ RENOMEAR CONJUNTO",
   "nrc.cosmetics.ui.save": "SALVAR",
   "nrc.cosmetics.ui.save_and_use": "SALVAR & USAR",
+  "nrc.cosmetics.ui.tint.slot": "COR %s",
   "nrc.cosmetics.ui.choose_variant": "ESCOLHER VARIANTE",
   "nrc.cosmetics.ui.texture_preview_title": "VARIANTES DE TEXTURA",
   "nrc.cosmetics.ui.creator_code": "CÓDIGO DE CRIADOR",

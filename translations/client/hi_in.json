@@ -248,6 +248,7 @@
   "nrc.cosmetics.ui.rename_outfit": "✎ आउटफ़िट का नाम बदलें",
   "nrc.cosmetics.ui.save": "सहेजें",
   "nrc.cosmetics.ui.save_and_use": "सहेजें और उपयोग करें",
+  "nrc.cosmetics.ui.tint.slot": "रंग %s",
   "nrc.cosmetics.ui.choose_variant": "वैरिएंट चुनें",
   "nrc.cosmetics.ui.texture_preview_title": "टेक्सचर वैरिएंट",
   "nrc.cosmetics.ui.creator_code": "क्रिएटर कोड",

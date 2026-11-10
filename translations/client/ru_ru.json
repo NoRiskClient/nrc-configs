@@ -248,6 +248,7 @@
   "nrc.cosmetics.ui.rename_outfit": "✎ ПЕРЕИМЕНОВАТЬ ОБРАЗ",
   "nrc.cosmetics.ui.save": "СОХРАНИТЬ",
   "nrc.cosmetics.ui.save_and_use": "СОХРАНИТЬ И ИСПОЛЬЗОВАТЬ",
+  "nrc.cosmetics.ui.tint.slot": "ЦВЕТ %s",
   "nrc.cosmetics.ui.choose_variant": "ВЫБРАТЬ ВАРИАНТ",
   "nrc.cosmetics.ui.texture_preview_title": "ВАРИАНТЫ ТЕКСТУР",
   "nrc.cosmetics.ui.creator_code": "КОД СОЗДАТЕЛЯ",

@@ -248,6 +248,7 @@
   "nrc.cosmetics.ui.rename_outfit": "✎ ZMIEŃ NAZWĘ STROJU",
   "nrc.cosmetics.ui.save": "ZAPISZ",
   "nrc.cosmetics.ui.save_and_use": "ZAPISZ I UŻYJ",
+  "nrc.cosmetics.ui.tint.slot": "KOLOR %s",
   "nrc.cosmetics.ui.choose_variant": "WYBIERZ WARIANT",
   "nrc.cosmetics.ui.texture_preview_title": "WARIANTY TEKSTUR",
   "nrc.cosmetics.ui.creator_code": "KOD TWÓRCY",
