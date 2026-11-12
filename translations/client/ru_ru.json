@@ -1334,6 +1334,7 @@
   "nrc.ui.modules.value.gUIScale": "Масштаб GUI",
   "nrc.ui.modules.value.glintColorizer": "Раскрасчик Блеска",
   "nrc.ui.modules.value.hitColor": "Цвет Хита",
+  "nrc.ui.modules.value.tintArmor": "Окрашивать броню",
   "nrc.ui.modules.value.hitbox": "Хитбокс",
   "nrc.ui.modules.value.itemCounter": "Счётчик Предметов",
   "nrc.ui.modules.value.itemHighlighter": "Выделение Предметов",

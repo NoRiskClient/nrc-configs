@@ -1334,6 +1334,7 @@
   "nrc.ui.modules.value.gUIScale": "Skala GUI",
   "nrc.ui.modules.value.glintColorizer": "Koloryzator Połysku",
   "nrc.ui.modules.value.hitColor": "Kolor Hita",
+  "nrc.ui.modules.value.tintArmor": "Koloruj zbroję",
   "nrc.ui.modules.value.hitbox": "Hitbox",
   "nrc.ui.modules.value.itemCounter": "Licznik Przedmiotów",
   "nrc.ui.modules.value.itemHighlighter": "Podświetlacz Przedmiotów",

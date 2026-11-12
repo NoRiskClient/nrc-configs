@@ -1334,6 +1334,7 @@
   "nrc.ui.modules.value.gUIScale": "GUI Ölçeği",
   "nrc.ui.modules.value.glintColorizer": "Parıltı Renklendiricisi",
   "nrc.ui.modules.value.hitColor": "Vuruş Rengi",
+  "nrc.ui.modules.value.tintArmor": "Zırhı renklendir",
   "nrc.ui.modules.value.hitbox": "Hitbox",
   "nrc.ui.modules.value.itemCounter": "Eşya Sayacı",
   "nrc.ui.modules.value.itemHighlighter": "Eşya Vurgulayıcı",

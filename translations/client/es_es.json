@@ -1334,6 +1334,7 @@
   "nrc.ui.modules.value.gUIScale": "Escala de GUI",
   "nrc.ui.modules.value.glintColorizer": "Coloreador de Brillo",
   "nrc.ui.modules.value.hitColor": "Color de Hit",
+  "nrc.ui.modules.value.tintArmor": "Teñir armadura",
   "nrc.ui.modules.value.hitbox": "Hitbox",
   "nrc.ui.modules.value.itemCounter": "Contador de Objetos",
   "nrc.ui.modules.value.itemHighlighter": "Resaltador de Objetos",

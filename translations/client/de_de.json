@@ -1334,6 +1334,7 @@
   "nrc.ui.modules.value.gUIScale": "GUI-Skalierung",
   "nrc.ui.modules.value.glintColorizer": "Verzauberungs-Farbe",
   "nrc.ui.modules.value.hitColor": "Treffer-Farbe",
+  "nrc.ui.modules.value.tintArmor": "Rüstung einfärben",
   "nrc.ui.modules.value.hitbox": "Hitbox",
   "nrc.ui.modules.value.itemCounter": "Item-Zähler",
   "nrc.ui.modules.value.itemHighlighter": "Item-Highlighter",

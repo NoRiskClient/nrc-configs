@@ -1334,6 +1334,7 @@
   "nrc.ui.modules.value.gUIScale": "GUI स्केल",
   "nrc.ui.modules.value.glintColorizer": "ग्लिंट रंगाइज़र",
   "nrc.ui.modules.value.hitColor": "हिट रंग",
+  "nrc.ui.modules.value.tintArmor": "कवच रंगें",
   "nrc.ui.modules.value.hitbox": "हिटबॉक्स",
   "nrc.ui.modules.value.itemCounter": "आइटम काउंटर",
   "nrc.ui.modules.value.itemHighlighter": "आइटम हाइलाइटर",
