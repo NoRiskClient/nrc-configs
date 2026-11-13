@@ -1057,7 +1057,7 @@
   "nrc.report.voicechat.info.mute": "You have been muted in voice chat.",
   "nrc.report.voicechat.info.ban": "You have been banned from voice chat!!!",
   "nrc.ui.minigames.tooltip.move_to_adjust": "Use the middle mouse button to move.",
-  "nrc.ui.minigames.game_close_countdown": "Game closes in %s seconds",
+  "nrc.ui.minigames.game_close_countdown": "Schließt in %s Sekunden",
   "nrc.friends.wheel.action.pong": "Pong",
   "nrc.friends.wheel.action.tictactoe": "TicTacToe",
   "nrc.friends.wheel.action.tetris": "Tetris",
