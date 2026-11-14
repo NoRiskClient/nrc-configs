@@ -214,6 +214,8 @@
   "nrc.cosmetics.ui.tooltip.options": "OPTIONER",
   "nrc.cosmetics.ui.tooltip.owned": "TILHØRER",
   "nrc.cosmetics.ui.undo": "GÅR TILBAKE",
+  "nrc.cosmetics.ui.tint.original": "Original",
+  "nrc.cosmetics.ui.tint.color": "Farge",
   "nrc.cosmetics.ui.unowned_items_dialog_closed_base": "IKKE-EIDE GJENSTANDER VIL IKKE VÆRE SYNLIGE I SPILLET",
   "nrc.cosmetics.ui.unowned_items_dialog_closed_title": "GJENSTANDER SOM IKKE EIES...",
   "nrc.friends.action.remove_friend": "Fjern venn",

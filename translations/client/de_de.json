@@ -325,6 +325,8 @@
   "nrc.cosmetics.ui.tooltip.add_favorite_emote": "ZUM EMOTE-RAD HINZUFÜGEN",
   "nrc.cosmetics.ui.tooltip.remove_favorite_emote": "VOM EMOTE-RAD ENTFERNEN",
   "nrc.cosmetics.ui.undo": "RÜCKGÄNGIG",
+  "nrc.cosmetics.ui.tint.original": "Original",
+  "nrc.cosmetics.ui.tint.color": "Farbe",
   "nrc.cosmetics.ui.outfit_created": "%s wurde erstellt",
   "nrc.cosmetics.ui.toast.successful_purchase": "ERFOLGREICH GEKAUFT :)",
   "nrc.cosmetics.ui.toast.successful_gift": "ERFOLGREICH VERSCHENKT :)",

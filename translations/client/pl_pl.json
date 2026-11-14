@@ -325,6 +325,8 @@
   "nrc.cosmetics.ui.tooltip.add_favorite_emote": "Dodaj do koła Emote",
   "nrc.cosmetics.ui.tooltip.remove_favorite_emote": "Usuń z koła Emote",
   "nrc.cosmetics.ui.undo": "Cofnij",
+  "nrc.cosmetics.ui.tint.original": "Oryginał",
+  "nrc.cosmetics.ui.tint.color": "Kolor",
   "nrc.cosmetics.ui.outfit_created": "%s został utworzony",
   "nrc.cosmetics.ui.toast.successful_purchase": "Pomyślny zakup! Baw się dobrze! :)",
   "nrc.cosmetics.ui.toast.successful_gift": "Pomyślnie podarowano! :)",
