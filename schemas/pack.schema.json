@@ -79,6 +79,38 @@
     "startupHelper": {
       "$ref": "#/$defs/startupHelper",
       "description": "Startup helper configuration"
+    },
+    "jvm": {
+      "type": "array",
+      "description": "JVM flag rules. Every rule whose conditions all match adds its args to the launch. A GC flag replaces the default G1 flags unless the player set their own GC.",
+      "items": {
+        "type": "object",
+        "required": ["id", "args"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "minLength": 1, "description": "Name of the rule, shown in the launcher log and used for rollout" },
+          "when": {
+            "type": "object",
+            "additionalProperties": false,
+            "description": "All given conditions must match. Ranges are space separated terms like \">=21 <25\"",
+            "properties": {
+              "java": { "type": "string", "description": "Java major version range" },
+              "mc": { "type": "string", "description": "Minecraft version range" },
+              "loader": { "type": "array", "items": { "type": "string" } },
+              "os": { "type": "array", "items": { "enum": ["windows", "linux", "macos"] } },
+              "arch": { "type": "array", "items": { "enum": ["x86_64", "aarch64"] } },
+              "ramMb": { "type": "string", "description": "Range of the machine's total memory in MB" },
+              "heapMb": { "type": "string", "description": "Range of the profile's max memory in MB" },
+              "rollout": { "type": "integer", "minimum": 0, "maximum": 100, "description": "Percent of players, stable per player" }
+            }
+          },
+          "args": {
+            "type": "array",
+            "items": { "type": "string", "pattern": "^-(XX:[+-]?[A-Za-z0-9_]+(=[0-9]+[kKmMgG]?)?|D[A-Za-z0-9._-]+=[A-Za-z0-9._-]*)$" },
+            "description": "Only -XX: flags with numeric values and -D properties with plain values are accepted"
+          }
+        }
+      }
     }
   },
   "$defs": {
