@@ -2522,6 +2522,7 @@
   "nrc.cosmetics.player_effect.triggers_hint": "Choisis quand cet effet se joue",
   "nrc.cosmetics.player_effect.triggers_rule": "Chaque déclencheur joue un effet. Choisir un déclencheur utilisé le déplace ici.",
   "nrc.cosmetics.player_effect.taken_over": "%s repris de %s",
+  "nrc.cosmetics.player_effect.taken_over_removed": "%s repris de %s. Il n'avait plus de déclencheur et a été retiré.",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Quand tu rejoins un serveur",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Quand tu quittes un serveur",
   "nrc.cosmetics.player_effect.trigger_desc.kill": "Quand tu élimines un joueur",

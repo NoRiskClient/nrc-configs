@@ -2522,6 +2522,7 @@
   "nrc.cosmetics.player_effect.triggers_hint": "Bu efektin ne zaman oynayacağını seç",
   "nrc.cosmetics.player_effect.triggers_rule": "Her tetikleyici bir efekt oynatır. Kullanılan bir tetikleyiciyi seçmek onu buraya taşır.",
   "nrc.cosmetics.player_effect.taken_over": "%s, %s efektinden alındı",
+  "nrc.cosmetics.player_effect.taken_over_removed": "%s, %s efektinden alındı. Hiç tetikleyicisi kalmadığı için çıkarıldı.",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Bir sunucuya katıldığında",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Bir sunucudan ayrıldığında",
   "nrc.cosmetics.player_effect.trigger_desc.kill": "Bir oyuncuyu öldürdüğünde",

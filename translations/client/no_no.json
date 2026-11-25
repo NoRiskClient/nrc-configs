@@ -1669,6 +1669,7 @@
   "nrc.cosmetics.player_effect.triggers_hint": "Velg når denne effekten spilles",
   "nrc.cosmetics.player_effect.triggers_rule": "Hver utløser spiller én effekt. Velger du en som er i bruk, flyttes den hit.",
   "nrc.cosmetics.player_effect.taken_over": "Tok %s fra %s",
+  "nrc.cosmetics.player_effect.taken_over_removed": "Tok %s fra %s. Den hadde ingen utløser igjen og ble tatt av.",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Når du blir med på en server",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Når du forlater en server",
   "nrc.cosmetics.player_effect.trigger_desc.kill": "Når du dreper en spiller",

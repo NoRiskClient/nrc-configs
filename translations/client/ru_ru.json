@@ -2522,6 +2522,7 @@
   "nrc.cosmetics.player_effect.triggers_hint": "Выбери, когда играет этот эффект",
   "nrc.cosmetics.player_effect.triggers_rule": "Каждый триггер запускает один эффект. Выбор занятого триггера переносит его сюда.",
   "nrc.cosmetics.player_effect.taken_over": "%s забран у %s",
+  "nrc.cosmetics.player_effect.taken_over_removed": "%s забран у %s. У него не осталось триггеров, и он снят.",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Когда ты заходишь на сервер",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Когда ты покидаешь сервер",
   "nrc.cosmetics.player_effect.trigger_desc.kill": "Когда ты убиваешь игрока",

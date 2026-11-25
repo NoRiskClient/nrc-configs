@@ -2522,6 +2522,7 @@
   "nrc.cosmetics.player_effect.triggers_hint": "Escolha quando este efeito toca",
   "nrc.cosmetics.player_effect.triggers_rule": "Cada gatilho reproduz um efeito. Escolher um gatilho em uso o move para cá.",
   "nrc.cosmetics.player_effect.taken_over": "%s tirado de %s",
+  "nrc.cosmetics.player_effect.taken_over_removed": "%s foi tirado de %s. Ele ficou sem gatilho e foi desequipado.",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Quando você entra em um servidor",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Quando você sai de um servidor",
   "nrc.cosmetics.player_effect.trigger_desc.kill": "Quando você abate um jogador",

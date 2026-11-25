@@ -2522,6 +2522,7 @@
   "nrc.cosmetics.player_effect.triggers_hint": "Scegli quando viene riprodotto questo effetto",
   "nrc.cosmetics.player_effect.triggers_rule": "Ogni attivatore riproduce un effetto. Scegliendone uno in uso, viene spostato qui.",
   "nrc.cosmetics.player_effect.taken_over": "%s preso da %s",
+  "nrc.cosmetics.player_effect.taken_over_removed": "%s preso da %s. Non aveva più attivatori ed è stato rimosso.",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Quando entri in un server",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Quando esci da un server",
   "nrc.cosmetics.player_effect.trigger_desc.kill": "Quando uccidi un giocatore",
