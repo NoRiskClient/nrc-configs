@@ -385,7 +385,7 @@
     "mod": "forge",
     "status": "solved",
     "severity": "crash",
-    "signatures": ["ConfigLoadingException", "forge-client.toml", "ParsingException"],
+    "signatures": ["ConfigLoadingException", "forge-client.toml"],
     "actions": [],
     "texts": {
       "en": { "title": "Crash on startup — Forge settings file is broken", "summary": "Open the profile folder, go to \"config\" and delete the file \"forge-client.toml\". Forge makes a new one on the next start." },
