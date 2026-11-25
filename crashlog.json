@@ -378,5 +378,26 @@
       "ru": { "title": "Краш при загрузке мира — мод \"GEODE\" (светящиеся руды)", "summary": "Отключите мод \"GEODE\".", "actionLabels": ["Отключить GEODE"] },
       "hi": { "title": "दुनिया लोड होते समय क्रैश — मॉड \"GEODE\" (चमकते अयस्क)", "summary": "\"GEODE\" मॉड बंद करें।", "actionLabels": ["GEODE बंद करें"] }
     }
+  },
+  "forge-client-config-broken": {
+    "mc": [],
+    "loader": ["forge"],
+    "mod": "forge",
+    "status": "solved",
+    "severity": "crash",
+    "signatures": ["ConfigLoadingException", "forge-client.toml", "ParsingException"],
+    "actions": [],
+    "texts": {
+      "en": { "title": "Crash on startup — Forge settings file is broken", "summary": "Open the profile folder, go to \"config\" and delete the file \"forge-client.toml\". Forge makes a new one on the next start." },
+      "de": { "title": "Absturz beim Start — Forge-Einstellungsdatei ist kaputt", "summary": "Öffne den Profilordner, geh in „config\" und lösche die Datei „forge-client.toml\". Forge macht beim nächsten Start eine neue." },
+      "pl": { "title": "Crash przy starcie — plik ustawień Forge jest uszkodzony", "summary": "Otwórz folder profilu, wejdź do \"config\" i usuń plik \"forge-client.toml\". Forge zrobi nowy przy następnym starcie." },
+      "fr": { "title": "Crash au démarrage — le fichier de réglages de Forge est cassé", "summary": "Ouvre le dossier du profil, va dans « config » et supprime le fichier « forge-client.toml ». Forge en crée un nouveau au prochain lancement." },
+      "it": { "title": "Crash all'avvio — il file delle impostazioni di Forge è rotto", "summary": "Apri la cartella del profilo, vai in \"config\" ed elimina il file \"forge-client.toml\". Forge ne crea uno nuovo al prossimo avvio." },
+      "tr": { "title": "Başlangıçta çökme — Forge ayar dosyası bozuk", "summary": "Profil klasörünü aç, \"config\" klasörüne gir ve \"forge-client.toml\" dosyasını sil. Forge bir sonraki açılışta yenisini yapar." },
+      "pt": { "title": "Crash ao iniciar — o arquivo de configurações do Forge está quebrado", "summary": "Abra a pasta do perfil, entre em \"config\" e apague o arquivo \"forge-client.toml\". O Forge cria um novo no próximo início." },
+      "es": { "title": "Crash al iniciar — el archivo de ajustes de Forge está roto", "summary": "Abre la carpeta del perfil, entra en \"config\" y borra el archivo \"forge-client.toml\". Forge crea uno nuevo en el próximo inicio." },
+      "ru": { "title": "Краш при запуске — файл настроек Forge сломан", "summary": "Откройте папку профиля, зайдите в \"config\" и удалите файл \"forge-client.toml\". Forge создаст новый при следующем запуске." },
+      "hi": { "title": "शुरू होते ही क्रैश — Forge की सेटिंग फ़ाइल खराब है", "summary": "प्रोफ़ाइल फ़ोल्डर खोलें, \"config\" में जाएँ और \"forge-client.toml\" फ़ाइल हटाएँ। Forge अगली बार शुरू होने पर नई बना देगा।" }
+    }
   }
 }
