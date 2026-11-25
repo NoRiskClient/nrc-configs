@@ -322,7 +322,7 @@
     "mod": "walksypopchams",
     "status": "solved",
     "severity": "crash",
-    "signatures": ["Cannot sort draw with LINES", "StagedVertexBuffer", "walksypopchams"],
+    "signatures": ["Cannot sort draw with LINES", "walksypopchams"],
     "actions": ["disable_mod:totempopchams"],
     "texts": {
       "en": { "title": "Crash when a totem pops — mod \"Pop Chams\"", "summary": "Turn off the mod \"Pop Chams\".", "actionLabels": ["Disable Pop Chams"] },
@@ -343,7 +343,7 @@
     "mod": "voxy",
     "status": "solved",
     "severity": "crash",
-    "signatures": ["sodium.MixinDefaultChunkRenderer", "voxy$injectRender", "InjectionError", "DefaultChunkRenderer"],
+    "signatures": ["client.voxy.mixins.json:sodium.MixinDefaultChunkRenderer", "voxy$injectRender", "InjectionError"],
     "actions": ["disable_mod:voxy"],
     "texts": {
       "en": { "title": "Crash — mod \"voxy\" doesn't fit your Sodium", "summary": "Turn off \"voxy\", or later get a voxy version made for your Sodium.", "actionLabels": ["Disable voxy"] },
@@ -364,7 +364,7 @@
     "mod": "geo_mod",
     "status": "solved",
     "severity": "crash",
-    "signatures": ["ModelQuadFacing.ordinal()", "geo_mod", "NullPointerException"],
+    "signatures": ["ModelQuadFacing.ordinal()", "geo_mod"],
     "actions": ["disable_mod:geode"],
     "texts": {
       "en": { "title": "Crash while loading the world — mod \"GEODE\" (Glowing Ores)", "summary": "Turn off the mod \"GEODE\".", "actionLabels": ["Disable GEODE"] },
