@@ -315,5 +315,26 @@
       "ru": { "title": "Краш при запуске: YetAnotherConfigLib нужен более новый Fabric Loader", "summary": "Обновите Fabric Loader до версии 0.19.5 или новее. Старые версии содержат библиотеку Mixin, которая не может прочитать код YetAnotherConfigLib.", "message": "YetAnotherConfigLib не работает с вашей версией Fabric Loader.", "actionLabels": ["Обновить Fabric Loader до 0.19.5"] },
       "hi": { "title": "स्टार्ट पर क्रैश: YetAnotherConfigLib को नया Fabric Loader चाहिए", "summary": "Fabric Loader को 0.19.5 या नए वर्ज़न पर अपडेट करें। पुराने वर्ज़न में ऐसी Mixin लाइब्रेरी है जो YetAnotherConfigLib का कोड नहीं पढ़ पाती।", "message": "YetAnotherConfigLib आपके Fabric Loader वर्ज़न के साथ काम नहीं करता।", "actionLabels": ["Fabric Loader को 0.19.5 पर अपडेट करें"] }
     }
+  },
+  "popchams-sort-lines": {
+    "mc": [],
+    "loader": ["fabric"],
+    "mod": "walksypopchams",
+    "status": "solved",
+    "severity": "crash",
+    "signatures": ["Cannot sort draw with LINES", "StagedVertexBuffer", "walksypopchams"],
+    "actions": ["disable_mod:totempopchams"],
+    "texts": {
+      "en": { "title": "Crash when a totem pops — mod \"Pop Chams\"", "summary": "Turn off the mod \"Pop Chams\".", "actionLabels": ["Disable Pop Chams"] },
+      "de": { "title": "Absturz wenn ein Totem platzt — Mod „Pop Chams\"", "summary": "Schalte die Mod „Pop Chams\" aus.", "actionLabels": ["Pop Chams deaktivieren"] },
+      "pl": { "title": "Crash przy pęknięciu totemu — mod \"Pop Chams\"", "summary": "Wyłącz moda \"Pop Chams\".", "actionLabels": ["Wyłącz Pop Chams"] },
+      "fr": { "title": "Crash quand un totem éclate — mod « Pop Chams »", "summary": "Désactive le mod « Pop Chams ».", "actionLabels": ["Désactiver Pop Chams"] },
+      "it": { "title": "Crash quando scoppia un totem — mod \"Pop Chams\"", "summary": "Disattiva la mod \"Pop Chams\".", "actionLabels": ["Disattiva Pop Chams"] },
+      "tr": { "title": "Totem patlayınca çökme — \"Pop Chams\" modu", "summary": "\"Pop Chams\" modunu kapat.", "actionLabels": ["Pop Chams'i devre dışı bırak"] },
+      "pt": { "title": "Crash quando um totem estoura — mod \"Pop Chams\"", "summary": "Desative o mod \"Pop Chams\".", "actionLabels": ["Desativar Pop Chams"] },
+      "es": { "title": "Crash cuando explota un tótem — mod \"Pop Chams\"", "summary": "Desactiva el mod \"Pop Chams\".", "actionLabels": ["Desactivar Pop Chams"] },
+      "ru": { "title": "Краш, когда срабатывает тотем — мод \"Pop Chams\"", "summary": "Отключите мод \"Pop Chams\".", "actionLabels": ["Отключить Pop Chams"] },
+      "hi": { "title": "टोटेम फटने पर क्रैश — मॉड \"Pop Chams\"", "summary": "\"Pop Chams\" मॉड बंद करें।", "actionLabels": ["Pop Chams बंद करें"] }
+    }
   }
 }
