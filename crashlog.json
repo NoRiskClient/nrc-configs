@@ -357,5 +357,26 @@
       "ru": { "title": "Краш — мод \"voxy\" не подходит к вашему Sodium", "summary": "Отключите \"voxy\" или позже поставьте версию voxy под ваш Sodium.", "actionLabels": ["Отключить voxy"] },
       "hi": { "title": "क्रैश — मॉड \"voxy\" आपके Sodium से मेल नहीं खाता", "summary": "\"voxy\" बंद करें, या बाद में आपके Sodium के लिए बना voxy वर्ज़न लें।", "actionLabels": ["voxy बंद करें"] }
     }
+  },
+  "geode-sodium-facing-null": {
+    "mc": [],
+    "loader": ["fabric"],
+    "mod": "geo_mod",
+    "status": "solved",
+    "severity": "crash",
+    "signatures": ["ModelQuadFacing.ordinal()", "geo_mod", "NullPointerException"],
+    "actions": ["disable_mod:geode"],
+    "texts": {
+      "en": { "title": "Crash while loading the world — mod \"GEODE\" (Glowing Ores)", "summary": "Turn off the mod \"GEODE\".", "actionLabels": ["Disable GEODE"] },
+      "de": { "title": "Absturz beim Laden der Welt — Mod „GEODE\" (leuchtende Erze)", "summary": "Schalte die Mod „GEODE\" aus.", "actionLabels": ["GEODE deaktivieren"] },
+      "pl": { "title": "Crash podczas ładowania świata — mod \"GEODE\" (świecące rudy)", "summary": "Wyłącz moda \"GEODE\".", "actionLabels": ["Wyłącz GEODE"] },
+      "fr": { "title": "Crash au chargement du monde — mod « GEODE » (minerais lumineux)", "summary": "Désactive le mod « GEODE ».", "actionLabels": ["Désactiver GEODE"] },
+      "it": { "title": "Crash durante il caricamento del mondo — mod \"GEODE\" (minerali luminosi)", "summary": "Disattiva la mod \"GEODE\".", "actionLabels": ["Disattiva GEODE"] },
+      "tr": { "title": "Dünya yüklenirken çökme — \"GEODE\" modu (parlayan madenler)", "summary": "\"GEODE\" modunu kapat.", "actionLabels": ["GEODE'u devre dışı bırak"] },
+      "pt": { "title": "Crash ao carregar o mundo — mod \"GEODE\" (minérios brilhantes)", "summary": "Desative o mod \"GEODE\".", "actionLabels": ["Desativar GEODE"] },
+      "es": { "title": "Crash al cargar el mundo — mod \"GEODE\" (minerales brillantes)", "summary": "Desactiva el mod \"GEODE\".", "actionLabels": ["Desactivar GEODE"] },
+      "ru": { "title": "Краш при загрузке мира — мод \"GEODE\" (светящиеся руды)", "summary": "Отключите мод \"GEODE\".", "actionLabels": ["Отключить GEODE"] },
+      "hi": { "title": "दुनिया लोड होते समय क्रैश — मॉड \"GEODE\" (चमकते अयस्क)", "summary": "\"GEODE\" मॉड बंद करें।", "actionLabels": ["GEODE बंद करें"] }
+    }
   }
 }
