@@ -2520,6 +2520,7 @@
   "nrc.cosmetics.player_effect.none_selected": "Nenhum gatilho escolhido",
   "nrc.cosmetics.player_effect.used_by": "Usado por %s",
   "nrc.cosmetics.player_effect.triggers_hint": "Escolhe quando este efeito é reproduzido",
+  "nrc.cosmetics.player_effect.triggers_rule": "Cada gatilho reproduz um efeito. Escolher um gatilho em uso move-o para aqui.",
   "nrc.cosmetics.player_effect.taken_over": "%s retirado de %s",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Quando entras num servidor",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Quando sais de um servidor",

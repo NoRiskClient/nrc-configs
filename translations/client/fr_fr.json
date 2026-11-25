@@ -2520,6 +2520,7 @@
   "nrc.cosmetics.player_effect.none_selected": "Aucun déclencheur choisi",
   "nrc.cosmetics.player_effect.used_by": "Utilisé par %s",
   "nrc.cosmetics.player_effect.triggers_hint": "Choisis quand cet effet se joue",
+  "nrc.cosmetics.player_effect.triggers_rule": "Chaque déclencheur joue un effet. Choisir un déclencheur utilisé le déplace ici.",
   "nrc.cosmetics.player_effect.taken_over": "%s repris de %s",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Quand tu rejoins un serveur",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Quand tu quittes un serveur",

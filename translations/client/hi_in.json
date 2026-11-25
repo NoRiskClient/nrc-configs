@@ -2520,6 +2520,7 @@
   "nrc.cosmetics.player_effect.none_selected": "कोई ट्रिगर नहीं चुना",
   "nrc.cosmetics.player_effect.used_by": "%s द्वारा उपयोग में",
   "nrc.cosmetics.player_effect.triggers_hint": "चुनें कि यह इफ़ेक्ट कब चले",
+  "nrc.cosmetics.player_effect.triggers_rule": "हर ट्रिगर एक इफ़ेक्ट चलाता है। इस्तेमाल हो रहा ट्रिगर चुनने पर वह यहाँ आ जाता है।",
   "nrc.cosmetics.player_effect.taken_over": "%s को %s से लिया गया",
   "nrc.cosmetics.player_effect.trigger_desc.join": "जब आप सर्वर से जुड़ते हैं",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "जब आप सर्वर छोड़ते हैं",

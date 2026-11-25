@@ -2520,6 +2520,7 @@
   "nrc.cosmetics.player_effect.none_selected": "Tetikleyici seçilmedi",
   "nrc.cosmetics.player_effect.used_by": "%s tarafından kullanılıyor",
   "nrc.cosmetics.player_effect.triggers_hint": "Bu efektin ne zaman oynayacağını seç",
+  "nrc.cosmetics.player_effect.triggers_rule": "Her tetikleyici bir efekt oynatır. Kullanılan bir tetikleyiciyi seçmek onu buraya taşır.",
   "nrc.cosmetics.player_effect.taken_over": "%s, %s efektinden alındı",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Bir sunucuya katıldığında",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Bir sunucudan ayrıldığında",

@@ -2522,6 +2522,7 @@
   "nrc.cosmetics.player_effect.none_selected": "Keine Auslöser gewählt",
   "nrc.cosmetics.player_effect.used_by": "Belegt von %s",
   "nrc.cosmetics.player_effect.triggers_hint": "Wähle, wann dieser Effekt spielt",
+  "nrc.cosmetics.player_effect.triggers_rule": "Jeder Auslöser spielt einen Effekt. Wählst du einen belegten, wird er hierher verschoben.",
   "nrc.cosmetics.player_effect.taken_over": "%s von %s übernommen",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Wenn du einen Server betrittst",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Wenn du einen Server verlässt",

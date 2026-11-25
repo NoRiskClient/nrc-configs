@@ -2520,6 +2520,7 @@
   "nrc.cosmetics.player_effect.none_selected": "Триггеры не выбраны",
   "nrc.cosmetics.player_effect.used_by": "Используется: %s",
   "nrc.cosmetics.player_effect.triggers_hint": "Выбери, когда играет этот эффект",
+  "nrc.cosmetics.player_effect.triggers_rule": "Каждый триггер запускает один эффект. Выбор занятого триггера переносит его сюда.",
   "nrc.cosmetics.player_effect.taken_over": "%s забран у %s",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Когда ты заходишь на сервер",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Когда ты покидаешь сервер",

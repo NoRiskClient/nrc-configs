@@ -2520,6 +2520,7 @@
   "nrc.cosmetics.player_effect.none_selected": "Nie wybrano wyzwalaczy",
   "nrc.cosmetics.player_effect.used_by": "Używane przez %s",
   "nrc.cosmetics.player_effect.triggers_hint": "Wybierz, kiedy ten efekt ma się odtworzyć",
+  "nrc.cosmetics.player_effect.triggers_rule": "Każdy wyzwalacz odtwarza jeden efekt. Wybranie zajętego przeniesie go tutaj.",
   "nrc.cosmetics.player_effect.taken_over": "Przejęto %s od %s",
   "nrc.cosmetics.player_effect.trigger_desc.join": "Gdy dołączasz do serwera",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "Gdy opuszczasz serwer",

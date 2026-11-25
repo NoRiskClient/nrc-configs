@@ -2522,6 +2522,7 @@
   "nrc.cosmetics.player_effect.none_selected": "No triggers selected",
   "nrc.cosmetics.player_effect.used_by": "Used by %s",
   "nrc.cosmetics.player_effect.triggers_hint": "Choose when this effect plays",
+  "nrc.cosmetics.player_effect.triggers_rule": "Each trigger plays one effect. Picking a used trigger moves it here.",
   "nrc.cosmetics.player_effect.taken_over": "Took %s from %s",
   "nrc.cosmetics.player_effect.trigger_desc.join": "When you join a server",
   "nrc.cosmetics.player_effect.trigger_desc.quit": "When you leave a server",
