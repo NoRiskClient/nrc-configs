@@ -336,5 +336,26 @@
       "ru": { "title": "Краш, когда срабатывает тотем — мод \"Pop Chams\"", "summary": "Отключите мод \"Pop Chams\".", "actionLabels": ["Отключить Pop Chams"] },
       "hi": { "title": "टोटेम फटने पर क्रैश — मॉड \"Pop Chams\"", "summary": "\"Pop Chams\" मॉड बंद करें।", "actionLabels": ["Pop Chams बंद करें"] }
     }
+  },
+  "voxy-sodium-chunkrenderer": {
+    "mc": [],
+    "loader": ["fabric"],
+    "mod": "voxy",
+    "status": "solved",
+    "severity": "crash",
+    "signatures": ["sodium.MixinDefaultChunkRenderer", "voxy$injectRender", "InjectionError", "DefaultChunkRenderer"],
+    "actions": ["disable_mod:voxy"],
+    "texts": {
+      "en": { "title": "Crash — mod \"voxy\" doesn't fit your Sodium", "summary": "Turn off \"voxy\", or later get a voxy version made for your Sodium.", "actionLabels": ["Disable voxy"] },
+      "de": { "title": "Absturz — Mod „voxy\" passt nicht zu deinem Sodium", "summary": "Schalte „voxy\" aus, oder hol dir später eine voxy-Version, die zu deinem Sodium passt.", "actionLabels": ["voxy deaktivieren"] },
+      "pl": { "title": "Crash — mod \"voxy\" nie pasuje do twojego Sodium", "summary": "Wyłącz \"voxy\" albo później pobierz wersję voxy pasującą do twojego Sodium.", "actionLabels": ["Wyłącz voxy"] },
+      "fr": { "title": "Crash — le mod « voxy » ne va pas avec ton Sodium", "summary": "Désactive « voxy », ou prends plus tard une version de voxy faite pour ton Sodium.", "actionLabels": ["Désactiver voxy"] },
+      "it": { "title": "Crash — la mod \"voxy\" non va con il tuo Sodium", "summary": "Disattiva \"voxy\", oppure più tardi prendi una versione di voxy adatta al tuo Sodium.", "actionLabels": ["Disattiva voxy"] },
+      "tr": { "title": "Çökme — \"voxy\" modu Sodium'una uymuyor", "summary": "\"voxy\"yi kapat ya da daha sonra Sodium'una uyan bir voxy sürümü al.", "actionLabels": ["voxy'yi devre dışı bırak"] },
+      "pt": { "title": "Crash — o mod \"voxy\" não combina com seu Sodium", "summary": "Desative o \"voxy\" ou depois pegue uma versão do voxy feita para o seu Sodium.", "actionLabels": ["Desativar voxy"] },
+      "es": { "title": "Crash — el mod \"voxy\" no encaja con tu Sodium", "summary": "Desactiva \"voxy\" o más tarde consigue una versión de voxy hecha para tu Sodium.", "actionLabels": ["Desactivar voxy"] },
+      "ru": { "title": "Краш — мод \"voxy\" не подходит к вашему Sodium", "summary": "Отключите \"voxy\" или позже поставьте версию voxy под ваш Sodium.", "actionLabels": ["Отключить voxy"] },
+      "hi": { "title": "क्रैश — मॉड \"voxy\" आपके Sodium से मेल नहीं खाता", "summary": "\"voxy\" बंद करें, या बाद में आपके Sodium के लिए बना voxy वर्ज़न लें।", "actionLabels": ["voxy बंद करें"] }
+    }
   }
 }
