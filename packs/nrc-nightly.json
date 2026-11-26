@@ -5810,5 +5810,31 @@
         "category": "testing",
         "weight": 20,
         "hidden": false
-    }
+    },
+    "jvm": [
+        {
+            "id": "zgc-java21",
+            "when": {
+                "java": ">=21 <25",
+                "heapMb": ">=3072"
+            },
+            "args": [
+                "-XX:+UseZGC",
+                "-XX:+ZGenerational",
+                "-XX:+UseStringDeduplication"
+            ]
+        },
+        {
+            "id": "zgc-java25",
+            "when": {
+                "java": ">=25",
+                "heapMb": ">=3072"
+            },
+            "args": [
+                "-XX:+UseZGC",
+                "-XX:+UseCompactObjectHeaders",
+                "-XX:+UseStringDeduplication"
+            ]
+        }
+    ]
 }
