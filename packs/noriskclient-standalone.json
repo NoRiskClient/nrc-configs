@@ -284,7 +284,7 @@
                 },
                 "26.1.2": {
                     "fabric": {
-                        "identifier": "26.4.4979414-dev-nrc-mini+fabric.26.1.2",
+                        "identifier": "26.4.4984069-dev-nrc-mini+fabric.26.1.2",
                         "filename": null,
                         "source": null
                     },
@@ -301,7 +301,7 @@
                 },
                 "26.2": {
                     "fabric": {
-                        "identifier": "26.4.4979414-dev-nrc-mini+fabric.26.2",
+                        "identifier": "26.4.4984069-dev-nrc-mini+fabric.26.2",
                         "filename": null,
                         "source": null
                     },
@@ -318,7 +318,7 @@
                 },
                 "26.3": {
                     "fabric": {
-                        "identifier": "26.4.4979414-dev-nrc-mini+fabric.26.3",
+                        "identifier": "26.4.4984069-dev-nrc-mini+fabric.26.3",
                         "filename": null,
                         "source": null
                     }
