@@ -325,6 +325,8 @@
   "nrc.cosmetics.ui.tooltip.add_favorite_emote": "Emote çarkına ekle",
   "nrc.cosmetics.ui.tooltip.remove_favorite_emote": "Emote çarkından kaldır",
   "nrc.cosmetics.ui.undo": "Geri Al",
+  "nrc.cosmetics.ui.tint.original": "Orijinal",
+  "nrc.cosmetics.ui.tint.color": "Renk",
   "nrc.cosmetics.ui.outfit_created": "%s oluşturuldu",
   "nrc.cosmetics.ui.toast.successful_purchase": "Satın alma başarılı! İyi eğlenceler! :)",
   "nrc.cosmetics.ui.toast.successful_gift": "Hediye başarıyla gönderildi! :)",

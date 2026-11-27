@@ -325,6 +325,8 @@
   "nrc.cosmetics.ui.tooltip.add_favorite_emote": "Emote व्हील में जोड़ें",
   "nrc.cosmetics.ui.tooltip.remove_favorite_emote": "Emote व्हील से हटाएं",
   "nrc.cosmetics.ui.undo": "पूर्ववत करें",
+  "nrc.cosmetics.ui.tint.original": "मूल",
+  "nrc.cosmetics.ui.tint.color": "रंग",
   "nrc.cosmetics.ui.outfit_created": "%s बनाया गया",
   "nrc.cosmetics.ui.toast.successful_purchase": "खरीद सफल! आनंद लें! :)",
   "nrc.cosmetics.ui.toast.successful_gift": "उपहार सफलतापूर्वक भेजा गया! :)",

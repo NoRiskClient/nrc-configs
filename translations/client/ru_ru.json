@@ -325,6 +325,8 @@
   "nrc.cosmetics.ui.tooltip.add_favorite_emote": "Добавить в колесо Эмоций",
   "nrc.cosmetics.ui.tooltip.remove_favorite_emote": "Удалить из колеса Эмоций",
   "nrc.cosmetics.ui.undo": "Отменить",
+  "nrc.cosmetics.ui.tint.original": "Оригинал",
+  "nrc.cosmetics.ui.tint.color": "Цвет",
   "nrc.cosmetics.ui.outfit_created": "%s был создан",
   "nrc.cosmetics.ui.toast.successful_purchase": "Успешная покупка! Приятной игры! :)",
   "nrc.cosmetics.ui.toast.successful_gift": "Подарок успешно отправлен! :)",
